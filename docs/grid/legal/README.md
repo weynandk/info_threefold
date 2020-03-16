@@ -1,0 +1,3 @@
+# Legal
+
+Content coming soon!

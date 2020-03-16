@@ -1,0 +1,12 @@
+
+[[verification]]
+ignore = "chat.grid.tf"
+
+[[verification]]
+error = "/ipfs"
+
+[[verification]]
+ignore = "docs.grid.tf/threefold/data_team"
+
+[[verification]]
+ignore = "www.linkedin.com"
