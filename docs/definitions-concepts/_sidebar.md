@@ -1,5 +1,5 @@
 * [Home](/)
-* [Definitions](/foundation/definitions/README.md)
+* [Definitions & Concepts](/foundation/definitions/README.md)
     * [3Bot](/foundation/definitions/3Bot.md)
     * [Farmer ID](/foundation/definitions/farmer_id.md)
     * [IC - Internet Capacity](/foundation/definitions/ic-internet-capacity.md)
