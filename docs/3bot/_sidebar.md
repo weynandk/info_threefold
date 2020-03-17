@@ -1,5 +1,5 @@
 * [Home](/)
-* [About 3Bot](/about/README.md)
-* [3Bot Features](/features/README.md)
-* [3Bot Technology](/technology/README.md)
+* [About 3Bot](/3bot/about/README.md)
+* [3Bot Features](/3bot/features/README.md)
+* [3Bot Technology](/3bot/technology/README.md)
   

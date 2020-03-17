@@ -9,3 +9,15 @@ YOUR DIGITAL AVATAR. YOUR DIGITAL SELF.
 Designed with you in mind, making your day-to-day simpler, while expanding your horizons by integrating all the applications you need in one single space, your 3Bot is your single access to your digital world.
 
 All information stored on the ThreeFold Network is completely decentralized, therefore your 3Bot will distribute and secure your data across the grid in TF nodes, making it hack-free, even by us. 
+
+## What Is 3Bot Connect?
+
+
+Needs 3Bot Connect Copy
+
+### Where to download the 3Bot Connect App.
+
+
+[Android](https://play.google.com/store/apps/details?id=org.jimber.threebotlogin)
+
+[iPhone](https://itunes.apple.com/us/app/3bot-login/id1459845885?mt=8)

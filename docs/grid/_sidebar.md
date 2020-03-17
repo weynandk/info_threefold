@@ -1,18 +1,14 @@
 * How to participate?
-  * [Farming](/tf_farming/README.md)
-  * [Developing](/tf_farming/Developing.md)
-  * [Consuming](/tf_farming/Consuming.md)  
+  * [Farming](/grid/tf_farming/README.md)
+  * [Developing](/grid/tf_farming/Developing.md)
+  * [Consuming](/grid/tf_farming/Consuming.md)  
 
 * Where to get more information
 
-  * [Websites and Repositories](/external_information/web_and_wiki.md)
-  * [Presentations](/external_information/presentations.md)
-  * [Videos](/external_information/videos.md)
-  * [Frequently Asked Questions](/faq/README.md)
+  * [Websites and Repositories](/grid/external_information/web_and_wiki.md)
+  * [Presentations](/grid/external_information/presentations.md)
+  * [Videos](/grid/external_information/videos.md)
+  * [Frequently Asked Questions](/grid/faq/README.md)
 
 * Support
-  * [Enter a support ticket](/support/README.md)
-
-* Definitions and Concepts
-  * [Definitions](/definitions/README.md)
-  * [Concepts](/concepts/README.md)
+  * [Enter a support ticket](/grid/support/README.md)

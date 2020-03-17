@@ -6,19 +6,19 @@ We are working on the first version of the 3Bot ADApps - autonomous decentralize
 
 Your 3Bot will have its own 3Bot-to-3Bot mail service. Totally decentralized and automated, it provides you with a secure and private email which maintains the convenience while eliminating the intermediaries. 
 
-![image alt text](../img/3bot-mail.png)
+![image alt text](../3bot/img/3bot-mail.png)
 
 ### Contacts: 
 
 Your personal contact list, that integrates and synchronizes across all your Adapps. 
 
-![image alt text](../img/3bot-contacts.png)
+![image alt text](../3bot/img/3bot-contacts.png)
 
 ### Calendar:
 
 Your standard private calendar, enabling you to plan your daily schedules. Integrate it with your other Adapps and make the most out of your time. 
 
-![image alt text](../img/3bot-calendar.jpg)
+![image alt text](../3bot/img/3bot-calendar.jpg)
 
 ### Wallet:
 
@@ -30,16 +30,16 @@ Your 3Bot wallet will be your private and safe access to your digital assets, wh
 
 Your private browser without limits. Explore unlimited information without third parties being able to trace your digital footprints. 
 
-![image alt text](../img/3bot-browser.png)
+![image alt text](../3bot/img/3bot-browser.png)
 
 ### FF Connect 
 
 Peer to peer and group video conferencing directly from your browser. A totally private and decentralized way to connect with your designated circles. 
 
-![image alt text](../img/3bot-freeflowconnect.jpg)
+![image alt text](../3bot/img/3bot-freeflowconnect.jpg)
 
 ### Docs 
 
 Where all your docs are stored. One place where all your documents, slides and sheets belong to you. Here you can create, edit, save your docs in a totally decentralized and private way. 
 
-![image alt text](../img/3bot-docs.jpg)
+![image alt text](../3bot/img/3bot-docs.jpg)

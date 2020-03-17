@@ -13,8 +13,3 @@ Web and wiki resources are plentiful. Here you will find some pointers to where 
 - [ThreeFold foundation organisation on GitHub](https://github.com/threefoldfoundation)
 - [ThreeFold tech organisation on GitHub](https://github.com/threefoldtech)
 
-
-### Wiki
-
-- [ThreeFold Foundation wiki](https://wiki.foundation.grid.tf/#/)
-- [ThreeFold Tech wiki]()
