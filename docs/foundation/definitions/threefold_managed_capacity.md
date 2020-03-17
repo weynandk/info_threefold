@@ -1,1 +1,0 @@
-# Threefold Managed Capacity

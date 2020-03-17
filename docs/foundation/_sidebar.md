@@ -1,5 +1,4 @@
 * [Home](/)
-* [Definitions](/definitions/README.md)
 * [Web Resources](/web_resources/README.md)
 * [Projects and Partnerships](/projects/README.md)
 * [Presentations](/presentations/README.md)
