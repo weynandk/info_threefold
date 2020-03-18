@@ -1,2 +1,2 @@
 * [Home](/)
-* [Team](/team/README.md)
+* [Team](foundation/team/README.md)

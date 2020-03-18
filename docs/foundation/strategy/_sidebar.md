@@ -1,3 +1,3 @@
 * [Home](/)
-* [Strategy](/strategy/README.md)
-    * [Roadmap](/strategy/roadmap.md)
+* [Strategy](/foundation/strategy/README.md)
+    * [Roadmap](/foundation/strategy/roadmap.md)
