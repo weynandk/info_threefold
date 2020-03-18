@@ -3,7 +3,7 @@
 * [Why buy ThreeFold Tokens?](token/tft/why_buy_tft.md)
 * [How to buy ThreeFold Tokens](token/tft/how_to_buy/README.md)
 * [TLE FAQ](token/tle/tle-faq.md)
-* [Wallets and Apps](/apps_wallets/README.md)
+* [Wallets and Apps](token/apps_wallets/README.md)
 * [Value of the Token](token/tft/token_issuance_economy.md)
 * [Token Properties](token/tft/token_properties.md)
 * [Technology](token/technology/README.md)
