@@ -1,4 +1,4 @@
-## ThreeFold Node
+## ThreeFold Node / 3Node
 
 A compute/storage server which provides Internet Capacity as source for the Cloud Units
  - a TF Node is part of a Farming Pool

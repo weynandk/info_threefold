@@ -1,6 +1,5 @@
 * [Home](/)
 * [Frequently Asked Questions](/token/faq/README.md)
-    * [ThreeFold Tokens Value](/token/faq/current_value.md)
     * [Capacity Dependency](/token/faq/capacity_dependency.md)
     * [Value Increase](/token/faq/increase_of_value.md)
     * [Pricing Conflicts](/token/faq/pricing_conflicts.md)

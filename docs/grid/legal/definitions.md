@@ -62,8 +62,8 @@ The ThreeFold Operating system is the software which makes it possible to conver
 
 Based on
 
-- [Zero-OS](https://github.com/zero-os) = Ultra Efficient Stateless Operating System
-- [Jumpscale](https://github.com/Jumpscale/) = Automation Framework (self healing, ...)
+- [Zero-OS](https://github.com/threefoldtech/zos/tree/master/docs) = Ultra Efficient Stateless Operating System
+- [Jumpscale](https://github.com/threefoldtech/jumpscaleX_core/tree/development/docs) = Automation Framework (self healing, ...)
 
 ## TF Node
 
@@ -81,7 +81,7 @@ Based on
 ## Cloud Units
 
 Units of IT capacity as sold from the TF Grid to Users.
-More info see [here](https://docs.grid.tf/threefold/info/src/branch/master/concepts/cloud_units.md)
+More info see [here](https://github.com/threefoldfoundation/info_grid/blob/development/docs/concepts/cloud_units.md)
 
 
 # ThreeFold Farming
@@ -90,7 +90,7 @@ More info see [here](https://docs.grid.tf/threefold/info/src/branch/master/conce
 
 A Pool of storage & compute hardware which allows to provision IT Capacity.
 
-Each Farming Pool consists out of TF Nodes which run the TF Operating System and TF Blockchain Software (TF Chain) which allows anyone in the world to use this IT capacity to host their IT workloads (storage apps, archive capacity, web applications, artificial intelligence, iOT, docker containers, etc). To use this IT Capacity, through the TF Grid, people need to own ThreeFold Tokens (“TFTs”) as they are the only possible mechanism to purchase this capacity on the TF Grid. As such, TFTs represent a true utility.
+Each Farming Pool consists out of TF Nodes which run the TF Operating System and TF Blockchain Software (TF Chain) which allows anyone in the world to use this IT capacity to host their IT workloads (storage apps, archive capacity, web applications, artificial intelligence, IOT, Docker containers, etc). To use this IT Capacity, through the TF Grid, people need to own ThreeFold Tokens (“TFTs”) as they are the only possible mechanism to purchase this capacity on the TF Grid. As such, TFTs represent a true utility.
 
 
 ## ThreeFold Farmer
@@ -135,46 +135,21 @@ A Cooperative can supply any or all of following services.
     - all services related to connectivity to the internet (routing, denial of service, firewalling, ...)
     - rackspace & other datacenter services
     - monitoring of the infrastructure (hardware and software).
-- For Managed Capacity a Cooperative or TF Farmer will have to make an agreement with GIG.Tech to get the required software required to create a Managed Capacity Farming Pool (see below).
 
-## Unmanaged Capacity
 
-Unmanaged IT Capacity can exist everywhere; in people’s home, in mobile telephone masts, in utility cabinets, next to railways or motorways, anywhere where internet lines meet electrical outlets, any IT Hosting or Datacenter Facility. This capacity is deployed to the TF Grid and has no people involved to manage its operations (apart from the physical and network aspects).  Farmers have no access to the TF Nodes purchased. They can only use the capacity produced in the exact same way as any other user, i.e. through the TF Chain, in a secure private and neutral way, equally applicable to all.
+## DIY Capacity
+
+DIY IT Capacity can exist everywhere; in people’s home, in mobile telephone masts, in utility cabinets, next to railways or motorways, anywhere where internet lines meet electrical outlets, any IT Hosting or Datacenter Facility. This capacity is deployed to the TF Grid and has no people involved to manage its operations (apart from the physical and network aspects).  Farmers have no access to the TF Nodes purchased. They can only use the capacity produced in the exact same way as any other user, i.e. through the TF Chain, in a secure private and neutral way, equally applicable to all.
 
 Unmanaged capacity provides the following 3 basic services
 
 - Storage Capacity = backend storage services which can be used as backend for more high level storage services like S3
 - Compute Capacity = backend compute capacity which can be used as backend for more high level compute services like Kubernetes.
-- Network Gateway Services: integration with ZeroTier network, HTTP(s) reverse proxy, DNS services, TCP Portforwarding.
+- Network Gateway Services: integration with Zero Network network, HTTP(s) reverse proxy, DNS services, TCP Portforwarding.
 
 These basic services are ordered through the TF Chain only.
 SLA's (service level agreements) cannot be be guaranteed on Unmanaged Capacity and as such not registered in the TF Chain.
 
-## Managed Capacity
-
-Managed capacity is capacity that sits in a datacenter or other controlled environment where people operate and maintain supervision of the capacity connected to the TF Grid and published in the TF Directory. SLA (Service Level Agreements) are provided on this capacity like uptime, guaranteed bandwidth, response times, ...
-
-TF Farmers have access to the TF Nodes and to the GIG Tech Management Software around it.
-
-Features Only Available In A Managed Capacity Farming Pool
-
-- Published & Tracked (monitored) Service Level Agreements
-
-GIG Tech software provides additional capabilities for a Managed Farming Pool:
-
-- Monitoring & uptime management software.
-- OpenvCloud Portal (full blown software stack to allow management of thousands of nodes and VM's).
-- Virtual Machine support.
-- High Performance Storage (block) for virtual disks for VM's.
-- High Performance Networking support for VM's.
-- Seamless integration with enterprise networking solutions for VM's..
-- Integration with private Identity Management Solutions (e.g. LDAP, Active Directory, ...) (\*)
-- Lots of predefined managed application templates (self healing templates for apps)
-- Supports MS Windows (OS) and other Microsoft Applications
-
-*(\*) roadmap*
-
-A TF Farmer or TF Cooperative needs to have an agreement with GIG Tech in place. GIG Tech will supply the required software to allow the TF Farmer or TF Cooperative to connect this Managed Capacity to the TF Grid.
 
 # Legal
 
@@ -211,40 +186,6 @@ The TF Wallet works together with the TF Chain.
 
 # ThreeFold Farming
 
-# ThreeFold Resource Pools
-
-![https://docs.google.com/drawings/d/1K1LuYRkD12QwIoZ-AduV-X_RxT1J5nUVt3D5vmerUUk/edit](https://docs.google.com/drawings/d/e/2PACX-1vT-dPplNVaQ1-3oWxrjvVsOjoDrdDZrb2t05BQ0WpFU02PucD_TC4cX5-lcdfxzodDJwwcjPgjYGyyP/pub?w=1440&h=810)
-
-## Resource Pool (RP)
-
-Is available capacity in a ThreeFold Farming Pool.
-There are typically more than 1 Resource Pool in a Farming Pool and Resource Pools can span multiple Farming Pools.
-
-A Resource Pool is linked to a User, a User is paying tokens for using the IT Capacity.
-A Farming Pool is linked to a Farmer, the Farmer receives tokens for providing the IT Capacity.
-
 ## Resource Units (RU)
 
-Units of IT capacity as used in a RP, starting from hardware level. More info see [here]
-!!!include("concepts.resource_units").
-
-
-
-## Resource Bundle (always per TF Node) (Bundle)
-
-- is x number of resource units bundled
-- a Resource Bundle is always per TF Node
-- e.g. resource bundel type A = 1 cpu unit + 2 mem unit + 3 hd unit + 1 ssd unit
-- the resource bundles are defined by the Farmers, its basically a unit of capacity sold. Users cannot buy individual Resource Units, Users buy Resource Bundles by transfering TFT.
-
-## Resource Reservation (Reservation)
-
-- a reservation for X nr of Resource Bundles
-- a reservation is the contract between the User and the Farmer
-- has a starting date / end date
-- has a price linked to it
-- a Resource Pool is made up out of X nr of Resource Bundles.
-
-## TF Robots
-
-- There are 3 types of ThreeFold Robots see [link to be added]
+Units of IT capacity as used in a RP, starting from hardware level. More info see [here](https://github.com/threefoldfoundation/info_grid/blob/development/docs/concepts/resource_units.md).

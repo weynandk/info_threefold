@@ -1,2 +1,2 @@
 * [Home](/)
-* [Testnet](/grid/testnet/README.md)
+* [Testnet](testnet/README.md)

@@ -1,3 +1,3 @@
 * [Home](/)
-* [Legal](/grid/legal/README.md)
+* [Legal](legal/README.md)
 

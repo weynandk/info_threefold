@@ -53,9 +53,7 @@ farm.wallet_addresses = ['.....']
 # email address where farming result and any information for farmer will be sent.
 farm.email = 'myname@gmail.com'
 # actually register the farm on the grid
-response = explorer.actors_all.farms.register(farm)
-# print your farmer ID
-print(response.farm_id)
+explorer.actors_all.farms.register(farm)
 ```
 
 If the last function succeeded, your farm is now created.

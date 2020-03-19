@@ -2,7 +2,7 @@
 ![](img/3bot.png)
 
 
-# [3Bot Connect App](https://3bot.org/)
+# 3Bot Connect App
 
 ## Introduction
 
