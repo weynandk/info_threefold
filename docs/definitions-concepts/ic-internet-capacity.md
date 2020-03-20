@@ -1,13 +1,15 @@
 ## IC = Internet Capacity
 
-IC = Internet Capacity, everything which drives our digital life. In an enterprise it's called IT systems (Information Technology)
+IC = Internet Capacity, everything which drives our digital life. In an enterprise it's called IT (Information Technology) systems.
 
-Internet Capacity is resource availability for running any IT workload
+Internet Capacity is resource availability for running any IT workload:
+
   - Storage
   - Compute 
   - Networking
 
-Examples of IT workloads which can run on the ThreeFold Grid are
+Examples of IT workloads which can run on the ThreeFold Grid are:
+
    - web applications
    - archiving of data
    - generic storage (e.g. using the S3 storage interface)

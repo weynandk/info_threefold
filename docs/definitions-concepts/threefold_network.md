@@ -1,3 +1,3 @@
 **ThreeFold Network**
 
-The ThreeFold Network is the **Autonomous Internet – a decentralized, self-driving, & self-healing Internet** build by many, and made for you. The Threefold Network is an ecosystem composed of three main elements – ThreeFold Grid, ThreeFold Token, & 3Bot – working together to form a truly decentralized marketplace for storage, compute, and applications.
+The ThreeFold Network is an Internet that empowers equality, freedom, and sustainability. It is created by three layers of technology – the capacity layer, the autonomous layer, and the experience layer (further defined in this section).

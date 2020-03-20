@@ -13,7 +13,7 @@
     * [ThreeFold Cooperative](/definitions-concepts/threefold_cooperative.md)
     * [ThreeFold Farmer](/definitions-concepts/threefold_farmer.md)
     * [ThreeFold Farming Pool](/definitions-concepts/threefold_farming_pool.md)
-    * [ThreeFold definitions-conceptsns_concepts/threefold_definitions-conceptsThreeFold Grid](/definitions-concepts/threefold_grid.md)
+    * [ThreeFold Grid](/definitions-concepts/threefold_grid.md)
     * [ThreeFold Network](/definitions-concepts/threefold_network.md)
     * [ThreeFold Node](/definitions-concepts/threefold_node.md)
     * [ThreeFold Operating System](/definitions-concepts/threefold_operating_system.md)
