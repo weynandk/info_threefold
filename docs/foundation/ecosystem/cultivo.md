@@ -1,4 +1,4 @@
-![cultivo logo](/img/cultivo-logo.jpg)
+![cultivo logo](/ecosystem/img/cultivo-logo.jpg)
 
 # Cultivo
 
@@ -24,6 +24,6 @@ To achieve its mission and objectives, Cultivo:
 - Provides a digital platform that enables farmers to tokenize land and products.
 - Provides direct markets for agricultural products produced by local farmers.
 
-Websites: https://cultivo.earth  / http://www.biolleyfarms.com/
-
-FreeFlowPages: https://freeflowpages.com/s/cultivo/ 
+[Cultivo Website](https://cultivo.earth) 
+[Biolley Farm Website](http://www.biolleyfarms.com/)
+[Cultivo on FreeFlowPages](https://freeflowpages.com/s/cultivo/ )

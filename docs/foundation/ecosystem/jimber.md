@@ -1,8 +1,14 @@
-![jimber logo](/img/jimber-logo.jpg)
+![jimber logo](/ecosystem/img/jimber-logo.jpg)
 
 
 # Jimber
 
-Enterprise security solution provider. Using our grid for enterprise security gateway solutions. One of the products - secure browser: https://browser.threefold.io
+Enterprise security solution provider. Using our grid for enterprise security gateway solutions.
 
-Website: https://jimber.org
+Some of the projects that Jimber is involved in:
+
+3Bot 
+3Bot Connect App
+Decentralized Videoconferencing
+
+[Jimber.org](https://jimber.org)

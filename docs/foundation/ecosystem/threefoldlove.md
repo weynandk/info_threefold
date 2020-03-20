@@ -1,4 +1,4 @@
-![threefoldlove logo](/img/threefoldlove-logo.jpg)
+![threefoldlove logo](/ecosystem/img/threefoldlove-logo.jpg)
 
 
 # ThreeFold Love
@@ -17,5 +17,5 @@ ThreeFold Love is a people-centered movement behind the technology, working on t
 
 Purchase TF Love branded fair trade merchandise and TF Love swag (stickers, pins, t-shirts, caps etc.) that directly support the causes we partner with. [ TFTs Accepted :) ]
 
-Website: [threefold.love](https://threefold.love/)
-FreeFlowPages: https://freeflowpages.com/s/tflove/
+[threefold.love](https://threefold.love/)
+[ThreeFold Love on FreeFlowPages](https://freeflowpages.com/s/tflove/)

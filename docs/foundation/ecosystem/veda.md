@@ -1,4 +1,4 @@
-![veda logo](/img/veda-logo.jpg)
+![veda logo](/ecosystem/img/veda-logo.jpg)
 
 
 # Veda Retreats
@@ -23,4 +23,5 @@ Also, Veda is planning to launch a charity-purpose Education Token
     - Will give possibility for people to fund the learning programs.
     - Each student gets X tokens as a reward which can only use for education. 
 
-FreeFlowPages: https://freeflowpages.com/s/veda/ 
+[Veda-Egypt.com](https://www.veda-egypt.com)
+[Veda on FreeFlowPages](https://freeflowpages.com/s/veda/)

@@ -1,4 +1,4 @@
-![hpe logo](/img/hpe-logo.jpg)
+![hpe logo](/ecosystem/img/hpe-logo.jpg)
 
 
 # Hewlett Packard Enterprise

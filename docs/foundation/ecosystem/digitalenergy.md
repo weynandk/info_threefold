@@ -1,4 +1,4 @@
-![digitalenergy logo](/img/digitalenergy-logo.jpg)
+![digitalenergy logo](/ecosystem/img/digitalenergy-logo.jpg)
 
 # Digital Energy
 

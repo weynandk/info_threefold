@@ -6,4 +6,4 @@ FreeFlow Nation is a complementary digital nation which flows freely across phys
 
 We aim to empower +1 Billion people with sustainable access to complementary education, internet, and currencies (banking) for less than $1 per month.
 
-Learn more [here](https://freeflownation.org).
+[FreeFlowNation Website](https://freeflownation.org).

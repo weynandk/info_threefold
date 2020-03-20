@@ -1,7 +1,7 @@
-![threefoldtech logo](/img/threefoldtech-logo.jpg)
+![threefoldtech logo](/ecosystem/img/threefoldtech-logo.jpg)
 
 
-# ThreeFold Tech
+# ThreeFold Tech NV
 
 A technology software company in Belgium.
 - Company developing & promoting software for self-healing cloud & blockchain workloads.

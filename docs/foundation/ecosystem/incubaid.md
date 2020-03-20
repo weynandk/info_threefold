@@ -1,11 +1,11 @@
-![incubaid logo](/img/incubaid-logo.jpg)
+![incubaid logo](/ecosystem/img/incubaid-logo.jpg)
 
 
 # Incubaid
+ 
+Disrupting through Decentralization 
+Incubaid is an incubator focused primarily on helping to change our planet for the better through technology that supports decentralization.
 
-Incubator and IT Innovator
+Over the past 2 decades Incubaid has founded and sold several companies that have changed the IT/Cloud landscape as we know it.
 
-- For now, no real activities.
-- Was our incubator out of which we managed our startups.
-
-Website: https://incubaid.com/
+Find out more on [Incubaid.com](https://incubaid.com/).
