@@ -1,6 +1,2 @@
 * [Home](/)
 * [Web Resources](/foundation/web_resources/README.md)
-    * [Foundation](/foundation/web_resources/foundation.md)
-    * [Token](/foundation/web_resources/token.md)
-    * [Grid](/foundation/web_resources/grid.md)
-    * [Technology](/foundation/web_resources/tech.md)

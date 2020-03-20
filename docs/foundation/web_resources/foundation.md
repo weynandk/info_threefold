@@ -1,11 +1,3 @@
-# ThreeFold Foundation Wiki
-
-Right now you are on the ThreeFold Foundation Wiki pages.
-
-For feedback on this wiki, please create issues in the following GitHub repository: https://github.com/threefoldfoundation/info_foundation/issues
-
-You can also contribute directly to this wiki in the develop branch: https://github.com/threefoldfoundation/info_foundation
-
 # ThreeFold Foundation Website
 
 You can also visit the website: 

@@ -6,7 +6,6 @@
   * [Codescalers](/foundation/ecosystem/codescalers.md)
   * [Cultivo](/foundation/ecosystem/cultivo.md)
   * [Digital Energy](/foundation/ecosystem/digitalenergy.md)
-  * [FairCoffee](/foundation/ecosystem/faircoffee.md)
   * [FlowGen](/foundation/ecosystem/flowgen.md)
   * [Foundation](/foundation/ecosystem/threefoldfoundation.md)
   * [FreeFlow Nation](/foundation/ecosystem/freeflownation.md)

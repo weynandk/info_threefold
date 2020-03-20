@@ -1,12 +1,3 @@
-# ThreeFold Tech Wiki
-
-Visit: [wiki.grid.tf/wiki/tech](https://wiki.grid.tf/wiki/tech#/)
-
-For feedback, please create issues in the following GitHub repository:
-https://github.com/threefoldtech/info_tftech/issues
-
-Or contribute directly in the develop branch: https://github.com/threefoldtech/info_tftech
-
 # ThreeFold Tech Website
 
 Visit: [threefold.tech](https://threefold.tech)

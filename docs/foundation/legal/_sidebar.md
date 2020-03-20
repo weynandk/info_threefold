@@ -1,4 +1,4 @@
 * [Home](/)
-* [Legal](/legal/README.md)
-    * [Definitions](/legal/definitions.md)
-    * [Supplemental Terms & Conditions](/legal/termsconditions.md)
+* [Legal](/foundation/legal/README.md)
+    * [Definitions](/foundation/legal/definitions.md)
+    * [Supplemental Terms & Conditions](/foundation/legal/termsconditions.md)
