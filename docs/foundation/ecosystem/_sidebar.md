@@ -1,4 +1,5 @@
 * [Home](/)
+* [Foundation](/foundation/README.md)
 * [Ecosystem](/foundation/ecosystem/README.md)
   * [3Bot](/foundation/ecosystem/3bot.md)
   * [ATW Green](/foundation/ecosystem/atwgreen.md)

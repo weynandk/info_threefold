@@ -1,4 +1,5 @@
 * [Home](/)
+* [Foundation](/foundation/README.md)
 
  **Explainer Videos**
 * [Videos](/foundation/videos/README.md)
