@@ -1,5 +1,4 @@
 * [Home](/)
-* [Definitions & Concepts](/definitions-concepts/README.md)
 
 ThreeFold Foundation Definitions
 * [Autonomous Layer](/definitions-concepts/autonomous_layer.md)
