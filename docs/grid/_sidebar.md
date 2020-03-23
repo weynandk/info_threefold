@@ -1,9 +1,9 @@
 * How to participate?
-  * [Farming](/tf_farming/README.md)
+  * [Farming](/grid/tf_farming/README.md)
   
 * Where to get more information
-  * [Videos](/external_information/videos.md)
-  * [Frequently Asked Questions](/faq/README.md)
+  * [Videos](/grid/external_information/videos.md)
+  * [Frequently Asked Questions](/grid/faq/README.md)
 
 * Concepts
-  * [Concepts](/concepts/README.md)
+  * [Concepts](/grid/concepts/README.md)

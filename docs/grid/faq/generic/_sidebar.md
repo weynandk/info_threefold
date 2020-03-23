@@ -1,4 +1,4 @@
 * [Home](/)
-* [Frequently Asked Questions](/faq/README.md)
+* [Frequently Asked Questions](/grid/faq/README.md)
 * Generic
-   * [1.Vienna Cherry Chapter](/faq/generic/vcc_faq.md)
+   * [1.Vienna Cherry Chapter](/grid/faq/generic/vcc_faq.md)
