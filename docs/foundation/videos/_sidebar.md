@@ -2,18 +2,17 @@
 * [Foundation](/foundation/README.md)
 
  **Explainer Videos**
-* [Videos](/foundation/videos/README.md)
-    * [The ThreeFold Story](/foundation/videos/explaner_videos/tf_thestory.md)
-    * [ThreeFold Farming Demystified](/foundation/videos/explaner_videos/farming.md)
-    * [ThreeFold Token, Token for the New Internet](/foundation/videos/explaner_videos/tft_intro.md)
-    * [ThreeFold Technology Overview](/foundation/videos/explaner_videos/tech.md)
-    * [ThreeFold Token - How It Works](/foundation/videos/explaner_videos/tft_howitworks.md)
-    * [ThreeFold Technology Overview](/foundation/videos/explaner_videos/tf_tech.md)
-    * [Building a Newer Digital World for Humanity](/foundation/videos/explaner_videos/humanity.md)
-    * [Solving Blockchain's Dilemma](/foundation/videos/explaner_videos/dilemma.md)
-    * [ThreeFold Wallet Dos and Don'ts](/foundation/videos/explaner_videos/wallet.md)
-    
-    * [ThreeFold Grid: Edge. The New Internet](/foundation/videos/explaner_videos/edge.md)    
+
+* [The ThreeFold Story](/foundation/videos/explaner_videos/tf_thestory.md)
+* [ThreeFold Farming Demystified](/foundation/videos/explaner_videos/farming.md)
+* [ThreeFold Token, Token for the New Internet](/foundation/videos/explaner_videos/tft_intro.md)
+* [ThreeFold Technology Overview](/foundation/videos/explaner_videos/tech.md)
+* [ThreeFold Token - How It Works](/foundation/videos/explaner_videos/tft_howitworks.md)
+* [ThreeFold Technology Overview](/foundation/videos/explaner_videos/tf_tech.md)
+* [Building a Newer Digital World for Humanity](/foundation/videos/explaner_videos/humanity.md)
+* [Solving Blockchain's Dilemma](/foundation/videos/explaner_videos/dilemma.md)
+* [ThreeFold Wallet Dos and Don'ts](/foundation/videos/explaner_videos/wallet.md)
+* [ThreeFold Grid: Edge. The New Internet](/foundation/videos/explaner_videos/edge.md)    
 
  **Community Calls & Updates**
 
