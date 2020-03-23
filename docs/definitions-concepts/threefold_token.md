@@ -6,4 +6,4 @@ It has a specific commercial utility, since ThreeFold Tokens were conceived as t
 
 ThreeFold Tokens are exclusively produced through a process called farming, which means that TFT are generated only when new Internet capacity is added to the ThreeFold Grid. There is no wasteful mining.
 
-TFT are managed by the ThreeFold Blockchain (“TF Chain”). The TF Chain can issue a maximum of 100 billion tokens.
+TFT is part of the Stellar Network (https://stellar.org).
