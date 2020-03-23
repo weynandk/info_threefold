@@ -11,6 +11,5 @@
 - Income
     - Hosting fees for the maintenance & running of the farmer pool.    
 
-Website: http://bettertoken.com
-
-FreeFlowPages: https://freeflowpages.com/s/bettertoken/
+[BetterToken Website](http://bettertoken.com)
+[BetterToken on FreeFlowPages](https://freeflowpages.com/s/bettertoken/)

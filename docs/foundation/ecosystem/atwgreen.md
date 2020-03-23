@@ -6,6 +6,5 @@ All The Way Green: A green tech company and incubator based in the United Arab E
 
 Acts as an incubator for multiple companies and related efforts in the MEA region.
 
-Website: https://atwg.tech
-
-FreeFlowPages: https://freeflowpages.com/s/atwgreen
+[ATW Green Website](https://atwg.tech) 
+[ATW Green on FreeFlowPages](https://freeflowpages.com/s/atwgreen)

@@ -13,7 +13,5 @@ With 3Bot, free yourself from an app-centric system and enter a more secure, neu
 To function properly and remain active on the TF Grid each 3Bot requires ThreeFold Grid capacity and thus ThreeFold Tokens. 
 [Fees](https://github.com/threefoldfoundation/tfchain/blob/master/doc/3bot.md#fees)
 
-
-
 [3Bot Website](http://3bot.org)
 [3Bot FreeFlowPages](https://freeflowpages.com/s/3bot/)

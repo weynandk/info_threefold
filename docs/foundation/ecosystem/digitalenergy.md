@@ -4,4 +4,4 @@
 
 DigitalEnergy is a large ThreeFold farmer with a datacenter based in Moscow, Russia. 
 
-Website: https://digitalenergy.online/
+[Digital Engergy Website](https://digitalenergy.online/)

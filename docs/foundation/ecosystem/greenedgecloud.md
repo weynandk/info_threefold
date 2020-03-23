@@ -2,8 +2,13 @@
 
 # Green Edge Cloud
 
-A global ThreeFold Farm
-Current farms in US, CAN, South Africa and Austria
+One of the largest ThreeFold Farmers currently in the ecosystem with Farms inA global ThreeFold Farm
+- United States
+- Canada
+- Austria
+- Germany
+- Belgium
+
 Next farms in rollout for Central/Eastern Europe and Asia
 
 [Green Edge Cloud Website](https://greenedgecloud.com)
