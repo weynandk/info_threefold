@@ -1,0 +1,7 @@
+* [Home](/?id=threefold-tech)
+* [ThreeFold Tech](/tech/README.md)
+* [Team](/tech/team/README.md)
+  * [Management](/tech/team/management.md)
+  * [Business development](/tech/team/business_development.md)
+  * [Research & Development](/tech/team/research_and_development.md)
+  * [Code Development](/tech/team/code_development.md)

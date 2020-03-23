@@ -1,0 +1,5 @@
+* [Home](/?id=threefold-tech)
+* [ThreeFold Tech](/tech/README.md)
+* [Company](/tech/company/readme?id=threefold-technology-tf-tech)
+    * [Mission & Vision](/tech/company/readme?id=mission-and-vision)
+    * [Equity based company](/tech/company/readme?id=equity-based-company)

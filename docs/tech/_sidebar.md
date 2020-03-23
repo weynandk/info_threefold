@@ -1,0 +1,7 @@
+* [Home](/?id=threefold-tech)
+* [ThreeFold Tech](/tech/README.md)
+* [Company](/tech/company/README.md)
+* [Partners](/tech/partners/README.md)
+* [Technology](/tech/technology/README.md)
+* [Achievements](/tech/achievements/README.md)
+* [Whitepapers](/tech/whitepapers/README.md)
