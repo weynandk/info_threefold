@@ -2,7 +2,7 @@
 * [Definitions & Concepts](/definitions-concepts/README.md)
 * [ThreeFold Foundation](/foundation/README.md)
 * [ThreeFold Grid](/grid/README.md)
-* [ThreeFold 3Bot](/3bot/README.md)
 * [ThreeFold Token](/token/README.md)
+* [3Bot](/3bot/README.md)
 * [ThreeFold Tech](/tech/README.md)
 * [ThreeFold Blog](/blog/README.md)
