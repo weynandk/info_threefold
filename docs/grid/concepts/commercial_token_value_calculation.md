@@ -11,7 +11,7 @@ How do we measure the commercial index value?
 - the total resources available are measured by Zero-OS 
 - the resources are measured through [resource_units](grid/concepts/resource_units.md).
 
-The following formulas are used to convert resource units to [cloud_units](docs/definitions-concepts/threefold_cloud_units.md).
+The following formulas are used to convert resource units to [cloud_units](/docs/definitions-concepts/threefold_cloud_units.md).
 
 - 1 CU = min(MRU/4 x (1-5%),CRU x 2)
 - 1 SU = HRU / 1093 + SRU / 92
@@ -24,7 +24,7 @@ Each cloud unit has a commercial value at the time of writing (March 2019). We u
 
 # Reasoning
 
-We use as a basis the definitions in [cloud_units](docs/definitions-concepts/threefold_cloud_units.md).
+We use as a basis the definitions in [cloud_units](/docs/definitions-concepts/threefold_cloud_units.md).
 
 ## Compute unit = CU
 
