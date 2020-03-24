@@ -11,3 +11,7 @@ Desktop wallet for the advanced user. Including multisignature wallet functional
 ### 3. [Jumpscale Developer Wallet](https://github.com/threefoldfoundation/tfchain)
 
 For developers only. CLI interface.
+
+### 4. [ThreeFold App](/token/apps_wallets/threefold_app.md)
+
+The First Itteration of the ThreeFold App
