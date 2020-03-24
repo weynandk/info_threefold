@@ -35,3 +35,13 @@ TF_tech has 3 focus points
 TF TECH NV is a Belgian limited liability company, having its registered office at
 Antwerpse Steenweg 19, B-9080 Lochristi, Belgium, registered with the Belgian
 Crossroads Bank of Enterprises under company number 0712.845.674
+
+## How do we compare ?
+
+How do we compare to other projects? Anyone who needs cloud (compute,storage) capacity today can either buy this capacity from the traditional cloud or go to the new players, who are mainly blockchain companies. We are different.
+
+![](images/compare_to_others.png)
+
+## Useful Links
+
+- [ThreeFold Tech on Github](https://github.com/threefoldtech/home)
