@@ -8,8 +8,3 @@
 - [How long does the farmer have to hold the subsidy ThreeFold token?](/token/faq/token_vesting_schemes.md)
 - [Is the ThreeFold token publicly traded on exchanges? If so, which exchanges?](/token/faq/exchanges.md)
 - [How to track your ThreeFold Tokens?](/token/faq/track.md)
-
-## FAQs on other Wikis
-
-- [ThreeFold Foundation Wiki FAQ](https://threefoldfoundation.github.io/info_foundation/#/token/faq/README)
-- [ThreeFold Grid Wiki FAQ](https://threefoldfoundation.github.io/info_grid/#/token/faq/README)

@@ -1,6 +1,6 @@
 ## There are 4 different wallet options for the TFT:
 
-### 1. [3Bot App Wallet](/token/apps_wallets/3bot_app.md)
+### 1. [3Bot App](/token/apps_wallets/3bot_app.md)
 
 Wallet included in the 3Bot app. Basic features. For iOS and Android.
 

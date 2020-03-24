@@ -4,14 +4,6 @@ The Threefold desktop wallet is a full blown wallet implemented as a light clien
 
 Follow the steps below to set up your ThreeFold Wallet, and receive and send your first ThreeFold Tokens:
 
-- [Registration and login](#reg)
-- [Account Page](#mp)
-- [Send tokens](#send)
-- [Receive tokens](#receive)
-- [Settings](#settings)
-
-<a id='reg'><a>
-
 ## Registration and login
 
 ![](img/ThreeFold_dsk_reg_1.png)
@@ -27,13 +19,9 @@ First step - click "New Account"
 6,7) Seed Phrase - you can create you seed pohrase manually, that consist from 24 words ( 6 ) or generate it randomly ( 7 )
 8) Create account - creating your account
 
-<a id='mp'><a>
-
 ## Account Page
 
 Here you can see your balances, create additional wallets
-
-<a id='send'><a>
 
 ## Send Tokens
 
@@ -46,9 +34,7 @@ Here you can see your balances, create additional wallets
 5) Select wallet - select you wallet that you want to make transaction
 6) Send - tap to create a transaction
 
-<a id='recieve'><a>
-
-## Recieve Tokens
+## Receive Tokens
 
 ![](img/ThreeFold_dsk_recieve.png)
 

@@ -119,7 +119,7 @@ Zero Chain is our blockchain technology.
 *   [https://github.com/threefoldtech/rivine](https://github.com/threefoldtech/rivine) (MIT License)
 *   [https://github.com/threefoldtech/atomicswap](https://github.com/threefoldtech/atomicswap)** **(ISC License)
 *   [https://github.com/threefoldtech/0-db](https://github.com/threefoldtech/0-db) (our DB): Apache
-*   [https://github.com/threefoldtech/rivine-explorer](https://github.com/threefoldtech/rivine-explorer) (MIT License)
+*   [https://github.com/threefoldtech/rivine-chain-explorer](https://github.com/threefoldtech/rivine-chain-explorer) (MIT License)
 *   [https://github.com/threefoldtech/rivine-UI](https://github.com/threefoldtech/rivine-UI) (MIT License)
 
 
