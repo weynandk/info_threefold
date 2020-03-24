@@ -9,7 +9,7 @@ The ThreeFold Token represents a unit of reservation of autonomous Internet capa
 Internet capacity is the world's fastest growing commodity, and the TFT is supported by this highly demanded, underlying economy of infrastructure and services called the ThreeFold Network. The Network is comprised of developers, farmers, and users from all over the world.
 
 ### Where to get TFTs
-ThreeFold Tokens (TFT) can be bought from any of the ThreeFold Farmers, active digital currency exchanges or through users on our own native decentralized exchange (DEX). For more information please visit [threefold.io](threefold.io)
+ThreeFold Tokens (TFT) can be bought from any of the ThreeFold Farmers, active digital currency exchanges or through users on our own native decentralized exchange (DEX). For more information please visit [threefold.io](https://www.threefold.io)
 
 
 ### Utility Driven

@@ -2,5 +2,6 @@
 * [Frequently Asked Questions](/token/faq/README.md)
     * [Capacity Dependency](/token/faq/capacity_dependency.md)
     * [Government Regulation](/token/faq/government_regulation.md)
+    * [Pricing Conflict](/grid/faq/farmers/pricing_conflicts.md)
     * [Token Vesting Schemes](/grid/faq/tokens/token_vesting_schemes.md)
     * [Cryptocurrency Exchanges](/token/faq/exchanges.md)

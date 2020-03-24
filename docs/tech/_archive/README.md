@@ -20,7 +20,7 @@ The TFTech intellectual property can be categorised into 3 areas:
 2. [**Zero-Robot**](#zeroRobot): 3Bot - virtual system administrators and operators on the grid keeping the grid healthy
 3. [**Zero-Chain**](#zerochain): Blockchain technology
 
-![Three Areas of technology](../images/ThreeFold-Tech0.png "image_tooltip")
+![Three Areas of technology](../images/ThreeFold-Tech0.png)
 
 # Details of code stores
 

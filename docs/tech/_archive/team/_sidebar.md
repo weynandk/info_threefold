@@ -1,4 +1,4 @@
-* [Home](/?id=threefold-tech)
+* [Home](/)
 * [ThreeFold Tech](/tech/README.md)
 * [Team](/tech/team/README.md)
   * [Management](/tech/team/management.md)

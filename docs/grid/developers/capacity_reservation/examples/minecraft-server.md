@@ -52,7 +52,7 @@ volume = pool.create('minecraft')
 If we create a new container, it will automatically create a default config
 file. However we want to have a custom server.properties. For this, we first create
 the properties file locally and upload it to the volume. An example config can be found in
-[data/minecraft-example.properties](data/minecraft-example.properties).
+[Here on Github](https://github.com/threefoldfoundation/info_threefold/blob/development/docs/grid/developers/capacity_reservation/examples/data/minecraft-example.properties)
 
 ```python
 node.client.filesystem.upload_file(volume.path + 'server.properties', '/path/to/server.properties')

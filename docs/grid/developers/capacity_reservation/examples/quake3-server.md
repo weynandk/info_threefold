@@ -57,7 +57,7 @@ copied the `pak0.pk3` file from your legally bought software
 and have it ready on your JSX environment. On top of that you'll
 need a server configuration, which we'll call `my-server.cfg`,
 such that we can automatically configure the server.
-An example server config can be found under [data/quake3-server.cfg](data/quake3-server.cfg).
+An example server config can be found [here on Github.](https://github.com/threefoldfoundation/info_threefold/blob/development/docs/grid/developers/capacity_reservation/examples/data/quake3-server.cfg)
 
 Download the data files:
 ```python

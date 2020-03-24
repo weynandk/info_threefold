@@ -8,5 +8,4 @@ Each FreeFlow Token user will need a 3Bot to get started.
 FreeFlow Tokens movement is driven by a motivated group of people from out of Ibiza.
 
 
-[FreeFlow website](www.freeflowtoken.io/)
 [FreeFlow Token on FreeFlow Pages](https://freeflowpages.com/s/freeflowtoken/)
