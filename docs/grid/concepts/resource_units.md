@@ -8,7 +8,7 @@
 | ssd unit      | 1 GB	 | SRU |
 | network unit  | 1 GB of bandwidth transmitted in/out	| NRU |
 
-See [Definitions](https://github.com/threefoldfoundation/info_grid/blob/master/docs/legal/definitions.md) for more explanation.
+See [Definitions](/definitions/README.md) for more explanation.
 
 These are raw capacities as measured by our TF Software.
 

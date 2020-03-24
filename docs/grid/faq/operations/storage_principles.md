@@ -20,5 +20,3 @@ There is indeed a neat trick where you can use our dispersed storage as an effec
 ## Further Questions
 
 I understand that the TF grid achieves “redundancy” (security of data against loss or corruption) through a Sudoku-type reconstruction process when data is distributed over multiple nodes by the Zero-robots.  But then it is also stated that a user of TF capacity must contract with individual farmers for capacity, so to achieve desired data security, one needs to contract with multiple farmers? This question is closely related to questions 4,5 above. 
-
-## To be completed

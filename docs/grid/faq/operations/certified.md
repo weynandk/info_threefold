@@ -36,7 +36,7 @@ The early deployment phase of the ThreeFold grid has lead to a (growing but smal
 
 #### Purchasing options: (for quotes and prices)
 
-- Bettertoken: <a href="www.bettertoken.shop" target="_blank">www.bettertoken.shop</a>
+- Bettertoken: [www.bettertoken.com](https://www.bettertoken.com)
 - Edge Cloud Africa: contact: ```Dave Gale```   ```dave@edgaecloud.africa``` 
 -----
 
@@ -65,4 +65,4 @@ NUC (all i5 and i7 models, make sure ssd and hdd fit in the chassis=large enclos
 
 #### Purchasing options: (for quotes and prices)
 
- - <a href="www.amazon.com">Amazon</a> (Amazon offers NUCs almost globally)
+* [https://www.amazon.com](https://www.amazon.com) Amazon offers NUCs almost globally
