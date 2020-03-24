@@ -28,5 +28,5 @@ How do we compare to other projects? Anyone who needs cloud (compute,storage) ca
 
 ## Useful Links
 
-- [The home repository:](https://github.com/threefoldtech/home)
-- [The support repository](https://github.com/threefoldtech/support)
+- [ThreeFold Tech on Github](https://github.com/threefoldtech/home)
+

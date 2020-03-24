@@ -6,7 +6,7 @@
 
 The following components are used to build our grid and deliver unequivalent benefits in power optimization, performance & scale.
 
-- [Jumpscale  = Automation Framework](https://github.com/Jumpscale)
+- [Jumpscale  = Automation Framework](https://github.com/threefoldtech/jumpscaleX_threebot)
 - [Distributed OS = Zero-OS](https://github.com/zero-os)
 - [Neutral identity management](https://github.com/itsyouonline)
 - [More Scalable Blockchain](https://github.com/rivine)

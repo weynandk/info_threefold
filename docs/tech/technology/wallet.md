@@ -4,19 +4,9 @@ Here we discuss how to create and use the ThreeFold wallet from the command line
 
 For this we use the ThreeFold Chain client, `tfchainc`.
 
-- [Get the ThreeFold Chain binaries](#get-binaries)
-- [Connecting to a ThreeFold Chain node](#connect-node)
-- [Initialize your ThreeFold wallet](#init-wallet)
-- [Unlock your ThreeFold wallet](#unlock-wallet)
-- [Manage your ThreeFold wallet addresses](#manage-addresses)
-- [Receive your first ThreeFold tokens](#receive-tokens)
-- [Send your first ThreeFold tokens](#send-tokens)
-- [Check transaction in the Explorer](#explorer)
-
 > We highly recommend against installing a wallet on the same host running a ThreeFold Chain Explorer
 
 
-<a id="get-binaries"></a>
 ## Get the ThreeFold Chain binaries
 
 Creating and using a ThreeFold wallet from the command line is done through the **ThreeFold Chain client**, `tfchainc`. 
@@ -24,7 +14,6 @@ Creating and using a ThreeFold wallet from the command line is done through the 
 See [Getting the ThreeFold Chain Binaries](/technology/get_binaries.md) for instructions on how to get the ThreeFold Chain client.
 
 
-<a id="connect-node"></a>
 ## Connecting to a ThreeFold Chain node
 
 In order to use the ThreeFold Chain client (`tfchainc`) you need access to an active ThreeFold Chain node.
@@ -48,8 +37,6 @@ In this case you can even omit the `-addr` option, since `tfchainc` by default w
 
 In what follows we will assume you have a local node listening on the default port.
 
-
-<a id="init-wallet"></a>
 ## Initialize your ThreeFold wallet
 
 Initializing a new ThreeFold wallet is done by using the ThreeFold Chain client (`tfchainc`) as follows:
@@ -61,8 +48,6 @@ This will ask you to enter and confirm a **passphrase**, and as a result you wil
 
 > Make sure to save your seed in a safe place.
 
-
-<a id="unlock-wallet"></a>
 ## Unlock your ThreeFold wallet
 
 When you check the status of your initialized wallet for the first time you will see that it is `Locked`:
@@ -92,8 +77,6 @@ Unconfirmed Delta:   + 0 TFT
 BlockStakes:         0 BS
 ```
 
-
-<a id="manage-addresses"></a>
 ## Manage your ThreeFold wallet addresses
 
 A new wallet is initialized with 10 addresses, here's how to list them:
@@ -135,7 +118,6 @@ Created new address: 0150f4c2eb561d844da74dc9c4a673be4092bb3e8975d47dead6fc79540
 ```
 
 
-<a id="receive-tokens"></a>
 ## Receive your first ThreeFold tokens
 
 Send one of your addresses to a token holder and ask him/her to transfer tokens to your Wallet.
@@ -179,7 +161,6 @@ Unconfirmed Delta:   + 0 TFT
 BlockStakes:         0 BS
 ```
 
-<a id="send-tokens"></a>
 ## Send your first ThreeFold tokens
 
 First get an address from a friend, for instance: `01b22509f331e6c4ef268b82405bf9f69b957a7160e580424b75329ee83a6833c160fc4ffabef2`.
@@ -214,7 +195,6 @@ Target: [0 0 46 154 118 247 78 176 79 95 18 157 50 4 71 45 235 179 185 47 73 58 
 
 Once the transaction is confirmed you will see that the `height` will be `40` or higher. 
 
-<a id="explorer"></a>
 ## Check transaction in the Explorer
 
 The ThreeFold Chain Explorer for the test network is available on https://explorer.testnet.threefoldtoken.com and for the standard net on https://explorer.threefoldtoken.com
