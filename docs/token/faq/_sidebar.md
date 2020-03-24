@@ -1,7 +1,6 @@
 * [Home](/)
 * [Frequently Asked Questions](/token/faq/README.md)
     * [Capacity Dependency](/token/faq/capacity_dependency.md)
-    * [Value Increase](/token/faq/increase_of_value.md)
     * [Pricing Conflicts](/token/faq/pricing_conflicts.md)
     * [Government Regulation](/token/faq/government_regulation.md)
     * [Token Vesting Schemes](/token/faq/token_vesting_schemes.md)
