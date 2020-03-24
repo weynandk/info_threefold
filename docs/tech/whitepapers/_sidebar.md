@@ -1,4 +1,4 @@
-* [Home](/?id=threefold-tech)
+* [Home](/)
 * [ThreeFold Tech](/tech/README.md)
 * [Technology Overview Whitepaper](https://docs.google.com/document/d/1WTHrbe3nS1_VgTYxgDPeyyEmvj7unIcEPwrg0l3SBNI/edit)
 * [Capacity Layer Whitepaper](https://docs.google.com/document/d/1dP5MaY9YWdRonhvGtqBKrcTYbBYBold75vHnHpTiUH4/edit)
