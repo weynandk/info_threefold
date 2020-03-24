@@ -4,13 +4,19 @@ Visit:
 
 Home of the ThreeFold Blockchain Explorer which allows user to track transactions on the ThreeFold blockchain.
 
-## ThreeFold Capacity Directory
+## ThreeFold Explorer
 
-Our capacity directory makes it possible for you te see al capacity that's live on the grid in realtime.
-Select by farmername, caca
+The ThreeFold Explorer makes it possible for anybody to get an immediate and up-to-date insight into all aspects of the ThreeFold Grid, such as:
+- Registered Nodes
+- Online Nodes
+- Number of Countries
+- Number of Farms
+- Number of Cores, Memory, HDD, and SDD.
+
+Besides giving insight to the Grid, the ThreeFold Explorer also allows farmers to manage their capacity/farm, and users can use it to reserve capacity and deploy workloads on the tf grid.
 
 Visit:
-[capacity.threefold.io](https://capacity.threefold.io/)
+[explorer.threefold.io](https://explorer.grid.tf/)
 
 ## ThreeFold Radar Website
 

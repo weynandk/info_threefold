@@ -1,6 +1,5 @@
 * [Home](/)
 * [ThreeFold Ecosystem](/foundation/ecosystem/README.md)
-* [Presentations](/foundation/presentations/README.md)
 * [Team](/foundation/team/README.md)
 * [Videos](/foundation/videos/README.md)
 * [Legal](/foundation/legal/README.md)
