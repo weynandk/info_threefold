@@ -1,6 +1,0 @@
-* [Home](/?id=threefold-tech)
-* [ThreeFold Tech](/tech/README.md)
-* [Partners](/tech/partners/readme.md)
-  * [Hewlett Packard Enterprise](/tech/partners/hpe.md)
-  * [Solidaridad](/tech/partners/solidaridad.md)
-  * [Flowgen](/tech/partners/flowgen.md)

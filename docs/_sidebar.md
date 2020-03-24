@@ -5,5 +5,6 @@
 * [Token](/token/README.md)
 * [3Bot](/3bot/README.md)
 * [Tech](/tech/README.md)
+* [Partners](/partners/README.md)
 * [Blog](/blog/README.md)
 * [Presentations](/presentations/README.md)
