@@ -19,4 +19,3 @@ A technology software company in Belgium.
 - [Factsheet about TF-Tech NV](https://docs.google.com/document/d/18GqLvcwDEtDOHzgVnrNPiDLvQeUfHNckThxqCRnsB-U/edit)
 
 Website: https://www.threefold.tech/
-Vacancies: https://threefold.io/jobs/

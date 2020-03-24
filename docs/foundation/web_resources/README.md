@@ -8,4 +8,3 @@
 - [Foundation Github Repositories](https://github.com/threefoldfoundation?page=1)
 - [ThreeFold Tech Website](/foundation/web_resources/tech.md)
 - [ThreeFold Tech Github Repositories](https://github.com/threefoldtech)
-- [Miscellaneous Web resources](/foundation/web_resources/misc.md)

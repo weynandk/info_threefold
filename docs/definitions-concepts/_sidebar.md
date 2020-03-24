@@ -24,13 +24,8 @@ ThreeFold Farming & Grid Definitions
 ThreeFold Token Definitions
 * [ThreeFold Chain](/definitions-concepts/threefold_chain.md)
 * [ThreeFold Token](/definitions-concepts/threefold_token.md)
-* [ThreeFold Wallet](/definitions-concepts/threefold_wallet.md)
-
 3Bot Definitions
 * [3Bot](/definitions-concepts/3Bot.md)
-* [TODO: 3Bot Connect App](/definitions-concepts/manytomany.md)
-* [TODO: Many To Many](/definitions-concepts/manytomany.md)
-* [TODO: Digital Self](/definitions-concepts/manytomany.md)
 
 ThreeFold Tech Definitions
 
