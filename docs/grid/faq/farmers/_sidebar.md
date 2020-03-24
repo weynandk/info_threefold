@@ -10,5 +10,5 @@
    * [7. What about Return of Investment (RoI)](/grid/faq/farmers/roi.md)
    * [8. What technical requirements for hardware?](/grid/faq/farmers/technical_requirements.md)
    * [9. What happens when hardware components are added to a existing 3Node?](/grid/faq/farmers/hw_added_to_3node.md)
-   [10. How to change/add your farmer wallet and farm location](faq/farmers/how_to_change_wallet_address.md)
-   * [11. How to set up your farm with multiple farming locations](faq/farmers/how_to_multiple_farming_locations.md)
+   [10. How to change/add your farmer wallet and farm location](/faq/farmers/how_to_change_wallet_address.md)
+   * [11. How to set up your farm with multiple farming locations](/faq/farmers/how_to_multiple_farming_locations.md)

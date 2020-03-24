@@ -5,4 +5,4 @@ Since software performance is a function of the applications being run, the hard
 
 
 
-Initially we will be presenting [unmanaged](https://github.com/threefoldfoundation/info_grid/blob/development/docs/definitions/threefold_unmanaged_capacity.md) capacity only. This unmanaged capacity will presented by farmers from homes, offices, no datacenter locations and datacenter locations. Everyone will be presenting the same type of capacity at the start in smaller or larger quantities. So this is not a problem initially.
+Initially we will be presenting unmanaged capacity only. This unmanaged capacity will presented by farmers from homes, offices, no datacenter locations and datacenter locations. Everyone will be presenting the same type of capacity at the start in smaller or larger quantities. So this is not a problem initially.
