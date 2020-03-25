@@ -1,7 +1,12 @@
 # JumpscaleX Installation Instructions
 
-- [Prepare your machine](#prepare-your-machine)
-- [Installation](#installation)
+- [JumpscaleX Installation Instructions](#jumpscalex-installation-instructions)
+  - [Prepare your machine](#prepare-your-machine)
+    - [Supported Operating Systems](#supported-operating-systems)
+    - [Required Packages](#required-packages)
+  - [Installation](#installation)
+    - [After Installation](#after-installation)
+
 
 ## Prepare your machine
 
@@ -43,7 +48,7 @@ Also we will need some requirments to be begin with. to install use the next com
 
 - All configurations are ready. Next step is installation.
 
-### Installation
+## Installation
 
 - In your terminal execute the following, this will download the installer file, change its permission to make it executable
 
@@ -58,3 +63,45 @@ Also we will need some requirments to be begin with. to install use the next com
     /tmp/jsx threebot;
     ```
 
+The result will be something like the following, will take few minuts please wait untill it's done.
+
+    ![Installation Image](images/install_1.png)
+
+- After installation is done you will see the following screen
+
+    ![Installation Image](images/install_2.png)
+
+Congratulations, now you have your 3bot installed.
+
+### After Installation
+
+Your 3bot is protected by 3Bot connect, you need to register your current 3Bot, from 3Bot server shell (for now, you need to suffix your name with `.3bot`)
+
+- We need to initalize out threebot open `kosmos`
+
+```python
+j.tools.threebot.init_my_threebot()
+```
+
+and enter your data
+
+- Then to start your 3bot. just type `3bot start`.
+
+- After that we can go to our browser to this link: http://localhost:7000
+
+- We will see the following screen
+
+    ![Installation Image](images/install_3.png)
+
+in this step we will need the threebot connect app, you can download it from the [AppStore](https://apps.apple.com/us/app/3bot-connect/id1459845885) or [GooglePlayStore](https://play.google.com/store/apps/details?id=org.jimber.threebotlogin&hl=en) and use it to login with the 3Bot name you registered.
+
+- Also, other people can access the dashboard, but they need to be added to admins from `Settings`, Also, admins can be dded to `j.tools.threebot.me.default.admins` via `kosmos` shell example:
+
+```python3
+j.tools.threebot.me.default.admins.append("hamada.3bot")
+j.tools.threebot.me.default.save()
+```
+
+- After logging in we can now see the dashboard, you can see your 3bot informations, logs, alerts, edit your wikis and much more
+
+    ![Installation Image](images/install_4.png)
