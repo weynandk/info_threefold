@@ -1,4 +1,5 @@
 * [Home](/)
+* [Token](/token/README.md)
 * [Technology](/token/technology/README.md)
     * [Rivine Blockchain](/token/technology/rivine_blockchain.md)
     * [Proof of BlockStake Consensus](/token/technology/proof_of_blockstake.md)
