@@ -106,7 +106,7 @@ The holy grail would be a self healing edge grid. Edge because of all the benefi
 
 Probably the most important part of the ideal solution is self healing. The biggest challenge of an Edge Computing environment is the dependency on local care: humans to maintain hardware and upgrade or fix software components. Self Healing needs to do the job here which means zero people can be involved. 
 
-Only a self healing mechanism with zero-people involved, completely decentralised brings down the cost and provides more security to the environment and makes it highly scalable. See a specific [whitepaper](https://docs.google.com/document/d/1ecEPMobEXv9hOGSTRnP-aTB7WVWpEztIh9dfTy_ROyQ/edit#heading=h.igv6nt6b9zyw) on this topic
+Only a self healing mechanism with zero-people involved, completely decentralised brings down the cost and provides more security to the environment and makes it highly scalable. See a specific [whitepaper](/tech/whitepapers/decentralized-system-does-not-exist-yet.md) on this topic
 
 Some of you may think the new blockchain based technologies like SIA, Filecoin or Somn may be the holy grail. But they are not.
 
