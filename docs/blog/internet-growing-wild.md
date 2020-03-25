@@ -35,7 +35,7 @@ ThreeFold believes IT can do a lot better - in fact ThreeFold believes it can re
 
 Power consumption is a function of better compute and storage performance requiring more racks and more cooling. The solutions achieve roughly 3 times the performance per rack (so it uses fewer racks) - and the racks require less energy than typical racks in the industry :-)
 
-Read more at this blog: [10x times power savings, is this possible?][4]
+Read more at this blog: [10x times power savings, is this possible?](/blog/10x-times-power.md)
 
 ### Internet capacity is expensive
 

@@ -7,23 +7,16 @@ The Explorer for the testnet is currently available on: https://explorer.testnet
 You can install your own instance of the Explorer on Linux, Mac or Windows.
 
 Below we discuss the steps to install the Explorer on Linux:
-- [Get the ThreeFold Chain binaries](#get-binaries)
-- [Start the ThreeFold Chain daemon](#start-daemon)
-- [Install Caddy](#install-caddy)
-- [Start Caddy](#get-explorer)
 
 > We highly recommend against installing the Explorer on the same host as your wallet.
 
-
-<a id="get-binaries"></a>
 ## Get the ThreeFold Chain binaries
 
 In order to run your own Explorer, you first need to have a ThreeFold Chain node running on the same host, which requires the ThreeFold Chain daemon (`tfchaind`).
 
-See [Getting the ThreeFold Chain Binaries](get_binaries.md) for instructions on how to get the ThreeFold daemon.
+See [Getting the ThreeFold Chain Binaries](/tech/technology/get_binaries.md) for instructions on how to get the ThreeFold daemon.
 
 
-<a id="start-daemon"></a>
 ## Start the ThreeFold Chain daemon
 
 Start the ThreeFold Chain daemon in the background:
@@ -34,7 +27,6 @@ cd $tfchain_dir/release/tfchain-v0.6.1-linux-amd64/cmd
 <ENTER>
 ```
 
-<a id="install-caddy"></a>
 ## Install Caddy
 
 From the command line:
@@ -44,8 +36,6 @@ sudo apt-get install curl
 curl https://getcaddy.com | bash -s personal
 ```
 
-
-<a id="get-explorer"></a>
 ## Get the Explorer
 
 The explorer is available from the [threefoldfoundation/tfchain](https://github.com/threefoldfoundation/tfchain) GitHub repository.
@@ -59,7 +49,6 @@ cd /opt/code/github/threefoldfoundation
 git clone https://github.com/threefoldfoundation/tfchain.git
 ```
 
-<a id="start-caddy"></a>
 ## Start Caddy
 
 From the command line:
