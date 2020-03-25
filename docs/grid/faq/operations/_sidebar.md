@@ -1,0 +1,11 @@
+* [Home](/)
+* [Frequently Asked Questions](/grid/faq/README.md)
+* Operations related
+  * [1. What is certified hardware](/grid/faq/operations/certified.md)
+  * [2. What connectivity is required](/grid/faq/operations/connectivity_requirements.md)
+  * [3. How does data storage work in the TF grid?](/grid/faq/operations/storage_principles.md)
+  * [4. What are ThreeFold grid applications](/grid/faq/operations/applications.md)
+  * [5. How does redundancy work](/grid/faq/operations/redundancy.md)
+  * [6. Do you use RAID?](/grid/faq/operations/raid.md)
+  * [7. What are typical node workloads](/grid/faq/operations/node_workloads.md)
+  * [8. How do we protect users from malicious 3bot code?](/grid/faq/operations/malicious_3bot.md)
