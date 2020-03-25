@@ -20,7 +20,7 @@
 * [ThreeFold Community Call March 2020](/foundation/videos/community_calls/march_2020.md)
 * [ThreeFold Community Call January 2020](/foundation/videos/community_calls/jan_2020.md)
 * [October Event: Keynote pt.1](/foundation/videos/community_calls/keynote_oct2019_1.md)
-* [October Event: Keynote pt.2](/foundation/videos/community_calls/keynote_oct_2.md)
+* [October Event: Keynote pt.2](/foundation/videos/community_calls/keynote_oct2019_2.md)
 * [October Event: Autonomous Internet Architecture](/foundation/videos/community_calls/autonomousarchitecture_oct2019.md)
 * [October Event: Autonomous Internet Demo](/foundation/videos/community_calls/autonomousdemo_oct2019.md)
 * [October Event: Token Session](/foundation/videos/community_calls/tokensession_oct2019.md)

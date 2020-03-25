@@ -16,6 +16,5 @@ A technology software company in Belgium.
     - Funding round is currently active and the focus of TF Tech in Q1 2019.
 - Investors today
     - Self-funded by founders.
-- [Factsheet about TF-Tech NV](https://docs.google.com/document/d/18GqLvcwDEtDOHzgVnrNPiDLvQeUfHNckThxqCRnsB-U/edit)
-
-Website: https://www.threefold.tech/
+    
+[ThreeFold.Tech Website](https://www.threefold.tech/)

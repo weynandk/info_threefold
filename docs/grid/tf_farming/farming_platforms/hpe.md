@@ -85,7 +85,7 @@ Threefold optimized configuration for maximized ROI:
 
 
 ### Where to buy:
-Please contact <tibor.szpisjak@hpe.com> for pricing. Put 'request for ThreeFold farming hardware DL380 Gen10 12LFF' in the email subject
+Please contact [tibor.szpisjak@hpe.com](mailto:tibor.szpisjak@hpe.com) for pricing. Put 'request for ThreeFold farming hardware DL380 Gen10 12LFF' in the email subject
 
 ### Media:
 <https://h20195.www2.hpe.com/v2/gethtml.aspx?docname=a00008180enw>
@@ -122,7 +122,7 @@ Threefold optimized configuration for maximized ROI:
 **10.1** over 5 years @ purchasing price USD 18.000, hosted in a data center, the token price at farm start USD 0.12, CU Price USD 15, SU Price USD 10, 60% average capacity utilization, 20% price erosion, token price after 5 years of farming USD 1.0
 
 ### Where to buy:
-Please contact <tibor.szpisjak@hpe.com> for pricing. Put 'request for ThreeFold Farming hardware DL385 Gen10 Mod-X 12LFF' in the email subject
+Please contact [tibor.szpisjak@hpe.com](mailto:tibor.szpisjak@hpe.com) for pricing. Put 'request for ThreeFold Farming hardware DL385 Gen10 Mod-X 12LFF' in the email subject
 
 ### Media:
 <https://h20195.www2.hpe.com/v2/gethtml.aspx?docname=a00026913enw>
@@ -160,7 +160,7 @@ Threefold optimized configuration for maximized ROI:
 
 
 ### Where to buy:
-Please contact <tibor.szpisjak@hpe.com> for pricing. Put 'request for ThreeFold farming hardware Apollo DL4510' in the email subject
+Please contact [tibor.szpisjak@hpe.com](mailto:tibor.szpisjak@hpe.com) for pricing. Put 'request for ThreeFold farming hardware Apollo DL4510' in the email subject
 
 ### Media:
 <https://support.hpe.com/hpsc/doc/public/display?docId=emr_na-a00029698en_us&docLocale=en_US>
@@ -201,7 +201,7 @@ Threefold optimized configuration for maximized ROI:
 
 
 ### Where to buy:
-Please contact <tibor.szpisjak@hpe.com> for pricing. Put 'request for ThreeFold farming hardware EL8000' in the email subject
+Please contact [tibor.szpisjak@hpe.com](mailto:tibor.szpisjak@hpe.com) for pricing. Put 'request for ThreeFold farming hardware EL8000' in the email subject
 
 ### Media:
 <https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-a00072471en_us&withFrame>

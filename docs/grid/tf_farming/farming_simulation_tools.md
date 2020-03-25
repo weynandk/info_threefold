@@ -53,8 +53,4 @@ You can play around with the average Token exit value to simulate different scen
 
 *********************************************************************************************************
 
-Please contact the ThreeFold Support Center for any help:
-- TF ticketing system: https://support.grid.tf/
-- Email: support@threefold.tech
-
 Sign up to the [Farmers' chat](https://t.me/joinchat/BwOvO0NpZjNMHFx8wD_5nw) to stay up to date on farming.
