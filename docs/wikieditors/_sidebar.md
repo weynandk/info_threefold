@@ -1,4 +1,4 @@
 * [Home](/)
 * [Installation](./installation.md)
 * [Editing](./editing.md)
-* [Loading Wikis](./loadingwikis.md)
+* [Wikis and Wiki Syntax](./loadingwikis.md)

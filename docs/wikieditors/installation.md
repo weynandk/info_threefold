@@ -65,11 +65,11 @@ Also we will need some requirments to be begin with. to install use the next com
 
 The result will be something like the following, will take few minuts please wait untill it's done.
 
-    ![Installation Image](images/install_1.png)
+![Installation Image](images/install_1.png)
 
 - After installation is done you will see the following screen
 
-    ![Installation Image](images/install_2.png)
+![Installation Image](images/install_2.png)
 
 Congratulations, now you have your 3bot installed.
 
