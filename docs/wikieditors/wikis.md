@@ -24,8 +24,11 @@ You only need your webbrowser, check [editing](./editing.md)
 Wikis format is a superset of markdown. so all the [markdown syntax](https://www.markdownguide.org/basic-syntax/) works + more advanced features using "macros"
 
 
-## How to load foundation wikis
+## How to load a wiki
 
+From the terminal -mentioned in [editing](./editing.md)- execute `jsx wiki-load -u https://github.com/threefoldtech/jumpscaleX_threebot/tree/development/docs/wikis/examples/docs -n examples -f`
 
-# How to load wikis
+## How to load info_threefold wikis
+
+From the terminal -mentioned in [editing](./editing.md)- execute `jsx wiki-load -u https://github.com/threefoldfoundation/info_threefold/blob/development/docs -n info_threefold -f`
 
