@@ -1,3 +1,4 @@
+# Capacity Types
 
 ```
 !!!include
