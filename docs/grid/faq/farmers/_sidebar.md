@@ -7,5 +7,5 @@
    * [4. How do farmers set capacity pricing?](/grid/faq/farmers/capacity_pricing.md)
    * [5. Is there a default pricing for ThreeFold Grid capacity?](/grid/faq/farmers/default_pricing.md)
    * [6. What about Return of Investment (RoI)](/grid/faq/farmers/roi.md)
-   * [8. What happens when hardware components are added to a existing 3Node?](/grid/faq/farmers/hw_added_to_3node.md)
-   * [10. How to set up your farm with multiple farming locations](/grid/faq/farmers/how_to_multiple_farming_locations)
+   * [7. What happens when hardware components are added to a existing 3Node?](/grid/faq/farmers/hw_added_to_3node.md)
+   * [8. How to set up your farm with multiple farming locations](/grid/faq/farmers/how_to_multiple_farming_locations.md)
