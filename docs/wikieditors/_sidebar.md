@@ -2,3 +2,6 @@
 * [Installation](./installation.md)
 * [Editing](./editing.md)
 * [Wikis and Wiki Syntax](./loadingwikis.md)
+  - [Links](./links.md)
+  - [Macros](./macro/README.md)
+  - [Inline HTML](./inline_html)
