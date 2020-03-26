@@ -29,7 +29,7 @@ After checking your changes in the [wikis](./wikis) tab
 
 using the terminal:
 
-- first make sure you have the `info_threefold` wiki if you don't just execute `jsx wiki-load`
+- first make sure you have the `info_threefold` wiki if you don't just execute `jsx wiki-load` check [wikis.md](./wikis.md) for more info on loading wikis
 - go to `/sandbox/code/github/threefoldfoundation/info_threefold` using the command `cd /sandbox/code/github/threefoldfoundation/info_threefold`
 
 - `git add .`
