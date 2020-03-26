@@ -82,8 +82,10 @@ Your 3bot is protected by 3Bot connect, you need to register your current 3Bot, 
 ```python
 j.tools.threebot.init_my_threebot()
 ```
+Here is an example of what you will enter
+![init_my_threebot](./images/threebotinit.jpg)
 
-and enter your data
+
 
 - Then to start your 3bot. just type `3bot start`.
 
