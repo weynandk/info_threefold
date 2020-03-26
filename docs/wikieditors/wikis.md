@@ -28,6 +28,7 @@ From the terminal -mentioned in [editing](./editing.md)- execute `jsx wiki-load 
 
 From the terminal -mentioned in [editing](./editing.md)- execute `jsx wiki-load -u https://github.com/threefoldfoundation/info_threefold/blob/development/docs -n info_threefold -f`
 
+![](./images/threebot_wikis.png)
 
 
 
