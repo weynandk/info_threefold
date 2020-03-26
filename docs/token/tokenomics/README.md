@@ -58,11 +58,10 @@ The market for farming, cultivating and trading is open to all. If one has an in
 
 Our pricing for storage and compute capacity in the simulation are very low compared to other cloud offerings in the current market.
 
-**Compute unit: 4 GB memory & 2 virtual CPU **
+**Compute unit: 4 GB memory & 2 virtual CPU**
 
-    *  TF Simulation price = 8 USD
-
-    *  Market price = between 40 USD and 120 USD
+*  TF Simulation price = 8 USD
+*  Market price = between 40 USD and 120 USD
 
 **Storage unit: 1TB of netto usable storage = 5 USD**
 
