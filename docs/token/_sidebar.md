@@ -7,4 +7,6 @@
 * [Wallets and Apps](/token/apps_wallets/README.md)
 * [Token Properties](/token/tft-101/token_properties.md)
 * [Technology](/token/technology/README.md)
+* [Tokenomics](/token/tokenomics/README.md)
+
 
