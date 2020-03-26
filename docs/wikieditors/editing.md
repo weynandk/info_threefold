@@ -3,7 +3,7 @@
 We integrated a feature in 3bot that allows you to have a code editor in the browser so you don't have to go anywhere else, only from your browser, you edit, preview, change and apply into git repository
 
 ## Wiki syntax
-Wikis are using the popular markdown format and "macros" for more advanced use cases. Visit [wikis](./wikis) tab for more info on that.
+Wikis are using the popular markdown format and "macros" for more advanced use cases. Visit [wikis](./wikis.md) tab for more info on that.
 
 ## CodeServer 
 
