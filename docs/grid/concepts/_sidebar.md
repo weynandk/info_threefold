@@ -7,3 +7,4 @@
     * [Commercial Token Value Calculation](/grid/concepts/commercial_token_value_calculation.md)
     * [TFT Price at Start Farming](/grid/concepts/tfprice_farming.md)
     * [TF Period](/grid/concepts/farming_period_definition.md)
+    * [Capacity types](/grid/concepts/capacity_types.md)

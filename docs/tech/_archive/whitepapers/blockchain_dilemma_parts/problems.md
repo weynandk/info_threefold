@@ -43,7 +43,7 @@ To make this system work and solve the blockchain dilemma we need to have three 
 
 * A ledger or database to store information in with regards to authentication, operational and financial transactions. **Zero-Chain**
 
-![image alt text](/img/tech-blocks.png)
+![image alt text](../img/tech-blocks.png)
 
 This system architecture allows for authenticated and trusted virtual system administrators to download, compile and deploy software on a grid of secure Zero-OS nodes with an immutable ledger that records all transactions, operational and financial.   This presents a platform on which a public (permissioned) blockchain can be run securely without requiring trusted people to operate the nodes.   
 

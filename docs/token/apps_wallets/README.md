@@ -1,6 +1,6 @@
 ## There are 4 different wallet options for the TFT:
 
-### 1. [3Bot App](/token/apps_wallets/3bot_app.md)
+### 1. [3Bot Connect App](/token/apps_wallets/3bot_app.md)
 
 Wallet included in the 3Bot app. Basic features. For iOS and Android.
 
@@ -14,4 +14,4 @@ For developers only. CLI interface.
 
 ### 4. [ThreeFold App](/token/apps_wallets/threefold_app.md)
 
-The First Itteration of the ThreeFold App
+The First Itteration of the ThreeFold App. This will fully be replaced by the 3Bot Connect app in the near future. 

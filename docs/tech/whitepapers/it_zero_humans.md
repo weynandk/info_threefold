@@ -1,4 +1,4 @@
-![image alt text](/img/tf-tech-logo.png)
+![image alt text](./img/tf-tech-logo.png)
 
 # IT Systems Without People Involved Are the Future
 

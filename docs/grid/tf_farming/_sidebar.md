@@ -5,7 +5,4 @@
     * [Farming Simulation Tools](/grid/tf_farming/farming_simulation_tools.md)
     * [How to set up/migrate your farm](/grid/tf_farming/v2_jsx_farmsetup.md)
     * [HPE Farming Hardware](/grid/tf_farming/farming_platforms/hpe.md)
-    * [Capacity table](/grid/tf_farming/capacity_types.md)
-* [Developing (coming 2020)](/grid/tf_farming/Developing.md)
     * [Testnet](/grid/tf_farming/testnet.md)
-* [Consuming (coming 2020)](/grid/tf_farming/Consuming.md)

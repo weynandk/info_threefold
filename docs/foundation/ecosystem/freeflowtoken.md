@@ -7,5 +7,3 @@ The aim of the FreeFlow Token (FFT) is to value human effort translated to 1 FFT
 Each FreeFlow Token user will need a 3Bot to get started.
 FreeFlow Tokens movement is driven by a motivated group of people from out of Ibiza.
 
-
-[FreeFlow Token on FreeFlow Pages](https://freeflowpages.com/s/freeflowtoken/)
