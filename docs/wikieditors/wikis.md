@@ -1,6 +1,6 @@
 # Wikis
 
-In 3bot admin dashboard you can access it on [localhost:7000/admin](localhost:7000/admin)
+In 3bot admin dashboard you can access it on http://localhost:7000/admin
 
 ![](./images/admindashboard.png)
 

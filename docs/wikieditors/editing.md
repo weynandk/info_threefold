@@ -7,11 +7,11 @@ Wikis are using the popular markdown format and "macros" for more advanced use c
 
 ## CodeServer 
 
-In 3bot admin dashboard you can access it on [localhost:7000/admin](localhost:7000/admin)
+In 3bot admin dashboard you can access it on http://localhost:7000/admin
 
 ![](./images/admindashboard.png)
 
-you can then go to our online code editor `CodeServer` in the sidebar [codeserver](http://localhost:7000/admin/#!/main/codeserver) and see something like
+you can then go to our online code editor `CodeServer` in the sidebar codeserver http://localhost:7000/admin/#!/main/codeserver and see something like
 
 ![codeserver](./images/codeserver.png)
 Here you can edit files easily and you can preview the markdown files as well
