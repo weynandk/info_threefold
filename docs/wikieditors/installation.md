@@ -87,15 +87,15 @@ Here is an example of what you will enter
 
 
 
-- Then to start your 3bot. just type `3bot start`.
+- Then to start your 3bot. just type in shell `3bot start`.
 
-- After that we can go to our browser to this link: http://localhost:7000
+- After that we can go to our browser to this link: http://localhost:7020
 
 - We will see the following screen
 
     ![Installation Image](images/install_3.png)
 
-in this step we will need the threebot connect app, you can download it from the [AppStore](https://apps.apple.com/us/app/3bot-connect/id1459845885) or [GooglePlayStore](https://play.google.com/store/apps/details?id=org.jimber.threebotlogin&hl=en) and use it to login with the 3Bot name you registered.
+in this step we will need the threebot connect app, you can download it froms the [AppStore](https://apps.apple.com/us/app/3bot-connect/id1459845885) or [GooglePlayStore](https://play.google.com/store/apps/details?id=org.jimber.threebotlogin&hl=en) and use it to login with the 3Bot name you registered.
 
 - Also, other people can access the dashboard, but they need to be added to admins from `Settings`, Also, admins can be dded to `j.tools.threebot.me.default.admins` via `kosmos` shell example:
 
