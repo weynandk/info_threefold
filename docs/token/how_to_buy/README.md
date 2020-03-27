@@ -4,18 +4,16 @@
 ## On the Liquid Exchange
 
 ### What’s Happening?
-As you know, ThreeFold is running an Token Listing Event set for the first half of 2020 with exchange partner Liquid! Prior to the Token Listing, we will be sharing the referral code for the Liquid exchange that will help ThreeFold Network successfull listing. 
+As you know, ThreeFold is running a Token Listing Event (TLE) set for the first half of 2020 with exchange partner Liquid!
 
-### What is an Token Listing Event?
-A Token Listing Event (TLE) is a listing of the public trading of ThreeFold Tokens on a trusted and reputable exchange.
+### What is a Token Listing Event (TLE)?
+A Token Listing Event (TLE) is a listing of the public trading of ThreeFold Tokens (TFT) on one or several trusted and reputable exchanges.
 
 ### Why are we doing a TLE?
-In order to generate awareness and funds (to further awareness) for the ThreeFold Network.
-Why Register With the ThreeFold Link?
-We are seeking at least 1,000 registrations as a showing of our community and our ability to drive meaningful participation in the market after the TLE. **Please note you are not fully registered until you verify your account.**
+In order to generate awareness for the ThreeFold Network, and to make the TFT available for anyone who would like to utilize the TF Grid.
 
 ### How to Register
-1. [Click on this link](https://www.liquid.com?affiliate=kmOSQysu714987) **(Please only use this referral link to register)**. 
+1. [Click on this link](https://www.liquid.com?affiliate=kmOSQysu714987) **(Please use this referral link to register)**. 
 *Note: You will be taken directly to Liquid’s main page. Don’t worry, the ThreeFold unique referral code is embedded in the URL (web address bar). Here’s a [video](https://vimeo.com/375504192/5ff16ed9dc) of what you’ll see.*
 2. Click on “Sign Up” in the top-right corner & follow the instructions.
 
@@ -27,7 +25,7 @@ We are seeking at least 1,000 registrations as a showing of our community and ou
 
 *Note: If you’re not given the option to verify via video but would like to do so, follow the instructions [here](https://help.liquid.com/en/articles/3104816-video-call-kyc-verification). If you choose to verify via the website, [here is a full explanation](https://help.liquid.com/en/articles/2273305-how-do-i-verify-kyc-my-liquid-account) of how to do so & what you will need.*
 
-If anything is still unclear here, please contact an admin on the ThreeFold Network Telegram channel.
+If anything is still unclear here, please contact an admin on the [ThreeFold Network News](https://t.me/threefoldnetwork) Telegram Channel.
 
 Please note there is a mobile application called “liquid” which might be easier to do you verification. It will  use your phone camera to “capture” your selfie, passport and proof of residency information.
 
@@ -38,4 +36,4 @@ Please note there is a mobile application called “liquid” which might be eas
 
 Here is the [ThreeFold referral link](https://www.liquid.com?affiliate=kmOSQysu714987). Please share it (or this page) with anybody you think would be interested in participating in the TLE. We can really use your support to generate awareness & excitement. If you are looking for additional materials on ThreeFold, please get in touch with Sam T. or Adnan.
 
-Once your registered, follow news to join the TLE & let’s get this party started!
+Once your registered, follow updated on our [Telegram Channel](https://t.me/threefoldnetwork) or in the [ThreeFold Forum](https://forum.threefold.io) to join the TLE & let’s get this party started!
