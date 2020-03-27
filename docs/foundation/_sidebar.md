@@ -4,3 +4,4 @@
 * [Videos](/foundation/videos/README.md)
 * [Legal](/foundation/legal/README.md)
 * [Web Resources](/foundation/web_resources/README.md)
+* [Collaboration](/foundation/collaboration/README.md)
