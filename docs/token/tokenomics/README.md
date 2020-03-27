@@ -26,25 +26,26 @@ Market
 
 * Difficulty level
 
-See more in our simulator section how this works.
+See more in our [simulator section](/token/tokenomics/simulations.md) how this works.
 
-## Earning Tokens: Cultivating
+## Earning Tokens: Cultivation
 
-Users of the Grid will purchase capacity from the Farmer who has made this capacity available on the ThreeFold Grid. This payment for the capacity will be made in ThreeFold Tokens. 
+Anyone can create applications on top of the Grid. They can purchase capacity from the Farmer who has made this capacity available on the ThreeFold Grid. This payment for the capacity will be made in ThreeFold Tokens. 
 
 # Maximum Tokens in Circulation
 
+To ensure an incentivized model for all stakeholders in the ecosystem, there is a 2 billion cap on the maximum amount of ThreeFold Token in circulation at all times. 
+
 ## Burning
 
-To ensure an incentivized model for all stakeholders in the ecosystem, there is a 2 billion cap on the maximum amount of ThreeFold Token in circulation at all times. We do this by what they call "burning of tokens". 
+One way to do this, is burning tokens.
 
-This means that of each transaction made in order to reserve capacity 50% of the tokens will be burned. (transactions that are made to other wallets, exchanges, etc are not subject to the burning of tokens).
+This means that of each cultivation transaction 50% of the tokens will be burned. (transactions that are made to other wallets, exchanges, etc are not subject to the burning of tokens).
 
 E.g. a farmer asks 100 TFT for a certain amount of capacity + timeframe. The user of this capacity will pay the full 100 TFT. Yet the farmer will only receive a % of this amount.
 
-As 50% is burned off, and part of the transaction also goes to the ThreeFold Foundation.
+As 50% is burned off, and 10% of the transaction also goes to the ThreeFold Foundation.
 
-The number that goes to the ThreeFold Foundation will decrease over time.
 
 ## Difficulty level
 
