@@ -1,4 +1,4 @@
-# Circular Collaboration Level
+# peer2peer awareness level
 
 ![](images/levels.png)
 
@@ -42,8 +42,6 @@ We have created [a test which can potentially help you to define your level](htt
 - should realize that in a FreeFlow organization everyone will get a lot of freedom but will need to be responsible and be 100% transparent.
 - should understand and know about the values of the organization/community they are working in.
 - should aspire to become a wolf in a maximum of 2 years.
-- understands that spiritual growth is super important and realizes that this growth starts with yourself, blaming others is not part of this.
-    - they are willing to put love first (respect (love) for yourself and others)
 
 ### Wolf
 
@@ -72,10 +70,7 @@ We have created [a test which can potentially help you to define your level](htt
 	- makes sure that all delivered code/content is on code management systems at any point in time
 	- makes sure that it's very easy for others to continue, test and reproduce your work.
 	- makes sure that the work can be found and comments are on the stories at any point in time
-- Sprititual Growth is important
-    - They understand/accept that Personal Growth/Development is important and are willing to work on it.
-	- They understand that we have been brainwashed all our lives with dear/control/pyramid behaviour and are actively working to not follow those paths
-	- Love first for every action
+- They see that Personal Development is also important (see below) and are willing to work on it.
 - Good in English (written & spoken).
 
 ### Elephant
@@ -114,7 +109,6 @@ We have created [a test which can potentially help you to define your level](htt
 	- will escalate when he/she is stuck to the right people
 	- takes responsibility for his own work and does not expect others to check him/her
 - Good in English (written & spoken).
-- A good example for others for spiritual growth.
 
 ### Dolphin
 
@@ -148,25 +142,13 @@ We have created [a test which can potentially help you to define your level](htt
 - An eagle is very aware & knows all his/her strengths & weaknesses.
 - An eagle is compassionate.
 
-## Values
+## Personal Development
 
-We believe it's super important that people work on their own development, quite some information has been written about this already, we hope below gives you inspiration:
-
-- STARTING POINT: [www.freeflownation.org/manifesto](https://www.freeflownation.org/manifesto.html)
-
-
-- [ethical_design_manifesto](ethical_design_manifesto.md)
-- [goals_values](goals_values.md)
-- [kristof_build_a_better_world_manifesto](kristof_build_a_better_world_manifesto.md)
-- [responsive_org_manifesto](responsive_org_manifesto.md)
-- [the_art_of_being_loyal_to_your_values](the_art_of_being_loyal_to_your_values.md)
-- [XQ](XQ.md)
+We believe it's super important that people work on their own development, quite some information has been written about this already, we hope this and other information in this wiki will give you the required inspiration.
 
 Of course, this is only the starting point, growing into your own path is a life mission.
 
 ## Self-assesment Test
 
 - [Self-assesment Test](https://docs.google.com/spreadsheets/d/1ToPlNUr_R2GeN_PTyVSdb0ITXm6jjRzD6FAw6N1FpVE/edit#gid=999956966)
-
-all feedback very welcome
 

@@ -14,6 +14,10 @@ Information flow and discipline is very important in such an organization.
 
 see [circles_roles](circles_roles.md)
 
+### Remunerations
+
+see [circles_remuneration](circles_remuneration.md)
+
 ### Practical Requirements
 
 You are willing to:
