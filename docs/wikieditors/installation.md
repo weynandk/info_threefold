@@ -1,18 +1,22 @@
-# JumpscaleX Installation Instructions
+<!-- vscode-markdown-toc -->
+* 1. [Prepare your machine](#prepare-your-machine)
+    * 1.1. [Supported Operating Systems](#supported-operating-systems)
+    * 1.2. [Prerequisites for the SDK installation.](#prerequisites-for-the-sdk-installation.)
+* 2. [Installation](#installation)
+    * 2.1. [After Installation](#after-installation)
 
-- [JumpscaleX Installation Instructions](#jumpscalex-installation-instructions)
-  - [Prepare your machine](#prepare-your-machine)
-    - [Supported Operating Systems](#supported-operating-systems)
-    - [Required Packages](#required-packages)
-  - [Installation](#installation)
-    - [After Installation](#after-installation)
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc --># JumpscaleX SDK Installation Instructions
 
 
-## Prepare your machine
+##  1. <a name='prepare-your-machine'></a>Prepare your machine
 
-JumpscaleX is currently supported for ubuntu and macOS, we will go through the installation process to be on a sanboxed container in your system.
+The JumpscaleX SDK is currently supported for ubuntu and macOS, we will go through the installation process for a sandboxed container setup on your system.
 
-### Supported Operating Systems
+###  1.1. <a name='supported-operating-systems'></a>Supported Operating Systems
 
 - Ubuntu 18.04 or newer
 - macOS 10.7 or newer
@@ -21,7 +25,7 @@ Also we will need some requirments to be begin with. to install use the next com
 
 **Note** These packages are for ubuntu, for macOS users should have them already so skip this step
 
-### Required Packages
+###  1.2. <a name='prerequisites-for-the-sdk-installation.'></a>Prerequisites for the SDK installation.
 
 - Open your terminal, or `press ctrl + alt + t` and type the following
   
@@ -38,17 +42,22 @@ Also we will need some requirments to be begin with. to install use the next com
     pip3 install click requests
     ```
 
-- Then we will make the following configuration which will give you an sshkey if you don't have one
-  
+- Then we need an sshkey to facilitate secure and easy access to the 3bot container.
     ```bash
+    # Load the ssh agent
     eval `ssh-agent -s`
+    # Skip the ssh-keygen command in case you already have a ssh key for your root account.
     ssh-keygen
+    # Adds private key identities to the OpenSSH authentication agent
     ssh-add
+    # Show the public key that belongs to the loaded private key
+    ssh-add -L
     ```
 
-- All configurations are ready. Next step is installation.
 
-## Installation
+- All config
+
+##  2. <a name='installation'></a>Installation
 
 - In your terminal execute the following, this will download the installer file, change its permission to make it executable
 
@@ -73,7 +82,7 @@ The result will be something like the following, will take few minuts please wai
 
 Congratulations, now you have your 3bot installed.
 
-### After Installation
+###  2.1. <a name='after-installation'></a>After Installation
 
 Your 3bot is protected by 3Bot connect, you need to register your current 3Bot, from 3Bot server shell (for now, you need to suffix your name with `.3bot`)
 
