@@ -25,22 +25,8 @@ We do whatever we can to store everything in Github. This gives us following adv
 
 - All issues/feature requests/stories/questions to do with __content__ (product, info, website, ...) goes onto a github repo.
 
-## The (only) labels we use
+[IMPORTANT DOCS ABOUT HOW TO COLLABORATE IN GITHUB](https://github.com/threefoldtech/home/tree/master/contribution)
 
-![](github_labels.png)
-
-__Labels__ are used for 
-
-- type
-- priority
-- state 
-
-![](github_milestones.png)
-
-__Milestones__ are used to put issues into certain milestone.
-The Milestones are the same over all repo's.
-
-__Projects__ since waffle is closing doors, Github projects are a good way to have a [kanban view](https://help.github.com/en/articles/about-project-boards#templates-for-project-boards)
 
 ## DO NOT
 
