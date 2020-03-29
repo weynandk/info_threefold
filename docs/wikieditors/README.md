@@ -2,7 +2,7 @@
 
 This manual is targeting wiki editors and non-technical users of 3bot. It will cover
 
-* [Installation](./installation_linix.md)
+* [Installation](./installation_linux.md)
 * [Editing](./editing.md)
 * [Wikis and Wiki Syntax](./wikis.md)
   - [Links](./links.md)
