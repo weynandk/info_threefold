@@ -1,6 +1,26 @@
+# Hewlett Packard Enterprise
+
+![hpe logo](/ecosystem/img/hpe-logo.jpg)
+
 ![](../../img/HPE.png)
 
-# Hewlett Packard Enterprise
+
+HPE and TF cooperate in a non-exclusive partnership, that supports common business goals and it’s based on promoting responsible technology that creates a meaningful IMPACT on humanity and our planet.
+
+1. HPE and TF jointly promote ThreeFoldSolutions which involves the integration of TF technology within the HPE offerings. Also, TF is added as an HPE Cloud partner to the Cloud28+ Network.  
+2. Expansion of HPEs revenue opportunity due to TF farming equipment sales, assuming at least an estimated 80% market share in the TF Grid. HPE to provide clients with the option to connect idle computing capacity in their data centers to the TF Grid. This provides an additional source of income through Digital Currency (farming of capacity and reselling capacity to external Clients).  
+3. HPE to provide HPE specific Computing and Storage Capacity to new clients, who are interested in farming of digital currency (TF Tokens). This Capacity can be based on refurbished or new Hardware. 
+4. HPE and TF intend to integrate the TF Grid offering into HPEs Multi-Cloud Portal management software called “OneSphere”. This means that clients can choose capacity from various Cloud providers. 
+5. TF will raise awareness of their offerings by cooperating with a truly global technology company (HPE) and will expand their customer base by the deployment of HPE client capacity to the TF Grid​.
+
+- Providing certified farming hardware
+- Farming in Poland and Switzerland
+- Promote ThreeFold farming through [Cloud 28+](https://cloud28plus.com/EMEA/catalogue/ThreeFold-Farming) initiative
+- Grow the grid, many projects, many projects being worked on & further developed.
+
+Website:  https://hpe.com
+
+## Partnership
 
 TF Tech and HP Enterprise are partnering to create a strategic plan to help Enterprise around the world to create and deliver private blockchain and compute and storage solutions.
 
@@ -13,9 +33,11 @@ Some of our customers run traditional IT environments. Most are transitioning to
  
 
 ### Technology That Fuels Transformation
+
 We make IT environments more efficient, productive and secure, enabling fast, flexible responses to a rapidly changing competitive landscape. We enable organisations to act quickly on ideas by delivering infrastructure that can be easily composed and recomposed to meet shifting demands so they can lead in today’s marketplace of disruptive innovation.
 
 ### Solutions You Need to Succeed
+
 We deliver high-quality, high-value products, consulting and support services in a single package. That’s one of our principal differentiators. We have industry-leading positions in servers, storage, wired and wireless networking, converged systems, software, services and cloud. And with customised financing solutions and strategy, we can provide the right tech solutions for your unique business goals.
 Innovating for Today and Tomorrow
 Hewlett Packard has been in the innovation business for more than 75 years. Our vast intellectual property portfolio and global research and development capabilities are part of an innovation roadmap designed to help organisations of all sizes – from global enterprises to local startups – transition from traditional technology platforms to the IT systems of the future.
