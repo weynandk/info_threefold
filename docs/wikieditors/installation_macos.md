@@ -95,8 +95,8 @@ Then we can install our threebot using
 ```bash
 # Make sure there are no remnissents from previous versions and installations.
 /tmp/jsx containers-reset
-# install
-/tmp/jsx threebot
+# install tfgrid sdk
+/tmp/jsx sdk
 ```
 
 
