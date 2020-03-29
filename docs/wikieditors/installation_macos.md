@@ -1,0 +1,125 @@
+## Local installation (MacOS)
+
+### Prerequisites for the SDK installation.
+
+In order to install the SDK in a container (recommended) you should have the docker software suite. You can find instructions for most operating systems [here](https://docs.docker.com/install/)
+
+Also you need to have python installed on your machine.  For MacOS we recommend using the package manager [```brew```](https://brew.sh/), but there are regular installers for MacOS as well.  Here we assume that you have installed brew:
+```bash
+brew install python3
+```
+After this finishes you can check the installation
+```bash
+$ brew info python3 
+python: stable 3.7.7 (bottled), HEAD
+Interpreted, interactive, object-oriented programming language
+https://www.python.org/
+/usr/local/Cellar/python/3.7.7 (4,125 files, 63.2MB) *
+  Poured from bottle on 2020-03-11 at 16:28:24
+From: https://github.com/Homebrew/homebrew-core/blob/master/Formula/python.rb
+==> Dependencies
+Build: pkg-config ✘
+Required: gdbm ✔, openssl@1.1 ✔, readline ✔, sqlite ✔, xz ✘
+==> Options
+--HEAD
+        Install HEAD version
+==> Caveats
+Python has been installed as
+  /usr/local/bin/python3
+
+Unversioned symlinks `python`, `python-config`, `pip` etc. pointing to
+`python3`, `python3-config`, `pip3` etc., respectively, have been installed into
+  /usr/local/opt/python/libexec/bin
+
+You can install Python packages with
+  pip3 install <package>
+They will install into the site-package directory
+  /usr/local/lib/python3.7/site-packages
+
+See: https://docs.brew.sh/Homebrew-and-Python
+==> Analytics
+install: 514,400 (30 days), 1,467,113 (90 days), 5,624,603 (365 days)
+install-on-request: 266,354 (30 days), 761,717 (90 days), 2,811,011 (365 days)
+build-error: 0 (30 days)
+```
+And we need a gew additional libraries for the installation:
+```bash
+pip3 install click requests;
+```
+
+Then we need an sshkey to facilitate secure and easy access to the 3bot container.
+```bash
+    # Load the ssh agent
+    eval `ssh-agent -s`
+    # Skip the ssh-keygen command in case you already have a ssh key for your root account.
+    ssh-keygen
+    # Adds private key identities to the OpenSSH authentication agent
+    ssh-add
+    # Show the public key that belongs to the loaded private key
+    ssh-add -L
+    ```
+The last command should show the public key
+```bash
+sh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC05P5eFki+5vHdn9BMrQwj0LZzl4FxwTAQ4GtwJFTS4Hog10Ly9sdhPQANOWASC1FXwZThVzj91hL8JCFuBZ5pDx29rJCDMQdqqVHQI5j8qkh4ZNNNQr/QLxdGl53RtQgabGe0OSnP+ZdvGHuSQdTg03bomGrpCYcahLbcj1yWBsCuF2VDgnW0AHeMR0lEubbKMSQrTNCuZqrGbRPuxaHzWj9KQSe4xiRtA/PB7ccMsQlXeIh5pv8QI6k858oJzvlswczTgZivCKoHRnU6XyDVd60y9v3BpbB7YgTasw/VXUDt4oH7U61VI3Jy7t/d9jazMcDt3CngDtRpWQqZSO77 .ssh/id_rsa
+root@happy:~# 
+```
+
+### Step 2:  JumscaleX SDK installation
+
+In a terminal execute the following commands. This will download the installer, change its permission to make it executable.  In MacOS this install can be done as a normal user, you do not need to be root (no sudo -i required as witht the ubuntu installation).
+
+    ```
+    curl https://raw.githubusercontent.com/threefoldtech/jumpscaleX_core/development/install/jsx.py?$RANDOM > /tmp/jsx;
+    chmod +x /tmp/jsx;
+    ```
+
+This script provides a number of commands to operate / configure the SDK.  Options are show with the ```--help``` flag.
+```bash
+root@happy:~ /tmp/jsx --help
+- redis loghandler cannot be loaded
+Usage: jsx [OPTIONS] COMMAND [ARGS]...
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  basebuilder         create the base ubuntu docker which we can use as
+                      base...
+  check
+  configure           initialize 3bot (JSX) environment
+  connect             only for core developers and engineers of threefold,...
+  container-delete    delete the 3bot container :param name: :return:
+  container-export    export the 3bot to image file, if not specified will...
+  container-import    import container from image file, if not specified...
+  container-install   create the 3bot container and install jumpcale inside...
+  container-kosmos    open a kosmos shell in container :param name: name of...
+  container-save      starts from an export, if not there will do the
+                      export...
+  container-shell     open a shell to the container for 3bot :param name:...
+  container-start     start the 3bot container :param name: :return:
+  container-stop      stop the 3bot container :param name: :return:
+  containers          list the containers :param name: :return:
+  containers-reset    remove all docker containers & images :param name:...
+  generate
+  install             install jumpscale in the local system (only supported...
+  jumpscale-code-get  install jumpscale in the local system (only supported...
+  kosmos
+  modules-install     install jumpscale module in local system :return:
+  package-new         scaffold a new package tree structure
+  threebot            jsx threebot -d :param delete: delete the containers...
+  threebot-flist      create flist of 3bot docker image ex: jsx...
+  threebotbuilder     create the 3bot and 3botdev images
+  wiki-load
+  wiki-reload         reload the changed files from wikis repo ex: jsx...
+  wireguard           jsx wireguard enable wireguard, can be on host or...
+  ```
+Our recommendation id to install the SDK in a container.  There are some command to start and stop the container in a controlled manner. If you have installed 3bot containers in the past - please check and remove the 3bot entries from the known_host file.
+
+Then we can install our threebot using
+
+    ```bash
+    # Make sure there are no remnissents from previous versions and installations.
+    /tmp/jsx containers-reset
+    # install
+    /tmp/jsx container-install
+    ```

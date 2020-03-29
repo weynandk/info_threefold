@@ -1,76 +1,107 @@
-<!-- vscode-markdown-toc -->
-* 1. [Prepare your machine](#prepare-your-machine)
-    * 1.1. [Supported Operating Systems](#supported-operating-systems)
-    * 1.2. [Prerequisites for the SDK installation.](#prerequisites-for-the-sdk-installation.)
-* 2. [Installation](#installation)
-    * 2.1. [After Installation](#after-installation)
+# JumpscaleX SDK Installation Instructions
 
-<!-- vscode-markdown-toc-config
-	numbering=true
-	autoSave=true
-	/vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc --># JumpscaleX SDK Installation Instructions
+There  are two ways that you can work with the JumpscaleX SDK:
+- a local install on a servers / laptop
+- a version of the SDK installed online o the TF Grid.
 
+In this document we will explain the installation for both options and local installations.
 
-##  1. <a name='prepare-your-machine'></a>Prepare your machine
-
-The JumpscaleX SDK is currently supported for ubuntu and macOS, we will go through the installation process for a sandboxed container setup on your system.
-
-###  1.1. <a name='supported-operating-systems'></a>Supported Operating Systems
-
+ **supported Operating Systems** are:
 - Ubuntu 18.04 or newer
 - macOS 10.7 or newer
+- Windows (to be completed)
 
-Also we will need some requirments to be begin with. to install use the next command.
+## Local installation (Linux)
+### Step1: Prepare your machine
 
-**Note** These packages are for ubuntu, for macOS users should have them already so skip this step
+The JumpscaleX SDK is currently supported on Linux, more specifically this installation script will guide you through the steps for the ubuntu distribution.  Other linux distributions will be supported in the future.
 
-###  1.2. <a name='prerequisites-for-the-sdk-installation.'></a>Prerequisites for the SDK installation.
+#### Prerequisites for the SDK installation.
 
-- Open your terminal, or `press ctrl + alt + t` and type the following
-  
-    ```bash
-    sudo -i; # this may ask you for your password
-    apt update -y;
-    apt install -y openssh-server locales curl git rsync unzip lsb python3 python3-pip;
-    pip3 install click requests;
-    ```
+In order to install the SDK in a container (recommended) you need the docker software suite. You can find instructions for installing it in ubuntu [here](https://docs.docker.com/install/).
 
-- Then this step is for both ubuntu and macOS
+When you have docker installed on your system, pleass open a terminal and execute the following commands:
+```bash
+sudo -i; # this may ask you for your password
+apt update -y;
+apt install -y openssh-server locales curl git rsync unzip lsb python3 python3-pip;
+pip3 install click requests;
+```
+This will update ubuntu to the latest stable release and make sure you have the required packages installed. The next step is to make sure there is a sshkey available in the root account for secure access to the SDK container.
+```bash
+# Make sure the ssh agent is available
+eval `ssh-agent -s`
+# Skip the ssh-keygen command in case you already have a ssh key for your root account.
+ssh-keygen
+# Adds private key identities to the OpenSSH authentication agent
+ssh-add
+# Show the public key that belongs to the loaded private key
+ssh-add -L
+```
 
-    ```bash
-    pip3 install click requests
-    ```
+The last command should show the public key
+```bash
+sh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC05P5eFki+5vHdn9BMrQwj0LZzl4FxwTAQ4GtwJFTS4Hog10Ly9sdhPQANOWASC1FXwZThVzj91hL8JCFuBZ5pDx29rJCDMQdqqVHQI5j8qkh4ZNNNQr/QLxdGl53RtQgabGe0OSnP+ZdvGHuSQdTg03bomGrpCYcahLbcj1yWBsCuF2VDgnW0AHeMR0lEubbKMSQrTNCuZqrGbRPuxaHzWj9KQSe4xiRtA/PB7ccMsQlXeIh5pv8QI6k858oJzvlswczTgZivCKoHRnU6XyDVd60y9v3BpbB7YgTasw/VXUDt4oH7U61VI3Jy7t/d9jazMcDt3CngDtRpWQqZSO77 .ssh/id_rsa
+root@happy:~# 
+```
 
-- Then we need an sshkey to facilitate secure and easy access to the 3bot container.
-    ```bash
-    # Load the ssh agent
-    eval `ssh-agent -s`
-    # Skip the ssh-keygen command in case you already have a ssh key for your root account.
-    ssh-keygen
-    # Adds private key identities to the OpenSSH authentication agent
-    ssh-add
-    # Show the public key that belongs to the loaded private key
-    ssh-add -L
-    ```
+#### Step 2:  JumscaleX SDK installation
 
+In a terminal execute the following commands. This will download the installer, change its permission to make it executable
+```bash
+curl https://raw.githubusercontent.com/threefoldtech/jumpscaleX_core/development/install/jsx.py?$RANDOM > /tmp/jsx;
+chmod +x /tmp/jsx;
+```
 
-- All config
+This script provides a number of commands to operate / configure the SDK.  Options are show with the ```--help``` flag.
+```bash
+root@happy:~# /tmp/jsx --help
+- redis loghandler cannot be loaded
+Usage: jsx [OPTIONS] COMMAND [ARGS]...
 
-##  2. <a name='installation'></a>Installation
+Options:
+  --help  Show this message and exit.
 
-- In your terminal execute the following, this will download the installer file, change its permission to make it executable
+Commands:
+  basebuilder         create the base ubuntu docker which we can use as
+                      base...
+  check
+  configure           initialize 3bot (JSX) environment
+  connect             only for core developers and engineers of threefold,...
+  container-delete    delete the 3bot container :param name: :return:
+  container-export    export the 3bot to image file, if not specified will...
+  container-import    import container from image file, if not specified...
+  container-install   create the 3bot container and install jumpcale inside...
+  container-kosmos    open a kosmos shell in container :param name: name of...
+  container-save      starts from an export, if not there will do the
+                      export...
+  container-shell     open a shell to the container for 3bot :param name:...
+  container-start     start the 3bot container :param name: :return:
+  container-stop      stop the 3bot container :param name: :return:
+  containers          list the containers :param name: :return:
+  containers-reset    remove all docker containers & images :param name:...
+  generate
+  install             install jumpscale in the local system (only supported...
+  jumpscale-code-get  install jumpscale in the local system (only supported...
+  kosmos
+  modules-install     install jumpscale module in local system :return:
+  package-new         scaffold a new package tree structure
+  threebot            jsx threebot -d :param delete: delete the containers...
+  threebot-flist      create flist of 3bot docker image ex: jsx...
+  threebotbuilder     create the 3bot and 3botdev images
+  wiki-load
+  wiki-reload         reload the changed files from wikis repo ex: jsx...
+  wireguard           jsx wireguard enable wireguard, can be on host or...
+  ```
+As stated above our recommendation is to install the SDK in a container.  The JSX tool has commands to start and stop the container in a controlled manner. If you have installed 3bot containers in the past - please check and remove the 3bot entries from the known_host file.
 
-    ```bash
-    curl https://raw.githubusercontent.com/threefoldtech/jumpscaleX_core/development/install/jsx.py?$RANDOM > /tmp/jsx;
-    chmod +x /tmp/jsx;
-    ```
-
-- Then we can install our threebot using
-
-    ```bash
-    /tmp/jsx threebot;
-    ```
+Then we can install our threebot using
+```bash
+# Make sure there are no remnissents from previous versions and installations.
+/tmp/jsx containers-reset
+# install
+/tmp/jsx threebot
+```
 
 The result will be something like the following, will take few minuts please wait untill it's done.
 
@@ -82,7 +113,18 @@ The result will be something like the following, will take few minuts please wai
 
 Congratulations, now you have your 3bot installed.
 
-###  2.1. <a name='after-installation'></a>After Installation
+
+The result will be something like the following, will take few minuts please wait untill it's done.
+
+![Installation Image](images/install_1.png)
+
+- After installation is done you will see the following screen
+
+![Installation Image](images/install_2.png)
+
+Congratulations, now you have your 3bot installed.
+
+### After Installation
 
 Your 3bot is protected by 3Bot connect, you need to register your current 3Bot, from 3Bot server shell (for now, you need to suffix your name with `.3bot`)
 
