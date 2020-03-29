@@ -113,17 +113,6 @@ The result will be something like the following, will take few minuts please wai
 
 Congratulations, now you have your 3bot installed.
 
-
-The result will be something like the following, will take few minuts please wait untill it's done.
-
-![Installation Image](images/install_1.png)
-
-- After installation is done you will see the following screen
-
-![Installation Image](images/install_2.png)
-
-Congratulations, now you have your 3bot installed.
-
 ### After Installation
 
 Your 3bot is protected by 3Bot connect, you need to register your current 3Bot, from 3Bot server shell (for now, you need to suffix your name with `.3bot`)
