@@ -42,10 +42,10 @@ root@happy:~#
 
 In a terminal execute the following commands. This will download the installer, change its permission to make it executable.  In MacOS this install can be done as a normal user, you do not need to be root (no sudo -i required as witht the ubuntu installation).
 
-    ```
-    curl https://raw.githubusercontent.com/threefoldtech/jumpscaleX_core/development/install/jsx.py?$RANDOM > /tmp/jsx;
-    chmod +x /tmp/jsx;
-    ```
+```
+curl https://raw.githubusercontent.com/threefoldtech/jumpscaleX_core/unstable/install/jsx.py?$RANDOM > /tmp/jsx;
+chmod +x /tmp/jsx;
+```
 
 This script provides a number of commands to operate / configure the SDK.  Options are show with the ```--help``` flag.
 
@@ -86,7 +86,7 @@ Commands:
   wiki-load
   wiki-reload         reload the changed files from wikis repo ex: jsx...
   wireguard           jsx wireguard enable wireguard, can be on host or...
-  ```
+```
 
 ## Install threebot
 
