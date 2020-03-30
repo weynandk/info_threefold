@@ -15,7 +15,7 @@ You can buy TFT only through Stellar Lumens (XLM), for now.
 
 2. Next, you will need to trust TFT, which will be issued. Everyting is credit on Stellar.
 
-    _The Bot will connect to the Kracken exchange to find the price of XLM and will modify sell orders to match 0.15 (the price of the TFT)._
+    _The Bot will connect to the Kracken exchange to find the price of XLM and will modify sell orders to match 0.15 USD (the price of the TFT)._
 
 -----
 
@@ -23,6 +23,7 @@ _Notes / Extras:_
 
 - _Rob will create an example this weekend. We can try a different wallet. Will first do it on testnet. We should test another wallet as well._
 - _Only place lumens against TFT orders._
+- _The stellar exchange allows people to buy using differents assets and converts it to Lumens first. 
 - _If ppl have BTC and has a buy order / sell order._
 - _We will place sell orders through lumens._
-- _Will create so always 0.15 in Lumens._
+- _Will create so always 0.15 USD in Lumens._
