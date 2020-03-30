@@ -1,7 +1,17 @@
-
-![image alt text](/token/img/tokenomics-sketch.jpg)
-
 # ThreeFold Tokenomics
+
+![image alt text](/token/img/tokenomics-flowjpg)
+
+# Threefold Tokenomics In 6 Easy Steps
+
+Step 1. a farmer adds capacity to the grid. earns tokens for farming.
+
+Step 2. farmer trades his TFT for fiat or other digital currencies
+
+Step 3. a user buys TFT on an exchange
+
+Step 4. a user reserves capacity with the TFT > TFT’s from the transaction are distributed: farmer earns tokens for cultivation, a part goes to the foundation, a part gets burned.
+
 
 The ThreeFold Token is developed in a way that it incentivizes the growth of the ThreeFold Grid. 
 Each farmer has two streams of TFT income:
