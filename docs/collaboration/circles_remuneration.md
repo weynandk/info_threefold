@@ -15,7 +15,7 @@ we make distinction between networkers and advocates.
 
 see Bonus token pool (our alternative on stock options)
 
-- [bonus_token_pool](bonus_token_pool.md)
+- [bonus_token_pool](/collaboration/bonus_token_pool.md)
 
 The P2P awareness level is an important factor.
 

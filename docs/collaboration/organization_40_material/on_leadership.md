@@ -2,7 +2,6 @@
 
 ## A Selection of Tips from some respected Leaders (from all types of organizations - some Red, some Orange, some Teal...)
 
-
 ### Summary of some of the best points
 
 * Doing is better than Perfect
@@ -31,11 +30,12 @@
 * Be humble.  Dont claim to be best / top / fastest / cheapest
 
 ### Simon Sinek
+
 * Start with the “Why?” (see [link](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action) to Simon Sinek).  
 * Everyone in the company should understand why we are doing this (to transform the internet to neutral Edge), how we are doing this (neutral green Development Bank, Operator, Directory) and what we are doing (safe digital Token)
 
 
-### Bill Belichick:  link
+### Bill Belichick
 
 * Leadership means building a team that's exhaustively prepared, but able to adjust in an instant  "The only sign we have in the locker room is from 'The Art of War.' 'Every battle is won before it is fought,'" says Belichick, who started breaking down films of opposing teams when he was 7 years old and hanging out with his dad, Steve, an assistant coach at Annapolis
 * Leadership means having the discipline to deploy your "dependables"  You know your star performers? The ones who can dazzle and amaze, except when they don't? They're definitely appealing, Belichick admits.  But over the years, he's learned they're not his type. He'd rather stick with his tried-and-true people — call them his "dependables."
@@ -43,7 +43,8 @@
 * Leadership means caring about everything going on in the lives of your people.  Maybe the previous rule would make you think otherwise, but Belichick strongly believes you must see your team not just as players, per se, but as people who have full, three-dimensional, and often messy lives.  "There are a lot of things that affect what happens on the field that occur off the field," he says. Players "have wives and girlfriends. And they have babies. And they have personal situations. They have parents that are sick. All of it runs in together."
 * Leadership means never resting on your laurels.  Ask Belichick if he's still celebrating the stunning come-from-behind Super Bowl victory in February and you get another "You're killing me here" look.  "We're onto 2017. No one cares about 2016 anymore," he says. "You can't look back. We don't talk about last year. We don't talk about next week. We talk about today, and we talk about the next game. That's all we can really control."
 
-### Nick Saban:  link, 
+### Nick Saban
+
 * Make routine decisions habitual so they don’t require mental energy. Saban famously eats two Oatmeal Creme Pies for breakfast every morning. He also eats the same salad every day for lunch. It’s not that he wouldn’t enjoy a more varied diet; he eats the same thing so he doesn’t have to spend a single second debating what he wants for breakfast or lunch
 * Focus on the process over the outcome. Every great leader I know is fascinated by the process. Nearly every follower is obsessed with outcomes. Questions: What processes are the most important to experience the outcomes you desire?
 * Be willing to hire toward your weakness. Because hiring is difficult, leaders often make one of two mistakes: they either hire someone just like them or they are afraid to hire someone better than them. (See: You Don’t Have to Do It on Your Own)  
@@ -52,12 +53,14 @@
 * Everything matters. Saban is often viewed as a micro-manager. While the term is normally viewed as a negative, for Saban it’s listed as a strength. In his view, everything matters. There is nothing so minor or inconsequential that it is out of his site of concern. Everything speaks to the culture of the organization, influences the people involved, and plays a role in determining success and failure.  Questions:  What details have your overlooked to your detriment?
 * Dress for success.  Look like the guy w a plan
 
-### Jamie Dimon (JP Morgan) link 
+### Jamie Dimon (JP Morgan) 
+
 * Always be transparent – about everything: Transparency from leadership is critical to building a culture of trust. "Share everything," Dimon said. "You never want someone to walk into a meeting thinking you're hiding information. You can't play that game."
 * Address conflicts immediately: "Don't avoid problems or confrontations," Dimon suggested. "Conflicts don't age well. Deal with issues sooner rather than later as they don't resolve themselves. They get worse."
 * Experience your business firsthand
 
-### Bill McDermott (SAP) link 
+### Bill McDermott (SAP) 
+
 * Lead with a higher purpose.  "Having a higher purpose has to touch both the customer and your people because you are playing for stakes beyond money."  If you are running a company and haven't defined your purpose for existence beyond making money, don't do another thing. If you are thinking of starting a company determine the purpose, before you even think about developing a website.
 * Surround yourself with better people.  One of the biggest mistakes I see entrepreneurs make is thinking they have to be be the expert in everything.
 * McDermott said he learned early in his career that "every leader has to have the humility to recognize their success will be based on choosing the very best people."  One of the best ways to surround yourself with better people is to know your strengths and then hire people around you who excel in your areas of weakness.
@@ -69,6 +72,7 @@
 * Ask yourself: How many of these lessons are you are implementing on an ongoing basis? If you identify some gaps, there is no better time to start filling them than the present.
 
 ### Jeff Immelt (General Electric CEO) 
+
 * Take personal responsibility.
 * Maintain clear organizational goals.
 * Understand the depth, breadth and context of any given situation.
@@ -80,7 +84,8 @@
 * Leave certain things unsaid and let the team find its own way.
 * Like the people around you and treat them well. 
 
-### Daniel Zhang (Alibaba CEO):  link
+### Daniel Zhang (Alibaba CEO)
+
 * Make meetings efficient: find weak spots - not trade updates
 * Make imperfect decisions - even if wrong.  You can always course-correct
 * Quit coordinating purposelessly (leverage your quarterbacks - give them some free rein)
@@ -88,7 +93,8 @@
 * Dont fixate on numbers (or near term)
 * Get lots of sleep
 
-### Steve Schwarzmann (Blackstone):  link
+### Steve Schwarzmann (Blackstone)
+
 * Have a worthy fantasy (a cause)
 * Keep your integrity
 * Cultivate influence
@@ -97,13 +103,15 @@
 * Mentor people
 * Speak up for what’s right
 
-### Steve McCann (Lend Lease):  link
+### Steve McCann (Lend Lease)
+
 * Respect your own shortcoming (ask for external opinions about you and what you are doing)
 * Make sure your team fills any gaps you have - and make sure they are good -what do you need?
 * Have some style - be able to influence folks
 * Be resilient
 
-### Andres Gluski (AES):  link
+### Andres Gluski (AES)
+
 * Never make an important decision while you are feeling emotional; either too happy, surprised, or angry. 
 * Similarly, never make a big decision until you have talked it over with people you trust who are knowledgeable about the matter. 
 * Then, be decisive once you have heard them out.

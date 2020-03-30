@@ -2,7 +2,7 @@
 
 ### teal
 
-see [Teal Organization](teal_organization.md)
+see [Teal Organization](/teal/teal_organization.md)
 
 ### Digital Organization (DO)
 

@@ -16,7 +16,7 @@ see [circles_roles](/collaboration/circles_roles.md)
 
 ### Remunerations
 
-see [circles_remuneration](/collaborationcircles_remuneration.md)
+see [circles_remuneration](/collaboration/circles_remuneration.md)
 
 ### Practical Requirements
 

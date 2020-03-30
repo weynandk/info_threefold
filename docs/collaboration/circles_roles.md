@@ -6,19 +6,19 @@
 ### Each circle has different levels of contributors
 
 - circle coordinator (coordinator of the circle, is not a boss) 
-    - see also [head_of_mission_profile](/organization_40_material/head_of_mission_profile.md)
+    - see also [head_of_mission_profile](/collaboration/organization_40_material/head_of_mission_profile.md)
     - is also a circle stakeholder & member
-    - Elephant+ level in [circular_collaboration_levels](circular_collaboration_levels.md), or has the ambition/capability to grow to that level.
+    - Elephant+ level in [P2P Awareness Level](/collaboration/p2p_awareness_level.md), or has the ambition/capability to grow to that level.
 - story coordinator
     - coordinator of one of more stories in the circle
     - is also a circle stakeholder & member
-    - Wolf+ level in [circular_collaboration_levels](circular_collaboration_levels.md), or has the ambition/capability to grow/surpass that level.
+    - Wolf+ level in [P2P Awareness Level](/collaboration/p2p_awareness_level.md), or has the ambition/capability to grow/surpass that level.
 - circle member
     - works on stories of the circle
     - is also a circle stakeholder
     - follows the scrum meetings
 - circle collaborator (can ad hoc do something for the circle, only works on existing stories, is ad hoc work)
-    - Pup+ level in [circular_collaboration_levels](circular_collaboration_levels.md) !
+    - Pup+ level in [P2P Awareness Level](/collaboration/p2p_awareness_level.md)
     - No need to follow scrum meetings, all can happend ad hoc, will probably work together with a circle member to contribute effectively.
 - circle stakeholder (has something to loose or win by the output of the circle)
     - No need to follow scrum meetings
