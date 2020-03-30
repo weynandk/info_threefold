@@ -1,4 +1,4 @@
-## What types of Farming exits?
+## What types of Farming exists?
 
 The Foundation recognises different type of farmers based on the type of TF Nodes that they operate. Eventually there will be 3 types of capacity which will lead to three type of farmers.
 
