@@ -6,7 +6,7 @@
 ### Each circle has different levels of contributors
 
 - circle coordinator (coordinator of the circle, is not a boss) 
-    - see also [head_of_mission_profile](head_of_mission_profile.md)
+    - see also [head_of_mission_profile](/organization_40_material/head_of_mission_profile.md)
     - is also a circle stakeholder & member
     - Elephant+ level in [circular_collaboration_levels](circular_collaboration_levels.md), or has the ambition/capability to grow to that level.
 - story coordinator

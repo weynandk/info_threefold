@@ -1,4 +1,5 @@
 # Build A Better World Through Aware Collaboration (2017)
+### By Kristof De Spiegeleer
 
 ![](https://images.unsplash.com/photo-1473082538761-d4c7cd3f5e91?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2d087a804b7c1766a8afffd2b49b5118&auto=format&fit=crop&w=1512&q=80)
 

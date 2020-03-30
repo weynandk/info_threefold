@@ -6,7 +6,7 @@
 * [Tech](/tech/README.md)
 * [Videos](/videos/README.md)
 * [Team](/team/README.md)
-* [The Ecosystem](/ecosystem/README.md)
+* [Ecosystem](/ecosystem/README.md)
 * [Partners](/partners/README.md)
 * [Blog](/blog/README.md)
 * [Collaboration](/collaboration/README.md)

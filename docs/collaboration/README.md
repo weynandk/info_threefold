@@ -10,7 +10,6 @@ All collaboration at ThreeFold is organized in circles
 - [Circles Roles](/collaboration/circles_roles.md)
 - [Stories](/collaboration/stories.md) the unit of work we reason with
 
-see the links at menu left.
 
 
 

@@ -23,15 +23,15 @@ A FreeFlow Citizin is willing to work on self-improvement:
 - is a good communicator
 - can structure and document work, strategies, specifications, workflows and processes - has great communication skills
 
-A FreeFlow Citizin understands and endorses:
+A FreeFlow Citizen understands and endorses:
 
-* [Thre FreeFlow Manifesto](https://www.freeflownation.org/manifesto.html) 
+* [The FreeFlow Manifesto](https://www.freeflownation.org/manifesto.html) 
 - Values
     - see the values section of this wiki.
 - Efficiency & responsibility
-    - [How to be part of a responsive organization](responsive_org_manifesto.md)
-    - [Ethical_design_manifesto](ethical_design_manifesto.md)
-- [Difference between IQ, EQ and SQ](IQ_EQ_SQ.md)
+    - [How to be part of a responsive organization](/collaboration/values/responsive_org_manifesto.md)
+    - [Ethical_design_manifesto](/collaboration/values/ethical_design_manifesto.md)
+- [Difference between IQ, EQ and SQ](/collaboration/values/IQ_EQ_SQ.md)
 
 ### How to become a Circle Member = FreeFlow Contributor?
 

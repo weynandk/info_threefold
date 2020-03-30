@@ -5,7 +5,7 @@
 ## ThreeFold Wiki pages and websites
 Here you find an overview of our most important web resources besides our wikis.
 
-- [ThreeFold Foundation Website](/foundation/web_resources/foundation.md)
+- [ThreeFold Foundation Website](/web_resources/foundation.md)
 - [Foundation Github Repositories](https://github.com/threefoldfoundation?page=1)
-- [ThreeFold Tech Website](/foundation/web_resources/tech.md)
+- [ThreeFold Tech Website](/web_resources/tech.md)
 - [ThreeFold Tech Github Repositories](https://github.com/threefoldtech)

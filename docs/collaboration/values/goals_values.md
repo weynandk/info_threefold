@@ -31,9 +31,6 @@ This needs to be a well defined mission and needs to be easy understood by all.
 
 We need to make sure that information is always up to date & available online. Our members should be able to find the information at any point in time. Information which needs to be version controlled like contracts should have a version nr e.g. v1.2. We are a modern company sending information around as pdf over email is not doable because it does not allow us to make sure everyone has the same up to date information.
 
-(\*) to all company members and to Ambassador & Foundation Board (see [governance structure](foundation_governance_structure.md))
-
-
 #### individual
 
 - don't be afraid to be open about ANYTHING
@@ -121,7 +118,7 @@ We develop technology which allows us to use hardware much more efficient.
 
 ### Green
 
-Upto 10x power savings is possible, see this [ThreeFold Blog](https://threefoldtoken.com/information/10-times-power-savings/).
+Upto 10x power savings is possible, see this [ThreeFold Blog](/blog/10x-times-power.md)
 
 ### local for everyone
 
@@ -130,6 +127,6 @@ Local means better performance, no need for your traffic to go over expansive fi
 
 ### open cultures (teal organizations)
 
-- [open cultures] (https://danieltenner.com/open-cultures/): lots of info about how new style organizations can be build. This is really a must read and something we actively try to work towards.
+- [open cultures](https://danieltenner.com/open-cultures/): lots of info about how new style organizations can be build. This is really a must read and something we actively try to work towards.
 - [reinventing organization](http://www.reinventingorganizations.com/uploads/2/1/9/8/21988088/140305_laloux_reinventing_organizations.pdf)
 
