@@ -42,7 +42,8 @@ install: 514,400 (30 days), 1,467,113 (90 days), 5,624,603 (365 days)
 install-on-request: 266,354 (30 days), 761,717 (90 days), 2,811,011 (365 days)
 build-error: 0 (30 days)
 ```
-And we need a gew additional libraries for the installation:
+
+And we need a few additional libraries for the installation:
 ```bash
 pip3 install click requests;
 ```
@@ -69,7 +70,7 @@ root@happy:~#
 In a terminal execute the following commands. This will download the installer, change its permission to make it executable.  In MacOS this install can be done as a normal user, you do not need to be root (no sudo -i required as witht the ubuntu installation).
 
     ```
-    curl https://raw.githubusercontent.com/threefoldtech/jumpscaleX_core/development/install/jsx.py?$RANDOM > /tmp/jsx;
+    curl https://raw.githubusercontent.com/threefoldtech/jumpscaleX_core/unstable/install/jsx.py?$RANDOM > /tmp/jsx;
     chmod +x /tmp/jsx;
     ```
 
@@ -106,7 +107,7 @@ Commands:
   kosmos
   modules-install     install jumpscale module in local system :return:
   package-new         scaffold a new package tree structure
-  threebot            jsx threebot -d :param delete: delete the containers...
+  sdk            jsx threebot -d :param delete: delete the containers...
   threebot-flist      create flist of 3bot docker image ex: jsx...
   threebotbuilder     create the 3bot and 3botdev images
   wiki-load
@@ -121,5 +122,5 @@ Then we can install our threebot using
     # Make sure there are no remnissents from previous versions and installations.
     /tmp/jsx containers-reset
     # install
-    /tmp/jsx container-install
+    /tmp/jsx sdk
     ```
