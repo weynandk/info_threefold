@@ -89,5 +89,5 @@ To evaluate the storage and compute capacity of the ThreeFold Grid, we use very 
 
 * Market price = between 20 USD and 120 USD
 
-More details about CU and SU can be found here [Cloud Units](/grid/cloud_units.md)
+More details about CU and SU can be found here [Cloud Units](/grid/concepts/cloud_units.md)
 
