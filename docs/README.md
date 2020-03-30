@@ -7,7 +7,7 @@
 This Wiki is a gathering of most of our created content in regards to the ThreeFold Foundation.
 It features the way we work together, our definitions, our tools, presentations and much more for you to read and learn about.
 
-For an overview of all websites and Wiki pages go to * [Web Resources](/foundation/web_resources/README.md)
+For an overview of all websites and Wiki pages go to * [Web Resources](/web_resources/README.md)
 
 ## More online resources
 

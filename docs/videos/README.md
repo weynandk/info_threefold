@@ -5,7 +5,7 @@
 Here you find a selection of some of our video content.
 We have divided them in 2 sections.
 
- **Explainer Videos**
+**Explainer Videos**
 
 Here you find a selection of cool & stylized animations guided by voice overs to help you understand certain parts of our awesome project.
 
@@ -19,13 +19,13 @@ Here you find a selection of cool & stylized animations guided by voice overs to
 * [ThreeFold Wallet Dos and Don'ts](/videos/explainer_videos/wallet.md)
 * [ThreeFold Grid: Edge. The New Internet](/videos/explainer_videos/edge.md)    
 
- **Community Calls & Updates**
+**Community Calls & Updates**
 In this section we have listen some of our more current community calls and event session videos.
 
 * [ThreeFold Community Call March 2020](/videos/community_calls/march_2020.md)
 * [ThreeFold Community Call January 2020](/videos/community_calls/jan_2020.md)
 * [October Event: Keynote pt.1](/videos/community_calls/keynote_oct2019_1.md)
-* [October Event: Keynote pt.2](/videos/community_calls/keynote_oct_2.md)
+* [October Event: Keynote pt.2](/videos/community_calls/keynote_oct2019_2.md)
 * [October Event: Autonomous Internet Architecture](/videos/community_calls/autonomousarchitecture_oct2019.md)
 * [October Event: Autonomous Internet Demo](/videos/community_calls/autonomousdemo_oct2019.md)
 * [October Event: Token Session](/videos/community_calls/tokensession_oct2019.md)
