@@ -14,13 +14,9 @@ $ brew info python3
 python: stable 3.7.7 (bottled), HEAD
 ... will output some info
 ```
-<<<<<<< HEAD
 
-And we need a few additional libraries for the installation:
-=======
 And we need a gew additional libraries for the installation:
 
->>>>>>> 1374440cdbc0658fbf05572954d4543462d817ad
 ```bash
 pip3 install click requests;
 ```
@@ -46,18 +42,10 @@ root@happy:~#
 ### Step 2:  TFGrid SDK installation
 
 In a terminal execute the following commands. This will download the installer, change its permission to make it executable.  In MacOS this install can be done as a normal user, you do not need to be root (no sudo -i required as witht the ubuntu installation).
-
-<<<<<<< HEAD
-    ```
-    curl https://raw.githubusercontent.com/threefoldtech/jumpscaleX_core/unstable/install/jsx.py?$RANDOM > /tmp/jsx;
-    chmod +x /tmp/jsx;
-    ```
-=======
 ```
 curl https://raw.githubusercontent.com/threefoldtech/jumpscaleX_core/unstable/install/jsx.py?$RANDOM > /tmp/jsx;
 chmod +x /tmp/jsx;
 ```
->>>>>>> 1374440cdbc0658fbf05572954d4543462d817ad
 
 This script provides a number of commands to operate / configure the SDK.  Options are show with the ```--help``` flag.
 
@@ -103,21 +91,9 @@ Commands:
 ## Install threebot
 
 Then we can install our threebot using
-
-<<<<<<< HEAD
-    ```bash
-    # Make sure there are no remnissents from previous versions and installations.
-    /tmp/jsx containers-reset
-    # install
-    /tmp/jsx sdk
-    ```
-=======
 ```bash
 # Make sure there are no remnissents from previous versions and installations.
 /tmp/jsx containers-reset
 # install tfgrid sdk
 /tmp/jsx sdk
 ```
-
-
->>>>>>> 1374440cdbc0658fbf05572954d4543462d817ad
