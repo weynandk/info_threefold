@@ -12,7 +12,7 @@ This document describes an alternative way
 * Each contributor earns points per month based on
 
     * % of time working for the project 
-    * [P2P collaboration efficiency](p2p_awareness_level.md): nr between 1-5
+    * [P2P collaboration level](/collaboration/p2p_awareness_level.md): nr between 1-5
     * Experience level nr: nr between 1-5
     * Countryindex: where person lives (europe =1, egypt=0.3, ...)
 
@@ -151,7 +151,7 @@ It has to do with capabilities we achieve in line of working with a circle based
 
 Levels can be found in:
 
-[Peer2Peer Awareness Level](p2p_awareness_level.md)
+[Peer2Peer Awareness Level](/collaboration/p2p_awareness_level.md)
 
 * Pup = 1
 * Wolf = 2

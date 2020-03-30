@@ -11,5 +11,5 @@
 * [Blog](/blog/README.md)
 * [Collaboration](/collaboration/README.md)
 * [Presentations](/presentations/README.md)
-* [Web Resources](/web_rescources/README.md)
+* [Web Resources](/web_resources/README.md)
 * [Legal](/legal/README.md)

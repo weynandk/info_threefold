@@ -219,5 +219,4 @@ keep on communicating
 - [reinventing organizations](https://ipfs.jes.xxx/ipfs/Qme7CKH5QwQCy3RmGfqiSXwiHAxgrScC5yUc3Z8GXuWMB3)
 - [netflix manifest about culture](https://jobs.netflix.com/culture/#introduction)
 - [product design manifest](https://docs.google.com/document/d/1WSserscBmRUswGYQqbJaE4OUKs-5rU0KbId1i1Tkc38/edit)
-- values doc (todo link)
 
