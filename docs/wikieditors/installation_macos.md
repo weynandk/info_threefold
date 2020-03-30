@@ -12,72 +12,57 @@ After this finishes you can check the installation
 ```bash
 $ brew info python3 
 python: stable 3.7.7 (bottled), HEAD
-Interpreted, interactive, object-oriented programming language
-https://www.python.org/
-/usr/local/Cellar/python/3.7.7 (4,125 files, 63.2MB) *
-  Poured from bottle on 2020-03-11 at 16:28:24
-From: https://github.com/Homebrew/homebrew-core/blob/master/Formula/python.rb
-==> Dependencies
-Build: pkg-config ✘
-Required: gdbm ✔, openssl@1.1 ✔, readline ✔, sqlite ✔, xz ✘
-==> Options
---HEAD
-        Install HEAD version
-==> Caveats
-Python has been installed as
-  /usr/local/bin/python3
-
-Unversioned symlinks `python`, `python-config`, `pip` etc. pointing to
-`python3`, `python3-config`, `pip3` etc., respectively, have been installed into
-  /usr/local/opt/python/libexec/bin
-
-You can install Python packages with
-  pip3 install <package>
-They will install into the site-package directory
-  /usr/local/lib/python3.7/site-packages
-
-See: https://docs.brew.sh/Homebrew-and-Python
-==> Analytics
-install: 514,400 (30 days), 1,467,113 (90 days), 5,624,603 (365 days)
-install-on-request: 266,354 (30 days), 761,717 (90 days), 2,811,011 (365 days)
-build-error: 0 (30 days)
+... will output some info
 ```
+<<<<<<< HEAD
 
 And we need a few additional libraries for the installation:
+=======
+And we need a gew additional libraries for the installation:
+
+>>>>>>> 1374440cdbc0658fbf05572954d4543462d817ad
 ```bash
 pip3 install click requests;
 ```
 
 Then we need an sshkey to facilitate secure and easy access to the 3bot container.
 ```bash
-    # Load the ssh agent
-    eval `ssh-agent -s`
-    # Skip the ssh-keygen command in case you already have a ssh key for your root account.
-    ssh-keygen
-    # Adds private key identities to the OpenSSH authentication agent
-    ssh-add
-    # Show the public key that belongs to the loaded private key
-    ssh-add -L
-    ```
+# Load the ssh agent
+eval `ssh-agent -s`
+# Skip the ssh-keygen command in case you already have a ssh key for your root account.
+ssh-keygen
+# Adds private key identities to the OpenSSH authentication agent
+ssh-add
+# Show the public key that belongs to the loaded private key
+ssh-add -L
+```
+
 The last command should show the public key
 ```bash
-sh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC05P5eFki+5vHdn9BMrQwj0LZzl4FxwTAQ4GtwJFTS4Hog10Ly9sdhPQANOWASC1FXwZThVzj91hL8JCFuBZ5pDx29rJCDMQdqqVHQI5j8qkh4ZNNNQr/QLxdGl53RtQgabGe0OSnP+ZdvGHuSQdTg03bomGrpCYcahLbcj1yWBsCuF2VDgnW0AHeMR0lEubbKMSQrTNCuZqrGbRPuxaHzWj9KQSe4xiRtA/PB7ccMsQlXeIh5pv8QI6k858oJzvlswczTgZivCKoHRnU6XyDVd60y9v3BpbB7YgTasw/VXUDt4oH7U61VI3Jy7t/d9jazMcDt3CngDtRpWQqZSO77 .ssh/id_rsa
+sh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC05P5eFki+5vHdn9BMrQwj0LZzl4FxwTAQ4GtwJFTS4Hog10Ly9sdhPQANOWASC1FXwZThVzj91hL8JCFuBZ5pDx29rJCDMQdqqVHQI5j8qkh4ZNNNQr/QLxdGl53RtQgabGe0OSn +ZdvGHuSQdTg03bomGrpCYcdsdsdsdsdnW0AHeMR0lEubbKMSQrTNCuZqrGbRPuxaHzWj9KQSe4xiRtA/PB7ccMsQlXeIh5pv8QI6k858oJzvlswczTgZivCKoHRnU6XyDVd60y9v3BpbB7YgTasw/VXUDt4oH7U61VI3Jy7t/d9jazMcDt3CngDtRpWQqZSO77 .ssh/id_rsa
 root@happy:~# 
 ```
 
-### Step 2:  JumscaleX SDK installation
+### Step 2:  TFGrid SDK installation
 
 In a terminal execute the following commands. This will download the installer, change its permission to make it executable.  In MacOS this install can be done as a normal user, you do not need to be root (no sudo -i required as witht the ubuntu installation).
 
+<<<<<<< HEAD
     ```
     curl https://raw.githubusercontent.com/threefoldtech/jumpscaleX_core/unstable/install/jsx.py?$RANDOM > /tmp/jsx;
     chmod +x /tmp/jsx;
     ```
+=======
+```
+curl https://raw.githubusercontent.com/threefoldtech/jumpscaleX_core/unstable/install/jsx.py?$RANDOM > /tmp/jsx;
+chmod +x /tmp/jsx;
+```
+>>>>>>> 1374440cdbc0658fbf05572954d4543462d817ad
 
 This script provides a number of commands to operate / configure the SDK.  Options are show with the ```--help``` flag.
+
 ```bash
 root@happy:~ /tmp/jsx --help
-- redis loghandler cannot be loaded
 Usage: jsx [OPTIONS] COMMAND [ARGS]...
 
 Options:
@@ -113,14 +98,26 @@ Commands:
   wiki-load
   wiki-reload         reload the changed files from wikis repo ex: jsx...
   wireguard           jsx wireguard enable wireguard, can be on host or...
-  ```
-Our recommendation id to install the SDK in a container.  There are some command to start and stop the container in a controlled manner. If you have installed 3bot containers in the past - please check and remove the 3bot entries from the known_host file.
+```
+
+## Install threebot
 
 Then we can install our threebot using
 
+<<<<<<< HEAD
     ```bash
     # Make sure there are no remnissents from previous versions and installations.
     /tmp/jsx containers-reset
     # install
     /tmp/jsx sdk
     ```
+=======
+```bash
+# Make sure there are no remnissents from previous versions and installations.
+/tmp/jsx containers-reset
+# install tfgrid sdk
+/tmp/jsx sdk
+```
+
+
+>>>>>>> 1374440cdbc0658fbf05572954d4543462d817ad

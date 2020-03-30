@@ -122,6 +122,8 @@ The result will be something like the following, will take few minuts please wai
 Congratulations, now you have your 3bot installed. To start your 3bot. just type in shell `3bot start`.
 
 - After that we can go to our browser to this link: http://localhost:7000
+or this link: https://localhost:4000 for https
+
 
 - We will see the following screen
 
