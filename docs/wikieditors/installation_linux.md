@@ -45,6 +45,10 @@ sh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC05P5eFki+5vHdn9BMrQwj0LZzl4FxwTAQ4GtwJFTS4
 root@happy:~# 
 ```
 
+For the next step to be successfull make sure you have added this identity as a known ssh key to you github account.  The SKD code will come from github and requires you to have a public key configured in GitHub.
+
+
+
 #### Step 2:  JumscaleX SDK installation
 
 In a terminal execute the following commands: these will download the install script, make it executable and then create and download directories and files.  It depends on executing from `/tmp`.
