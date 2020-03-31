@@ -1,5 +1,3 @@
-# ThreeFold Wiki
-
 ![](wiki-intro.png)
 
 ## Welcome to the ThreeFold Foundation Wiki!
