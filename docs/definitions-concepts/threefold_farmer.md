@@ -2,7 +2,7 @@
 
 TF Farmers are entrepreneurs who farm ThreeFold Tokens (TFT) by connecting hardware to the ThreeFold Grid.
 
-As a result of Farming, Internet capacity capacity is generated and available on the ThreeFold Grid Directory.
+As a result of Farming, Internet capacity is generated and available on the ThreeFold Grid Directory.
 
 A Farmer earns tokens in 2 ways:
 - Farming: as a result of connecting server hardware (IC generators) to the ThreeFold Grid
