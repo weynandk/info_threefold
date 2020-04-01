@@ -3,7 +3,7 @@
 Farmers on grid 1.0 had slightly different farming rules compared to v2.0.
 
 In v2.0 we made following changes to improve the tokenomics (economics of the token)
-The basic idea is to lower the max amount of TFT.
+The basic idea is to lower the max amount of TFT which will result in more long term stability and growth potential for the token.
 
 - difficulty level not determined by guardians (people chosen by community) but now build into the farming code
     - in 2.0 difficulty level goes up in relation to nr of TFT
