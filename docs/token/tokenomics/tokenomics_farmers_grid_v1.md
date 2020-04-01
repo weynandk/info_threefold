@@ -30,7 +30,7 @@ The basic idea is to lower the max amount of TFT which will result in more long 
 
 - Untill end 2020, TFTA can only be sold if price is higher than the min TFT price compared to USD.
 - min TFT price by the market maker is USD 0.15 starting April 30, going up 4% per month in relation to the gold price.
-- End 2020, all TFTA get converted to TFT at same conditions as on TFTA chain (same lockup periods)
+- End 2020, all TFTA get converted to TFT at same conditions as on TFTA chain (same lockup periods), which means TFTA stops to exist.
 - Every TFTA holder can place sell orders on the digitized market maker bot, only 1 can be open at the same time.
 - The digitized market maker bot will sell per USD 20k into the market and sales done get's distributed evenly over the sell orders in the order book.
 - As long as price is higher than the minimum price the digitized market maker bot will keep on selling if orderbook is not empty.
