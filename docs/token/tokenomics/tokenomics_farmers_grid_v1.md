@@ -36,5 +36,5 @@ The basic idea is to lower the max amount of TFT which will result in more long 
 - As long as price is higher than the minimum price the digitized market maker bot will keep on selling if orderbook is not empty.
 - TFTA holders can set the sales price (min sales price) or they can sell at market.
 - The sales orders are always done versus XLM which is the native Stellar currency which will also till 6 levels deep sell to other currencies like BTC, ETH, ...
-    - this means if someone wants to buy TFT for BTC, it will still work, Stellar paymnet network will convert to XLM then to TFT
+    - this means if someone wants to buy TFT for BTC, it will still work, Stellar payment network will convert to XLM then to TFT
     
