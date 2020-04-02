@@ -1,3 +1,3 @@
-## ThreeFold Grid User
+## ThreeFold Capacity User
 
-The person/organization/company that uses TFT to book capacity from the TF Grid.
+Individual or business reserving Capacity on the ThreeFold Network by using ThreeFold tokens.

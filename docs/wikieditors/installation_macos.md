@@ -4,6 +4,8 @@
 
 In order to install the SDK in a container (recommended) you should have the docker software suite. You can find instructions for most operating systems [here](https://docs.docker.com/install/)
 
+**Note** the latest release of docker desktop for macOS seems to have issues and the installer does not work for that.  If you have an older version of the docker Desktop the install might work.  If you still want to start on your mac we propose for now to use virtualbox and install an ubuntu server on it. you can find virtualbox [here](https://www.virtualbox.org/wiki/Downloads) and the ubuntu server image [here](https://ubuntu.com/download/server).  ONce you have the virtual box VM with ubuntu servers you can follow the instructions to install the SDK [here](https://github.com/threefoldfoundation/info_threefold/blob/development/docs/wikieditors/installation_linux.md)
+
 Also you need to have python installed on your machine.  For MacOS we recommend using the package manager [```brew```](https://brew.sh/), but there are regular installers for MacOS as well.  Here we assume that you have installed brew:
 ```bash
 brew install python3
