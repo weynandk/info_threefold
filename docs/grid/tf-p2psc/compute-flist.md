@@ -21,4 +21,4 @@ After this specification, the container will be deployed.
 
 To make it accessible, the following needs to happen: 
 - Activate the network (using wireguard)
-- Access the workload (using the speicfied ip address)
+- Access the workload (using the specified ip address)
