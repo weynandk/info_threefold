@@ -10,24 +10,15 @@ Within the 3bot Admin console, a chatflow has been created to deploy a generic f
 
 <img src=img/Chatflow_flist0.png width=200>
 
-Through this chatflow, the kubernetes cluster is reserved and configured simply by collection of a number of parameters : 
-- IPv4 vs. IPv6
-- Number of worker nodes
-- public ssh key (allowing to access the container using ssh)
-- cluster secret
-- network definition (choice between reuse of a netork that has been set up earlier or new one)
-- ip addresses to access all workers
+Through this chatflow, the flist is deployed into your local 3bot in a few simple steps : 
+- Select the flist to be deployed
+- Indicate public ssh key allowing to access the container through ssh
+- Set environment variables (if needed) 
+- Indicate whether the container needs to be accessible using a web browser
+- Choose IPv4 vs IPv6
+- Specify ip addresses
+After this specification, the container will be deployed. 
 
-This information is sufficient to create the cluster.
-
-<img src=img/kubernetes_chatflow11.png width=500>
-
-If you choose to define a new network, this needs to be activated using Wireguard (see explanation on network).
-
-<img src=img/kubernetes_chatflow12.png width=500>
-<img src=img/kubernetes_chatflow13.png width=500>
-
-Once this is done you can ssh into the virtual machine from your account that you used the ssh key from. 
-
-<img src=img/kubernetes_chatflow14.png width=500>
-<img src=img/kubernetes_chatflow15.png width=500>
+To make it accessible, the following needs to happen: 
+- Activate the network (using wireguard)
+- Access the workload (using the speicfied ip address)
