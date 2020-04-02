@@ -27,9 +27,9 @@ Once this is done you can ssh into the virtual machine from your account that yo
 <img src=img/kubernetes_chatflow14.png width=500>
 <img src=img/kubernetes_chatflow15.png width=500>
 
-## How to depoloy a Kubernetes Cluster using the Jupyter Notebooks?
+## How to deploy a Kubernetes Cluster using the Jupyter Notebooks?
 In the Navbar you will find the section "NEED THE NAME" that has pre-made notebooks. These will guide you through all the steps you need to take to setup a network, but do not limit you when it comes to parameter as you can edit the scripts as you go.
 
-## How to set up a network using the CodeServer?
+## How to deploy a Kubernetes Cluster using the CodeServer?
 Within the SDK you'll find the CodeServer in the left hand navbar.
 In here you will find all files and code you need to set up a network and have total control over it, set your parameters, choose your nodes, etc.
