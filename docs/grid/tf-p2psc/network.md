@@ -5,8 +5,8 @@ The network set-up is integrated in each of the chatflows (on ubuntu, flist, S3,
 
 - If you haven't set up your network yet, select a new network : 
 
-![Chatflow_Ubuntu5](img/Chatflow_Ubuntu5.png)
-![Chatflow_Ubuntu6](img/Chatflow_Ubuntu6.png)
+<img src=img/Chatflow_Ubuntu5.png width=500>
+<img src=img/Chatflow_Ubuntu6.png width=500>
 
 This network then needs to be defined using Wireguard. 
 A different setup is needed on Ubuntu machines and on Macbook : 
