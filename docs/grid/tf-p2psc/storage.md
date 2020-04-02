@@ -1,3 +1,6 @@
+# Deploying S3 Storage Capacity
+## Deployment of S3 Storage Capacity through the chatflow
+
 Within the 3bot Admin console, a chatflow has been created to reserve S3 storage capacity. 
 This storage can be dispersed over different nodes. 
 
@@ -36,3 +39,11 @@ On MacOS, the Wireguard configuration can be set up through the Wireguard applic
 
 Finally, the location of the workload is shown : 
 ![minio_chatflow21](img/Minio_chatflow21.png)
+
+
+## How to set up S3 Storage using the Jupyter Notebooks?
+In the Navbar you will find the section "NEED THE NAME" that has pre-made notebooks. These will guide you through all the steps you need to take to setup a network, but do not limit you when it comes to parameter as you can edit the scripts as you go.
+
+## How to set up s3 Storage using the CodeServer?
+Within the SDK you'll find the CodeServer in the left hand navbar.
+In here you will find all files and code you need to set up a network and have total control over it, set your parameters, choose your nodes, etc.

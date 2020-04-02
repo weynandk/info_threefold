@@ -1,3 +1,4 @@
+# Deploying a Kubernetes Clusters
 ## Deployment of a Kubernetes cluster through the chatflow
 
 Within the 3bot Admin console, a chatflow has been created to reserve capacity to run Kubernetes cluster on. 
@@ -25,3 +26,10 @@ Once this is done you can ssh into the virtual machine from your account that yo
 
 ![kubernetes_chatflow14](img/kubernetes_chatflow14.png)
 ![kubernetes_chatflow15](img/kubernetes_chatflow15.png)
+
+## How to depoloy a Kubernetes Cluster using the Jupyter Notebooks?
+In the Navbar you will find the section "NEED THE NAME" that has pre-made notebooks. These will guide you through all the steps you need to take to setup a network, but do not limit you when it comes to parameter as you can edit the scripts as you go.
+
+## How to set up a network using the CodeServer?
+Within the SDK you'll find the CodeServer in the left hand navbar.
+In here you will find all files and code you need to set up a network and have total control over it, set your parameters, choose your nodes, etc.
