@@ -22,8 +22,8 @@ A different setup is needed on Ubuntu machines and on Macbook :
 
 - If you previously defined a network, you can reuse an existing network.
 
-![kubernetes_chatflow6](img/kubernetes_chatflow6.png)
-![kubernetes_chatflow7](img/kubernetes_chatflow7.png)
+<img src=img/kubernetes_chatflow6.png width=500>
+<img src=img/kubernetes_chatflow7.png width=500>
 
 
 ## How to set up a network using the Jupyter Notebooks?
