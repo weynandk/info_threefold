@@ -10,13 +10,15 @@ The network set-up is integrated in each of the chatflows (on ubuntu, flist, S3,
 
 This network then needs to be defined using Wireguard. 
 A different setup is needed on Ubuntu machines and on Macbook : 
-- For Ubuntu machines 
+- For Ubuntu machines, install wireguard using wg-quick
+<img src=img/Chatflow_Ubuntu9.png width=500>
+<img src=img/Chatflow_Ubuntu11.png width=500>
+
 - On MacBook, please install the Wireguard application and define a new tunnel 
-![Chatflow_Ubuntu9](img/Chatflow_Ubuntu9.png)
-![Chatflow_Ubuntu11](img/Chatflow_Ubuntu11.png)
-![Chatflow_Ubuntu12](img/Chatflow_Ubuntu12.png)
-![Chatflow_Ubuntu13](img/Chatflow_Ubuntu13.png)
-![Chatflow_Ubuntu14](img/Chatflow_Ubuntu14.png)
+<img src=img/Chatflow_Ubuntu11.png width=500>
+<img src=img/Chatflow_Ubuntu12.png width=300>
+<img src=img/Chatflow_Ubuntu13.png width=500>
+<img src=img/Chatflow_Ubuntu14.png width=500>
 
 - If you previously defined a network, you can reuse an existing network.
 
