@@ -1,5 +1,7 @@
 # This document shows how to setup/migrate your ThreeFold Farm and 3Nodes to TF Grid 2.0 (JSX Version)
-NOTE: This guide is for experts only. If you need assistance please send an email to support@threefold.tech
+NOTE: This guide is for experts. If you need assistance contact ThreeFold support via the chat on www.threefold.io
+
+### Please make sure you read the  [V2 Networking Document](https://github.com/threefoldtech/zos/blob/master/docs/network/introduction.md) before you start migrating your farm/nodes. 
 
 ## Prerequisite: Install jumpscale container
 
@@ -68,7 +70,3 @@ Use this bootstrap service: https://bootstrap.grid.tf, with farmer ID = the farm
 ## 4. Start 3Node with bootable image
 
 After booting your 3Node it is visible on: [the tfgrid explorer](https://explorer.grid.tf)
-
-## Useful links
-
-V2 Networking: https://github.com/threefoldtech/zos/blob/master/docs/network/introduction.md
