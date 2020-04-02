@@ -32,4 +32,5 @@ The software, code, software libraries, API’s and other related software techn
 - https://github.com/threefoldtech/jumpscaleX_weblibs
 - https://github.com/threefoldtech/0-bootstrap
 - https://github.com/threefoldtech/zinit
-- threefoldtech/zbus: Simple message bus
+- https://github.com/threefoldtech/zbus
+ 
