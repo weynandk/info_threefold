@@ -1,16 +1,31 @@
 * [Home](/)
 
+<<<<<<< HEAD
 * [Prerequisites](../peer2peer_storage_compute/prerequisites/prerequisites.md)
     * [Installing 3Bot Connect App](..//prerequisites/3bot-connect-app.md)
     * [Linux ThreeFold SDK](../peer2peer_storage_compute/prerequisites/threefold-sdk-linux.md)
     * [MacOS ThreeFold SDK](../peer2peer_storage_compute/prerequisites/threefold-sdk-macos.md)
+=======
+* [Prerequisites](./prerequisites/prerequisites.md)
+    * [Installing 3Bot Connect App](./prerequisites/3bot-connect-app.md)
+    * Install the SDK
+      * [Linux ThreeFold SDK](./prerequisites/threefold-sdk-linux.md)
+      * [MacOS ThreeFold SDK](./prerequisites/threefold-sdk-macos.md)
+      * [Windows]()
+>>>>>>> 9538799a5698af4f2fc084f117ae257db8a13b93
 
 **Storage**
 * [Deploy Storage Capacity](../peer2peer_storage_compute/use_cases/storage.md)
 
 **Compute**
+<<<<<<< HEAD
 * [Deploy Compute Capacity](../peer2peer_storage_compute/use_cases/compute.md)
 * [Deploy generic flists](../peer2peer_storage_compute/use_cases/generic-flist.md)
+=======
+* [Deploy Compute Capacity](./use_cases/compute.md)
+* [Deploy generic flists](./use_cases/generic-flist.md)
+
+>>>>>>> 9538799a5698af4f2fc084f117ae257db8a13b93
 **Network**
 * [Deploy Network Capacity](../peer2peer_storage_compute/use_cases/compute.md)
 
