@@ -8,7 +8,6 @@
       * [MacOS ThreeFold SDK](/grid/peer2peer_storage_compute/prerequisites/threefold-sdk-macos.md)
       * [Windows]()
 
-
 Storage
 * [Deploy Storage Capacity](/grid/peer2peer_storage_compute/use_cases/storage.md)
 
