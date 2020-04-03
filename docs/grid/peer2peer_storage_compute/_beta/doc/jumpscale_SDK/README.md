@@ -23,6 +23,6 @@ The 3bot admin panel is a versatile tool to administrate and control processes a
 * [SDK Examples](./tab_explanation/sdk_examples.md)
 * [Codeserver](./tab_explanation/codeserver.md)
 * [Jupyter](./tab_explanation/jupyter.md)
-* [Xettings](./tab_explanation/setting.md)
+* [Settings](./tab_explanation/setting.md)
 
 
