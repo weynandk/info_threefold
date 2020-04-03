@@ -1,6 +1,5 @@
 * [Home](/)
 
-**Hands On**
 * [Prerequisites](../peer2peer_storage_compue/prerequisites.md)
     * [Installing 3Bot Connect App](../peer2peer_storage_compue/3bot-connect-app.md)
     * [Linux ThreeFold SDK](../peer2peer_storage_compue/threefold-sdk-linux.md)
