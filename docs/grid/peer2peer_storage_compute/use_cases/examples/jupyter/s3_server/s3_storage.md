@@ -3,11 +3,11 @@
 #### Requirements
 
 In order to be able to deploy this example deployment you will have to have the following components activated
-- the 3bot SDK, in the form of a local container with the SDK, or a grid based SDK container.  Getting started instuctions are [here](https://github.com/threefoldfoundation/info_projectX/tree/development/doc/jumpscale_SDK) 
+- the Jumpscale SDK, in the form of a local container with the SDK, or a grid based SDK container.  Getting started instuctions are [here](/grid/peer2peer_storage_compute/general/jumpscale_SDK) 
 - if you use a locally installed container with the 3bot SDK you need to have the wireguard software installed.  Instructions to how to get his installed on your platform can be found [here](https://www.wireguard.com/install/)
-- capacity reservation are not free so you will need to have some ThreeFold Tokens (TFT) to play around with.  Instructions to get tokens can be found [here](https://github.com/threefoldfoundation/info_projectX/blob/development/doc/jumpscale_SDK_information/payment/FreeTFT_testtoken.md)
 
-After following these install instructions you should end up having a local, working jumpscale SDK installed.  You can work / connect to the installed SDK as described [here](https://github.com/threefoldfoundation/info_projectX/blob/development/doc/jumpscale_SDK/SDK_getting_started.md)
+After following these install instructions you should end up having a local, working jumpscale SDK installed.  You can work / connect to the installed SDK as described [here](/grid/peer2peer_storage_compute/general/jumpscale_SDK/SDK_getting_started.md)
+
 
 ### Overview
 The design a simple S3 archive solution we need to follow a few simple steps:
@@ -20,7 +20,7 @@ The design a simple S3 archive solution we need to follow a few simple steps:
 
 #### Create overlay network of identity an previously deployed overlay network
 
-Each overlay network is private and contains private IP addresses.  Each overlay network is deployed in such a way that is has no connection to the public (IPv4 or IPv6) network directly.  In order to work with such a network a tunnel needs to be created between the overlay network on the grid and your local network.  You can find instructions how to do that [here](https://github.com/threefoldfoundation/info_projectX/blob/development/doc/jumpscale_SDK_examples/network/overlay_network.md)
+Each overlay network is private and contains private IP addresses.  Each overlay network is deployed in such a way that is has no connection to the public (IPv4 or IPv6) network directly.  In order to work with such a network a tunnel needs to be created between the overlay network on the grid and your local network.  You can find instructions how to do that [here](/grid/peer2peer_storage_compute/use_cases/examples/jupyter/network/overlay_network.md)
 
 
 #### Set up the capacity environment to find, reserve and configure
@@ -47,11 +47,11 @@ r = zos.reservation_create()
 
 #### Setup your overlay network (skip this step if you have a network setup and available)
 
-An overlay network creates a private peer2peer network over selected nodes.  In this notebook it is assumend you have created one by following this [notebook](https://github.com/threefoldfoundation/info_projectX/blob/development/code/jupyter/SDK_examples/network/overlay_network.ipynb)
+An overlay network creates a private peer2peer network over selected nodes.  In this notebook it is assumend you have created one by following this [notebook](https://github.com/threefoldfoundation/info_threefold/blob/development/docs/grid/peer2peer_storage_compute/use_cases/examples/jupyter/network/overlay_network.ipynb)
 
 #### Design the S3 simple storage solution
 
-You have created a network in the network creation [notebook](https://github.com/threefoldfoundation/info_projectX/blob/development/code/jupyter/SDK_examples/network/overlay_network.ipynb) with the following details:
+You have created a network in the network creation [notebook](https://github.com/threefoldfoundation/info_threefold/blob/development/docs/grid/peer2peer_storage_compute/use_cases/examples/jupyter/network/overlay_network.ipynb) with the following details:
 ```
 demo_ip_range="72.20.0.0/16"
 demo_port=8030
