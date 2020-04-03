@@ -7,7 +7,7 @@
     * Install the SDK
       * [Linux ThreeFold SDK](/grid/peer2peer_storage_compute/prerequisites/threefold-sdk-linux.md)
       * [MacOS ThreeFold SDK](/grid/peer2peer_storage_compute/prerequisites/threefold-sdk-macos.md)
-      * [Windows](/grid/peer2peer_storage_compute/prerequisites/threefold-sdk-windows.md))
+      * [Windows](/grid/peer2peer_storage_compute/prerequisites/threefold-sdk-windows.md)
 
 Storage
 * [Deploy Storage Capacity](/grid/peer2peer_storage_compute/use_cases/storage.md)
