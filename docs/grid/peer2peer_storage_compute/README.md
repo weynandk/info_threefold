@@ -2,5 +2,5 @@
 
 ![](/grid/peer2peer_storage_compute/img/header.png)
 
-!!!include("/grid/peer2peer_storage_compute/sidebar.md")
+!!!include("/grid/peer2peer_storage_compute/_sidebar.md")
 
