@@ -1,5 +1,7 @@
 # This document shows how to setup/migrate your ThreeFold Farm and 3Nodes to TF Grid 2.0 (JSX Version)
-NOTE: This guide is for experts only. If you need assistance please send an email to support@threefold.tech
+NOTE: This guide is for experts. If you need assistance contact ThreeFold support via the chat on www.threefold.io
+
+### Please make sure you read the  [V2 Networking Document](https://github.com/threefoldtech/zos/blob/master/docs/network/introduction.md) before you start migrating your farm/nodes. 
 
 ## Prerequisite: Install jumpscale container
 
@@ -37,12 +39,12 @@ To do so, you need to connect to the grid explorer 3bot.
 
 ```python
 # get a client to the explorer
-explorer = j.clients.threebot.explorer
-# get schema from server to client
-explorer.actors_all
-# create your farm
-farm = j.data.schema.get_from_url('tfgrid.directory.farm.1').new()
+explorer = j.clients.explorer.default
+# create a new farm object
+farm = explorer.farms.new()
+# name your farm
 farm.name = 'my_super_farm'
+# link the farm with your identity
 farm.threebot_id = j.tools.threebot.me.default.tid
 # Instruction below is only for farms which already exist in version 1.x and need to be migrated to version 2.0 !
 # Specify the ItsYouOnline organization link to the farm
@@ -53,7 +55,9 @@ farm.wallet_addresses = ['.....']
 # email address where farming result and any information for farmer will be sent.
 farm.email = 'myname@gmail.com'
 # actually register the farm on the grid
-explorer.actors_all.farms.register(farm)
+farm_id = explorer.farms.register(farm)
+# print your farmer ID
+print(farm_id)
 ```
 
 If the last function succeeded, your farm is now created.
@@ -66,7 +70,3 @@ Use this bootstrap service: https://bootstrap.grid.tf, with farmer ID = the farm
 ## 4. Start 3Node with bootable image
 
 After booting your 3Node it is visible on: [the tfgrid explorer](https://explorer.grid.tf)
-
-## Useful links
-
-V2 Networking: https://github.com/threefoldtech/zos/blob/master/docs/network/introduction.md

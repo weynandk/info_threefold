@@ -1,5 +1,4 @@
 * [Home](/)
-* [Grid](/Grid/README.md)
 * [Farming](/grid/tf_farming/README.md)
     * [Three steps to become a farmer](/grid/tf_farming/become_farmer_steps.md)
     * [Farming Simulation Tools](/grid/tf_farming/farming_simulation_tools.md)

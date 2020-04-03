@@ -4,6 +4,8 @@
 
 In order to install the SDK in a container (recommended) you should have the docker software suite. You can find instructions for most operating systems [here](https://docs.docker.com/install/)
 
+**Note** the latest release of docker desktop for macOS seems to have issues and the installer does not work for that.  If you have an older version of the docker Desktop the install might work.  If you still want to start on your mac we propose for now to use virtualbox and install an ubuntu server on it. you can find virtualbox [here](https://www.virtualbox.org/wiki/Downloads) and the ubuntu server image [here](https://ubuntu.com/download/server).  ONce you have the virtual box VM with ubuntu servers you can follow the instructions to install the SDK [here](https://github.com/threefoldfoundation/info_threefold/blob/development/docs/wikieditors/installation_linux.md)
+
 Also you need to have python installed on your machine.  For MacOS we recommend using the package manager [```brew```](https://brew.sh/), but there are regular installers for MacOS as well.  Here we assume that you have installed brew:
 ```bash
 brew install python3
@@ -14,6 +16,7 @@ $ brew info python3
 python: stable 3.7.7 (bottled), HEAD
 ... will output some info
 ```
+
 And we need a gew additional libraries for the installation:
 
 ```bash
@@ -41,7 +44,6 @@ root@happy:~#
 ### Step 2:  TFGrid SDK installation
 
 In a terminal execute the following commands. This will download the installer, change its permission to make it executable.  In MacOS this install can be done as a normal user, you do not need to be root (no sudo -i required as witht the ubuntu installation).
-
 ```
 curl https://raw.githubusercontent.com/threefoldtech/jumpscaleX_core/unstable/install/jsx.py?$RANDOM > /tmp/jsx;
 chmod +x /tmp/jsx;
@@ -80,7 +82,7 @@ Commands:
   kosmos
   modules-install     install jumpscale module in local system :return:
   package-new         scaffold a new package tree structure
-  threebot            jsx threebot -d :param delete: delete the containers...
+  sdk            jsx threebot -d :param delete: delete the containers...
   threebot-flist      create flist of 3bot docker image ex: jsx...
   threebotbuilder     create the 3bot and 3botdev images
   wiki-load
@@ -91,7 +93,6 @@ Commands:
 ## Install threebot
 
 Then we can install our threebot using
-
 ```bash
 # Make sure there are no remnissents from previous versions and installations.
 /tmp/jsx containers-reset
@@ -100,5 +101,8 @@ Then we can install our threebot using
 # if you want to update your code and make sure you have latest docker do
 /tmp/jsx sdk -d -p -u
 ```
+<<<<<<< HEAD
 
 the tool will ask for your threebot name, make sure you specify exactly the name as used in your threebot.connect on your phone.
+=======
+>>>>>>> 92a9aeaae2bda00698c2b0f24eccafd404fa5dd2

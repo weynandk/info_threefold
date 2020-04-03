@@ -1,15 +1,4 @@
-# JumpscaleX SDK Installation Instructions
-
-There  are two ways that you can work with the JumpscaleX SDK:
-- a local install on a servers / laptop
-- a version of the SDK installed online o the TF Grid.
-
-In this document we will explain the installation for both options and local installations.
-
- **supported Operating Systems** are:
-- Ubuntu 18.04 or newer
-- macOS 10.7 or newer
-- Windows (to be completed)
+# JumpscaleX SDK Installation Instructions (Linux)
 
 ## Local installation (Linux)
 ### Step1: Prepare your machine
@@ -27,35 +16,40 @@ apt update -y;
 apt install -y openssh-server locales curl git rsync unzip lsb python3 python3-pip;
 pip3 install click requests;
 ```
-This will update ubuntu to the latest stable release and make sure you have the required packages installed. The next step is to make sure there is a sshkey available in the root account for secure access to the SDK container.
+This will update ubuntu to the latest stable release and make sure you have the required packages installed. 
+
+ssh-agent is a program to hold private keys used for public key authentication (RSA, DSA, ECDSA, Ed25519). ssh-agent is usually started in the beginning of an X-session or a login session, and all other windows or programs are started as clients to the ssh-agent program.  Through use of environment variables the agent can be located and automatically used for authentication when logging in to other machines using ssh(1). The install script needs an agent to be started:
 ```bash
-# Make sure the ssh agent is available
 eval `ssh-agent -s`
-# Skip the ssh-keygen command in case you already have a ssh key for your root account.
-ssh-keygen
+
 # Adds private key identities to the OpenSSH authentication agent
 ssh-add
+
 # Show the public key that belongs to the loaded private key
 ssh-add -L
 ```
-
 The last command should show the public key
 ```bash
 sh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC05P5eFki+5vHdn9BMrQwj0LZzl4FxwTAQ4GtwJFTS4Hog10Ly9sdhPQANOWASC1FXwZThVzj91hL8JCFuBZ5pDx29rJCDMQdqqVHQI5j8qkh4ZNNNQr/QLxdGl53RtQgabGe0OSnP+ZdvGHuSQdTg03bomGrpCYcahLbcj1yWBsCuF2VDgnW0AHeMR0lEubbKMSQrTNCuZqrGbRPuxaHzWj9KQSe4xiRtA/PB7ccMsQlXeIh5pv8QI6k858oJzvlswczTgZivCKoHRnU6XyDVd60y9v3BpbB7YgTasw/VXUDt4oH7U61VI3Jy7t/d9jazMcDt3CngDtRpWQqZSO77 .ssh/id_rsa
 root@happy:~# 
 ```
 
+For the next step to be successfull make sure you have added this identity as a known ssh key to you github account.  The SKD code will come from github and requires you to have a public key configured in GitHub.
+
+
+
 #### Step 2:  JumscaleX SDK installation
 
-In a terminal execute the following commands. This will download the installer, change its permission to make it executable
+In a terminal execute the following commands: these will download the install script, make it executable and then create and download directories and files.  It depends on executing from `/tmp`.
+
 ```bash
-curl https://raw.githubusercontent.com/threefoldtech/jumpscaleX_core/development/install/jsx.py?$RANDOM > /tmp/jsx;
+curl https://raw.githubusercontent.com/threefoldtech/jumpscaleX_core/unstable/install/jsx.py?$RANDOM > /tmp/jsx;
 chmod +x /tmp/jsx;
 ```
 
 This script provides a number of commands to operate / configure the SDK.  Options are show with the ```--help``` flag.
 ```bash
-root@happy:~# /tmp/jsx --help
+root@happy:~# /tmp/jsx 
 - redis loghandler cannot be loaded
 Usage: jsx [OPTIONS] COMMAND [ARGS]...
 
@@ -86,7 +80,7 @@ Commands:
   kosmos
   modules-install     install jumpscale module in local system :return:
   package-new         scaffold a new package tree structure
-  threebot            jsx threebot -d :param delete: delete the containers...
+  sdk                 jsx threebot -d :param delete: delete the containers...
   threebot-flist      create flist of 3bot docker image ex: jsx...
   threebotbuilder     create the 3bot and 3botdev images
   wiki-load
@@ -97,10 +91,17 @@ As stated above our recommendation is to install the SDK in a container.  The JS
 
 Then we can install our threebot using
 ```bash
-# Make sure there are no remnissents from previous versions and installations.
+# Make sure there are no remnissents from previous versions and installations.  If you have installed older version on the Jumpscale SDK please cleanup with the following command
 /tmp/jsx containers-reset
+
+# If /sandbox exists as a directory
+rm -fr /sandbox
+
+# If the known hosts file exists - delete the entries made by previous installations.
+cd 
+mv ./.ssh/known_hosts ./.ssh/known_hosts.original
 # install
-/tmp/jsx threebot
+/tmp/jsx sdk
 ```
 
 The result will be something like the following, will take few minuts please wait untill it's done.
@@ -111,25 +112,11 @@ The result will be something like the following, will take few minuts please wai
 
 ![Installation Image](images/install_2.png)
 
-Congratulations, now you have your 3bot installed.
-
-### After Installation
-
-Your 3bot is protected by 3Bot connect, you need to register your current 3Bot, from 3Bot server shell (for now, you need to suffix your name with `.3bot`)
-
-- We need to initalize out threebot open `kosmos`
-
-```python
-j.tools.threebot.init_my_threebot()
-```
-Here is an example of what you will enter
-![init_my_threebot](./images/threebotinit.jpg)
-
-
-
-- Then to start your 3bot. just type in shell `3bot start`.
+Congratulations, now you have your 3bot installed. To start your 3bot. just type in shell `3bot start`.
 
 - After that we can go to our browser to this link: http://localhost:7000
+or this link: https://localhost:4000 for https
+
 
 - We will see the following screen
 

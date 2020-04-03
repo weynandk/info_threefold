@@ -1,15 +1,14 @@
 * [Home](/)
 
-ThreeFold Foundation Definitions
+ThreeFold Foundation
+* [ThreeFold Values](/definitions-concepts/threefold_values.md)
+* [ThreeFold Network](/definitions-concepts/threefold_network.md)
 * [Autonomous Layer](/definitions-concepts/autonomous_layer.md)
 * [Capacity Layer](/definitions-concepts/capacity_layer.md)
 * [Experience Layer](/definitions-concepts/experience_layer.md)
 * [ThreeFold Ambassador](/definitions-concepts/threefold_ambassador.md)
-* [ThreeFold Network](/definitions-concepts/threefold_network.md)
-* [ThreeFold Values](/definitions-concepts/threefold_values.md)
 * [ThreeFold User](/definitions-concepts/threefold_user.md)
-
-ThreeFold Farming & Grid Definitions
+ThreeFold Farming & Grid
 * [Farmer ID](/definitions-concepts/farmer_id.md)
 * [IC - Internet Capacity](/definitions-concepts/ic-internet-capacity.md)
 * [ThreeFold Capacity](/definitions-concepts/threefold_capacity.md)
@@ -20,23 +19,8 @@ ThreeFold Farming & Grid Definitions
 * [ThreeFold Grid](/definitions-concepts/threefold_grid.md)
 * [ThreeFold Node](/definitions-concepts/threefold_node.md)
 * [ThreeFold Operating System](/definitions-concepts/threefold_operating_system.md)
-
-ThreeFold Token Definitions
+ThreeFold Token
 * [ThreeFold Chain](/definitions-concepts/threefold_chain.md)
 * [ThreeFold Token](/definitions-concepts/threefold_token.md)
 3Bot Definitions
 * [3Bot](/definitions-concepts/3Bot.md)
-
-ThreeFold Tech Definitions
-
-
-
-
-
-
-
-
-
-
-
-

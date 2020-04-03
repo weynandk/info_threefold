@@ -1,7 +1,3 @@
-## ThreeFold Node / 3Node
+## 3Node / ThreeFold Node
 
-A compute/storage server which provides Internet Capacity as source for the Cloud Units.
-
- - A TF Node is part of a Farming Pool
- - TF Nodes are owned by TF Farmers
- - All TF Nodes run the TF Operating System and TF Chain (TFC)
+The Farmer’s storage and/or compute server which is connected to the ThreeFold Grid by installing and running the ThreeFold Zero OS. The 3Node creates capacity on the ThreeFold Grid.

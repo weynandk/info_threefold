@@ -1,7 +1,18 @@
-# ThreeFold Wiki
+# info_threefold
 
-![](https://images.unsplash.com/photo-1583446773821-e6a69bac8077?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1383&q=80)
+Welcome to the ThreeFold Ecosystem Wiki.
+Here is where you'll find all info on anything related to ThreeFold.
 
-## Welcome to the ThreeFold Wiki!
+Things like:
+- The Token
+- The Grid
+- 3Bot
+- ThreeFold Tech
+- And more.
 
-This Wiki is a gathering of most of our created content in regards to the ThreeFold Ecosystem
+If you have any input, would like to see additions, or a cool idea feel free to list an issue and we'll make sure to try and get it in there.
+
+If you need any support please visit [our website](https://www.threefold.io) and use the chat widget in the bottom right of your screen.
+Our team will answer your questions as soon as possible.
+
+Now go explore our wiki's.

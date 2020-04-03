@@ -8,7 +8,6 @@ These questions originate from a meeting / presentation from the Cherry Chapter 
 
 TF-Grid capacity pricing is fundamentally set by the farmers owning the capacity.  They own their little part of this grid and therefore they decide to what commercial pricing their part of the grid is available to others.  The TF Foundation provides guidelines with regards to commercial pricing for capapcity on the grid.
 
-Additional content is available [here](https://wiki.grid.tf/#/faq/pricing_conflicts)
 
 ### 2. How would capacity demand management, capacity request management and capacity reservation work on the TF grid? Will it be all handled by the „framers/integrators“ Cockpit or through the end-customer 3Bot?
 
