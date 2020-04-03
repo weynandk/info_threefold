@@ -10,7 +10,7 @@
 
 **Compute**
 * [Deploy Compute Capacity](../peer2peer_storage_compute/use_cases/compute.md)
-
+* [Deploy generic flists](../peer2peer_storage_compute/use_cases/generic-flist.md)
 **Network**
 * [Deploy Network Capacity](../peer2peer_storage_compute/use_cases/compute.md)
 
