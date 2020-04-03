@@ -14,18 +14,18 @@
       * [Windows]()
 
 
-**Storage**
+Storage
 * [Deploy Storage Capacity](../peer2peer_storage_compute/use_cases/storage.md)
 
-**Compute**
+Compute
 
 * [Deploy Compute Capacity](../peer2peer_storage_compute/use_cases/compute.md)
 * [Deploy generic flists](../peer2peer_storage_compute/use_cases/generic-flist.md)
 
-**Network**
+Network
 * [Deploy Network Capacity](../peer2peer_storage_compute/use_cases/compute.md)
 
-**Knowledge Base**
+Knowledge Base
 * [How To Query Available Nodes](../peer2peer_storage_compute/general/query-nodes.md)
 * [The Provisioning Flow](../peer2peer_storage_compute/general/provisioningflow.md)
 * [SDK overview](./peer2peer_storage_compute/general/jumpscale_SDK/README.md)
