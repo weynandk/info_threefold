@@ -1,15 +1,4 @@
-# JumpscaleX SDK Installation Instructions
-
-There  are two ways that you can work with the JumpscaleX SDK:
-- a local install on a servers / laptop
-- a version of the SDK installed online o the TF Grid.
-
-In this document we will explain the installation for both options and local installations.
-
- **supported Operating Systems** are:
-- Ubuntu 18.04 or newer
-- macOS 10.7 or newer
-- Windows (to be completed)
+# JumpscaleX SDK Installation Instructions (Linux)
 
 ## Local installation (Linux)
 ### Step1: Prepare your machine
