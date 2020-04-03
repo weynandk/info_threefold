@@ -17,7 +17,7 @@ python: stable 3.7.7 (bottled), HEAD
 And we need a gew additional libraries for the installation:
 
 ```bash
-pip3 install click requests;
+pip3 install click requests json -y;
 ```
 
 Then we need an sshkey to facilitate secure and easy access to the 3bot container.
@@ -97,6 +97,8 @@ Then we can install our threebot using
 /tmp/jsx containers-reset
 # install tfgrid sdk
 /tmp/jsx sdk
+# if you want to update your code and make sure you have latest docker do
+/tmp/jsx sdk -d -p -u
 ```
 
-
+the tool will ask for your threebot name, make sure you specify exactly the name as used in your threebot.connect on your phone.
