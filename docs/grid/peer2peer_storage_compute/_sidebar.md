@@ -23,6 +23,6 @@
 * Knowledge Base
 * [How To Query Available Nodes](/grid/peer2peer_storage_compute/general/query-nodes.md)
 * [The Provisioning Flow](/grid/peer2peer_storage_compute/general/provisioningflow.md)
-* [SDK overview](/grid/peer2peer_storage_compute/general/jumpscale_SDK/README.md)
+* [SDK overview](/grid/peer2peer_storage_compute/general/jumpscale_sdk/README.md)
 * [The Provisioning Flow](/grid/peer2peer_storage_compute/general/provisioningflow.md)
 * [Python examples](/grid/peer2peer_storage_compute/use_cases/examples/README.md)
