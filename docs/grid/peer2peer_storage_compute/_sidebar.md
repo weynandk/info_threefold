@@ -1,6 +1,6 @@
 * [Home](/)
-* [Grid](/grid)
-* [Peer2Peer](/grid/peer2peer_storage_compute)
+* [Grid](/grid/README.md)
+* [Peer2Peer](/grid/peer2peer_storage_compute/README.md)
 
 * [Prerequisites](/grid/peer2peer_storage_compute/prerequisitesgrid/prerequisites.md)
     * [Installing 3Bot Connect App](/grid/peer2peer_storage_compute/prerequisites/3bot-connect-app.md)
