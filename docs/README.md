@@ -1,31 +1,18 @@
-![](wiki-intro.png)
+# info_threefold
 
-## Welcome to the ThreeFold Foundation Wiki!
+Welcome to the ThreeFold Ecosystem Wiki.
+Here is where you'll find all info on anything related to ThreeFold.
 
-This Wiki is a gathering of most of our created content in regards to the ThreeFold Foundation.
-It features the way we work together, our definitions, our tools, presentations and much more for you to read and learn about.
+Things like:
+- The Token
+- The Grid
+- 3Bot
+- ThreeFold Tech
+- And more.
 
-## If You are new to ThreeFold
+If you have any input, would like to see additions, or a cool idea feel free to list an issue and we'll make sure to try and get it in there.
 
-Here is an introduction to how it all started
+If you need any support please visit [our website](https://www.threefold.io) and use the chat widget in the bottom right of your screen.
+Our team will answer your questions as soon as possible.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AAV4yYZ_P3k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Please join the discussions about ThreeFold on our [Forum](https://forum.threefold.io/).
-ThreeFold also has created a decentralized social media platform called [FreeFlowPages](https://www.freeflowpages.com) you are invited to create your profile there and follow our and other groups.
-
-## More online resources
-
-For additional information, please refer to our official channels:
-
-[Website](https://www.threefold.io)
-
-[YouTube channel](https://youtube.com/c/ThreeFoldFoundation)
-
-[Facebook](https://facebook.com/ThreeFoldNetwork)
-
-[LinkedIn](https://linkedin.com/company/threefold-foundation/)
-
-[Twitter](https://twitter.com/threefoldntwrk) 
-
-[Announcement Telegram Group](https://t.me/threefoldnetwork)
+Now go explore our wiki's.
