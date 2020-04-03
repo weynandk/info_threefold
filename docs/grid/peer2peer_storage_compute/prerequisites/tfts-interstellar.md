@@ -15,7 +15,8 @@ Interstellar.exchange is a decentralized exchange that allows you to buy TFTs.
 
 * Click Enter Account
 For Interstellar all you need to do is set a password. As the wallet will be linked to your device instead of an email address.
-![image alt text](../img/enteraccount.png)
+
+![](/grid/peer2peer_storage_compute/img/enteraccount.png)
 
 * Set your password, Confirm it, and accept the Terms and Conditions
 
@@ -29,8 +30,8 @@ For Interstellar all you need to do is set a password. As the wallet will be lin
 
 * You’re account is now created and you will have to send funds (digital currencies that run on the Stellar Blocklchain only  only) to one of the wallets attached to your account.
 
-* We have funded our wallet with $408 or 10.000 XLMs for this manual as you can see these are now shown in the account overview.![image alt text](../img/accountoverview.png)
-
+* We have funded our wallet with $408 or 10.000 XLMs for this manual as you can see these are now shown in the account overview.
+![](/grid/peer2peer_storage_compute/img/accountoverview.png)
 ## Part 3: Adding the TFT Asset to your account.
 
 * Click Add Token in your account overview
@@ -39,11 +40,17 @@ For Interstellar all you need to do is set a password. As the wallet will be lin
 
 * Add the following data 
 Asset Code: TFT
-Asset Issuer: GBOVQKJYHXRR3DX6NOX2RRYFRCUMSADGDESTDNBDS6CDVLGVESRTAC47![image alt text](../img/addasset.png)
+Asset Issuer: GBOVQKJYHXRR3DX6NOX2RRYFRCUMSADGDESTDNBDS6CDVLGVESRTAC47!
 
-* The Asset is now added to your account, to trade the asset however you will have to create a trustline, you can do this by clicking on the "Trust Asset" Button.![image alt text](../img/trustasset.png)
+![](/grid/peer2peer_storage_compute/img/addasset.png)
 
-* When you have successfully created a trustline it will say success and the activity will show up in the right-hand column of the account page.![image alt text](../img/trustline-created.png)
+* The Asset is now added to your account, to trade the asset however you will have to create a trustline, you can do this by clicking on the "Trust Asset" Button.
+
+![](/grid/peer2peer_storage_compute/img/trustasset.png)
+
+* When you have successfully created a trustline it will say success and the activity will show up in the right-hand column of the account page.
+
+![](/grid/peer2peer_storage_compute/img/trustline-created.png)
 
 ## Part 4: Trading Digital Currencies for TFT
 

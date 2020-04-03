@@ -1,3 +1,3 @@
 ### Ubuntu chat deployment
 
-![alerts](images/ubuntu-chat.png)
+![alerts](/grid/peer2peer_storage_compute/img/ubuntu-chat.png)

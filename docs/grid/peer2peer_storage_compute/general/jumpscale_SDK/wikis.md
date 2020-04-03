@@ -1,3 +1,3 @@
 ### Wikis
 
-![alerts](images/wikis.png)
+![alerts](/grid/peer2peer_storage_compute/img/wikis.png)

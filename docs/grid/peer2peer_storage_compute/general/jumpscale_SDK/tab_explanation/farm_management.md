@@ -1,3 +1,3 @@
 ### Farm Management
 
-![alerts](images/farm_management.png)
+![alerts](/grid/peer2peer_storage_compute/img/farm_management.png)

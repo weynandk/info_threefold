@@ -12,4 +12,4 @@ The explorer allows you to find nodes based on criteria such as :
 
 The details for each node gives more specification and status of the node. 
 
-![Node_details](../img/Node_details.png)
+![Node_details](/grid/peer2peer_storage_compute/img/Node_details.png)

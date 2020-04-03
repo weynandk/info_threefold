@@ -1,3 +1,3 @@
 ### Jupyter Lab / Notebook
 
-![alerts](images/jupyter.png)
+![alerts](/grid/peer2peer_storage_compute/img/jupyter.png)

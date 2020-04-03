@@ -1,3 +1,3 @@
 ### Solutions
 
-![Solutions](images/solutions.png)
+![Solutions](/grid/peer2peer_storage_compute/img/solutions.png)

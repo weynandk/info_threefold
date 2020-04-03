@@ -1,4 +1,4 @@
 ### Packages
 
 
-![alerts](images/packages.png)
+![alerts](/grid/peer2peer_storage_compute/img/packages.png)

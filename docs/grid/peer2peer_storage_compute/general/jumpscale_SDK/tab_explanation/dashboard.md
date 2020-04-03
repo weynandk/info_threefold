@@ -1,3 +1,3 @@
 ### Dashboard
 
-![alerts](images/dashboard.png)
+![alerts](/grid/peer2peer_storage_compute/img/dashboard.png)

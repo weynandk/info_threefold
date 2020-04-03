@@ -1,3 +1,3 @@
 ### S3 Cluster chat
 
-![alerts](images/minio-chat.png)
+![alerts](/grid/peer2peer_storage_compute/img//minio-chat.png)

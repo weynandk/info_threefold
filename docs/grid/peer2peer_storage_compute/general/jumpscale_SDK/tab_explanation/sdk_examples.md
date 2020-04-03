@@ -1,3 +1,3 @@
 ### Software Development Kit examples
 
-![alerts](images/sdk_examples.png)
+![alerts](/grid/peer2peer_storage_compute/img/sdk_examples.png)

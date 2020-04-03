@@ -5,5 +5,6 @@ Flists can be converted from the Docker container, and stored in the [Zero-OS hu
 
 These flists can then be used to deploy a container, through the Generic Flist solution :
 
-<img src=../img/Generic_flist1.png width=500>
+![](/grid/peer2peer_storage_compute/img/generic_flist1.png)
+
 
