@@ -8,7 +8,7 @@ The result can be uploaded and made available in the flist repository, where it 
 
 Within the 3bot Admin console, a chatflow has been created to deploy a generic flist. 
 
-<img src=img/Chatflow_flist0.png width=200>
+<img src=../img/Chatflow_flist0.png width=200>
 
 Through this chatflow, the flist is deployed into your local 3bot in a few simple steps : 
 - Select the flist to be deployed

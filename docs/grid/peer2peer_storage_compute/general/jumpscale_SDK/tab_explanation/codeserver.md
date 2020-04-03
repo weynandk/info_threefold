@@ -1,3 +1,3 @@
 ### Codeserver
 
-![alerts](images/codeserver.png)
+![alerts](./peer2peer_storage_compute/img/codeserver.png)

@@ -5,25 +5,25 @@ The network set-up is integrated in each of the chatflows (on ubuntu, flist, S3,
 
 - If you haven't set up your network yet, select a new network : 
 
-<img src=img/Chatflow_Ubuntu5.png width=500>
-<img src=img/Chatflow_Ubuntu6.png width=500>
+<img src=../img/Chatflow_Ubuntu5.png width=500>
+<img src=../img/Chatflow_Ubuntu6.png width=500>
 
 This network then needs to be defined using Wireguard. 
 A different setup is needed on Ubuntu machines and on Macbook : 
 - For Ubuntu machines, install wireguard using wg-quick
-<img src=img/Chatflow_Ubuntu9.png width=500>
-<img src=img/Chatflow_Ubuntu11.png width=500>
+<img src=../img/Chatflow_Ubuntu9.png width=500>
+<img src=../img/Chatflow_Ubuntu11.png width=500>
 
 - On MacBook, please install the Wireguard application and define a new tunnel 
-<img src=img/Chatflow_Ubuntu11.png width=500>
-<img src=img/Chatflow_Ubuntu12.png width=300>
-<img src=img/Chatflow_Ubuntu13.png width=500>
-<img src=img/Chatflow_Ubuntu14.png width=500>
+<img src=../img/Chatflow_Ubuntu11.png width=500>
+<img src=../img/Chatflow_Ubuntu12.png width=300>
+<img src=../img/Chatflow_Ubuntu13.png width=500>
+<img src=../img/Chatflow_Ubuntu14.png width=500>
 
 - If you previously defined a network, you can reuse an existing network.
 
-<img src=img/kubernetes_chatflow6.png width=500>
-<img src=img/kubernetes_chatflow7.png width=500>
+<img src=../img/kubernetes_chatflow6.png width=500>
+<img src=../img/kubernetes_chatflow7.png width=500>
 
 
 ## How to set up a network using the Jupyter Notebooks?
