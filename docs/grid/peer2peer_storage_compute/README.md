@@ -1,8 +1,10 @@
-# ThreeFold Grid (TF Grid)
+#  Anything peer2peer for everyone
 
-![](/images/world.png)
+![](images/peertopeer-bw.jpeg)
 
-* [Core concepts](./core_concepts/README.md)
-* [Setup Guides](./setup_guides/README.md) 
-* [Tutorials](./tutorials/README.md)
+Peer2peer cloud presents compute, storage and networking by many for anyone.  It is the worlds first peer2peer anything for everyone. 
+
+* [Core concepts](core_concepts/README.md)
+* [Setup Guides](setup_guides/README.md) 
+* [Tutorials](tutorials/README.md)
 
