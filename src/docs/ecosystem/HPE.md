@@ -17,3 +17,31 @@ HPE and TF cooperate in a non-exclusive partnership, that supports common busine
 - Grow the grid, many projects, many projects being worked on & further developed.
 
 Website:  https://hpe.com
+
+# Hewlett Packard Enterprise
+
+TF Tech and HP Enterprise are partnering to create a strategic plan to help Enterprise around the world to create and deliver private blockchain and compute and st
+
+## HPE Overview
+
+HPE is in the Acceleration Business
+We help customers use technology to slash the time it takes to turn ideas into value. In turn, they transform industries, markets and lives.
+
+Some of our customers run traditional IT environments. Most are transitioning to a secure, cloud-enabled, mobile-friendly infrastructure. Many rely on a combinatio
+.
+
+### Technology That Fuels Transformation
+We make IT environments more efficient, productive and secure, enabling fast, flexible responses to a rapidly changing competitive landscape. We enable organisatio
+
+### Solutions You Need to Succeed
+We deliver high-quality, high-value products, consulting and support services in a single package. That’s one of our principal differentiators. We have industry-le
+Innovating for Today and Tomorrow
+Hewlett Packard has been in the innovation business for more than 75 years. Our vast intellectual property portfolio and global research and development capabiliti
+We are working to establish Hewlett Packard Enterprise as the main hardware choice for farmers. In addition HPE wants to offer services for their customers and par
+
+
+
+
+
+
+

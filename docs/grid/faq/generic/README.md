@@ -1,3 +1,0 @@
-# Grid FAQ Generic Questions
-
-
