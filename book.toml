@@ -1,0 +1,10 @@
+[book]
+authors = ["peternashaat"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Threefold Foundation"
+
+[output.html.fold]
+enable = true
+level = 0

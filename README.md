@@ -16,3 +16,35 @@ If you need any support please visit [our website](https://www.threefold.io) and
 Our team will answer your questions as soon as possible.
 
 Now go explore our wiki's.
+
+
+### MDBOOK HOW TO :-
+
+after changing any file, build has to be run 
+
+```
+mdbook build info_threefold
+
+```
+
+ - changeing the title :- 
+    - from book.toml file
+    
+
+- Runing mdbook server :- 
+
+**use -p for specifying port number**
+
+```
+mdbook serve info_threefold -n 0.0.0.0
+```
+
+
+- Sidbar foldable setting, enabled by adding this part to book.toml file :-
+
+```
+[output.html.fold]
+enable = true
+level = 0
+
+```
