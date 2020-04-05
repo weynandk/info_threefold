@@ -1,29 +1,41 @@
 * [Home](/)
 * [Grid](/grid/README.md)
-* [Peer2Peer](/grid/peer2peer_storage_compute/README.md)
 
-* [Prerequisites](/grid/peer2peer_storage_compute/prerequisites/prerequisites.md)
-    * [Installing 3Bot Connect App](/grid/peer2peer_storage_compute/prerequisites/3bot-connect-app.md)
+* Core concepts
+  * [The Provisioning Flow](./core_concepts/general/provisioningflow.md)
+* Setup Guides
+  * [Prerequisites](./prerequisites/p
+rerequisites.md)
+    * [Installing 3Bot Connect App](./prerequisites/3bot-connect-app.md)
     * Install the SDK
-      * [Linux ThreeFold SDK](/grid/peer2peer_storage_compute/prerequisites/threefold-sdk-linux.md)
-      * [MacOS ThreeFold SDK](/grid/peer2peer_storage_compute/prerequisites/threefold-sdk-macos.md)
-      * Windows (soon)
-      
+  
+      * [Linux ThreeFold SDK](.
+    /prerequisites/threefold-sdk-linux.md)
+      * [MacOS ThreeFold SDK](./prerequisites/threefold-sdk-macos.md)
+      * Windows (soon) 
+* Tutorials     
+  * [SDK overview](./general/jumpscale_sdk/README.md)
+  * [Deploy]()
+   *   Storage
+  
+     * [Deploy Storage Capacity](./use_cases/storage.md)
 
-* Storage
-* [Deploy Storage Capacity](/grid/peer2peer_storage_compute/use_cases/storage.md)
+    * Compute
+  
+      * [Deploy Compute Capacity]
+    (./use_cases/compute.md)
+      * [Deploy generic flists](./use_cases/generic-flist.md)
 
-* Compute
-* [Deploy Compute Capacity](/grid/peer2peer_storage_compute/use_cases/compute.md)
-* [Deploy generic flists](/grid/peer2peer_storage_compute/use_cases/generic-flist.md)
+    * Network
+  
+      * [Deploy Network Capacity](./use_cases/compute.md)
 
-* Network
-* [Deploy Network Capacity](/grid/peer2peer_storage_compute/use_cases/compute.md)
+  * Knowledge Base
 
-* Knowledge Base
-* [How To Query Available Nodes](/grid/peer2peer_storage_compute/general/query-nodes.md)
-* [The Provisioning Flow](/grid/peer2peer_storage_compute/general/provisioningflow.md)
-* [SDK overview](/grid/peer2peer_storage_compute/general/jumpscale_sdk/README.md)
-* [The Provisioning Flow](/grid/peer2peer_storage_compute/general/provisioningflow.md)
-* [Python examples](/grid/peer2peer_storage_compute/use_cases/examples/README.md)
+    * [How To Query Available
+   Nodes](./general/query-nodes.md)
+  * [The Provisioning Flow](./general/provisioningflow.md)
+
+
+* [Python examples](./use_cases/examples/README.md)
 

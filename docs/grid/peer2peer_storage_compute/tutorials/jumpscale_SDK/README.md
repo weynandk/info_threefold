@@ -2,10 +2,7 @@
 
 #### Introduction
 
-#### Installation
-The SDK installation process is documented in the `threefold` repository. The specific installation instructions for different OS's can be found here:
-- [Ubuntu](https://github.com/threefoldfoundation/info_threefold/blob/development/docs/wikieditors/installation_linux.md)
-- [macoOS](https://github.com/threefoldfoundation/info_threefold/blob/development/docs/wikieditors/installation_macos.md)
+With the Jumpscale SDK installed you can start deploying.
 
 #### Admin panel overview
 
