@@ -1,1 +1,1 @@
-!!!include("/wikieditors/installation_macos.md")
+!!!include("/wikieditors/installation_windows.md")

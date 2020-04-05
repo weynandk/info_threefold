@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "/Users/weynandkuijpers/opt"
+		},
+		{
+			"name": "info_projectX",
+			"path": "/Users/weynandkuijpers/opt/code/github/info_projectX"
+		},
+		{
+			"path": "/Users/weynandkuijpers/opt/code/github/info_threefold"
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Tomorrow Night Blue"
+	}
+}
