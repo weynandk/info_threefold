@@ -17,7 +17,7 @@ Our team will answer your questions as soon as possible.
 
 Now go explore our wiki's.
 
-#### Editing in the wikis
+### Editing in the wikis
 
 - all md files are under src/docs directory, please make sure you get all your changes there.
 
