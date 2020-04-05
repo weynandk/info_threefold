@@ -1,6 +1,6 @@
-* [Home](/)
-* [Grid](/grid/README.md)
-* [Peer2Peer](/grid/peer2peer_storage_compute/README.md)
+* [Home](../../)
+* [Grid](/../README.md)
+* [Peer2Peer](../peer2peer_storage_compute/README.md)
 
 * Setup Guides
   * Prerequisites
@@ -9,3 +9,5 @@
       * [Linux ThreeFold SDK](./prerequisites/threefold-sdk-linux.md)
       * [MacOS ThreeFold SDK](./prerequisites/threefold-sdk-macos.md)
       * Windows (soon) 
+
+* [Up](../README.md)

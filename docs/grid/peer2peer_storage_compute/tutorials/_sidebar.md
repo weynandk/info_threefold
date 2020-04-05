@@ -1,6 +1,6 @@
-* [Home](/)
-* [Grid](/grid/README.md)
-* [Peer2Peer](/grid/peer2peer_storage_compute/README.md)
+* [Home](../../)
+* [Grid](/../README.md)
+* [Peer2Peer](../peer2peer_storage_compute/README.md)
  
 * Tutorials     
   * [SDK overview](./jumpscale_sdk/README.md)
@@ -16,3 +16,4 @@
   * Knowledge Base
     * [Python examples](./use_cases/examples/README.md)
 
+* [Up](../README.md) 
