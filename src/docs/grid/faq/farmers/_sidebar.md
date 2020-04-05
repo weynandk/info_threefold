@@ -1,0 +1,11 @@
+* [Home](/)
+* [Frequently Asked Questions](/grid/faq/README.md)
+* Farmer related
+   * [1. What type of farmers exist?](/grid/faq/farmers/farmer_sizes.md)
+   * [2. How do I compete as a farmer](/grid/faq/farmers/compete.md)
+   * [3. What about pricing conflicts](/grid/faq/farmers/pricing_conflicts.md)
+   * [4. How do farmers set capacity pricing?](/grid/faq/farmers/capacity_pricing.md)
+   * [5. Is there a default pricing for ThreeFold Grid capacity?](/grid/faq/farmers/default_pricing.md)
+   * [6. What about Return of Investment (RoI)](/grid/faq/farmers/roi.md)
+   * [7. What happens when hardware components are added to a existing 3Node?](/grid/faq/farmers/hw_added_to_3node.md)
+   * [8. How to set up your farm with multiple farming locations](/grid/faq/farmers/how_to_multiple_farming_locations.md)
