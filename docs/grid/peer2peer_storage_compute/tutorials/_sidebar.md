@@ -1,19 +1,17 @@
-* [Home](../../)
-* [Grid](/../README.md)
-* [Peer2Peer](../peer2peer_storage_compute/README.md)
- 
+* [Home](/)
+* [Grid](/grid/README.md)
+* [P2P](/grid/peer2peer_storage_compute/README.md)
 * Tutorials     
-  * [SDK overview](./jumpscale_sdk/README.md)
-  * [How To Query Available Nodes](./query-nodes.md)
-  * [Deploy]()
-    * Storage
-      * [Deploy Storage Capacity](./use_cases/storage.md)
-    * Compute
-      * [Deploy Compute Capacity](./use_cases/compute.md)
-      * [Deploy generic flists](./use_cases/generic-flist.md)
-    * Network
-      * [Deploy Network Capacity](./use_cases/compute.md)
+  * [SDK overview](/grid/peer2peer_storage_compute/tutorials/jumpscale_SDK/README.md)
+  * [How To Query Available Nodes](/grid/peer2peer_storage_compute/tutorials/query-nodes.md)
+  * Deploy Storage
+    * [Deploy Storage Capacity](/grid/peer2peer_storage_compute/tutorials/use_cases/storage.md)
+  * Deploy Compute
+    * [Deploy Compute Capacity](/grid/peer2peer_storage_compute/tutorials/use_cases/compute.md)
+    * [Deploy generic flists](/grid/peer2peer_storage_compute/tutorials/use_cases/generic-flist.md)
+  * Deploy Network
+    * [Deploy Network Capacity](/grid/peer2peer_storage_compute/tutorials/use_cases/compute.md)
   * Knowledge Base
-    * [Python examples](./use_cases/examples/README.md)
+    * [Python examples](/grid/peer2peer_storage_compute/tutorials/use_cases/examples/README.md)
 
-* [Up](../README.md) 
+[**Level Up**](/grid/peer2peer_storage_compute/README.md) 
