@@ -54,7 +54,7 @@ default-theme = "Rust"
 
 cd into the repo directory then run this command :-
 ```
-mdbook serve info_threefold -n 0.0.0.0
+mdbook serve info_threefold -d docs -n 0.0.0.0
 ```
 
 
