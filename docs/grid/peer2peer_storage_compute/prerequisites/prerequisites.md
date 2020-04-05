@@ -6,7 +6,7 @@ All of them are pretty straight forward and you should having your capacity rese
 ## 3Bot Connect App
 For identification and fund handling you will have install the 3Bot Connect App.
 
-[Installing the 3Bot Connect App](../peer2peer_storage_compute/3bot-connect-app.md)
+[Installing the 3Bot Connect App](/grid/peer2peer_storage_compute/prerequisites/3bot-connect-app.md)
 
 ## Installing The ThreeFold SDK
 The ThreeFold SDK is the interface where you get acces to all different options to spinning up storage or compute capacity.
@@ -14,5 +14,5 @@ The ThreeFold SDK is the interface where you get acces to all different options 
 * Jupyter Notebooks
 * Codeserver
 
-[Installing the SDK for Linux](../peer2peer_storage_compue/threefold-sdk-linux.md)
-[Installing the SDK for MacOS](../peer2peer_storage_compue/threefold-sdk-macos.md)
+[Installing the SDK for Linux](/grid/peer2peer_storage_compute/prerequisites/threefold-sdk-linux.md)
+[Installing the SDK for MacOS](/grid/peer2peer_storage_compute/prerequisites/threefold-sdk-macos.md)

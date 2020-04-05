@@ -17,11 +17,11 @@ After installing on a local system there should be a 3bot SDK start with a SDK a
 
 The following screen should welcome you:
 
-![SDK login](images/SDK_login.png)
+![SDK login](/grid/peer2peer_storage_compute/img/SDK_login.png)
 
 Use the 3bot.Connect application to login.
 
-![SDK admin panel](images/SDK_admin_panel.png)
+![SDK admin panel](/grid/peer2peer_storage_compute/img/SDK_admin_panel.png)
 
 ##### Option 2: Login the container and use the CLI interface
 You can also login into the container and use the availabe CLI interface to manage code and execute code.
