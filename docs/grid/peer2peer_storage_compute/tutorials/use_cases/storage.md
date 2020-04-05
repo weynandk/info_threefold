@@ -4,7 +4,7 @@
 Within the 3bot Admin console, a chatflow has been created to reserve S3 storage capacity. 
 This storage can be dispersed over different nodes. 
 
-![](/grid/peer2peer_storage_compute/img/minio_chatflow1.png)
+![](./images/minio_chatflow1.png)
 
 Through this chatflow, S3 storage is reserved and configured simply by collection of a number of parameters : 
 - IPv4 vs. IPv6
@@ -24,24 +24,24 @@ Through this chatflow, S3 storage is reserved and configured simply by collectio
 
 This information is sufficient to create the workload on the network.
 
-![](/grid/peer2peer_storage_compute/img/minio_chatflow17.png)
+![](./images/minio_chatflow17.png)
 
 
 The network might yet be set up, using Wireguard.
 For ubuntu machines, you get command line instruction: 
-![](/grid/peer2peer_storage_compute/img/minio_chatflow17.png)
+![](./images/minio_chatflow17.png)
 
 
 On MacOS, the Wireguard configuration can be set up through the Wireguard application : 
 - Download the configuration into a file
-![](/grid/peer2peer_storage_compute/img/minio_chatflow19.png)
+![](./images/minio_chatflow19.png)
 
 
 - load this into Wireguard tunnel 
-![](/grid/peer2peer_storage_compute/img/minio_chatflow20.png)
+![](./images/minio_chatflow20.png)
 
 Finally, the location of the workload is shown : 
-![](/grid/peer2peer_storage_compute/img/minio_chatflow21.png)
+![](./images/minio_chatflow21.png)
 
 
 ## How to set up S3 Storage using the Jupyter Notebooks?
