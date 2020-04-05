@@ -1,0 +1,6 @@
+* [Home](/)
+* [ThreeFold Tech](/tech/README.md)
+* [Achievements](/tech/achievements/readme.md)
+  * [TF Grid](/tech/achievements/tf_grid.md)
+  * [Gold Token](/tech/achievements/gold_token.md)
+  * [Euro Token ? (Fiat token…)](/tech/achievements/fiat_token.md)
