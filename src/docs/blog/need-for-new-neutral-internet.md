@@ -1,15 +1,16 @@
 # The need for a new, neutral Internet
 
 ![Logo](img/the_need_for_new.jpg)
-## The internet is growing like crazy. This is a Trillion Dollar problem. Together we can build a new internet.
 
-
+**The internet is growing like crazy. This is a Trillion Dollar problem.**
+<BR>
+**Together we can build a new internet.**
 
 ## The Problem
 
 - Internet is no longer the neutral place it used to be. 80+% of Internet capacity is delivered by a handful of companies. This results in loss of neutrality and openness and breeds inequality.
 
-- To support the continuous growth of the Internet and connect billions of new Internet Of Things devices, 400 million new servers are needed by 2020. The world needs another 4,000 large- scale data centers that each consume 200 MWe of electricity: source http://bit.ly/1UPUZYG.
+- To support the continuous growth of the Internet and connect billions of new Internet Of Things devices, 400 million new servers are needed by 2020. The world needs another 4,000 large- scale data centers that each consume 200 MWe of electricity: [see source](http://bit.ly/1UPUZYG).
 
 - Bandwidth does not follow Moore’s law. The growth of bandwidth required is much higher than the speed at which new capacity can be delivered.This is even more important in emerging markets.
 
