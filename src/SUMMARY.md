@@ -142,8 +142,8 @@
 
 	- [TF Foundation Website](./docs/web_resources.md)
 	- [TF Tech Website](./docs/web_resources/tech.md)
-	- [Foundation Github](./docshttps://github.com/threefoldfoundation?page=1)
-	- [ThreeFold Tech Github](./docshttps://github.com/threefoldtech)
+	- [Foundation Github](./docs/web_resources/foundation_github.md)
+	- [ThreeFold Tech Github](./docs/web_resources/tech_github.md)
 
 
 - [Legal](./docs/legal/README.md)

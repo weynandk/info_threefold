@@ -47,7 +47,8 @@ A wallet that puts you in control of your funds and runs on your iPhone. We reco
 
 [Wiki How-To](/token/apps_wallets/3bot_app.md)
 
-[Download 3Bot Connect For Iphone](https://apps.apple.com/us/app/3bot-connect/id1459845885)
+<a href="https://apps.apple.com/us/app/3bot-connect/id1459845885" target="_blank">Download 3Bot Connect For Iphone</a>
+
 
 ## Android wallet ![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/ic-androidlogo.png)
 
@@ -55,18 +56,15 @@ A Wallet that puts you in control of your funds and runs on your Android device.
 
 [Wiki How-To](/token/apps_wallets/3bot_app.md)
 
-[Download 3Bot Connect For Android](https://play.google.com/store/apps/details?id=org.jimber.threebotlogin&hl=nl)
+<a href="https://play.google.com/store/apps/details?id=org.jimber.threebotlogin&hl=nl" target="_blank">Download 3Bot Connect For Android</a>
 
 ## TFChain Core ![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/ic-chaincore.png)
 
 This method is only recommended for technically skilled users. Core Client for ThreeFold Blockchain that can be run on Windows, OSX, Linux in a pre-configured Docker container.
 
-[Download](https://github.com/threefoldfoundation/tfchain)
+<a href="https://github.com/threefoldfoundation/tfchain" target="_blank">Download</a>
 
 ## Step 2. Get ThreeFold Tokens
 
 Take a look at purchase options and guidance 
-[How to buy ThreeFold tokens](/token/how_to_buy/README.md)
-
-
-
+[How to buy ThreeFold tokens](/docs/token/how_to_buy/index.html)

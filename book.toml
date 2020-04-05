@@ -8,3 +8,6 @@ title = "Threefold Foundation"
 [output.html.fold]
 enable = true
 level = 0
+
+[output.html]
+default-theme = "Rust"

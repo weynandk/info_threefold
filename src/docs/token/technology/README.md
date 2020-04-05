@@ -1,4 +1,4 @@
-* [Rivine Blockchain](/token/technology/rivine_blockchain.md)
+* [Rivine Blockchain](/docs/token/technology/rivine_blockchain.md)
 * [Proof of BlockStake Consensus](/token/technology/proof_of_blockstake.md)
 * [Atomic Swaps & Decentralized Exchange](/token/technology/atomic_swaps.md)
 * [Run a ThreeFold Chain Node](https://github.com/threefoldfoundation/tfchain)

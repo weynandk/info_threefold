@@ -1,27 +1,10 @@
 # Core Team
-
-```
-!!!team
-link = "https://github.com/threefoldfoundation/data_team/tree/master/team"
-order = "rank"
-projects = [1]
-contribution_types = [1]
-```
+![Core_Team_image](/docs/team/core_team.png)
 
 # Tech Team
-```
-!!!team
-link = "https://github.com/threefoldfoundation/data_team/tree/master/team"
-order = "rank"
-projects = [1]
-contribution_types = [6]
-```
+![dev team image](/docs/team/dev_team.png)
 
 # Ambassadors
-```
-!!!team
-link = "https://github.com/threefoldfoundation/data_team/tree/master/team"
-order = "rank"
-projects = [1]
-contribution_types = [2]
-```
+![ambassadors image](/docs/team/ambassadors.png)
+
+<a href="https://www.threefold.io/public/#/team" target="_blank">Link To Team Page</a>

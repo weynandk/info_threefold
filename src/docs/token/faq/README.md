@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-![FAQ](img/token/faq.jpeg)
+![FAQ](/docs/token/faq/img/faq.jpeg)
 
 - [How are ThreeFold tokens valued relative to farming capacity?](/token/faq/capacity_dependency.md)
 - [What can be the impact of government regulation on cryptocurrencies?](/token/faq/government_regulation.md)
