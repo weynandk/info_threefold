@@ -23,6 +23,7 @@
 	- [Token Properties](./docs/token/tft-101/token_properties.md)
 	- [Technology](./docs/token/technology/README.md)
 	- [Tokenomics](./docs/token/tokenomics/README.md)
+  - [Tokenomics Farmers](./docs/token/tokenomics/tokenomics_farmers_grid_v1.md)
 
 - [3Bot](./docs/3bot/README.md)
 
