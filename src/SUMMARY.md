@@ -138,6 +138,18 @@
     - [teal definitions](./docs/collaboration/teal/teal_definitions.md)
     - [differences with companies](./docs/collaboration/teal/teal_differences_with_companies.md)
     - [teal org culture manifest](./docs/collaboration/teal/teal_org_culture_manifest.md)
+  
+  - [Agile principles](./docs/collaboration/agileprinciples/readme.md)
+	- [Inrto](./docs/collaboration/agileprinciples/intro.md)
+    - [Agile Manifesto](./docs/collaboration/agileprinciples/agile_collaboration_manifesto.md) 
+	- [Agile Requirements](./docs/collaboration/agileprinciples/agile_requirements.md)
+	- [Change Is Done](./docs/collaboration/agileprinciples/change_is_not_bad.md)
+	- [Done Is Done](./docs/collaboration/agileprinciples/done_is_done.md)
+	- [Fast But Not Furios](./docs/collaboration/agileprinciples/fast_but_not_furious.md)
+	- [How To Eat An Elephant](./docs/collaboration/agileprinciples/how_to_eat_an_elephant.md) 	
+	- [Pareto](./docs/collaboration/agileprinciples/Pareto.md)
+	- [Team Empowerment](./docs/collaboration/agileprinciples/team_empowerment.md)
+	- [User Involvement](./docs/collaboration/agileprinciples/user_involvement.md)
 
 
 - [Presentations](./docs/presentations/README.md)
