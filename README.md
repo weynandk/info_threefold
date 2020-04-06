@@ -30,7 +30,7 @@ brew install mdbook
 ```bash
 mkdir -p ~/code/github/threefoldfoundation
 cd ~/code/github/threefoldfoundation
-clone https://github.com/threefoldfoundation/info_threefold/ -b development
+git clone https://github.com/threefoldfoundation/info_threefold/ -b development
 ```
 
 ### use mdbook locally
