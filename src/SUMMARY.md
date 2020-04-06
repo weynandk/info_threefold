@@ -1,5 +1,12 @@
 # Summary
 - [Definitions & Concepts](./docs/definitions-concepts/README.md)
+	- [ThreeFold Values](./docs/definitions-concepts/threefold_values.md)
+	- [ThreeFold Network](./docs/definitions-concepts/threefold_network.md)
+	- [Autonomous Layer](./docs/definitions-concepts/autonomous_layer.md)
+	- [Capacity Layer](./docs/definitions-concepts/capacity_layer.md)
+	- [Experience Layer](./docs/definitions-concepts/experience_layer.md)
+	- [ThreeFold Ambassador](./docs/definitions-concepts/threefold_ambassador.md)
+	- [ThreeFold Capacity User](./docs/definitions-concepts/threefold_user.md)
 - [Grid](./docs/grid/README.md)
 	- [Farming](./docs/grid/tf_farming/README.md)
 	- [Videos](./docs/grid/external_information/videos.md)

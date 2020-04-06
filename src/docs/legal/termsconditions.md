@@ -4,7 +4,7 @@
 
 ## Information
 
-See the following link for used Definitions & ThreeFold Grid Concepts: [definitions](https://docs.grid.tf/threefold/info/src/branch/master/legal/definitions.md) and [concepts](https://docs.grid.tf/threefold/info/src/branch/master/concepts/threefold_principles.md)
+See the following link for used Definitions & ThreeFold Grid Concepts: <a href="https://docs.grid.tf/threefold/info/src/branch/master/legal/definitions.md" target="_blank">definitions</a> and <a href="https://docs.grid.tf/threefold/info/src/branch/master/concepts/threefold_principles.md" target="_blank">concepts</a>
 
 
 ## Disclaimer
