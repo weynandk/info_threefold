@@ -38,7 +38,7 @@ clone https://github.com/threefoldfoundation/info_threefold/ -b development
 ```bash
 cd ~/code/github/threefoldfoundation/info_threefold
 #will open local browser
-mdbook serve info_threefold -n 0.0.0.0 -o
+mdbook serve -n 0.0.0.0 -o
 ```
 
 ### Editing the wikis
