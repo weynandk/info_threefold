@@ -30,7 +30,9 @@ brew install mdbook
 ```bash
 mkdir -p ~/code/github/threefoldfoundation
 cd ~/code/github/threefoldfoundation
-git clone https://github.com/threefoldfoundation/info_threefold/ -b development
+#git clone https://github.com/threefoldfoundation/info_threefold/ -b development
+#if you have your ssh key for github and you edit use
+git clone git@github.com:threefoldfoundation/info_threefold.git -b development
 ```
 
 ### use mdbook locally
