@@ -17,6 +17,22 @@ Our team will answer your questions as soon as possible.
 
 Now go explore our wiki's.
 
+### Example generating mdbook locally :-
+install mdbook locally from here https://github.com/rust-lang/mdBook
+then clone the repo and build
+
+```
+clone https://github.com/threefoldfoundation/info_threefold/ -b development
+cd info_threefold
+mdbook build info_threefold -d docs
+mdbook serve info_threefold -d docs -n 0.0.0.0
+```
+from browser go to :-
+```
+http://localhost:3000
+```
+
+
 ### Editing in the wikis
 
 - all md files are under src/docs directory, please make sure you get all your changes there.
