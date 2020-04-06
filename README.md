@@ -17,68 +17,32 @@ Our team will answer your questions as soon as possible.
 
 Now go explore our wiki's.
 
+### how to install mdbook
+
+OSX:
+
+```bash
+brew install mdbook
+```
+
 ### Example generating mdbook locally :-
-install mdbook locally from here https://github.com/rust-lang/mdBook
-then clone the repo and build
 
 ```
+mkdir -p ~/code/github/threefoldfoundation
+cd ~/code/github/threefoldfoundation
 clone https://github.com/threefoldfoundation/info_threefold/ -b development
 cd info_threefold
-mdbook build info_threefold -d docs
-mdbook serve info_threefold -d docs -n 0.0.0.0
-```
-from browser go to :-
-```
-http://localhost:3000
-```
-
+#will open local browser
+mdbook serve info_threefold -n 0.0.0.0 -o
 
 ### Editing in the wikis
 
 - all md files are under src/docs directory, please make sure you get all your changes there.
 - to make link in md file to open in new tab use this 
 
+#### tips and trics
+
 ```
 <a href="http://example.com/" target="_blank">Hello, world!</a>
 ```
 
-### MDBOOK HOW TO :-
-
-after changing any file, build has to be run 
-cd into the repo directory then run this command :-
-
-```
-mdbook build info_threefold -d docs
-
-```
-
- - changeing the title :- 
-    - from book.toml file
-  ```
-  title = "Threefold Foundation"
-  ```
-  
- - changing the default theme
-    - from book.toml file
-```
-default-theme = "Rust"
-```
-
-- Runing mdbook server :- 
-
-**use -p for specifying port number**
-
-cd into the repo directory then run this command :-
-```
-mdbook serve info_threefold -d docs -n 0.0.0.0
-```
-
-
-- Sidbar foldable setting, enabled by adding this part to book.toml file :-
-
-```
-[output.html.fold]
-enable = true
-level = 0
-
-```
