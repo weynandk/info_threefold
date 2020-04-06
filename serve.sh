@@ -1,1 +1,1 @@
-mdbook serve -o -p 4000 -w 4001
+mdbook serve -o -n 0.0.0.0 -p 4000 -w 4001
