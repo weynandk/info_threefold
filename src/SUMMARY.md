@@ -138,7 +138,7 @@
     - [teal definitions](./docs/collaboration/teal/teal_definitions.md)
     - [differences with companies](./docs/collaboration/teal/teal_differences_with_companies.md)
     - [teal org culture manifest](./docs/collaboration/teal/teal_org_culture_manifest.md)
-  
+  - [Tools](./docs/collaboration/tools/readme.md)
   - [Agile principles](./docs/collaboration/agileprinciples/readme.md)
 	- [Inrto](./docs/collaboration/agileprinciples/intro.md)
     - [Agile Manifesto](./docs/collaboration/agileprinciples/agile_collaboration_manifesto.md) 
