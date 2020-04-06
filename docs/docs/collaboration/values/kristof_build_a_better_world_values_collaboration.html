@@ -1,0 +1,486 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Personal On Collaboration - Threefold Foundation</title>
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="../../../favicon.png">
+        <link rel="stylesheet" href="../../../css/variables.css">
+        <link rel="stylesheet" href="../../../css/general.css">
+        <link rel="stylesheet" href="../../../css/chrome.css">
+        <link rel="stylesheet" href="../../../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../../FontAwesome/css/font-awesome.css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500" rel="stylesheet" type="text/css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../../highlight.css">
+        <link rel="stylesheet" href="../../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "light" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item "><a href="../../../docs/definitions-concepts/index.html"><strong aria-hidden="true">1.</strong> Definitions &amp; Concepts</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../docs/definitions-concepts/threefold_values.html"><strong aria-hidden="true">1.1.</strong> ThreeFold Values</a></li><li class="chapter-item "><a href="../../../docs/definitions-concepts/threefold_network.html"><strong aria-hidden="true">1.2.</strong> ThreeFold Network</a></li><li class="chapter-item "><a href="../../../docs/definitions-concepts/autonomous_layer.html"><strong aria-hidden="true">1.3.</strong> Autonomous Layer</a></li><li class="chapter-item "><a href="../../../docs/definitions-concepts/capacity_layer.html"><strong aria-hidden="true">1.4.</strong> Capacity Layer</a></li><li class="chapter-item "><a href="../../../docs/definitions-concepts/experience_layer.html"><strong aria-hidden="true">1.5.</strong> Experience Layer</a></li><li class="chapter-item "><a href="../../../docs/definitions-concepts/threefold_ambassador.html"><strong aria-hidden="true">1.6.</strong> ThreeFold Ambassador</a></li><li class="chapter-item "><a href="../../../docs/definitions-concepts/threefold_user.html"><strong aria-hidden="true">1.7.</strong> ThreeFold Capacity User</a></li></ol></li><li class="chapter-item "><a href="../../../docs/grid/index.html"><strong aria-hidden="true">2.</strong> Grid</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../docs/grid/tf_farming/index.html"><strong aria-hidden="true">2.1.</strong> Farming</a></li><li class="chapter-item "><a href="../../../docs/grid/external_information/videos.html"><strong aria-hidden="true">2.2.</strong> Videos</a></li><li class="chapter-item "><a href="../../../docs/grid/faq/index.html"><strong aria-hidden="true">2.3.</strong> Frequently Asked Questions</a></li><li class="chapter-item "><a href="../../../docs/grid/concepts/index.html"><strong aria-hidden="true">2.4.</strong> Concepts</a></li></ol></li><li class="chapter-item "><a href="../../../docs/token/index.html"><strong aria-hidden="true">3.</strong> Token</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../docs/token/tft-101/what_are_tfts.html"><strong aria-hidden="true">3.1.</strong> What are ThreeFold Tokens?</a></li><li class="chapter-item "><a href="../../../docs/token/tft-101/why_buy_tft.html"><strong aria-hidden="true">3.2.</strong> Why buy ThreeFold Tokens?</a></li><li class="chapter-item "><a href="../../../docs/token/how_to_buy/index.html"><strong aria-hidden="true">3.3.</strong> How to buy ThreeFold Tokens</a></li><li class="chapter-item "><a href="../../../docs/token/tle/tle-faq.html"><strong aria-hidden="true">3.4.</strong> TLE FAQ</a></li><li class="chapter-item "><a href="../../../docs/token/faq/index.html"><strong aria-hidden="true">3.5.</strong> FAQ</a></li><li class="chapter-item "><a href="../../../docs/token/apps_wallets/index.html"><strong aria-hidden="true">3.6.</strong> Wallets and Apps</a></li><li class="chapter-item "><a href="../../../docs/token/tft-101/token_properties.html"><strong aria-hidden="true">3.7.</strong> Token Properties</a></li><li class="chapter-item "><a href="../../../docs/token/technology/index.html"><strong aria-hidden="true">3.8.</strong> Technology</a></li><li class="chapter-item "><a href="../../../docs/token/tokenomics/index.html"><strong aria-hidden="true">3.9.</strong> Tokenomics</a></li></ol></li><li class="chapter-item "><a href="../../../docs/3bot/index.html"><strong aria-hidden="true">4.</strong> 3Bot</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../docs/3bot/about/index.html"><strong aria-hidden="true">4.1.</strong> About 3Bot</a></li><li class="chapter-item "><a href="../../../docs/3bot/features/index.html"><strong aria-hidden="true">4.2.</strong> 3Bot Features</a></li><li class="chapter-item "><a href="../../../docs/3bot/technology/index.html"><strong aria-hidden="true">4.3.</strong> 3Bot Technology</a></li></ol></li><li class="chapter-item "><a href="../../../docs/tech/index.html"><strong aria-hidden="true">5.</strong> Tech</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../docs/tech/technology/index.html"><strong aria-hidden="true">5.1.</strong> Technology</a></li><li class="chapter-item "><a href="../../../docs/tech/whitepapers/index.html"><strong aria-hidden="true">5.2.</strong> Whitepapers</a></li><li class="chapter-item "><a href="../../../docs/tech/company/index.html"><strong aria-hidden="true">5.3.</strong> Company Behind The Tech</a></li><li class="chapter-item "><a href="../../../docs/tech/support/index.html"><strong aria-hidden="true">5.4.</strong> Support</a></li></ol></li><li class="chapter-item "><a href="../../../docs/videos/index.html"><strong aria-hidden="true">6.</strong> Videos</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../docs/videos/explainer_videos/tf_thestory.html"><strong aria-hidden="true">6.1.</strong> The ThreeFold Story</a></li><li class="chapter-item "><a href="../../../docs/videos/explainer_videos/farming.html"><strong aria-hidden="true">6.2.</strong> ThreeFold Farming Demystified</a></li><li class="chapter-item "><a href="../../../docs/videos/explainer_videos/tft_intro.html"><strong aria-hidden="true">6.3.</strong> ThreeFold Token, Token for the New Internet</a></li><li class="chapter-item "><a href="../../../docs/videos/explainer_videos/tech.html"><strong aria-hidden="true">6.4.</strong> ThreeFold Technology Overview</a></li><li class="chapter-item "><a href="../../../docs/videos/explainer_videos/tft_howitworks.html"><strong aria-hidden="true">6.5.</strong> ThreeFold Token - How It Works</a></li><li class="chapter-item "><a href="../../../docs/videos/explainer_videos/tf_tech.html"><strong aria-hidden="true">6.6.</strong> ThreeFold Technology Overview</a></li><li class="chapter-item "><a href="../../../docs/videos/explainer_videos/humanity.html"><strong aria-hidden="true">6.7.</strong> Building a Newer Digital World for Humanity</a></li><li class="chapter-item "><a href="../../../docs/videos/explainer_videos/dilemma.html"><strong aria-hidden="true">6.8.</strong> Solving Blockchain's Dilemma</a></li><li class="chapter-item "><a href="../../../docs/videos/explainer_videos/wallet.html"><strong aria-hidden="true">6.9.</strong> ThreeFold Wallet Dos and Don'ts</a></li><li class="chapter-item "><a href="../../../docs/videos/explainer_videos/edge.html"><strong aria-hidden="true">6.10.</strong> ThreeFold Grid: Edge. The New Internet</a></li><li class="chapter-item "><a href="../../../docs/videos/community_calls/march_2020.html"><strong aria-hidden="true">6.11.</strong> ThreeFold Community Call March 2020</a></li><li class="chapter-item "><a href="../../../docs/videos/community_calls/jan_2020.html"><strong aria-hidden="true">6.12.</strong> ThreeFold Community Call January 2020</a></li><li class="chapter-item "><a href="../../../docs/videos/community_calls/keynote_oct2019_1.html"><strong aria-hidden="true">6.13.</strong> October Event: Keynote pt.1</a></li><li class="chapter-item "><a href="../../../docs/videos/community_calls/keynote_oct2019_2.html"><strong aria-hidden="true">6.14.</strong> October Event: Keynote pt.2</a></li><li class="chapter-item "><a href="../../../docs/videos/community_calls/autonomousarchitecture_oct2019.html"><strong aria-hidden="true">6.15.</strong> October Event: Autonomous Internet Architecture</a></li><li class="chapter-item "><a href="../../../docs/videos/community_calls/autonomousdemo_oct2019.html"><strong aria-hidden="true">6.16.</strong> October Event: Autonomous Internet Demo</a></li><li class="chapter-item "><a href="../../../docs/videos/community_calls/tokensession_oct2019.html"><strong aria-hidden="true">6.17.</strong> October Event: Token Session</a></li></ol></li><li class="chapter-item "><a href="../../../docs/team/index.html"><strong aria-hidden="true">7.</strong> Team</a></li><li class="chapter-item "><a href="../../../docs/ecosystem/index.html"><strong aria-hidden="true">8.</strong> Ecosystem</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../docs/ecosystem/3bot.html"><strong aria-hidden="true">8.1.</strong> 3Bot</a></li><li class="chapter-item "><a href="../../../docs/ecosystem/atwgreen.html"><strong aria-hidden="true">8.2.</strong> ATW Green</a></li><li class="chapter-item "><a href="../../../docs/ecosystem/bettertoken.html"><strong aria-hidden="true">8.3.</strong> BetterToken</a></li><li class="chapter-item "><a href="../../../docs/ecosystem/codescalers.html"><strong aria-hidden="true">8.4.</strong> Codescalers</a></li><li class="chapter-item "><a href="../../../docs/ecosystem/cultivo.html"><strong aria-hidden="true">8.5.</strong> Cultivo</a></li><li class="chapter-item "><a href="../../../docs/ecosystem/digitalenergy.html"><strong aria-hidden="true">8.6.</strong> Digital Energy</a></li><li class="chapter-item "><a href="../../../docs/ecosystem/flowgen.html"><strong aria-hidden="true">8.7.</strong> FlowGen</a></li><li class="chapter-item "><a href="../../../docs/ecosystem/threefoldfoundation.html"><strong aria-hidden="true">8.8.</strong> Foundation</a></li><li class="chapter-item "><a href="../../../docs/ecosystem/freeflownation.html"><strong aria-hidden="true">8.9.</strong> FreeFlow Nation</a></li><li class="chapter-item "><a href="../../../docs/ecosystem/freeflowpages.html"><strong aria-hidden="true">8.10.</strong> FreeFlow Pages</a></li><li class="chapter-item "><a href="../../../docs/ecosystem/freeflowtoken.html"><strong aria-hidden="true">8.11.</strong> FreeFlow Token</a></li><li class="chapter-item "><a href="../../../docs/ecosystem/greenedgecloud.html"><strong aria-hidden="true">8.12.</strong> Green Edge Cloud</a></li><li class="chapter-item "><a href="../../../docs/ecosystem/HPE.html"><strong aria-hidden="true">8.13.</strong> Hewlett Packard Enterprise</a></li><li class="chapter-item "><a href="../../../docs/ecosystem/incubaid.html"><strong aria-hidden="true">8.14.</strong> Incubaid</a></li><li class="chapter-item "><a href="../../../docs/ecosystem/jimber.html"><strong aria-hidden="true">8.15.</strong> Jimber</a></li><li class="chapter-item "><a href="../../../docs/ecosystem/kleos.html"><strong aria-hidden="true">8.16.</strong> Kleos</a></li><li class="chapter-item "><a href="../../../docs/ecosystem/mazraa.html"><strong aria-hidden="true">8.17.</strong> Mazraa</a></li><li class="chapter-item "><a href="../../../docs/ecosystem/safecity.html"><strong aria-hidden="true">8.18.</strong> Safe City</a></li><li class="chapter-item "><a href="../../../docs/ecosystem/solidaridad.html"><strong aria-hidden="true">8.19.</strong> Solidaridad</a></li><li class="chapter-item "><a href="../../../docs/ecosystem/threefoldchapters.html"><strong aria-hidden="true">8.20.</strong> ThreeFold Chapters</a></li><li class="chapter-item "><a href="../../../docs/ecosystem/threefoldgrid.html"><strong aria-hidden="true">8.21.</strong> ThreeFold Grid</a></li><li class="chapter-item "><a href="../../../docs/ecosystem/threefoldlove.html"><strong aria-hidden="true">8.22.</strong> ThreeFold Love</a></li><li class="chapter-item "><a href="../../../docs/ecosystem/threefoldtech.html"><strong aria-hidden="true">8.23.</strong> ThreeFold Tech</a></li><li class="chapter-item "><a href="../../../docs/ecosystem/veda.html"><strong aria-hidden="true">8.24.</strong> Veda</a></li></ol></li><li class="chapter-item "><a href="../../../docs/partners/index.html"><strong aria-hidden="true">9.</strong> Partners</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../docs/partners/hpe.html"><strong aria-hidden="true">9.1.</strong> Hewlett Packard Enterprise</a></li><li class="chapter-item "><a href="../../../docs/partners/solidaridad.html"><strong aria-hidden="true">9.2.</strong> Solidaridad</a></li><li class="chapter-item "><a href="../../../docs/partners/flowgen.html"><strong aria-hidden="true">9.3.</strong> Flowgen</a></li></ol></li><li class="chapter-item "><a href="../../../docs/blog/index.html"><strong aria-hidden="true">10.</strong> Blog</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../docs/blog/memorandum_of_understanding.html"><strong aria-hidden="true">10.1.</strong> A Memorandum of Understanding (MOU)</a></li><li class="chapter-item "><a href="../../../docs/blog/10x-times-power.html"><strong aria-hidden="true">10.2.</strong> 10x times power savings, really?</a></li><li class="chapter-item "><a href="../../../docs/blog/airbnb-for-internet-capacity.html"><strong aria-hidden="true">10.3.</strong> AirBnB for Internet Capacity</a></li><li class="chapter-item "><a href="../../../docs/blog/do-with-new-edge-cloud.html"><strong aria-hidden="true">10.4.</strong> Why an Edge Cloud</a></li><li class="chapter-item "><a href="../../../docs/blog/ethical-design-manifesto.html"><strong aria-hidden="true">10.5.</strong> Ethical Design Manifesto</a></li><li class="chapter-item "><a href="../../../docs/blog/internet-growing-wild.html"><strong aria-hidden="true">10.6.</strong> Internet is growing wild</a></li><li class="chapter-item "><a href="../../../docs/blog/magical-zero-node.html"><strong aria-hidden="true">10.7.</strong> Our Magical Zero-Node</a></li><li class="chapter-item "><a href="../../../docs/blog/myth_big_datacenter_are.html"><strong aria-hidden="true">10.8.</strong> Datacenter Myths</a></li><li class="chapter-item "><a href="../../../docs/blog/need-for-new-neutral-internet.html"><strong aria-hidden="true">10.9.</strong> A new, neutral Internet</a></li><li class="chapter-item "><a href="../../../docs/blog/open-source-technology.html"><strong aria-hidden="true">10.10.</strong> Open Source Technology</a></li><li class="chapter-item "><a href="../../../docs/blog/tech-new-internet.html"><strong aria-hidden="true">10.11.</strong> Technology for a New Internet</a></li><li class="chapter-item "><a href="../../../docs/blog/the-need-for-a-new-digital-currency.html"><strong aria-hidden="true">10.12.</strong> A sustainable digital currency</a></li><li class="chapter-item "><a href="../../../docs/blog/escape-the-great-hack.html"><strong aria-hidden="true">10.13.</strong> An escape from the Great Hack</a></li><li class="chapter-item "><a href="../../../docs/blog/you-are-unique.html"><strong aria-hidden="true">10.14.</strong> You are unique</a></li></ol></li><li class="chapter-item expanded "><a href="../../../docs/collaboration/index.html"><strong aria-hidden="true">11.</strong> Collaboration</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../docs/collaboration/how_to_contribute.html"><strong aria-hidden="true">11.1.</strong> Contribute</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../docs/collaboration/freeflow_citizen.html"><strong aria-hidden="true">11.1.1.</strong> Be A FreeFlow Citizen</a></li><li class="chapter-item "><a href="../../../docs/collaboration/circles_roles.html"><strong aria-hidden="true">11.1.2.</strong> Circles Roles</a></li><li class="chapter-item "><a href="../../../docs/collaboration/p2p_awareness_level.html"><strong aria-hidden="true">11.1.3.</strong> P2P Awareness Levels</a></li><li class="chapter-item "><a href="../../../docs/collaboration/stories.html"><strong aria-hidden="true">11.1.4.</strong> Stories Start of All</a></li></ol></li><li class="chapter-item expanded "><a href="../../../docs/collaboration/values/goals_values.html"><strong aria-hidden="true">11.2.</strong> Goals &amp; Values</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../"https://www.freeflownation.org/manifesto.html"><strong aria-hidden="true">11.2.1.</strong> FreeFlow Nation Manifesto</a></li><li class="chapter-item expanded "><a href="../../../docs/collaboration/values/kristof_build_a_better_world_values_collaboration.html" class="active"><strong aria-hidden="true">11.2.2.</strong> Personal On Collaboration</a></li><li class="chapter-item "><a href="../../../docs/collaboration/values/IQ_EQ_SQ.html"><strong aria-hidden="true">11.2.3.</strong> IQ EQ SQ</a></li><li class="chapter-item "><a href="../../../docs/collaboration/values/ethical_design_manifesto.html"><strong aria-hidden="true">11.2.4.</strong> Ethical Design</a></li><li class="chapter-item "><a href="../../../docs/collaboration/values/responsive_org_manifesto.html"><strong aria-hidden="true">11.2.5.</strong> Responsive Organization</a></li></ol></li><li class="chapter-item "><a href="../../../docs/collaboration/open_license_strategy.html"><strong aria-hidden="true">11.3.</strong> Why opensource?</a></li><li class="chapter-item "><a href="../../../docs/collaboration/org40/index.html"><strong aria-hidden="true">11.4.</strong> Organization 4.0</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../docs/collaboration/org40/notes_on_reinventing_organizations.html"><strong aria-hidden="true">11.4.1.</strong> Reinventing Organizations</a></li><li class="chapter-item "><a href="../../../docs/collaboration/org40/on_leadership.html"><strong aria-hidden="true">11.4.2.</strong> Capability On Leadership</a></li><li class="chapter-item "><a href="../../../docs/collaboration/org40/open_culture_daniel_tenner.html"><strong aria-hidden="true">11.4.3.</strong> Open Cultures</a></li><li class="chapter-item "><a href="../../../docs/collaboration/org40/head_of_mission_profile.html"><strong aria-hidden="true">11.4.4.</strong> Head Of Mission</a></li></ol></li><li class="chapter-item "><a href="../../../docs/collaboration/teal/index.html"><strong aria-hidden="true">11.5.</strong> Teal</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../docs/collaboration/teal/teal_organization_intro.html"><strong aria-hidden="true">11.5.1.</strong> teal ntro</a></li><li class="chapter-item "><a href="../../../docs/collaboration/teal/teal_definitions.html"><strong aria-hidden="true">11.5.2.</strong> teal definitions</a></li><li class="chapter-item "><a href="../../../docs/collaboration/teal/teal_differences_with_companies.html"><strong aria-hidden="true">11.5.3.</strong> differences with companies</a></li><li class="chapter-item "><a href="../../../docs/collaboration/teal/teal_org_culture_manifest.html"><strong aria-hidden="true">11.5.4.</strong> teal org culture manifest</a></li></ol></li><li class="chapter-item "><a href="../../../docs/collaboration/agileprinciples/index.html"><strong aria-hidden="true">11.6.</strong> Agile principles</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../docs/collaboration/agileprinciples/intro.html"><strong aria-hidden="true">11.6.1.</strong> Inrto</a></li><li class="chapter-item "><a href="../../../docs/collaboration/agileprinciples/agile_collaboration_manifesto.html"><strong aria-hidden="true">11.6.2.</strong> Agile Manifesto</a></li><li class="chapter-item "><a href="../../../docs/collaboration/agileprinciples/agile_requirements.html"><strong aria-hidden="true">11.6.3.</strong> Agile Requirements</a></li><li class="chapter-item "><a href="../../../docs/collaboration/agileprinciples/change_is_not_bad.html"><strong aria-hidden="true">11.6.4.</strong> Change Is Done</a></li><li class="chapter-item "><a href="../../../docs/collaboration/agileprinciples/done_is_done.html"><strong aria-hidden="true">11.6.5.</strong> Done Is Done</a></li><li class="chapter-item "><a href="../../../docs/collaboration/agileprinciples/fast_but_not_furious.html"><strong aria-hidden="true">11.6.6.</strong> Fast But Not Furios</a></li><li class="chapter-item "><a href="../../../docs/collaboration/agileprinciples/how_to_eat_an_elephant.html"><strong aria-hidden="true">11.6.7.</strong> How To Eat An Elephant</a></li><li class="chapter-item "><a href="../../../docs/collaboration/agileprinciples/Pareto.html"><strong aria-hidden="true">11.6.8.</strong> Pareto</a></li><li class="chapter-item "><a href="../../../docs/collaboration/agileprinciples/team_empowerment.html"><strong aria-hidden="true">11.6.9.</strong> Team Empowerment</a></li><li class="chapter-item "><a href="../../../docs/collaboration/agileprinciples/user_involvement.html"><strong aria-hidden="true">11.6.10.</strong> User Involvement</a></li></ol></li></ol></li><li class="chapter-item "><a href="../../../docs/presentations/index.html"><strong aria-hidden="true">12.</strong> Presentations</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../docs/presentations/conscioustech.html"><strong aria-hidden="true">12.1.</strong> Conscious Internet Tech</a></li></ol></li><li class="chapter-item "><a href="../../../docs/web_resources/index.html"><strong aria-hidden="true">13.</strong> Web Resources</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../docs/web_resources.html"><strong aria-hidden="true">13.1.</strong> TF Foundation Website</a></li><li class="chapter-item "><a href="../../../docs/web_resources/tech.html"><strong aria-hidden="true">13.2.</strong> TF Tech Website</a></li><li class="chapter-item "><a href="../../../docs/web_resources/foundation_github.html"><strong aria-hidden="true">13.3.</strong> Foundation Github</a></li><li class="chapter-item "><a href="../../../docs/web_resources/tech_github.html"><strong aria-hidden="true">13.4.</strong> ThreeFold Tech Github</a></li></ol></li><li class="chapter-item "><a href="../../../docs/legal/index.html"><strong aria-hidden="true">14.</strong> Legal</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item "><a href="../../../docs/legal/termsconditions.html"><strong aria-hidden="true">14.1.</strong> Terms &amp; Conditions</a></li><li class="chapter-item "><a href="../../../docs/definitions-concepts/index.html"><strong aria-hidden="true">14.2.</strong> ThreeFold Definitions</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">Threefold Foundation</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1><a class="header" href="#build-a-better-world-through-aware-collaboration-2017" id="build-a-better-world-through-aware-collaboration-2017">Build A Better World Through Aware Collaboration (2017)</a></h1>
+<h3><a class="header" href="#by-kristof-de-spiegeleer" id="by-kristof-de-spiegeleer">By Kristof De Spiegeleer</a></h3>
+<p><img src="https://images.unsplash.com/photo-1473082538761-d4c7cd3f5e91?ixlib=rb-0.3.5&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;s=2d087a804b7c1766a8afffd2b49b5118&amp;auto=format&amp;fit=crop&amp;w=1512&amp;q=80" alt="" /></p>
+<h1><a class="header" href="#intro" id="intro">Intro</a></h1>
+<p>I am sure many people will think &quot;who is this guy&quot; what gives him the right to write about values, allow me to explain my motivations.</p>
+<p>I have been very fortunate to meet my wife Isabelle who has been very sick and by helping her to get better I met a lot of wonderful people, who showed me a new path. I've met people who were close to dying but they had more courage, love and determination to survive than I have ever seen. Most of these people miraculously made it. This got me to rethink my belief system. I was doing something wrong, what were my values, where did I lose my path.</p>
+<p>They showed me that by becoming more <strong>aware</strong> I could become a better person and entrepreneur. I have been (still am) a very stubborn person not always listening to a lot of coaches/friends who were trying to show me the way, I am grateful to all of them and maybe their efforts start paying off.</p>
+<p>Writing this document is an exercise in writing down what is important to me and perhaps even have an impact on the startups I am involved with.</p>
+<p>I (and I hope by now many people together with me) have this big dream about trying to build a new neutral internet and who knows maybe even a new stable non speculative currency. These are super ambitious goals and together with more and more friends we try to accomplish it.</p>
+<p>I feel this will only be possible if we dare to be different, if we dare to embrace other ways of thinking, if we dare to trust and lose our ego &amp; fear. Our partners &amp; customers need to believe in the same values.</p>
+<p>This is not just a &quot;hippy&quot; thought, I am 100% sure that the world is changing quickly and more and more people want to leave the current path of hate, fear &amp; greed.</p>
+<p>Around mid 2016 also I was afraid, too focussed on negative energies in the world, everything which can go wrong, war, global warming, ... This doesn't mean I am now ignoring these negative forces but I've learned by being focussed on positive energy we all together create a better alternative. For every negative there is an as strong positive, so by growing the positive we can eventually make the world a better place. Its also more fun to do. </p>
+<p>I've seen over the last months how this way of thinking is very contagious. We have met wonderful people and through them even more wonderful people, it's going quite fast right now. This is a great feeling and I cannot express enough my gratitude to everyone who dares to share our values and build a better place together with us. </p>
+<p>Every day I am still fighting my own daemons like fear, ego, sometimes even anger... but by acknowledging them and trying to follow our values I am trying to beat them and to have a positive impact. The ONLY way for us to accomplish our goals is by keep on growing ourselves and hope that other people follow this example.</p>
+<p>I can only hope that some of you reading this document, see value in our &quot;values&quot; and are willing to help and together create a better more human, respectful world.</p>
+<p>Last but not least I would like to thank my friends who are showing me the way, who believe in what we do and who trust in our good cause and often do a better job in maintaining our values than I do.</p>
+<h1><a class="header" href="#our-5-core-values" id="our-5-core-values">Our 5 core values.</a></h1>
+<h2><a class="header" href="#grow--give-energy" id="grow--give-energy">Grow &amp; Give Energy</a></h2>
+<p>&quot;Energy&quot; is a subtle but strong force which is behind anything happening in our world.
+Everyone is capable of channeling &amp; delivering energy.
+Yes, this sounds abstract and maybe not something which resonates with you at this point.
+But this &quot;Energy&quot; is an amazing source of creativity, happiness, motivation, success, ...
+If you learn how to harness this energy your personal as well as your professional life will thrive. </p>
+<p>Some describe this as &quot;vibration&quot;, how higher you vibrate how more energy you will deliver but also you will attract people which also vibrate at higher frequencies it's a self enforcing circle.</p>
+<p>Everyone is on their own path towards a higher vibration but to recognize this fact and to try to positively contribute to this will enrich your and your colleagues lives.</p>
+<p>It takes some courage to admit that you acknowledge or even better agree with this section (-:</p>
+<p>Some tips which I found useful</p>
+<ul>
+<li>be a positive influencer in any conversation, never go negative</li>
+<li>have respect for capabilities &amp; strengths of people. Don't focus on limitations or shortcomings.</li>
+<li>glass = half full</li>
+<li>negativity, sarcasm, anger are all negative emotions and need to be avoided
+<ul>
+<li>if you feel someone is going there explain what you have noticed in a non threatening way and what this does to you</li>
+<li>this takes some courage but you will see immediate impact on the energy levels.</li>
+</ul>
+</li>
+<li>believe in our common goals, be a believer, don't be naive either but in case you see issues explain in a positive way</li>
+<li>see when someone is taking energy, DO NOT ACCEPT THIS</li>
+<li>if you need to evaluate new colleagues, try to sense their level of positive energy, do not go for someone who takes energy, talk about it though, explain why this is important to you/us.</li>
+<li>we are human, we will make mistakes to this all the time, recognize them and go back to relevant people to apologise.</li>
+</ul>
+<p>Out of my own experience, acknowledging that this <strong>Energy Thing</strong> exists and is important and try to improve your own <strong>awareness</strong> will prove to be very fulfilling and make your life and life of people around you more rich.</p>
+<p>Dare to trust your intuition, it's a very strong tool, and we all have it but we are too afraid to use it.</p>
+<h2><a class="header" href="#tame-your-ego--fear" id="tame-your-ego--fear">Tame your Ego &amp; Fear.</a></h2>
+<p>All of us are born 100% innocent, connected to the universe.
+As we grow up we are imprinted by our environment and we will grow our own &quot;ego&quot; starting from puberty. We need to realize that this <strong>brainwashing</strong> (-: has its long lasting effect on our future.</p>
+<p>Ego drives many and can lead to success but the ones who manage to &quot;tame&quot; their ego will be much more successful and for sure live more happily.</p>
+<p>Close to &quot;ego&quot; lives &quot;fear&quot;, unfortunately today many (governments, companies, people) use fear to steer people in a certain thought direction, often <strong>people bring fear to others as a reaction on their own fear</strong>.</p>
+<p>Fighting our fear and have confidence in the future is magical. Its very hard and a constant struggle.</p>
+<p>Fear today is part of our society, this is sad and is something we need to fight</p>
+<p>some examples what was thought to us (wrongly)</p>
+<ul>
+<li>you need to study harder or you will fail in life (even if it means doing something against your skills &amp; wishes)</li>
+<li>you need money to be respected, survive, money is everything</li>
+<li>status is everything, publicity/movies it's all about ego driven greed</li>
+<li>if you are not successful you won't find the right friends (wife?)</li>
+<li>we want a big house to show others that we are &quot;important&quot;. We hope that people will like us more if we do so.</li>
+<li>people will laugh with you and won't like you if you don't perform well (e.g. a performance or a speech)</li>
+<li>&quot;the russians&quot; will kill us, oh no, now it is, &quot;the muslim terrorists&quot; will destroy us</li>
+<li>we are thought don't trust others, they can hurt you, it's better to distrust</li>
+</ul>
+<p>in a business context</p>
+<ul>
+<li>we are thought to create complex contracts to protect us, out of fear really</li>
+<li>we aren't ready with our product yet, let's not tell because otherwise they won't buy</li>
+<li>we something thing a small lie is ok, because it serves our bigger purpose, e.g. because otherwise we won't get the required funding</li>
+<li>we need to do a lot of marketing, to pretend we are bigger than we are</li>
+<li>the usage of hollow words, to let us sound big (we are leading, world bla bla company...)</li>
+<li>trying to get known to people not out of business need but rather for our own &quot;ego&quot;, see what we can do, see how successful we are.</li>
+<li>we need to put a lot of security on our file server because our employees will steal from us or abuse information.</li>
+<li>let’s not share this info with our customers, they should' have to know...</li>
+<li>let's pay some hidden commission because this is how it works in this country...</li>
+<li>let's abuse contracts or patents as a business practice and even pretend that this is ok</li>
+</ul>
+<p>In my opinion all above are <strong>lies</strong>. We need to <strong>unbrainwash</strong> ourselves.</p>
+<p>There are more elegant ways how to deal with possible issues starting from <strong>positive energy</strong>, use</p>
+<ul>
+<li><em><strong>trust</strong></em>: trust your customer to do the right thing</li>
+<li><em><strong>transparency &amp; openness</strong></em>: access to information e.g. show cost prices</li>
+<li><em><strong>communicate</strong></em>: dare to share mistakes</li>
+<li><em><strong>kis</strong></em>: keep things simple, e.g. easy clear contracts, easy pricing schemes, ...</li>
+<li><em><strong>show others the way</strong></em>: many want to do live this way, people are getting sick of lies.</li>
+</ul>
+<p>The 4 last ones mean you need to trust your partner or customer. What do you have to lose? Even the most complex contract cannot protect you if your trust relationship has been broken, together you will no longer be successful.</p>
+<p>We shouldn't be naive though and be careful in selection of our partners &amp; customers.
+Just like we look for our positive energy colleagues we need to evaluation our customers &amp; partners in the same way. Do they follow our values, can we trust them!!!</p>
+<p><strong>Follow your instinct</strong> it's much more powerful than you think.</p>
+<p>Now many of you will be thinking, this is too naive, we won't have enough customers, ...
+This again is &quot;fear&quot;, we fear not to have these customers or investors or ...</p>
+<p>The world is <strong>awakening</strong> fast, there are many proof points.
+Many companies are looking to do business in a more sustainable way. Not based on lies. I am 100% convinced if we live &amp; advocate our values we will get them back from other companies and we will be hugely successful by doing so.</p>
+<p>My biggest dream is to help create a company which is as much as possible &quot;ego&quot; less and tries to beat &quot;fear&quot; on a daily basis.</p>
+<p>I strongly believe that not giving in to fear &amp; ego will create a more successful company. </p>
+<p>Doing good and making money can go hand in hand, we need to <strong>trust</strong> that this is the right attitude and will be successful.</p>
+<h2><a class="header" href="#love-yourself-and-others" id="love-yourself-and-others">Love yourself and others.</a></h2>
+<p>This value (way of living) probably should be the first one because if you can really do this everything else will come automatically. It's not even that hard to do once you can let go of the brainwashing &amp; fear which has been brought to us. It's important to be able to believe in the inherent good of people.</p>
+<p>If you respect/love others so many of the bad things in the world will simply vanish. 
+Its starts with loving yourself, so many of us (myself included) did not really love ourselves, we were frustrated, we were not shown that we are beautiful and powerful.</p>
+<p>All of us can accomplish a lot and make a real difference as long as we trust in ourselves. By trusting in ourselves we will trust others. If we can trust ourselves, there will be no longer need to please the &quot;ego&quot; in us.</p>
+<p><strong>love</strong> is <strong>energy</strong></p>
+<p>In a business context this means build a &quot;loving&quot; workspace, respect your colleagues, have fun with them. Even if from a personally perspective someone does not resonate well with you, you can still respect &amp; like him for what he/she is good at. By doing so, automatically people will like and respect you more, it's again a self strengthening circle.</p>
+<p>Dare to speak up, if you believe that our chosen values are not met, you need to speak up.</p>
+<h2><a class="header" href="#respect-human-effort-" id="respect-human-effort-">Respect Human Effort !</a></h2>
+<p>We live in a highly competitive world, if we want to do good and we want to be respectful for our goals then we need to be effective. Effective means we need to learn how to respect human effort. How can we make others and ourselves more effective.</p>
+<ul>
+<li>see the bigger picture (what is important for your company, colleagues, partners...). 
+<ul>
+<li>if you don't understand the bigger picture, show initiative ask for info sessions, documents, ...</li>
+</ul>
+</li>
+<li>don't over optimize
+<ul>
+<li>20% effort gets you to 80% result, don't try to prematurely optimize</li>
+<li>go in iterative steps, <strong>think before you execute</strong>, ask feedback</li>
+</ul>
+</li>
+<li>priorities
+<ul>
+<li>re-evaluate your (team's) priorities on daily basis in relation to the bigger picture, be vocal</li>
+</ul>
+</li>
+<li>no shortcuts / deliver quality
+<ul>
+<li>question the quality of your work constantly</li>
+<li>be not afraid to redo your own work, every iteration you can typically do upto 10x faster.</li>
+<li>if you don't deliver quality (documentation, organization, modularity) they you will let others lose time.</li>
+<li>In case you see work which is not good enough,communicate with the original contributor and decide together what next steps are.
+original info (link to it rather than copy)</li>
+</ul>
+</li>
+<li>respect work, improve but don't accept shortcuts
+<ul>
+<li>do NOT redo work others have done, improve what's there already</li>
+<li>respect choices others have made already, if you feel change is needed, communicate before changing</li>
+<li>do NOT make changes if not really needed (but don't accept shortcuts)</li>
+<li>avoid duplication !!! do not just copy, keep on improving existing work.</li>
+</ul>
+</li>
+<li>respect time, be effective and help others to be effective
+<ul>
+<li>learn how to use <strong>recommended</strong> tools, be effective in your work</li>
+<li>organize your workplace (online &amp; in real world)</li>
+<li>make sure you are highly effective and make others effective around you</li>
+</ul>
+</li>
+<li>be transparent
+<ul>
+<li>show work being done, at any point in time</li>
+<li>make sure people can follow the work you (our your team) are doing, e.g. comments on Trello</li>
+<li>make sure people can find the work you are doing</li>
+<li>make sure that people can reproduce/continue/test what you are working on (at any time, even in preparation mode)</li>
+</ul>
+</li>
+<li>create &amp; leave knowledge for others
+<ul>
+<li>do not just learn or find the info you need, make sure everything you do which is possible relevant for anyone around you (in or outside of the company) is being put in a format so that others can use it and further work on it. </li>
+<li>Think about where to put this info, be organized, communicate.</li>
+</ul>
+</li>
+<li>organize information
+<ul>
+<li>its super hard to keep information nicely organized, all of us have need to help.</li>
+<li>we have a simple trick to organize our data
+<ul>
+<li>move no longer relevant data to <code>_archive</code> (subfolder of the location)</li>
+<li>keep data not ready to be used in <code>_beta</code>  (subfolder of the location)</li>
+</ul>
+</li>
+<li>take responsibility for the data which belongs to you or your organization.</li>
+<li>try not to copy (see above) but improve</li>
+</ul>
+</li>
+<li>don't hide
+<ul>
+<li>anything is possible as long as you go for it, don't hide behind hurdles</li>
+<li>dare to expose your own mistakes, they are there to learn from</li>
+</ul>
+</li>
+</ul>
+<h2><a class="header" href="#change-is-good" id="change-is-good">Change is Good</a></h2>
+<p>Once upon a time we were on an island where some your entrepreneurs were brought together. Each of them was asked what is the most important tool you have introduced in your organization to be successful.</p>
+<p>A 27 year old Brazilian Lady CEO came with the following words: <strong>Everything is a working hypothesis</strong>. She explained that in her company everyone is now embracing change and that they use 20% effort to come to conclusion then they go for it and quickly improve to next iterations whenever required. This was helping her company to evolve much more quickly and stay agile. By putting it so strong everyone understood that change is welcome &amp; expected.</p>
+<p>Evolution happens because of change. Change is the source of anny innovation or growth.
+Embrace change, don't fight it. Change now is faster than it has ever been.</p>
+<p>Change is not the same as disruption, disruption destroys something, change needs to be positive, it needs to bring us closer to our goals.</p>
+<p>Sometimes changes means we need to loose something first, we need to take a step back before we can go forward.</p>
+<p>In a business context: I use as a rule of thumb, if within 2/3 months you get a ROI (Return On Investment) of the change you suggest you need to execute the change even if it hurts in the short term.</p>
+<p>Change needs lead to something which is nicer, more clean, more elegant, more modular, ... it's something positive, it's creating a better end result.</p>
+<p>SUPER IMPORTANT: <strong>Change should always lead to Less Complexity</strong></p>
+<p>Don't let fear guide you to stick to an existing suboptimal solution.
+Everytime I let fear guide me I delayed the wanted outcome and afterwards we wished that we had not taken the shortcut and had done the change how impossible it might have looked at that point (this really happened every time again).</p>
+<h1><a class="header" href="#some-tools-which-can-help" id="some-tools-which-can-help">Some tools which can help</a></h1>
+<h2><a class="header" href="#3-rules-of-communication" id="3-rules-of-communication">3 rules of communication</a></h2>
+<p>Often we will feel that it's too hard to live up to above mentioned values and it will go awfully wrong.</p>
+<p>Some communication tricks can get us out of this mess.</p>
+<p>My wife and myself had to learn this some years ago, we were losing ourselves in too many fights for no reason really, someone thought us these simple tricks and since then it's much easier for us not to get lost in <em><strong>darkness</strong></em>.</p>
+<h3><a class="header" href="#step-1-repeat-what-you-have-heard" id="step-1-repeat-what-you-have-heard">step 1: repeat what you have heard</a></h3>
+<ul>
+<li>this resolves +90% of the situations</li>
+<li>words (especially emails) are very bad in true communication</li>
+<li>often we misunderstand the meaning and by repeating and asking confirmation you will see +90% of the potential issues just go away.</li>
+</ul>
+<h3><a class="header" href="#step-2-explain-how-you-feel-about-what-you-have-heard" id="step-2-explain-how-you-feel-about-what-you-have-heard">step 2: explain how you feel about what you have heard</a></h3>
+<ul>
+<li>In case you really have a different opinion and you have re-established (see 1) meaning of words you can explain what you feel about the situation.</li>
+<li>Explain your emotions, emotions are yours, this can only be accepted.</li>
+<li>It would be very non thoughtful if someone doesn't want to listen to your emotions (this would conflict with all of the base values mentioned above) and try to respect them.</li>
+<li>By explaining your emotions you explain why e.g. it hurts you, or makes you mad or...</li>
+</ul>
+<h3><a class="header" href="#step-3-explain-what-is-important-to-you-to-help-you-to-not-feel-this-way" id="step-3-explain-what-is-important-to-you-to-help-you-to-not-feel-this-way">step 3: explain what is important to you to help you to not feel this way</a></h3>
+<ul>
+<li>if you survived step 1 &amp; 2 the discussion is really gone and there should be mutual respect again.</li>
+<li>sometimes it helps to explain what is important to you to help you not to get in this situation again.</li>
+</ul>
+<h2><a class="header" href="#avoid-complexity" id="avoid-complexity">Avoid complexity</a></h2>
+<p>The world has been born out of few elements and all was very simple.
+Combination of simple elements can create something very powerful as long as these elements (organism) work together. This has lead to more complex organism like ourselves. 
+The basic building blocks though are very easy.</p>
+<p>We need constantly strive for less complexity, for elegance, for beauty.</p>
+<p>Every Time you see something complex, you need to try and look where does this come from, don't settle for it, I am sure there is an easier more elegant way.</p>
+<p>Complexity is the enemy for further change, it blocks the path and that is why it cannot be accepted.</p>
+<p>Complexity also leads to miscommunication more errors further on the path.</p>
+<p>Allow to give some examples:</p>
+<ul>
+<li>complex redundant IT systems build to provide more uptime (e.g. in datacenters) always had worse uptime then the non redundant systems which were easy.</li>
+<li>complex contracts lead to misunderstanding and issues further on the path, it can lead to distrust.</li>
+<li>complex excel sheets are more wrong than the simple back on the envelope calculation made by someone with some experience</li>
+</ul>
+<h2><a class="header" href="#100-transparency" id="100-transparency">100% transparency</a></h2>
+<ul>
+<li>all information is by definition open &amp; can be shared with our partners &amp; colleagues
+<ul>
+<li>exceptions are information private by nature e.g. salaries, ...</li>
+</ul>
+</li>
+<li>expect people/partners to do the right thing
+<ul>
+<li>if they don't you have selected the wrong people or partners not following your values and that is the real root cause not the fact that you shared something or trusted someone.</li>
+</ul>
+</li>
+<li>why not share all your created code, documents and allow people to improve and see the quality of it.
+<ul>
+<li>this will force your organization to produce quality and be loyal to their values</li>
+<li>often people are &quot;afraid&quot; that their code would be stolen, there are thousands of examples today where code is &quot;opensource&quot; and still the company managed to build a very successful business. For many area's its now even a must.</li>
+</ul>
+</li>
+<li>dare to share, you will get back what you share one way or the other</li>
+</ul>
+<p>You expect transparency from others, how can you want this if you don't do this yourself.</p>
+<h2><a class="header" href="#help-your-friendscolleagues-to-grow" id="help-your-friendscolleagues-to-grow">Help your friends/colleagues to grow.</a></h2>
+<ul>
+<li>help them to become better in their job.</li>
+<li>if you learned something share it in a way it's easy that the information is found.</li>
+<li>if they become better in whatever they do you will be more successful/happy too.</li>
+</ul>
+<h1><a class="header" href="#personal-note-how-are-we-doing-2019" id="personal-note-how-are-we-doing-2019">Personal Note. How are we doing? 2019</a></h1>
+<p>This document has been written early 2017. Since then quite some friends have read this document and the response was quite positive. 
+Update now in 2019:</p>
+<p>To like and agree with these values is the easy part, to live up to these values is super hard.</p>
+<p>Every day it's my own fight not to be scared and keep on pushing what I believe to be the right set of values. </p>
+<p>The most heard argument is that other companies/people do it differently.</p>
+<p>Recently it made me quite frustrated, I was pushing too hard. I just realized that I should not push at all but just offer a choice.</p>
+<p>Everything can be brought back to a very simple choice. Are we willing to follow the path of faith in humanity (respect) &amp; love, if yes everything is possible but this is hard to do. Every day the newspapers or television shows us how most of us are not ready to do that yet. Non tolerance (legal force, fear even hatred) is being preached as a way of doing business &amp; run our world. It's so easy to get scared as a result of this.</p>
+<p>Personally I don't want to live that way, I have chosen for respect &amp; love, these 2 simple words are enough to see everything differently. To me the new digital world which is unfolding all around us is like a new dimension with a different set of rules. These rules can be different, they are disconnected from governments &amp; large corporations.
+I don't want lengthy contracts any more, I want partners with which together we can build a better world and as result we are successful. </p>
+<p>Money is not a dirty word it's a form of energy, it allows us to do good. Building a sustainable business following good values will be much more profitable &amp; stable in the long run as some hasty greed based shortcut driven business.</p>
+<p>Can this work? YES, I see it every day, many people &amp; companies want to do business this way. It's a new economy being born. It will take some time but it's all happening.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="../../../&quot;https://www.freeflownation.org/manifesto.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="../../../docs/collaboration/values/IQ_EQ_SQ.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="../../../&quot;https://www.freeflownation.org/manifesto.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="../../../docs/collaboration/values/IQ_EQ_SQ.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+        
+        
+        <script type="text/javascript">
+            window.playpen_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="../../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="../../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>
