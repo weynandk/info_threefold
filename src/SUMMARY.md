@@ -89,12 +89,10 @@
   - [ThreeFold Love](./docs/ecosystem/threefoldlove.md)
   - [ThreeFold Tech](./docs/ecosystem/threefoldtech.md)
   - [Veda](./docs/ecosystem/veda.md)
-
-- [Partners](./docs/partners/README.md)
-
-  - [Hewlett Packard Enterprise](./docs/partners/hpe.md)
-  - [Solidaridad](./docs/partners/solidaridad.md)
-  - [Flowgen](./docs/partners/flowgen.md)
+  - [Partners](./docs/partners/README.md)
+    - [Hewlett Packard Enterprise](./docs/partners/hpe.md)
+    - [Solidaridad](./docs/partners/solidaridad.md)
+    - [Flowgen](./docs/partners/flowgen.md)
 
 - [Blog](./docs/blog/README.md)
 
@@ -112,17 +110,10 @@
     - [An escape from the Great Hack](./docs/blog/escape-the-great-hack.md)
     - [You are unique](./docs/blog/you-are-unique.md)
 
-- [Press](./docs/blog/memorandum_of_understanding.md)
+- [Press](./docs/press/memorandum_of_understanding.md)
 - [Collaboration](./docs/collaboration/README.md)
 
   - [Contribute](./docs/collaboration/how_to_contribute.md)
-    - [Freeflow Collaboration](./docs/collaboration/freeflow_collaboration/how_to_contribute.md)  
-       - [Be A FreeFlow Citizen](./docs/collaboration/freeflow_citizen.md)
-       - [How To Contribute](./docs/collaboration/freeflow_collaboration/how_to_contribute.md)
-       - [Bonus Pool](./docs/collaboration/freeflow_collaboration/bonus_token_pool.md)
-       - [Circles Remuneration](./docs/collaboration/freeflow_collaboration/circles_remuneration.md)
-       - [Circles Roles](./docs/collaboration/freeflow_collaboration/circles_roles.md)
-       - [Circles Technical Roles](./docs/collaboration/freeflow_collaboration/circles_roles_technical.md)
    - [Circles Roles](./docs/collaboration/circles_roles.md)
     - [P2P Awareness Levels](./docs/collaboration/p2p_awareness_level.md)
     - [Stories Start of All](./docs/collaboration/stories.md)
