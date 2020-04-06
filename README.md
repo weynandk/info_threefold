@@ -25,17 +25,23 @@ OSX:
 brew install mdbook
 ```
 
-### Example generating mdbook locally :-
+### get the documents (content)
 
-```
+```bash
 mkdir -p ~/code/github/threefoldfoundation
 cd ~/code/github/threefoldfoundation
 clone https://github.com/threefoldfoundation/info_threefold/ -b development
-cd info_threefold
+```
+
+### use mdbook locally
+
+```bash
+cd ~/code/github/threefoldfoundation/info_threefold
 #will open local browser
 mdbook serve info_threefold -n 0.0.0.0 -o
+```
 
-### Editing in the wikis
+### Editing the wikis
 
 - all md files are under src/docs directory, please make sure you get all your changes there.
 - to make link in md file to open in new tab use this 
