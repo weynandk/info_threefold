@@ -12,7 +12,6 @@
 	- [Videos](./docs/grid/external_information/videos.md)
 	- [Frequently Asked Questions](./docs/grid/faq/README.md)
 	- [Concepts](./docs/grid/concepts/README.md)
-	- [Peer2Peer Storage & Compute](./docs/grid/peer2peer_storage_compute/README.md)
 - [Token](./docs/token/README.md)
 
 	- [What are ThreeFold Tokens?](./docs/token/tft-101/what_are_tfts.md)
