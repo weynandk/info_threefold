@@ -23,7 +23,6 @@
 	- [Token Properties](./docs/token/tft-101/token_properties.md)
 	- [Technology](./docs/token/technology/README.md)
 	- [Tokenomics](./docs/token/tokenomics/README.md)
-  - [Tokenomics Farmers](./docs/token/tokenomics/tokenomics_farmers_grid_v1.md)
 
 - [3Bot](./docs/3bot/README.md)
 
@@ -99,7 +98,6 @@
 
 - [Blog](./docs/blog/README.md)
 
-    - [A Memorandum of Understanding (MOU)](./docs/blog/memorandum_of_understanding.md)
     - [10x times power savings, really?](./docs/blog/10x-times-power.md)
     - [AirBnB for Internet Capacity](./docs/blog/airbnb-for-internet-capacity.md)
     - [Why an Edge Cloud](./docs/blog/do-with-new-edge-cloud.md)
@@ -114,7 +112,7 @@
     - [An escape from the Great Hack](./docs/blog/escape-the-great-hack.md)
     - [You are unique](./docs/blog/you-are-unique.md)
 
-
+- [Press](./docs/blog/memorandum_of_understanding.md)
 - [Collaboration](./docs/collaboration/README.md)
 
   - [Contribute](./docs/collaboration/how_to_contribute.md)
