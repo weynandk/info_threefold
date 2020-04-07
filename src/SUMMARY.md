@@ -117,6 +117,7 @@
    - [Circles Roles](./docs/collaboration/circles_roles.md)
     - [P2P Awareness Levels](./docs/collaboration/p2p_awareness_level.md)
     - [Stories Start of All](./docs/collaboration/stories.md)
+	- [Stories pitfalls](./docs/collaboration/story_pitfalls.md)
   - [Goals & Values](./docs/collaboration/values/goals_values.md)
     - [FreeFlow Nation Manifesto]("https://www.freeflownation.org/manifesto.html")
     - [Personal On Collaboration](./docs/collaboration/values/kristof_build_a_better_world_values_collaboration.md)

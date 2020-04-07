@@ -6,7 +6,7 @@ Stories help us to organise our work. They need to comply with specific requirem
 
 A story normally represents the view of a person, e.g. "I as product owner for product X would like to see Y features to be implemented because... customer Z needs this... our strategy is..."
 
-Writing user stories may seem to be simple, but it requires attention. Common mistakes include creating stories that are incomplete, inconsistent or missing valuable parts such ass acceptance criteria/DOD. To avoid this common mistakes, we have created this list of the most common pitfalls you must avoid while creating your stories.  [See the story pitfalls](/collaboration/story_pitfalls.md)
+Writing user stories may seem to be simple, but it requires attention. Common mistakes include creating stories that are incomplete, inconsistent or missing valuable parts such ass acceptance criteria/DOD. To avoid this common mistakes, we have created this list of the most common pitfalls you must avoid while creating your stories.  [See the story pitfalls](/docs/collaboration/story_pitfalls.md)
 
 Stories are pieces of work (not simple tasks) which are aggregated in a story = its like a card you would stick on a whiteboard.
 
