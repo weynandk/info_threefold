@@ -1,6 +1,6 @@
 # Stories
 
-![@https://images.unsplash.com/photo-1456324504439-367cee3b3c32?ixlib=rb-0.3.5&s=45160e59ac36a57dce0ec249a7b75161&auto=format&fit=crop&w=1350&q=80](stories.jpeg)
+![](images/stories.jpeg)
 
 Stories help us to organise our work. They need to comply with specific requirements to be effective.
 
