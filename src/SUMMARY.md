@@ -7,6 +7,7 @@
 	- [Experience Layer](./docs/definitions-concepts/experience_layer.md)
 	- [ThreeFold Ambassador](./docs/definitions-concepts/threefold_ambassador.md)
 	- [ThreeFold Capacity User](./docs/definitions-concepts/threefold_user.md)
+	- [ThreeFold Cloud Units](./docs/definitions-concepts/threefold_cloud_units.md)
 - [Grid](./docs/grid/README.md)
 	- [Farming](./docs/grid/tf_farming/README.md)
 	- [Videos](./docs/grid/external_information/videos.md)
@@ -23,7 +24,6 @@
 	- [Token Properties](./docs/token/tft-101/token_properties.md)
 	- [Technology](./docs/token/technology/README.md)
 	- [Tokenomics](./docs/token/tokenomics/README.md)
-  - [Tokenomics Farmers](./docs/token/tokenomics/tokenomics_farmers_grid_v1.md)
 
 - [3Bot](./docs/3bot/README.md)
 
@@ -90,16 +90,13 @@
   - [ThreeFold Love](./docs/ecosystem/threefoldlove.md)
   - [ThreeFold Tech](./docs/ecosystem/threefoldtech.md)
   - [Veda](./docs/ecosystem/veda.md)
-
-- [Partners](./docs/partners/README.md)
-
-  - [Hewlett Packard Enterprise](./docs/partners/hpe.md)
-  - [Solidaridad](./docs/partners/solidaridad.md)
-  - [Flowgen](./docs/partners/flowgen.md)
+  - [Partners](./docs/partners/README.md)
+    - [Hewlett Packard Enterprise](./docs/partners/hpe.md)
+    - [Solidaridad](./docs/partners/solidaridad.md)
+    - [Flowgen](./docs/partners/flowgen.md)
 
 - [Blog](./docs/blog/README.md)
 
-    - [A Memorandum of Understanding (MOU)](./docs/blog/memorandum_of_understanding.md)
     - [10x times power savings, really?](./docs/blog/10x-times-power.md)
     - [AirBnB for Internet Capacity](./docs/blog/airbnb-for-internet-capacity.md)
     - [Why an Edge Cloud](./docs/blog/do-with-new-edge-cloud.md)
@@ -114,20 +111,14 @@
     - [An escape from the Great Hack](./docs/blog/escape-the-great-hack.md)
     - [You are unique](./docs/blog/you-are-unique.md)
 
-
+- [Press](./docs/press/memorandum_of_understanding.md)
 - [Collaboration](./docs/collaboration/README.md)
 
   - [Contribute](./docs/collaboration/how_to_contribute.md)
-    - [Freeflow Collaboration](./docs/collaboration/freeflow_collaboration/how_to_contribute.md)  
-       - [Be A FreeFlow Citizen](./docs/collaboration/freeflow_citizen.md)
-       - [How To Contribute](./docs/collaboration/freeflow_collaboration/how_to_contribute.md)
-       - [Bonus Pool](./docs/collaboration/freeflow_collaboration/bonus_token_pool.md)
-       - [Circles Remuneration](./docs/collaboration/freeflow_collaboration/circles_remuneration.md)
-       - [Circles Roles](./docs/collaboration/freeflow_collaboration/circles_roles.md)
-       - [Circles Technical Roles](./docs/collaboration/freeflow_collaboration/circles_roles_technical.md)
    - [Circles Roles](./docs/collaboration/circles_roles.md)
     - [P2P Awareness Levels](./docs/collaboration/p2p_awareness_level.md)
     - [Stories Start of All](./docs/collaboration/stories.md)
+	- [Stories pitfalls](./docs/collaboration/story_pitfalls.md)
   - [Goals & Values](./docs/collaboration/values/goals_values.md)
     - [FreeFlow Nation Manifesto]("https://www.freeflownation.org/manifesto.html")
     - [Personal On Collaboration](./docs/collaboration/values/kristof_build_a_better_world_values_collaboration.md)
@@ -145,6 +136,13 @@
     - [teal definitions](./docs/collaboration/teal/teal_definitions.md)
     - [differences with companies](./docs/collaboration/teal/teal_differences_with_companies.md)
     - [teal org culture manifest](./docs/collaboration/teal/teal_org_culture_manifest.md)
+  - [Freeflow Collaboration](./docs/collaboration/freeflow_collaboration/how_to_contribute.md)
+      - [Be A FreeFlow Citizen](./docs/collaboration/freeflow_citizen.md)
+      - [How To Contribute](./docs/collaboration/freeflow_collaboration/how_to_contribute.md)
+      - [Bonus Pool](./docs/collaboration/freeflow_collaboration/bonus_token_pool.md)
+      - [Circles Remuneration](./docs/collaboration/freeflow_collaboration/circles_remuneration.md)
+      - [Circles Roles](./docs/collaboration/freeflow_collaboration/circles_roles.md)
+      - [Circles Technical Roles](./docs/collaboration/freeflow_collaboration/circles_roles_technical.md)
   - [Freeflow Tools](./docs/collaboration/freeflow_tools/readme.md)
     - [Circles Tools](./docs/collaboration/freeflow_tools/circles_tools.md)
     - [Github content rules](./docs/collaboration/freeflow_tools/github_content_rules.md)
