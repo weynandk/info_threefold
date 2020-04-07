@@ -7,6 +7,7 @@
 	- [Experience Layer](./docs/definitions-concepts/experience_layer.md)
 	- [ThreeFold Ambassador](./docs/definitions-concepts/threefold_ambassador.md)
 	- [ThreeFold Capacity User](./docs/definitions-concepts/threefold_user.md)
+	- [ThreeFold Cloud Units](./docs/definitions-concepts/threefold_cloud_units.md)
 - [Grid](./docs/grid/README.md)
 	- [Farming](./docs/grid/tf_farming/README.md)
 	- [Videos](./docs/grid/external_information/videos.md)
