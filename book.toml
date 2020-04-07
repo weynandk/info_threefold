@@ -1,9 +1,9 @@
 [book]
-authors = ["peternashaat"]
+authors = ["peternashaat","despiegk"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Threefold Foundation"
+title = "Threefold Wiki"
 
 [output.html.fold]
 enable = true
