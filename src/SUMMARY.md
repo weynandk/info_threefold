@@ -8,6 +8,17 @@
 	- [ThreeFold Ambassador](./docs/definitions-concepts/threefold_ambassador.md)
 	- [ThreeFold Capacity User](./docs/definitions-concepts/threefold_user.md)
 	- [ThreeFold Cloud Units](./docs/definitions-concepts/threefold_cloud_units.md)
+
+- [Whitepapers](./docs/whitepapers/README.md)
+  - [ThreeFold Whitepaper 1.0.4](./docs/whitepapers/tf_whitepaper_104/tf_whitepaper_104.md)
+  - [How We Solved The BlockChain Dilemma](./docs/whitepapers/blockchain_dilemma/blockchain_dilemma_whitepaper.md)
+  - [The World Needs True Decentralization](./docs/whitepapers/true_decentralized_internet_system/true_decentralized_internet_system.md)
+  - [Bringing Trust Is A Human Task, Not A Blockchain One](./docs/whitepapers/bringing_trust_is_a_human_task/bringing_trust_is_a_human_task.md)
+  - [IT Systems Without People Involved Are the Future](./docs/whitepapers/zero_people_it_is_the_future/zero_people_it_is_the_future.md)
+  - [Edge Cloud not Grid cloud?](./docs/whitepapers/edge_cloud_not_grid_cloud/edge_cloud_not_grid_cloud.md)
+  - [The Autonomous Layer](./docs/whitepapers/autonomous_layer/autonomous_layer.md)
+  - [The Capacity Layer](./docs/whitepapers/capacity_layer/capacity_layer.md)
+
 - [Grid](./docs/grid/README.md)
 	- [Farming](./docs/grid/tf_farming/README.md)
 	- [Videos](./docs/grid/external_information/videos.md)
@@ -34,7 +45,6 @@
 - [Tech](./docs/tech/README.md)
 
 	- [Technology](./docs/tech/technology/README.md)
-	- [Whitepapers](./docs/tech/whitepapers/README.md)
 	- [Company Behind The Tech](./docs/tech/company/README.md)
 	- [Support](./docs/tech/support/README.md)
 
