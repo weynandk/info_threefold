@@ -1,4 +1,4 @@
-![jimber logo](/ecosystem/img/jimber-logo.jpg)
+![jimber logo](img/jimber-logo.jpg)
 
 
 # Jimber

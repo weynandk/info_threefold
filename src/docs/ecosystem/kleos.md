@@ -1,4 +1,4 @@
-![kleos logo](/ecosystem/img/kleos-logo.jpg)
+![kleos logo](img/kleos-logo.jpg)
 
 
 # Kleos

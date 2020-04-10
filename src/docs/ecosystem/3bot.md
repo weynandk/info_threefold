@@ -1,4 +1,4 @@
-![3bot logo](/ecosystem/img/3bot-logo.jpg)
+![3bot logo](img/3bot-logo.jpg)
 
 # 3Bot
 

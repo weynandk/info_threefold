@@ -1,4 +1,4 @@
-![threefoldlove logo](/ecosystem/img/threefoldlove-logo.jpg)
+![threefoldlove logo](img/threefoldlove-logo.jpg)
 
 
 # ThreeFold Love

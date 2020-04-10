@@ -1,4 +1,4 @@
-![safecity logo](/ecosystem/img/safecity-logo.jpg)
+![safecity logo](img/safecity-logo.jpg)
 
 
 # Safe City

@@ -1,4 +1,4 @@
-![cultivo logo](/ecosystem/img/cultivo-logo.jpg)
+![cultivo logo](img/cultivo-logo.jpg)
 
 # Cultivo
 

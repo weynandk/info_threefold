@@ -1,4 +1,4 @@
-![bettertoken logo](/ecosystem/img/bettertoken-logo.jpg)
+![bettertoken logo](img/bettertoken-logo.jpg)
 
 # BetterToken BVBA
 

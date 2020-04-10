@@ -1,4 +1,4 @@
-![veda logo](/ecosystem/img/veda-logo.jpg)
+![veda logo](img/veda-logo.jpg)
 
 
 # Veda Retreats

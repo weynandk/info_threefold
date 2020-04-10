@@ -1,4 +1,4 @@
-![incubaid logo](/ecosystem/img/incubaid-logo.jpg)
+![incubaid logo](img/incubaid-logo.jpg)
 
 
 # Incubaid

@@ -1,4 +1,4 @@
-![freeflownation logo](/img/freeflownation-logo.jpg)
+![freeflownation logo](img/freeflownation-logo.jpg)
 
 **FreeFlow Nation**
 

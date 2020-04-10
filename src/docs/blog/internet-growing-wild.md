@@ -35,13 +35,13 @@ ThreeFold believes IT can do a lot better - in fact ThreeFold believes it can re
 
 Power consumption is a function of better compute and storage performance requiring more racks and more cooling. The solutions achieve roughly 3 times the performance per rack (so it uses fewer racks) - and the racks require less energy than typical racks in the industry :-)
 
-Read more at this blog: [10x times power savings, is this possible?](/blog/10x-times-power.md)
+Read more at this blog: [10x times power savings, is this possible?](/docs/blog/10x-times-power.md)
 
 ### Internet capacity is expensive
 
 The biggest cost of running IT architectures is people.
 
-Today's complex, built out of ‘band aid and patches’ point solutions, organically grown and badly documented IT infrastructures need an armada of people to keep it ticking. Find an example IT budget [here][5]. Even though this is an example budget one can learn a lot from the trends that are presented in the example:
+Today's complex, built out of ‘band aid and patches’ point solutions, organically grown and badly documented IT infrastructures need an armada of people to keep it ticking. Even though this is an example budget one can learn a lot from the trends that are presented in the example:
 
 * On average an IT budget takes 5% of overall revenues
 * IT consumes 6.5% of the total number of FTE in the company of which 85% are insource and 15% is on payroll. This means that the enterprise doesn't retain internal know-how to operate their IT.
@@ -74,6 +74,5 @@ The global data growth will reach more than 40 Zetabytes by 2020 which represent
 [2]: https://www.article19.org/data/files/Internet_Statement_Adopted.pdf
 [3]: https://en.wikipedia.org/wiki/Moore%27s_law
 [4]: /information/10-times-power-savings/
-[5]: http://www.gartner.com/downloads/public/explore/metricsAndTools/ITBudget_Sample_2012.pdf
 [6]: https://aws.amazon.com/message/41926/
 [7]: https://www.siemens.com/innovation/en/home/innovation-strategy/driving-forward-digitalization.html

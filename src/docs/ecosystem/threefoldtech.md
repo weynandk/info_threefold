@@ -1,4 +1,4 @@
-![threefoldtech logo](/ecosystem/img/threefoldtech-logo.jpg)
+![threefoldtech logo](img/threefoldtech-logo.jpg)
 
 
 # ThreeFold Tech NV

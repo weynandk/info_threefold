@@ -1,4 +1,4 @@
-![codescalers logo](/ecosystem/img/codescalers-logo.jpg)
+![codescalers logo](img/codescalers-logo.jpg)
 
 # CodeScalers
 

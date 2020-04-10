@@ -1,4 +1,4 @@
-![greenedgecloud logo](/ecosystem/img/greenedgecloud-logo.jpg)
+![greenedgecloud logo](img/greenedgecloud-logo.jpg)
 
 # Green Edge Cloud
 

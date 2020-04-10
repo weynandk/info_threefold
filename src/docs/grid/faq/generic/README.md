@@ -1,7 +1,1 @@
-# Grid FAQ Generic Questions
-
-
-
-
-
-
+# Generic

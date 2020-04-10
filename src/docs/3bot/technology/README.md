@@ -1,12 +1,6 @@
-## Technical
-
-[3Bot Login](https://github.com/3botlogin/3botlogin/blob/master/README.md)
-
-[Source Codes and Repository](https://github.com/3botlogin)
+# Technical
 
 ## **3Bot Technology**
-
-## **3Bot Features [picture of 3BOT]**
 
 - Identity Information
 - Autonomous DAPPS SDK
@@ -174,3 +168,7 @@ The above-suggested architecture scales endlessly. Millions of 3Bots = digital a
 ![image alt text](../img/many-to-many.png)
 
 To find further information about 3Bot and technologies you can visit our whitepaper section on the ThreeFold Tech Wiki [ThreeFold Tech Wiki](https://wiki.threefold.tech)
+
+[GitHub 3Bot Schematics](https://github.com/3botlogin/3botlogin/blob/master/README.md)
+
+[Source Codes and Repository](https://github.com/3botlogin)

@@ -1,4 +1,4 @@
-![ATW.green logo](/ecosystem/img/atwg-logo.jpg)
+![ATW.green logo](img/atwg-logo.jpg)
 
 # ATW.Green: Green Tech. in Dubai
 

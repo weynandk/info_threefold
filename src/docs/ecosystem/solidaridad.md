@@ -1,4 +1,4 @@
-![solidaridad logo](/ecosystem/img/solidaridad-logo.jpg)
+![solidaridad logo](img/solidaridad-logo.jpg)
 
 
 # Solidaridad
