@@ -1,6 +1,6 @@
-# ThreeFold Grid (TF Grid)
+![](images/grid-header.jpg)
 
-![](images/world.png)
+# ThreeFold Grid (TF Grid)
 
 The ThreeFold Grid is built by independent people that together create a pool of connected compute and storage capacity.  This is a tokenomy where compute hardware mints a stable currency (the TF Token) which is used to rent capacity on the grid to run current and future IT workloads.  The currency should be a stable currency and ThreeFold hopes it will be a currency that us used in local economies for many other value transaction ad well.
 

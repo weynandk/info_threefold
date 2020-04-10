@@ -2,7 +2,7 @@
 
 # How to contribute to a FreeFlow Project (Circle)
 
-![https://images.unsplash.com/photo-1470472304068-4398a9daab00?ixlib=rb-0.3.5&s=55b8e313e798f6a8e12fbc9d9fc0078d&auto=format&fit=crop&w=2100&q=80](contributing_in_agile_org.jpeg)
+<img src="https://images.unsplash.com/photo-1470472304068-4398a9daab00?ixlib=rb-0.3.5&s=55b8e313e798f6a8e12fbc9d9fc0078d&auto=format&fit=crop&w=2100&q=80">
 
 We believe in "self-healing organizations" where circles (teams organized around topics) collaborate with each other. It's similar to how our own human body works. For instance: lungs provide oxygen to the body but they need red-blood cells to move the oxygen to the rest of the body; the brain can tell us where to drive, but it needs hands and feet to operate the car.
 

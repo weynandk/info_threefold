@@ -1,7 +1,7 @@
 
-![3bot wiki home image](./img/3bot_wiki_home.png)
+![3bot wiki home image](img/3bot-header.jpg)
  
-## About 3Bot
+# 3Bot Wiki
 
 This wiki, the **3Bot Wiki** brings together all information about 3Bot, your digital self.
 

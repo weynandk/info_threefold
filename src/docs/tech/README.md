@@ -1,7 +1,5 @@
+![](images/tech-header.jpg)
 # Technology
-
-![](https://images.unsplash.com/photo-1544816565-c199d6f5d2d3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80)
-
 ## Here you will find all you need to know about the technology and the company behind the creation of the technology
 
 If you are new to our project and want an overview of our tech components and tech concepts we would like to point you to our [Whitepapers](/docs/tech/whitepapers/index.html).

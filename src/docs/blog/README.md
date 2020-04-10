@@ -1,6 +1,6 @@
 # ThreeFold Blogs
 
-![Blogs](img/person-woman-apple-hotel.jpg?raw=true)
+![Blogs](img/blog-header.jpg)
 
 * [Blogs](/docs/blog/README.md)
     * [A Memorandum of Understanding (MOU)](/docs/blog/memorandum_of_understanding.md)

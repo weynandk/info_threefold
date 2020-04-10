@@ -1,4 +1,4 @@
-![partnership image](img/partnerships-projects.jpg)
+![partnership image](img/ecosytem-header.jpg)
 
 # ThreeFold Foundation Projects and Partnerships
 

@@ -1,8 +1,7 @@
 
-![](img/powering-internet.png)
+![](img/token-header.jpg)
+# ThreeFold Token
 
-
- 
 ## New to ThreeFold?
 
 Watch the video on the [ThreeFold YouTube Channel](https://www.youtube.com/channel/UCKMNPuhs-8tHYfGd92krC8w)

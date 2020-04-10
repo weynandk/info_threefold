@@ -1,7 +1,5 @@
+![](images/videos-header.jpg)
 # ThreeFold Videos
-
-![](images/videos-900.jpg)
-
 Here you find a selection of some of our video content.
 We have divided them in 2 sections.
 

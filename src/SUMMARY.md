@@ -156,12 +156,18 @@
     - [You are unique](./docs/blog/you-are-unique.md)
 
 - [Press](./docs/press/memorandum_of_understanding.md)
-- [Collaboration](./docs/collaboration/README.md)
 
-  - [Contribute](./docs/collaboration/how_to_contribute.md)
-   - [Circles Roles](./docs/collaboration/circles_roles.md)
-    - [P2P Awareness Levels](./docs/collaboration/p2p_awareness_level.md)
-    - [Stories Start of All](./docs/collaboration/stories.md)
+
+- [Collaboration](./docs/collaboration/README.md)
+  
+  - [Freeflow Collaboration](./docs/collaboration/freeflow_collaboration/how_to_contribute.md)
+      - [Be A FreeFlow Citizen](./docs/collaboration/freeflow_collaboration/freeflow_citizen.md)
+      - [Bonus Pool](./docs/collaboration/freeflow_collaboration/bonus_token_pool.md)
+      - [Circles Remuneration](./docs/collaboration/freeflow_collaboration/circles_remuneration.md)
+      - [Circles Roles](./docs/collaboration/freeflow_collaboration/circles_roles.md)
+      - [Circles Technical Roles](./docs/collaboration/freeflow_collaboration/circles_roles_technical.md)
+    - [P2P Awareness Levels](./docs/collaboration/freeflow_collaboration/p2p_awareness_level.md)
+  - [Stories Start of All](./docs/collaboration/stories.md)
 	- [Stories pitfalls](./docs/collaboration/story_pitfalls.md)
   - [Goals & Values](./docs/collaboration/values/goals_values.md)
     - [FreeFlow Nation Manifesto]("https://www.freeflownation.org/manifesto.html")
@@ -176,17 +182,10 @@
     - [Open Cultures](./docs/collaboration/org40/open_culture_daniel_tenner.md)
     - [Head Of Mission](./docs/collaboration/org40/head_of_mission_profile.md)
   - [Teal](./docs/collaboration/teal/readme.md)
-    - [teal ntro](./docs/collaboration/teal/teal_organization_intro.md)
-    - [teal definitions](./docs/collaboration/teal/teal_definitions.md)
-    - [differences with companies](./docs/collaboration/teal/teal_differences_with_companies.md)
-    - [teal org culture manifest](./docs/collaboration/teal/teal_org_culture_manifest.md)
-  - [Freeflow Collaboration](./docs/collaboration/freeflow_collaboration/how_to_contribute.md)
-      - [Be A FreeFlow Citizen](./docs/collaboration/freeflow_citizen.md)
-      - [How To Contribute](./docs/collaboration/freeflow_collaboration/how_to_contribute.md)
-      - [Bonus Pool](./docs/collaboration/freeflow_collaboration/bonus_token_pool.md)
-      - [Circles Remuneration](./docs/collaboration/freeflow_collaboration/circles_remuneration.md)
-      - [Circles Roles](./docs/collaboration/freeflow_collaboration/circles_roles.md)
-      - [Circles Technical Roles](./docs/collaboration/freeflow_collaboration/circles_roles_technical.md)
+    - [Teal intro](./docs/collaboration/teal/teal_organization_intro.md)
+    - [Teal definitions](./docs/collaboration/teal/teal_definitions.md)
+    - [Differences with companies](./docs/collaboration/teal/teal_differences_with_companies.md)
+    - [Teal org culture manifest](./docs/collaboration/teal/teal_org_culture_manifest.md)
   - [Freeflow Tools](./docs/collaboration/freeflow_tools/readme.md)
     - [Circles Tools](./docs/collaboration/freeflow_tools/circles_tools.md)
     - [Github content rules](./docs/collaboration/freeflow_tools/github_content_rules.md)
@@ -198,7 +197,7 @@
 	- [Links](./docs/collaboration/freeflow_tools/markdown_examples/links.md)
 	- [Lists](./docs/collaboration/freeflow_tools/markdown_examples/lists.md )
   - [Agile principles](./docs/collaboration/agileprinciples/readme.md)
-	- [Inrto](./docs/collaboration/agileprinciples/intro.md)
+	- [Intro](./docs/collaboration/agileprinciples/intro.md)
     - [Agile Manifesto](./docs/collaboration/agileprinciples/agile_collaboration_manifesto.md) 
 	- [Agile Requirements](./docs/collaboration/agileprinciples/agile_requirements.md)
 	- [Change Is Done](./docs/collaboration/agileprinciples/change_is_not_bad.md)
@@ -216,14 +215,7 @@
 
 - [Web Resources](./docs/web_resources/README.md)
 
-	- [TF Foundation Website](./docs/web_resources.md)
-	- [TF Tech Website](./docs/web_resources/tech.md)
-	- [Foundation Github](./docs/web_resources/foundation_github.md)
-	- [ThreeFold Tech Github](./docs/web_resources/tech_github.md)
-
 
 - [Legal](./docs/legal/README.md)
-
     - [Terms & Conditions](./docs/legal/termsconditions.md)
-    - [ThreeFold Definitions](./docs/definitions-concepts/README.md)
 
