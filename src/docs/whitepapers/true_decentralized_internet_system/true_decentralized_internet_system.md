@@ -368,10 +368,10 @@ _For more info read our tech whitepaper (see at the end of this document) _
 ## Marketing upside down {#marketing-upside-down}
 
 
-<table>
+<table border="0"> 
   <tr>
    <td>
-<img src="img/even_food_is_free.png" width="" alt="alt_text" title>
+<img src="img/even_food_is_free.png" width="800" alt="alt_text" title>
 
    </td>
    <td>In the current systems you think to get a product for free, but actually you are a product which generates more than 1000 USD per year for the current internet company's.

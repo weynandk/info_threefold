@@ -2,19 +2,14 @@
 
 # ThreeFold Tech the first 100% Decentralised Solution
 
-
-[TOC]
-
-
-
-# Introduction {#introduction}
+# Introduction
 
 TF Tech is a software company who has developed technology capable to build a 100% decentralized internet. This document describes how the TF-Tech 3bot technology can make this happen.
 
  If you want to read more about why does the world need a decentralized internet, [read this document.](https://docs.google.com/document/d/1uZT03h4QLBh2RYEnUjZQvi2Xoy8fjbUn1eZN_PM8g6g/edit#heading=h.c63i1qgi1v9h)
 
 
-# De<span style="text-decoration:underline;"><span style="text-decoration:underline;">central</span>ized = different centralized. {#decentralized-=-different-centralized}
+# De<span style="text-decoration:underline;"><span style="text-decoration:underline;">central</span>ized = different centralized.
 
 De-centralized has the word centralized inside but in a different way. The idea is not to make an organization or group of people the owner of a centralized system but rather the other way around, you or any legal identity becomes the center of your own digital life. More like how cells work in our body, all together we create a functioning world, by collaboration.
 
@@ -47,7 +42,7 @@ Each entity (person or legal entity) can define multiple circles. These circles 
 	
 
 
-## A circular decentralization solution is more sustainable. {#a-circular-decentralization-solution-is-more-sustainable}
+## A circular decentralization solution is more sustainable. 
 
 Everything is a balance between efficiency and resilience. (more info see “[the world needs a decentralized IT solution](https://docs.google.com/document/d/1uZT03h4QLBh2RYEnUjZQvi2Xoy8fjbUn1eZN_PM8g6g/edit#)”). In our current society, the focus is too much on efficiency which has lead to too centralized systems. Centralized systems are too fragile (boom-bust cycles) and can lead to abuse as well (we became a product in centralized data management systems e.g. Facebook, ...). 
 
@@ -64,7 +59,7 @@ This solution would sit in the sustainable part of Bernard Lietaer efficiency vs
 
 
 
-## Circles define your communities {#circles-define-your-communities}
+## Circles define your communities
 
 ![alt_text](img/7.png)
 
@@ -77,7 +72,7 @@ Circles are the groups you define to share your information with.
 There is 0% centralization in this system. Blockchains are being used where a shared state is required.
 
 
-# 3bot = the center of your digital “de-centralized” life {#3bot-=-the-center-of-your-digital-“de-centralized”-life}
+# 3bot = the center of your digital “de-centralized” life 
 
 ![alt_text](img/9.png)
 
@@ -90,13 +85,13 @@ To create this 3bot we had no choice than to restart from scratch and re-invent 
 
 
 
-## ThreeFold Blockchains {#threefold-blockchains}
+## ThreeFold Blockchains
 
 ![alt_text](img/11.png)
 
 
 
-### 3Bot Blockchain {#3bot-blockchain}
+### 3Bot Blockchain 
 
 Acts as the phone book. Each 3bot has an entry in this phonebook.
 
@@ -111,14 +106,14 @@ The following information is stored there
 *   Generic Usable Data Field
 
 
-### TFT or any other digital currency Blockchain {#tft-or-any-other-digital-currency-blockchain}
+### TFT or any other digital currency Blockchain 
 
 Is the blockchain managing the ThreeFold Grid main currency
 
 This same blockchain technology can be used to manage any type of digital currency.
 
 
-### TF Notary (also called BCDB = BlockChain DB) {#tf-notary-also-called-bcdb-=-blockchain-db}
+### TF Notary (also called BCDB = BlockChain DB) 
 
 Is the digital notary system in which all digital records can be stored.
 
@@ -134,7 +129,7 @@ The following information is stored
 *   Data field which has the info to be registered can be any format but max 2000 characters in size.
 
 
-### TF GRID Directory {#tf-grid-directory}
+### TF GRID Directory 
 
 Is the registration of all farmers and nodes inside the ThreeFold grid.
 
@@ -150,8 +145,7 @@ Is the registration of all farmers and nodes inside the ThreeFold grid.
     *   Capacity  (resource units)
 
 
-## How is data stored {#how-is-data-stored}
-
+## How is data stored
 
 
 ![alt_text](img/12.png)
@@ -168,7 +162,7 @@ This leads to a lot of overhead and is also not the most secure mechanism.
 
 
 
-### The “Space Algorithm” of storage {#the-“space-algorithm”-of-storage}
+### The “Space Algorithm” of storage 
 
 ![alt_text](img/14.png)
 
@@ -184,7 +178,7 @@ In a dispersed storage system the data gets dispersed in such a way that data wi
 This has been originally invented for communication in space.
 
 
-### How is this “Space Algorithm” used by the 3bot. {#how-is-this-“space-algorithm”-used-by-the-3bot}
+### How is this “Space Algorithm” used by the 3bot. 
 
 ![alt_text](img/15.png)
 
@@ -199,7 +193,7 @@ Each 3bot has a unique capability to use this CPU and STORAGE capacity from the 
 A 3bot can store a petabyte of information as long as enough TFTs are available so the required resource can be reserved on the individual TF Nodes. 3bot is the only entity which has the required information and keys to make retrieval of the distributed data possible.
 
 
-## We need a more efficient information retrieval system {#we-need-a-more-efficient-information-retrieval-system}
+## We need a more efficient information retrieval system 
 
 
 ![alt_text](img/17.png)
@@ -237,7 +231,7 @@ Each digital avatar is responsible for retrieving & reconstructing the informati
 
 This way of how to address information has far-reaching implications and can change the way how the internet works.
 
-## indexing & search problem {#indexing-&-search-problem}
+## indexing & search problem
 
 
 ![alt_text](img/19.png)
@@ -285,23 +279,23 @@ Any 3bot can decide to pay the required TFT’s to run an aggregation site and r
 This system makes it possible to avoid centralization completely.
 
 
-# This leads to endless scalability {#this-leads-to-endless-scalability}
+# This leads to endless scalability 
 
 The above-suggested architecture scales endless, millions of digital avatar can work with millions of nodes in the decentralized internet who provide the capacity, the digital avatars are the brain.
 
 ![alt_text](img/20.png)
 
 
-# TF Tech Software Components {#tf-tech-software-components}
+# TF Tech Software Components
 
 
 ![alt_text](img/21.png)
 
 
-# Workloads (work in progress) {#workloads-work-in-progress}
+# Workloads (work in progress)
 
 
-## Phase 1 Cloud Workloads (2019) {#phase-1-cloud-workloads-2019}
+## Phase 1 Cloud Workloads (2019)
 
 *   Docker
 *   S3
@@ -331,7 +325,7 @@ Our blockchain as a service platform allows anyone to launch a blockchain in min
 *   No people needed to manage
 
 
-## Phase 3: hacker free deployment of apps {#phase-3-hacker-free-deployment-of-apps}
+## Phase 3: hacker free deployment of apps 
 
 Hackers (security breaches) are a very big issue for most operational companies today.
 

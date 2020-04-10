@@ -1,8 +1,6 @@
 # Could Information Technology follow nature?
 
-[TOC]
-
-## Traditional IT workload architectures are centralised {#traditional-it-workload-architectures-are-centralised}
+## Traditional IT workload architectures are centralised
 
 Most (if not all) current IT architectures are centralized. A very simple but obvious example of this is the centralisation of data. Most IT systems / architectures use multiple databases in which they store all sorts of data.  When you store all data in a central location it’s easily available to anyone and anything.  Anyone that wants to know anything about the operations of a system can query the central data repository.
 
@@ -17,14 +15,14 @@ The IT industry has widely applied and is still utilizing this centralised model
 Imagine if you have more than one application using & changing _your centralised_“single version of the truth” _data_ at the same time. How do you guarantee that the information in the database presents the correct information to all parts of the system that need to access that information? , Allow me to break it up for you: the actual rate of change of data and continuous demand for data input, make _that_ central point of storing data a bottleneck, making necessary to create a complex method to “protect” the central databasefrom simultaneousread and write requests - a gateway function that throttles and caches information needs to be wrapped around it.
 
 
-## The cost (read revenue generation) of complexity in traditional IT {#the-cost-read-revenue-generation-of-complexity-in-traditional-it}
+## The cost (read revenue generation) of complexity in traditional IT
 
 Classical IT infrastructure setup has become complex and _not_ cost-efficient (at least not for your non-it-company budget)  because there is a profitable business model behind  it.  It is that simple. The variety of companies that operate in the IT industry is massive, and includes software providers, service providers, integrators and technology vendors.  All operate within their own domain and each and every new IT company or service creates a point of integration to others. Subsequently, each and every point of integration requires data to be shared between the two or more.  This approach optimises the subcomponents but creates complexity at the integration points.
 
 What if we do this in a different way.  What if we step away from having to integrate different components and share information between different technologies? What if this allows us to go away from the centralised model of storing (and sharing) data from a single place and make it available for everyone.  What if we store state and operational data in a distributed manner, with information residing where it is being used -- complete decentralisation of the internal IT state and operational information?
 
 
-## A different approach to creating and operating IT workloads {#a-different-approach-to-creating-and-operating-it-workloads}
+## A different approach to creating and operating IT workloads 
 
 Let’s start with an analogy by describing how a large ship is managed.  There are a lot of different roles on a ship.  To name a few you have the captain, the officers, engineers and oilers.  All of the people in these roles have specific knowledge for the tasks they need to perform and (usually) do not know much about all the other roles and tasks on a ship.  
 
@@ -35,10 +33,10 @@ As discussed in the introduction, today’s IT systems are built in a very diffe
 In the ship analogy, we deem this to be an inefficient way of working but in the world of IT we have made it the defacto standard way of working. Even worse than this - we usually have different databases to store “states” in for different parts of the IT architecture. In the ship’s case, we would have different comms rooms that orchestrate different parts or functions on the ship which then introduces the need for another role to start coordinating between the different comms rooms to make sure that all information is shared and communicated.  Another unnecessary component that adds zero benefit to get the actual work done. Taking this thought forward leads to a never-ending story of adding interfaces, layers, bridges between different parts of the system that all store information, more likely than not multiple times and in different ways.  
 
 
-# A decentralised IT architecture: Cells, DNA and energy. {#a-decentralised-it-architecture-cells-dna-and-energy}
+# A decentralised IT architecture: Cells, DNA and energy. 
 
 
-## General {#general}
+## General
 
 Decentralised systems are intricately linked to the idea of self-organisation —a phenomenon in which local interactions between components of a system establish order and coordination to achieve global goals without a central commanding influence. The rules specifying these interactions emerge from local information and in the case of biological (or biologically-inspired) agents, from the closely linked perception and action system of the agents.
 
@@ -49,7 +47,7 @@ Another example of a elaborate complex of individual cells is the human body.  E
 What if we could model IT architectures as is they are large collectives of simple “workers” that perform (simple) tasks in isolation from complex central control.  Avoid complication to integrate old and new(er) system by not creating any oversight and control mechanisms.  Design and develop an IT architecture that using principles developed and optimised in nature over millions of years.
 
 
-## A different design {#a-different-design}
+## A different design
 
 Let’s try to design a system that would work like this.  First thing we need is the platform or source of energy in which environments such a system could exits.  For the human body this is the world with solar, air, water, vegetables and meats.  All of these are elements that together create energy for the cells to live on. For IT architectures this would be Electricity, CPU’s, Memory, HDD’s and SSD’s and a lot of wires connecting it altogether.  This forms the basis for “digital cells” to exists - the need compute and storage capacity to exists.
 

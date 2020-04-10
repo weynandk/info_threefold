@@ -6,11 +6,8 @@
  Author: Kristof de Spiegeleer
  Version: 1.0
 
-**Table of Contents**
-[TOC]
 
-
-# Introduction {#introduction}
+# Introduction
 
 Today, IT capacity is mainly being delivered by means of centralized cloud technology which gets deployed in a private or public context. ThreeFold Tech has created technology to make the cloud 100% decentralized.
 
@@ -24,7 +21,7 @@ Today, IT capacity is mainly being delivered by means of centralized cloud techn
 The 3bots are the coordinators which can run 100% autonomously – they are super intelligent digital creatures who know how to protect your data and how to deploy/manage any IT workload on the capacity layer, which is the grid of the 3Nodes.
 
 
-# The 3Node {#the-3node}
+# The 3Node 
 
 
 
@@ -48,12 +45,12 @@ The only way how the Zero-OS can be commanded is by means of the Blockchain Data
 Core-0 is our main process manager which will deploy and manage our primitive workloads. There are three types of workloads: compute, storage, & network.
 
 
-# 3 Node Primitive Workloads {#3-node-primitive-workloads}
+# 3 Node Primitive Workloads
 
 The primitive workloads which are delivered by the Zero-OS:
 
 
-##  Compute = Containers-Based {#compute-=-containers-based}
+##  Compute = Containers-Based 
 
 ![alt_text](img/hw_os_virtualization.png)
 
@@ -71,10 +68,10 @@ Containerization is the current wave for deploying compute applications. It is m
 In our Zero-OS, we have eliminated lots of layers and as such we can be much more efficient and we are not dependent on third-party software vendors. Our operating system is not managed by humans. It is an autonomous system which gives you the ability to run any container workload in all safety while achieving more performance and efficiency. Our container technology is compatible with docker, yet still has quite a lot of great benefits.
 
 
-##  Storage = Zero-DB  {#storage-=-zero-db}
+##  Storage = Zero-DB
 
 
-<table>
+<table border="0">
   <tr>
    <td>
     
@@ -103,10 +100,10 @@ In our Zero-OS, we have eliminated lots of layers and as such we can be much mor
 0-db is a super fast and efficient key-value store redis-protocol (mostly) compatible, which makes data persistent inside an always append datafile, with namespaces support.
 
 
-## Network = Zero-GW and Zero-Net {#network-=-zero-gw-and-zero-net}
+## Network = Zero-GW and Zero-Net
 
 
-<table>
+<table border="0">
   <tr>
    <td>
     
@@ -146,7 +143,7 @@ Wireguard based encrypted overlay network between any containers
 In the above picture, any datacenter or network gateway can fall away, and the solution will still be available.
 
 
-# Self-Driving “IT” by means of an “IT” smart contract {#self-driving-“it”-by-means-of-an-“it”-smart-contract}
+# Self-Driving “IT” by means of an “IT” smart contract
 
 
 ![alt_text](img/smart_contract.png)
@@ -196,10 +193,10 @@ is optional but when required stakeholder can be defined to give consensus and s
 *   ensures that no person (hacker or IT person) can ever gain access or influence on the execution process.
 
 
-# Architecture {#architecture}
+# Architecture
 
 
-## Structure {#structure}
+## Structure
 
 ![alt_text](img/structure.png)
 
@@ -208,7 +205,7 @@ Kosmos is our scripting environment (see jumpscale) which allows you to deploy a
 Kosmos and the Kosmos Actors will create a low-level “workload definition” which gets registered on the blockchain database. After verification by humans and or machines (multi-signature on the BCDB) the Zero-OS will pick up the workload and do the local provisioning.
 
 
-##  Provisioning Flow {#provisioning-flow}
+##  Provisioning Flow 
 
 
 ![alt_text](img/provisioning_flow.png)
@@ -216,7 +213,7 @@ Kosmos and the Kosmos Actors will create a low-level “workload definition” w
 A 3bot has been educated by means of recipes and has an integrated digital wallet. These two resources are needed to be able to deploy any workload in the field.
 
 
-# JumpScaleX Empowered {#jumpscalex-empowered}
+# JumpScaleX Empowered
 
 JumpscaleX is a cloud automation platform designed for scalability and fast development with a low memory footprint. It does that by providing very easy-to-use SALs (System Abstraction Layers) language which makes development cross-platform very efficient and unified, as well as easily adaptable to technology changes by exposing an abstract interface.
 
@@ -254,11 +251,10 @@ Kosmos is a new way to interface with all of JSX’s tools, SALs, clients, serve
 A big part of deployments is managing built solutions or components, which JSX makes very simple. Using JSX builders, a developer can build, install, and sandbox their solution in no time. They can then create flists, which are lightweight metadata descriptions to be mounted in the filesystem.
 
 
-# Use Cases {#use-cases}
-
+# Use Cases
 ![alt_text](img/use_cases.png)
 
-##  Cloud Workloads {#cloud-workloads}
+##  Cloud Workloads 
 
 Phase 1 is active today:
 
@@ -270,7 +266,7 @@ Phase 1 is active today:
 +90% of all workloads which can run on Google cloud, Amazon, etc, can be made to run on the ThreeFold Grid.
 
 
-# Example Packaging {#example-packaging}
+# Example Packaging
 
 ![alt_text](img/example1.png)
 
@@ -305,7 +301,7 @@ Min configuration for 2U = 10cm height
 
 
 
-<table>
+<table border="0">
   <tr>
    <td>
     
@@ -324,7 +320,7 @@ Min configuration for 2U = 10cm height
 
 
 
-# Why can we be so efficient? {#why-can-we-be-so-efficient}
+# Why can we be so efficient?
 
 ![alt_text](img/efficient.png)
 
@@ -352,10 +348,10 @@ so that execution can be resumed from the same point at a later time. Each layer
 
 Inevitably this increases the inefficiency of IT architectures just like what happens with us, people,  are disturbed every 5 minutes by a request to do an additional task.
 
-Eliminating layers and using other protocols and patterns to avoid context switches has a huge benefit. This is not the only trick we do – we also work on algorithm layer (e.g. for the storage, see [the autonomous whitepaper](https://docs.google.com/document/d/1qEaAqYxL0v9ZnwcMtud61SJUvDcz6DS_wRqPykPh1Y8/edit?usp=sharing)).
+Eliminating layers and using other protocols and patterns to avoid context switches has a huge benefit. This is not the only trick we do – we also work on algorithm layer (e.g. for the storage, see [the autonomous whitepaper](../autonomous_layer/autonomous_layer.md)).
 
 
-# White Paper Takeaways {#white-paper-takeaways}
+# White Paper Takeaways
 
 1. To deliver the required compute and storage capabilities for the exponential growth in digital services, Information Technology needs to be substantially overhauled so that it can exist everywhere – in datacenters, in homes, in cars, in lamp posts, in mobile masts, without having local or remote administration needs (autonomous).
 2. Efficiency gains are mandatory to deliver the exponentially-growing needs. Hardware innovation does not follow Moore’s law anymore and we cannot rely on hardware to fuel the increased needs.

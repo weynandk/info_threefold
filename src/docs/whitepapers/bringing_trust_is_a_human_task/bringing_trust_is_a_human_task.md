@@ -3,11 +3,7 @@
 
 ## Blockchain is just a tool (but a pretty powerful one)
 
-
-[TOC]
-
-
-# A little history on blockchain technology {#a-little-history-on-blockchain-technology}
+# A little history on blockchain technology 
 
  
 
@@ -22,8 +18,7 @@ Satoshi was the person or group of persons that used these blockchain principles
  
 
 
-# Decentralisation and immutability {#decentralisation-and-immutability}
-
+# Decentralisation and immutability
  
 
 The two characteristics that have spawned interest in blockchain technology are decentralisation and immutability.  In the current world centralisation is everywhere, in most industries, governments, education systems and more and more also in the world wide web (internet) as we know it.  All roads these days seem to lead to centralised setups.
@@ -42,51 +37,51 @@ So there seems to be a natural “desire” to organise and create different thi
 Now that we have invented a technology that potentially can build different things without a lot of centralisation we need to be careful to use it for the right things. 
 
 
-# Blockchain myths {#blockchain-myths}
+# Blockchain myths 
 
 Source: this <span style="text-decoration:underline;"><span style="text-decoration:underline;">article</span>
 
 In order to investigate what potential right use cases exist for blockchain technologies let spend some time on some of the blockchain myths that have been created in recent years.  As with any new technology blockchains have been named as a miracle technology that that overcome many (if not any) of the challenges and difficulties that exist in modern day digital technology. Let’s name and investigate a few.
 
 
-## Blockchains are “Super Scalable” {#blockchains-are-“super-scalable”}
+## Blockchains are “Super Scalable” 
 
 Is it? Pure blockchain deployments are not super scalable compared to conventional (server-based) transaction methods.  Current financial blockchain transaction times are very slow compared to any other (currency) transaction technologies out there, being it card transactions like Mastercard, VISA, or money transfers from one bank account to another.
 
 
-## Blockchain technology bring “Impeccable security” {#blockchain-technology-bring-“impeccable-security”}
+## Blockchain technology bring “Impeccable security” 
 
 Very questionable... While blockchain is based on cryptographic standards, the methods to ensure privacy are entirely outside of any blockchain standards and implementations. It's every implementer's responsibility to ensure security. This means that security is largely handled as it is in the old (conventional?) world.
 
 
-## When using blockchains “Trustworthiness is guaranteed” {#when-using-blockchains-“trustworthiness-is-guaranteed”}
+## When using blockchains “Trustworthiness is guaranteed” 
 
 By what? Blockchain ensures the integrity of transactions and information storage,  but  otherwise nothing really is inherently trustworthy about any fact stored on the blockchain. You need to corroborate trustworthiness by ensuring that the parties who store facts in the blockchain are incorruptible and that these facts are true —just as you would in the rest of the world without using blockchain technology.
 
 
-## Blockchains can manage “Anything” {#blockchains-can-manage-“anything”}
+## Blockchains can manage “Anything” 
 
 Blockchain is a protocol expressed in code and this is not defined in terms of any standard. There are no standards bodies to provide sanctioned implementation rules or guidance.
 
 Many contracts or types of data are better dealt with not on a blockchain: as it is a database that has only write and read functionality, but no update nor deletion is possible, it’s even dangerous to post sensitive and personal data on a blockchain, and if not used well, there might raise conflicts with regulations such as GDPR. However, a blockchain could be used to provide consensus where required.
 
 
-## Smart contracts on the blockchain can do “Everything” {#smart-contracts-on-the-blockchain-can-do-“everything”}
+## Smart contracts on the blockchain can do “Everything” 
 
 Potentially but maybe not in the way how people see today. While this is technically true, in practice, blockchain is limited to simple and well-understood use cases, without ambiguities. Smart contracts are essentially rocket science. By design, once published (launched), you cannot revise or bug fix them.
 
 
-## Blockchain deployments “If not public - go private!” {#blockchain-deployments-“if-not-public-go-private-”}
+## Blockchain deployments “If not public - go private!” 
 
 Not the same thing…… Private blockchains are not the answer to privacy or restricted access to information. Purely private/enterprise blockchains might fail to realise any of the benefits of blockchain.
 
 
-## A new feature “justifies deploying a new blockchain” {#a-new-feature-“justifies-deploying-a-new-blockchain”}
+## A new feature “justifies deploying a new blockchain” 
 
 Community-driven blockchain products are being forked left and right by private players who enhance them in various ways. But only the open source blockchains with the largest communities and install-plus-adoption bases will persist. The rest can be considered lab experiments and 99.9 percent of these will die horrible deaths.
 
 
-## Blockchain myths undone {#blockchain-myths-undone}
+## Blockchain myths undone 
 
 So blockchains are a great new technology but they are not the answer to everything.  Just like with any other technology or tool you need to carefully consider if the use case considered is appropriate. In the end, it is just neutral characteristics that might be a reason for applying a blockchain or not:
 
@@ -113,7 +108,7 @@ Two frequent mistakes are made:
 *   Or the technology is used under the false pretext that decentralisation is wanted, whereas the true intention is to be in control. Blockchain thinking requires also a completely different way of thinking compared to the classical thinking embedded in the heart of our economy: concentration of power & control and competition need to make room for decentralisation and collaboration.
 
 
-# Blockchains are here to stay! {#blockchains-are-here-to-stay}
+# Blockchains are here to stay!
 
 With all the hype around blockchain technology and also all the failed initiatives, blockchain technology does allow for digital worlds to exist without centralisation.  The information revolution has brought forward a lot of progress and innovation to the people however the outcome has also been only a few large organisations controlling all of it.
 
@@ -140,12 +135,12 @@ Most industry leaders have become so powerful that there is almost no way around
 The world is awaking and is seeking alternatives in which data and information are not centrally controlled as in such monopolistic structures.  Blockchain technologies allow new solutions to be built without central governing bodies, creating person to person sharing and trading opportunities.
 
 
-# The combination of people and blockchains is really powerful {#the-combination-of-people-and-blockchains-is-really-powerful}
+# The combination of people and blockchains is really powerful 
 
 People are best placed to create decentralised business models combining the strengths of blockchain with complementary measures to compensate for the weaknesses of the technology. Blockchains are not replacing people. Blockchain technology is just a tool, enhancing people's ability to organise themselves around decentralised initiatives that require no central body to govern or control. A powerful tool, but a tool.
 
 
-## A platform for people to start blockchains {#a-platform-for-people-to-start-blockchains}
+## A platform for people to start blockchains 
 
 What if there would be a platform where the strong points of blockchains (decentralisation) can be used as a given to enable people to organise themselves around a random initiative and launch it based on blockchain technology?  Blockchain As a Service (BAAS).
 

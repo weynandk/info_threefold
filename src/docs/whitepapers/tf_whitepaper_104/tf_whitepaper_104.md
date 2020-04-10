@@ -1,4 +1,4 @@
-![alt_text](img/Large-TFN-3.png)
+<img src="img/Large-TFN-3.png" width="250">
 
 
 **The ThreeFold Grid and Token**
@@ -7,10 +7,7 @@
 
 **v 1.0.4 (Sept 2019)**
 
-
-[TOC]
-
-# Abstract {#abstract}
+# Abstract
 
 
 
@@ -25,14 +22,14 @@ The Internet is growing at an accelerated rate. To service this demand a few lar
 *   Independent ThreeFold Farmers (Farmers), generate Internet capacity. They do this by connecting IT hardware (servers) to the Internet. As a result TF Tokens (TFT) are generated on the ThreeFold Blockchain which are now usable as a true digital currency.
 *   ThreeFold Tech is a technology company which is developing & commercializing “Self Driving IT” to power future innovation through decentralization. ThreeFold Tech has resolved a number of fundamental challenges in the world of IT by simplifying the required architecture to three fundamental layers:  a capacity layer, an autonomous layer and the distributed applications layer  
 
-*   For the capacity layer grid capacity is produced, purchased, and allocated locally, much like electricity. Service providers are then able to host their services and applications close to the end user, leading to significantly greater performance, lower price points, and better margins. This will eventually lead to liquidity for the ThreeFold Tokens. ThreeFold’s Operating System allows Farmers to deliver Internet/IT capacity to the TF Grid with up to[ 10 times the energy savings](https://wiki.foundation.grid.tf/#/blog/10x-times-power) than traditional data centers. 
+*   For the capacity layer grid capacity is produced, purchased, and allocated locally, much like electricity. Service providers are then able to host their services and applications close to the end user, leading to significantly greater performance, lower price points, and better margins. This will eventually lead to liquidity for the ThreeFold Tokens. ThreeFold’s Operating System allows Farmers to deliver Internet/IT capacity to the TF Grid with up to[ 10 times the energy savings](/src/docs/blog/10x-times-power.md) than traditional data centers. 
 
 *   Already today, the ThreeFold Grid has more capacity online compared to the sum of all capacity of all blockchain capacity players together. 
 *   The ThreeFold Grid is positioned as  a complementary layer to enable blockchain and cloud projects to scale beyond current limitations  to the edge of the network.  
 *   The autonomous layer is where a large number  of virtual workers will perform required grid operational tasks to create autonomy for capacity operations and provide a foundation to build and run decentralised  applications.  
 *   The D’apps layer is where decentralised and distributed apps will be built and run.  There is an SDK available to build these applications.
 
-# Mission Statement {#mission-statement}
+# Mission Statement
 
 
 The Internet is one of the biggest innovations of the last century, if not the biggest. 
@@ -59,12 +56,7 @@ The combination of a better (neutral) Internet and a better digital currency (To
 *   **A truly Decentralized, Green and Inclusive  Digital Currency = ThreeFold Token or TFT**
 
 
-# Background {#background}
-
-
-
-
-
+# Background
 
 Without adequate Internet capacity, companies and societies are unable to develop and evolve – yet this is the future we face today. 
 
@@ -108,7 +100,7 @@ We are different and proud to be different., We are a real and complementary mov
 
 We are a great group of people who mean well and are super passionate.
 
-# Values {#values}
+# Values
 
 
 **Respect The World**
@@ -128,12 +120,13 @@ We have created a user-friendly “IT as energy” solution, in which the Intern
 
 ![alt_text](img/ethical_design.png)
 
+<!--- TODO: Review, links to Very Outdated information 
 
-We expect the Foundation and its product to reflect these values. Thus, we have underwritten a concept called Ethical Design. To read more about this and other relevant topics, please visit our wiki-based extranet:[http://tiny.cc/values_extranet](http://tiny.cc/values_extranet).
+We expect the Foundation and its product to reflect these values. Thus, we have underwritten a concept called Ethical Design. To read more about this and other relevant topics, please visit our wiki-based extranet: [http://tiny.cc/values_extranet](http://tiny.cc/values_extranet).
 
+--->
 
-# ThreeFold Token & ThreeFold Grid Principles {#threefold-token-&-threefold-grid-principles}
-
+# ThreeFold Token & ThreeFold Grid Principles
 
 ![alt_text](img/principles.png)
 
@@ -191,7 +184,7 @@ ThreeFold Tokens can be bought from ThreeFold Farmers or by means of Ripple, Eth
 
 
 
-# ThreeFold Farmers {#threefold-farmers}
+# ThreeFold Farmers
 
 
 ThreeFold Farmers (“TF Farmer” or “Farmer”) are independent, individuals or entities who invest in IT equipment consisting of storage and compute servers (“Farming Pools”), thus becoming ThreeFold Nodes (“TF Nodes” or “Nodes”), that are connected to the TF Grid and are registered on the TF Chain. 
@@ -281,7 +274,7 @@ Example:
 *   10% of the Tokens will go to ThreeFold Tech for support in case of  Certified Capacity. 
 
 
-# How Can You Help? {#how-can-you-help}
+# How Can You Help?
 
 The ThreeFold community is promoting this new Internet, and we need a lot of people who would like to help to make this dream a reality. Our ambitious aim is to have more than USD $1 Billion invested in Farming capacity activities within a few years by independent farmers from all over the world.
 
@@ -303,7 +296,7 @@ ThreeFold Token (TFT) is a decentralized digital currency used to buy autonomous
 The technology behind the grid is being developed by ThreeFold Tech, which is a Belgium software tech company. ThreeFold Tech is a spinoff from Incubaid. The incubator from Kristof who accomplished already 6 exits with very good return for the investors.
 
 
-## Ambassadors {#ambassadors}
+## Ambassadors
 
 We need people to help us promote the ThreeFold message, through their network, who share our values and who want to make the world a better place. 
 
@@ -312,19 +305,19 @@ We ask that each Ambassadors provide at least a few hours of their time per mont
 They actively engage in bringing forward their networks and they are regularly asked for their opinion if TF Foundation of technology need to make an impactful decisionThey also share a Telegram channel, please let us now if you are interested to join them.
 
 
-## Chapters {#chapters}
-
+## Chapters
 Ambassadors organize in Chapters to organize for contributing to the ThreeFold movement. Some are Farming cooperatives, others do promotion activities, others write documentation, …
 
 There are many things to be done. Please contact us to know if there is a Chapter in your neighbourhood.
 
 
-## Guardians {#guardians}
+<!--- TODO: Check No longer relevant?!
+## Guardians 
 
 Guardians make up the ThreeFold Foundation Board and make decisions relating to the Foundation and Ecosystem such as any changes to difficulty level.
+--->
 
-
-## Farmers {#farmers}
+## Farmers
 
 We are looking for people who want to Farm IT Capacity for this new Internet.
 
@@ -335,12 +328,7 @@ Farmers can choose to do all the work themselves (“Do It Yourself”) or they 
 There are multiple Farming Cooperatives and others are in the process of being created.
 
 
-# Farmers Business Model {#farmers-business-model}
-
-
-
-
-
+# Farmers Business Model 
 
 **Farmers**: Purchase or manufacture ThreeFold Nodes and connect them to the TF Grid to produce IT Capacity. Once this capacity has been validated by the TF Chain, the Farmer is awarded Tokens every 30 days. The Farmer also gets Tokens for selling this capacity via the TF Directory. 
 
@@ -353,7 +341,7 @@ Estimated costs and revenue associated with operating an environment is laid out
 Please note, the above model uses estimates for the cost of the hardware and installation as well as for the utilization and potential price of the Token. Your individual results may materially differ from the above. 
 
 
-# Technology {#technology}
+# Technology 
 
 
 ThreeFold Tech has developed, promotes & uses open-source technology. This technology has been actively developing components of the core technology of the ThreeFold Grid for the past 10 years which are all open-source. 
@@ -367,7 +355,7 @@ This technology consists of three major building blocks:
 **Zero Chain** is the blockchain framework: store of digital currencies, management of 3bots (our digital users), verification of communication (key management), ledger for digital notary services, ....
 
 
-
+<!---TODO: needs new image! --->
 ![alt_text](img/farming_business_model.png)
 
 
@@ -424,7 +412,7 @@ Today our Zero Robot technology can cover the large majority of issues, although
 
 This technology is available today and can be found on our [open-source repositories on github.](https://github.com/threefoldtech) Jumpscale is a framework we have been working on for more than 10 years.
 
-
+<!--- TODO: Introduce Stellar Piece here --->
 ## Zero Chain = Our Blockchain Framework
 
 The Zero Chain is a set of blockchain technologies which are currently used inside the TF Grid and invisible for the user today. 
@@ -442,15 +430,11 @@ Purpose of The Zero Chain:
 
 All these technologies are open-source and can be found on [github](https://github.com/itsyouonline). 
 
-# Who we are {#who-we-are}
+# Who we are
 
 See [our team](https://threefold.io/public/#/team) on our website.
 
-# Thank You {#thank-you}
-
-
-
-
+# Thank You
 
 
 Thank you for reading our white paper. 

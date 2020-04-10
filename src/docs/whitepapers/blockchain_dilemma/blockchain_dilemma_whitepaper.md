@@ -1,11 +1,6 @@
 # The Blockchain Dilemma Problem
 
-
-[TOC]
-
-
-
-# Introduction  {#introduction}
+# Introduction
 
 Blockchain technology has the power to change the world of IT. There are  a huge number of new initiatives using blockchain technology around the world all chasing different use cases.   Some care little about the underlying technology but use blockchain-based projects and tokens/coins to get rich quick.
 
@@ -87,7 +82,7 @@ The fact that the puzzle-solving includes historic block data and once a node is
 Public and private blockchains have their specific advantages and disadvantages and are very good for specific use cases - but not all.  If we list the specifics of both we end up with a table like this:
 
 
-<table>
+<table >
   <tr>
    <td>
    </td>

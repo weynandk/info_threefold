@@ -1,20 +1,17 @@
 # Edge Cloud not Grid cloud?
 
-
-[TOC]
-
-
 The term Edge Cloud or to be more precise Edge Computing is one of the most hyped technology terms of these days. 
 
 
-## Edge Computing Definition {#edge-computing-definition}
+## Edge Computing Definition
 
-According to Wikipedia “**Edge** computing **is** a distributed computing paradigm in which computation **is**largely or completely performed on distributed device nodes known as smart devices or **edge** devices as opposed to primarily taking place in a centralized **cloud**environment. [https://en.wikipedia.org/wiki/Edge_computing](https://en.wikipedia.org/wiki/Edge_computing)
+According to Wikipedia “**Edge** computing **is** a distributed computing paradigm in which computation **is**largely or completely performed on distributed device nodes known as smart devices or **edge** devices as opposed to primarily taking place in a centralized **cloud** environment. 
+
+[https://en.wikipedia.org/wiki/Edge_computing](https://en.wikipedia.org/wiki/Edge_computing)
 
 In summary, this means that the cloud is divided into smaller pieces and moving to the edge. 
 
-
-## Drivers for Edge Computing {#drivers-for-edge-computing}
+## Drivers for Edge Computing
 
 Some latency sensitive applications require fast response times in order to work properly. A good example is self-driving cars. It is obvious that a lot of decisions in autonomous vehicles have to be made instantaneously, the decision on how to react to the unexpected while driving with high speed can not afford to be slowed down by packets travelling long distances to be processed. Eliminating additional hops and any further points of failure increases the reliability of the system. Moving compute as far out as possible to the edge is the logical choice.
 
@@ -23,7 +20,7 @@ In a more generic way  more real world situations are relying on an IT component
 These thousands of situation are mostly in the IoT area but also other killer applications like streaming would greatly benefit from being served from the edge rather than a distant central location.
 
 
-## Edge Computing market Facts {#edge-computing-market-facts}
+## Edge Computing market Facts
 
 Due to the billions of IoT devices driven by various use cases like autonomous driving,  a huge demand for Edge Computing is evolving rapidly. According to the Digital Journal, the Edge Computing market is growing extremely fast. With a  CAGR of over 35.0%  and  the market is expected to  reach  USD 33.75 billion by the end of 2023.
 
@@ -43,34 +40,34 @@ Edge computing has risen from a need to have data processing and storage as clos
 In this whitepaper we will focus specifically on edge computing and see what  is required to make that work in the best possible way.  However we will see that there is a link back to grid computing at the end of the paper.
 
 
-## The Benefits of Edge Computing {#the-benefits-of-edge-computing}
+## The Benefits of Edge Computing
 
 Edge computing come with specific benefits that are mandatory to make the next evolution in the IT industry work.  We have optimised the central model to such a degree that going forward the network, which connect central capacity to use cases in the field, the next bottleneck.  Edge computing is solving a number of challenges faced by real world situations by the following benefits:
 
 
-### Speed {#speed}
+### Speed
 
 **Speed** is probably the most important benefit of edge computing, as there are plenty of use cases that require near real time computing.  
 
 
-### Scalability {#scalability}
+### Scalability
 
 The scalability of edge computing also makes it incredibly [versatile](https://www.vxchnge.com/blog/edge-computing-use-cases). By partnering with local data centers further out on the edge, companies can easily target desirable markets without having to invest in expensive infrastructure expansion. Edge data centers allow them to service end users efficiently with little physical distance or latency. They also do not constrain companies with a heavy footprint, allowing them to nimbly shift to other markets should economic conditions change.
 
 
-### Availability and Security  {#availability-and-security}
+### Availability and Security
 
 Traditional cloud computing architecture is by definition centralized, which makes it especially vulnerable to [distributed denial of service (DDoS)](https://www.vxchnge.com/blog/how-to-protect-data-centers-from-a-new-generation-of-ddos-attacks) attacks and power outages. Edge computing distributes processing, storage, and applications across a wide range of devices, nodes and data centers, which makes it difficult for any single disruption to take down the network which is why logically and geographically dispersed systems are often used for DDoS mitigation like in Content Delivery Networks (CDN)
 
 By pushing everything to the cloud, you’re leaving your business open to ISP failures and cloud server downtime. Many mission critical operations like railroads and chemical plants won’t even use the cloud today. Their own server farms are the only way to guarantee uptime.
 
 
-### Process optimisation {#process-optimisation}
+### Process optimisation
 
 Another big benefit is process optimization. If self-driving cars were to use the cloud instead of the edge, they’d be pushing all the data they gather up to the cloud. But if the edge makes local decisions, the cloud may not need all that data immediately – or even at all.
 
 
-## Requirements for Edge Computing {#requirements-for-edge-computing}
+## Requirements for Edge Computing
 
 When we want to allow compute and storage capabilities to exist at the edge we need to overcome a number of challenges that distributing this capacity presents.  Most traditional IT technologies do not allow for this as they have been built to live in large datacenters where there is a lot of “care” for these technologies.
 
@@ -86,7 +83,7 @@ The largest generic hurdle to overcome is that at the edge there is going to be 
     *   System failures will be caused by power outages and/or no network availability. The ideal OS to deal with this no people, zero touch  approach should  be stateless and needs to have self healing capabilities which are run by automation software robots
 
 
-## Existing Edge Computing Solutions {#existing-edge-computing-solutions}
+## Existing Edge Computing Solutions
 
 Today there are a few Edge Computing platforms out there which cover some requirements as outlined above. 
 
@@ -104,13 +101,13 @@ Today there are a few Edge Computing platforms out there which cover some requir
     *   [Akamai](https://www.akamai.com/)
 
 
-## The holy grail {#the-holy-grail}
+## The holy grail
 
 The holy grail would be a self healing edge grid. Edge because of all the benefits Edge Computing brings to the user: Speed, Scalability, Reliability, Security, Versatility, and Process Optimization. Grid because it fulfills the distributed workload requirements a classic centralized cloud would normally be used for without the central nature and all its disadvantages.
 
 Probably the most important part of the ideal solution is self healing. The biggest challenge of an Edge Computing environment is the dependency on local care: humans to maintain hardware and upgrade or fix software components. Self Healing needs to do the job here which means zero people can be involved. 
 
-Only a self healing mechanism with zero-people involved, completely decentralised brings down the cost and provides more security to the environment and makes it highly scalable. See a specific [whitepaper](https://docs.google.com/document/d/1ecEPMobEXv9hOGSTRnP-aTB7WVWpEztIh9dfTy_ROyQ/edit#heading=h.igv6nt6b9zyw) on this topic
+Only a self healing mechanism with zero-people involved, completely decentralised brings down the cost and provides more security to the environment and makes it highly scalable. See our specific [Whitepaper: Zero People IT Is The Future](/src/docs/whitepapers/zero_people_it_is_the_future/zero_people_it_is_the_future.md) on this topic
 
 Some of you may think the new blockchain based technologies like SIA, Filecoin or Somn may be the holy grail. But they are not.
 

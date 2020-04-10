@@ -5,12 +5,7 @@
 Author: Kristof de Spiegeleer
 Version: 1.0
 
-**Table of Contents**
-
-
-[TOC]
-
-# Introduction {#introduction}
+# Introduction
 
 TF Tech is a software company that has developed technology capable to run any IT workload 100% autonomously. 
 
@@ -25,7 +20,7 @@ Real de**central**ization is still centralized but in a different way. In our wa
 We believe every human or legal entity should have a digital avatar, our digital self. This avatar is an application running in a well-protected environment, is online all the time, and can speak to any other digital avatar in all freedom, and with all efficiency. Much like how cells work in our body, all together we create a functioning digital world, by collaboration.
 
 
-## De<span style="text-decoration:underline;"><span style="text-decoration:underline;">central</span>ized = Different centralized {#decentralized-=-different-centralized}
+## De<span style="text-decoration:underline;"><span style="text-decoration:underline;">central</span>ized = Different centralized
 
 Decentralized has the word centralized inside, but in a different way. The idea is not to make an organization or group of people the owner of a centralized system but rather the other way around – you or any legal identity becomes the center of your own digital life.
 
@@ -50,7 +45,7 @@ Each human person or other legal entity (can be a trust, a company, or a governm
 Each entity (human or legal) can define multiple circles. These circles define how we interact with other 3Bots (access rights, searchability, etc). 
 
 
-# The circular smart IT system = “3Bot” powered {#the-circular-smart-it-system-=-“3bot”-powered}
+# The circular smart IT system = “3Bot” powered
 
 
 ![alt_text](img/you_become_the_center.png)
@@ -62,8 +57,7 @@ Our IT system is usable for companies, governments, citizens, schools, and so on
 ![alt_text](img/curve_of_life.png)
 
 
-## Circles define your interest groups {#circles-define-your-interest-groups}
-
+## Circles define your interest groups
 
 ![alt_text](img/circles.png)
 
@@ -76,7 +70,7 @@ Circles are the groups you define, with whom you share your information.
 
 There is 0% centralization in this system. Blockchains are used where a shared state is required.
 
-# 3Bot = Digital Avatar = Digital Self {#3bot-=-digital-avatar-=-digital-self}
+# 3Bot = Digital Avatar = Digital Self 
 
 Your Digital Avatar (the 3Bot) has been designed to be as efficient as possible. The current memory footprint is less than 200MB yet still it is a wiki system, database, blockchain, web server, indexing & search machine, e-commerce system, wallet, decentralized exchange, and more. It can manage millions of objects and is the center of your company or your digital life.
 
@@ -86,8 +80,7 @@ To create this 3Bot we had no choice other than to start from scratch and re-inv
 
 
 
-# Ultra Efficient Decentralized Data Storage System {#ultra-efficient-decentralized-data-storage-system}
-
+# Ultra Efficient Decentralized Data Storage System 
 How is data stored  
 
 In most distributed systems, data is stored multiple times to guarantee redundancy. This leads to a lot of unnecessary overhead and is also not the most secure mechanism.
@@ -97,8 +90,7 @@ In most distributed systems, data is stored multiple times to guarantee redundan
 
 
 
-### The “Space Algorithm” of storage {#the-“space-algorithm”-of-storage}
-
+### The “Space Algorithm” of storage
 
 ![alt_text](img/globe.png)
 
@@ -115,7 +107,7 @@ In a dispersed storage system the data gets dispersed in such a way that data wi
 This has been originally invented for communication in space.
 
 
-### How is this “Space Algorithm” used by the 3Bot {#how-is-this-“space-algorithm”-used-by-the-3bot}
+### How is this “Space Algorithm” used by the 3Bot 
 
 
 
@@ -134,7 +126,7 @@ Each 3Bot has a unique capability to use this CPU and storage capacity from the 
 
 A 3Bot can store a petabyte of information as long as enough TFTs are available so the required resource can be reserved on the individual TF Nodes. 3Bot is the only entity which has the required information and keys to make retrieval of the distributed data possible.
 
-## BCDB {#bcdb}
+## BCDB
 
 Our powerful Blockchain database.
 
@@ -165,8 +157,7 @@ Supported interfaces: WebDav, Redis, REST \
 
 Depending on the type of required indexing, different support backend data storage or indexing systems are used. The main supported backend storage device is Zero-DB. 
 
-## BCDB is the most efficient information retrieval system possible {#bcdb-is-the-most-efficient-information-retrieval-system-possible}
-
+## BCDB is the most efficient information retrieval system possible
 
 ![alt_text](img/library.png)
 
@@ -207,7 +198,7 @@ Information can be a movie, for example, or a single piece of information like y
 This way of how to address information has far-reaching implications and can change the way how the Internet works.
 
 
-## Indexing & Search Problem {#indexing-&-search-problem}
+## Indexing & Search Problem
 
 
 ![alt_text](img/new_library.png)
@@ -261,22 +252,21 @@ Example:
 This system is super scalable because aggregator sites by themselves are limited in scope and do pre-sorting of information people look for (e.g. an Uber alternative only makes sense in a certain region – there is no point to have a global Uber aggregation site). It's even possible to create aggregators of aggregator sites ie. Sites which make it easy to query information over multiple aggregators.
 
 
-# This leads to endless scalability {#this-leads-to-endless-scalability}
-
+# This leads to endless scalability 
 The above-suggested architecture scales endlessly. Millions of 3Bots = digital avatars can work with millions of nodes. The nodes provide the capacity, the digital avatars are the brain. There is no bottleneck in this architecture.
 
 ![alt_text](img/many_to_many.png)
 
 
 
-# Example Use Cases {#example-use-cases}
+# Example Use Cases
 
 
 ![alt_text](img/phases.png)
 
 
 
-## Blockchain as a service Workloads {#blockchain-as-a-service-workloads}
+## Blockchain as a service Workloads
 
 ThreeFold has resolved the blockchain dilemma problem (see [this doc](https://docs.google.com/document/d/1ySm8HnK8LzKgVaHtPUlSkhBwosXEKLOlM90lWnKOnJQ/edit?usp=sharing)).
 
@@ -294,7 +284,7 @@ Our blockchain as a service platform allows anyone to launch a blockchain in min
 *   Scale
 *   No people needed to manage
 
-## Hacker-Free Deployment of Apps {#hacker-free-deployment-of-apps}
+## Hacker-Free Deployment of Apps
 
 Hackers (security breaches) are a very big issue for most operational companies today.
 
@@ -304,10 +294,10 @@ What if a system would exist which allows to deploy a workload without involveme
 
 This sounds probably too good to be true, but in Q4 2019 we will be able to demonstrate this to anyone. This has never been done before.
 
-# ThreeFold Blockchain Technology {#threefold-blockchain-technology}
+# ThreeFold Blockchain Technology 
 
 
-## Thanks to the TFGrid the Blockchain Dilemma has been resolved {#thanks-to-the-tfgrid-the-blockchain-dilemma-has-been-resolved}
+## Thanks to the TFGrid the Blockchain Dilemma has been resolved 
 
 Blockchain comes in two varieties: based on public nodes (everyone can partake) and private nodes (a known, limited amount of nodes partaking). They both have their advantages as shown in the diagram below:
 
@@ -324,7 +314,7 @@ A permissioned blockchain setup requires people. In our setup, that is not the c
 Our technology is the missing layer for blockchain and can be used to make any blockchain technology more scalable, sustainable, efficient and secure.
 
 
-# ThreeFold Blockchains {#threefold-blockchains}
+# ThreeFold Blockchains
 
 ![alt_text](img/net.png)
 
@@ -332,10 +322,10 @@ Our technology is the missing layer for blockchain and can be used to make any b
 In our solution, we use our blockchain technology to run multiple blockchain instances. For digital currencies it will be Rivine and for storing and getting consensus around data it is the BCDB.
 
 
-## The BlockChain DataBase (BCDB): a blockchain for storing data (dispersed) {#the-blockchain-database-bcdb-a-blockchain-for-storing-data-dispersed}
+## The BlockChain DataBase (BCDB): a blockchain for storing data (dispersed) 
 
 
-### 3Bot data: The 3Bot Directory {#3bot-data-the-3bot-directory}
+### 3Bot data: The 3Bot Directory 
 
 3Bots are the active components of the autonomous layers. 3Bots represent individuals and other legal entities, and in order to operate they need to interact amongst different ones. The 3Bot blockchain provides the means for 3Bot to identify who they need to complete their operational task. The 3Bot blockchain acts as their phone book. Each 3Bot has an entry in this phonebook. The following information is stored specific to each 3Bot:
 
@@ -350,7 +340,7 @@ In our solution, we use our blockchain technology to run multiple blockchain ins
 With this data stored in a way that is accessible to all each 3Bot has the means to find which other 3Bot he needs and where to contact this 3Bot to complete certain operational tasks
 
 
-### Grid data: TF Grid Directory {#grid-data-tf-grid-directory}
+### Grid data: TF Grid Directory
 
 In this blockchain database, the builders of the grid (farmers) and their equipment (nodes) are stored and searchable for anyone to create a marketplace that makes the supply searchable for people who need (demand) compute, storage, and network capacity.
 
@@ -365,7 +355,7 @@ The information stored in this blockchain database for farmer and nodes is:
     *   Farmer ID
     *   Capacity  (resource units: Compute Unit, Storage Unit, Network Unit)
 
-### Contract data: TF Notary Service {#contract-data-tf-notary-service}
+### Contract data: TF Notary Service
 
 The TF Grid is a busy place with people setting commercial rates and terms and conditions for their farming capacity, consumers searching and contracting services, data is being dispersed and stored, and IT architectures recipes are being created and used. For all these activities, the notary service provides an immutable, always append contract and activity notary system in which all digital records are stored. Eventually, there will be more than one TF Notary blockchain to allow scalability of the system.
 
@@ -381,15 +371,15 @@ The following information is stored:
 This is a generic usable data store for any application, it is a possible backend for the application layer.
 
 
-## Blockchains for storing value  {#blockchains-for-storing-value}
+## Blockchains for storing value 
 
 
-### TFT or any other digital currency Blockchain {#tft-or-any-other-digital-currency-blockchain}
+### TFT or any other digital currency Blockchain 
 
 Threefold has created its own blockchain technology called Rivine which is used sell and buy capacity on the ThreeFold Grid. 
 
 
-### Digital Currency Blockchain As A Service {#digital-currency-blockchain-as-a-service}
+### Digital Currency Blockchain As A Service 
 
 Complementary Digital currencies are here to stay. Complementary currencies are not new and have always been around to compensate for when main (fiat) currencies fail. In the last decade, digital complementary currencies have gained interest and respect of many people globally. They represent opportunities for people that have no access to traditional banking services. They provide alternative means of value transfer between individuals and legal entities, making it more effective, with lower cost, and independent of traditional value exchange mechanisms.
 
@@ -398,9 +388,7 @@ Like traditional mileage systems of airlines (which is an example of a complemen
 With the TF Grid as a platform to run on, anyone can start their own digital currency for a particular use case. TF Grid is compatible with any blockchain technology. It will create a system for value exchange and the necessary governance and consensus by people who co-own and operate the specific local blockchain.
 
 
-# White Paper Takeaways {#white-paper-takeaways}
-
-
+# White Paper Takeaways 
 
 1. Blockchain technology is here to stay but is not the single answer to the exponential growth requirements of digital services.
 2. Centralization of data ownership and storage is not bad if the owner is the creator of the data, not the aggregator.

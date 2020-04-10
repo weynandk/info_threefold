@@ -1,7 +1,6 @@
 
-IT Systems Without People Involved Are the Future
+# IT Systems Without People Involved Are the Future
 
-[[TOC]]
 
 # Introduction
 
