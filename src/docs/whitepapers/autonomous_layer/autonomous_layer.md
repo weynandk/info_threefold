@@ -268,7 +268,7 @@ The above-suggested architecture scales endlessly. Millions of 3Bots = digital a
 
 ## Blockchain as a service Workloads
 
-ThreeFold has resolved the blockchain dilemma problem (see [this doc](https://docs.google.com/document/d/1ySm8HnK8LzKgVaHtPUlSkhBwosXEKLOlM90lWnKOnJQ/edit?usp=sharing)).
+ThreeFold has resolved the blockchain dilemma problem (see [the Blockchain Dilemma Whitepaper](../blockchain_dilemma/blockchain_dilemma_whitepaper.md).)
 
 We believe in a world of many focussed custom blockchains which all serve a specific purpose. The blockchain as a service will allow any group of people to deploy their own customer blockchain which can be used for digital currencies, digital notary. or other blockchain purposes.
 

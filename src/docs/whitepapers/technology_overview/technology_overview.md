@@ -136,7 +136,7 @@ Zero-OS is a minimal operating system serving one single purpose: to make the ha
 
 In Zero-OS, the number of active components and therefore the complexity of the operating system has been brought down to the absolute minimum, making maximum execution capacity available to real-world use cases and applications. 
 
-Read more about the Zero-OS in [our capacity white paper](/src/docs/whitepapers/capacity_layer/capacity_layer.md)
+Read more about the Zero-OS in [our capacity white paper](../capacity_layer/capacity_layer.md)
 
 ## 3Bot = Your Digital Self
 
@@ -162,7 +162,7 @@ E.g. Social Media
 Decentralized Video Conference System
 Your Virtual IT System Administrator
 
-Read more about the 3Bot in [our autonomous white paper](/src/docs/whitepapers/autonomous_layer/autonomous_layer.md).
+Read more about the 3Bot in [our autonomous white paper](../autonomous_layer/autonomous_layer.md).
 
 ## Jumpscale X: The automation platform which makes the 3Bot possible
 
@@ -182,7 +182,7 @@ For a 100 node deployment, our BCDB will be **50x more efficient **compared to o
 
 The BCDB is used in the 3Bot which means every user has his or her own Blockchain DataBase. A BCDB can also be used as a shared ledger between multiple people.
 
-This technology component alone is significant enough to grow a big startup business on its own. Read more about the BCDB in [our autonomous white paper](/src/docs/whitepapers/autonomous_layer/autonomous_layer.md).
+This technology component alone is significant enough to grow a big startup business on its own. Read more about the BCDB in [our autonomous white paper](../autonomous_layer/autonomous_layer.md).
 
 ## Rivine as blockchain for digital currencies
 
@@ -192,7 +192,7 @@ We have built a new type of blockchain which is more efficient than most other b
 
 Any user of our solution can deploy his or her blockchain in a matter of minutes, and by doing so, we have resolved the blockchain dilemma.
 
-Read more about Rivine and the blockchain dilemma in [our autonomous white paper](/src/docs/whitepapers/autonomous_layer/autonomous_layer.md).
+Read more about Rivine and the blockchain dilemma in [our autonomous white paper](../autonomous_layer.md).
 
 ## Zero-Store
 
@@ -208,7 +208,7 @@ The Zero-Store technology contains all the logic to store data in a reliable and
 
 All of these primitives are configurable and you can decide how data will be processed (optimized) before being sent to the distributed storage devices → the zero-databases. This makes dispersed storage a very reliable and performant storage solution without compromising effective use of physical storage capacity. 
 
-Read more about our storage system in [our autonomous white paper](/src/docs/whitepapers/autonomous_layer/autonomous_layer.md).
+Read more about our storage system in [our autonomous white paper](../autonomous_layer.md).
 
 ## Zero-DB
 
@@ -368,19 +368,19 @@ We do realize it is still very difficult today based on the repos alone to get s
 
 **Linked information**
 
-* [White Paper: Capacity Layer](/src/docs/whitepapers/capacity_layer/capacity_layer.md)
+* [White Paper: Capacity Layer](../capacity_layer/capacity_layer.md)
 
-* [White Paper: Autonomous Layer](/src/docs/whitepapers/autonomous_layer/autonomous_layer.md)
+* [White Paper: Autonomous Layer](../autonomous_layer/autonomous_layer.md)
 
-* [ThreeFold Whitepaper 1.0.4](/src/docs/whitepapers/tf_whitepaper_104/tf_whitepaper_104.md)
+* [ThreeFold Whitepaper 1.0.4](../tf_whitepaper_104/tf_whitepaper_104.md)
 
 **More ThreeFold Whitepapers**
 
-* [White Paper: The Blockchain Dilemma Problem](/src/docs/whitepapers/blockchain_dilemma/blockchain_dilemma_whitepaper.md)
+* [White Paper: The Blockchain Dilemma Problem](../blockchain_dilemma/blockchain_dilemma_whitepaper.md)
 
-* [White Paper: Bringing Trust is a Human Mission, Not a Blockchain One](/src/docs/whitepapers/bringing_trust_is_a_human_task/bringing_trust_is_a_human_task.md)
+* [White Paper: Bringing Trust is a Human Mission, Not a Blockchain One](../bringing_trust_is_a_human_task/bringing_trust_is_a_human_task.md)
 
-* [White Paper: Grid or Edge](/src/docs/whitepapers/edge_cloud_not_grid_cloud/edge_cloud_not_grid_cloud.md)
+* [White Paper: Grid or Edge](../edge_cloud_not_grid_cloud/edge_cloud_not_grid_cloud.md)
 
-* [White Paper: IT Systems Without People Involved Are the Future](/src/docs/whitepapers/zero_people_it_is_the_future/zero_people_it_is_the_future.md)
+* [White Paper: IT Systems Without People Involved Are the Future](../zero_people_it_is_the_future/zero_people_it_is_the_future.md)
 

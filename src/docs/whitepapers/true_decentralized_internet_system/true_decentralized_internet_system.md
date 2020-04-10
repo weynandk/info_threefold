@@ -2,8 +2,7 @@
  
 ![alt_text](img/theworld.png)
 
-# Introduction {#introduction}
-
+# Introduction 
 Is Liberalism dead? Is there an alternative? The world has never been more global and prosperous, but so many people are unhappy. Our too capitalistic (rational mind driven) system is destroying our planet's resources and most people ignore this sad reality and go on with their lives like everything will stay the same as has been for the last 60 years. 
 
 The world needs some healing. There is too much talk in our world and not enough action. We believe that we are not powerless. We shouldn’t blame others: governments, society, politicians or other countries. We all are at the source of the problems the world is facing today, together we can do something about it.
@@ -69,7 +68,7 @@ Our money system is a monoculture, it's very efficient (money being created out 
 
 New systems are required for money, internet which live in the window of viability.
 
-# We need a complementary decentralized Internet. {#we-need-a-complementary-decentralized-internet}
+# We need a complementary decentralized Internet.
 
 **“We can't solve problems by using the same kind of thinking we used when we created them”** - *Einstein*
 
@@ -90,7 +89,7 @@ More than 80% of today’s internet capacity is centralized and controlled by ju
 Current internet systems are efficient (controlled) centralized systems, they can be hacked easily (are hacked) and are not private. They are positioned left on this curve. On the curve of life you would find the current internet at the left side.
 
 
-## The ThreeFold decentralized “Internet” & “IT” system is sustainable. {#the-threefold-decentralized-“internet”-&-“it”-system-is-sustainable}
+## The ThreeFold decentralized “Internet” & “IT” system is sustainable. 
 
 Everything is a balance between efficiency and resilience (see above). In our current society, the focus is too much on efficiency which has lead to too centralized systems. Centralized systems are too fragile (boom-bust cycles) and can lead to abuse as well (we became a product in centralized data management systems e.g. Facebook, ...). 
 
@@ -112,7 +111,7 @@ This solution would sit in the sustainable part of the curve of life.
 
 
 
-## Is Blockchain the holy grail for decentralization? {#is-blockchain-the-holy-grail-for-decentralization}
+## Is Blockchain the holy grail for decentralization?
 
 ![alt_text](img/chain.png)
 
@@ -135,10 +134,10 @@ Understanding the graph from Bernard makes all of this very logical, because blo
 Basically it's the typical cycle, centralized system gets too efficient/centralized, people want something else they go to 100% distributed (blockchain) and now the world will hopefully look for more balance between the two and that is where believe the circular decentralized solution comes in.
 
 
-# ThreeFold Decentralized Internet {#threefold-decentralized-internet}
+# ThreeFold Decentralized Internet 
 
 
-## Status of the decentralized internet today? {#status-of-the-decentralized-internet-today}
+## Status of the decentralized internet today?
 
 ![alt_text](img/space_colony.png)
 
@@ -172,7 +171,7 @@ ThreeFold Tech is the technology company who developed this technology. ThreeFol
 ## 
 
 
-## The ThreeFold grid is operational since March 2019 \
+## The ThreeFold grid is operational since March 2019 
 Our version 2.0 will be in production jan 2020 {#the-threefold-grid-is-operational-since-march-2019-our-version-2-0-will-be-in-production-jan-2020}
 
 ![alt_text](img/grid_loupe.png)
@@ -182,7 +181,7 @@ Our version 2.0 will be in production jan 2020 {#the-threefold-grid-is-operation
 to the sum of all other decentralized projects together (blockchain).**
 
 
-## Unlimited Scalability {#unlimited-scalability}
+## Unlimited Scalability
 
 
 ![alt_text](img/many_to_many.png)
@@ -191,7 +190,7 @@ to the sum of all other decentralized projects together (blockchain).**
 In this system the 3Bots which are the intelligent cells scale independently from the 3nodes, this creates an unlimited, scalable system. The 3Bots use the resources of the 3nodes to bring any required service to life 
 
 
-## There are 3 ways today which allow people to buy Internet Capacity: {#there-are-3-ways-today-which-allow-people-to-buy-internet-capacity}
+## There are 3 ways today which allow people to buy Internet Capacity:
 
 
 ![alt_text](img/3ways_buy_capacity.png)
@@ -201,10 +200,10 @@ The ThreeFold grid delivers Internet Capacity at a price much lower than alterna
 
 The cost advantages are substantial.
 
-# From Star to circles {#from-star-to-circles}
+# From Star to circles
 
 
-## The problem: we became a product. {#the-problem-we-became-a-product}
+## The problem: we became a product.
 
 DATA = IS THE NEW OIL …
 
@@ -238,7 +237,7 @@ Some examples:
 *   The data centers hosting these applications are huge and very power hungry, while in reality they are not needed.
 
 
-## The idea: we need an improved “IT” system where we become the center. {#the-idea-we-need-an-improved-“it”-system-where-we-become-the-center}
+## The idea: we need an improved “IT” system where we become the center.
 
 
 ![alt_text](img/yoga_dude.png)
@@ -266,7 +265,7 @@ It's hard to comprehend how much more efficient our digital life becomes because
 The world needs an efficient **Decentralized Information Systemwhich we call the 3Bot.**  ThreeFold has created technology which can be used to develop such a system running on top of the ThreeFold grid as described in previous chapter. 
 
 
-## From Pyramids To Circles {#from-pyramids-to-circles}
+## From Pyramids To Circles 
 
 ![alt_text](img/you_at_center.png)
 
@@ -299,10 +298,10 @@ All of the commonly used applications listed in the pyramid on the left of this 
 *   You can plan your time in relation to your circles (scheduling)
 *   You have access to any information (education) and can self improve without prejudice
 
-## ThreeFold Technology  {#threefold-technology}
+## ThreeFold Technology 
 
 
-### Architecture {#architecture}
+### Architecture 
 
 
 ![alt_text](img/tf_architecture.png)
@@ -312,7 +311,7 @@ _Architecture: The 3Bots live on top of the grid of capacity  \
 and as such there is unlimited scalability._
 
 
-### The 3 layers {#the-3-layers}
+### The 3 layers 
 
 ![alt_text](img/layers.png)
 
@@ -320,7 +319,7 @@ and as such there is unlimited scalability._
 The system consists out of multiple layers, a technical user can create their solutions on any of those layers without needing to know about the other layer e.g. an application developer does not have to know about the capacity layer, but a low level IT expert can deploy his applications directly on the capacity layer.
 
 
-### Communication Flows {#communication-flows}
+### Communication Flows 
 
 
 ![alt_text](img/smart_contract_for_it.png)
@@ -337,7 +336,7 @@ _Data is dispersed over the grid onto multiple nodes providing ultimate security
 _For more info read our tech whitepaper (see at the end of this document) _
 
 
-### Some advantages for the users of this system {#some-advantages-for-the-users-of-this-system}
+### Some advantages for the users of this system 
 
 
 
@@ -365,7 +364,7 @@ _For more info read our tech whitepaper (see at the end of this document) _
     *   No need for complex e-commerce or payment systems.
 
 
-## Marketing upside down {#marketing-upside-down}
+## Marketing upside down
 
 
 <table border="0"> 
@@ -397,7 +396,7 @@ Result
 
 Basically, this system puts the marketing world upside down and has benefits for consumers and merchants but not for the intermediaries which often don’t have a lot of added value yet still reap most of the benefits.
 
-# ThreeFold Ecosystem {#threefold-ecosystem}
+# ThreeFold Ecosystem 
 
 
 ![alt_text](img/running.png)
@@ -421,7 +420,7 @@ the digital currency behind (the TFT)
 We are part of a larger community called freeflow nation, see [http://www.freeflownation.org](http://www.freeflownation.org) website. \
 We are the party who wants to help the “freeflow nation” by delivering a fast internet highway which is local to everyone and cost effective to use.
 
-# It feels too much, can this really be done? {#it-feels-too-much-can-this-really-be-done}
+# It feels too much, can this really be done?
 
 We believe this is very achievable and in fact we are already well on the way to executing on this mission. Today we already have more capacity online compared to the sum of all other blockchain projects.
 
@@ -433,14 +432,14 @@ One of our keys to success are our partnerships and we are very grateful that th
 
 ![alt_text](img/partners.png)
 
-# More Information {#more-information}
+# More Information 
 
 
 
 *   FreeFlow Nation Website: [https://www.freeflownation.org](https://www.freeflownation.org)
 *   FreeFlow Nation Manifesto: [http://freeflowmanifesto.threefold.me](http://freeflowmanifesto.threefold.me)
 *   ThreeFold Network Website: [https://threefold.io/](https://threefold.io/)
-*   [ThreeFold Grid Whitepaper ](https://docs.google.com/document/d/16C3EKKBaK4_DyWFUcvdLnvDyN57h77e0Q1mWMpZL5vc/edit)
-*   [ThreeFold Technology Whitepaper](https://docs.google.com/document/d/1WTHrbe3nS1_VgTYxgDPeyyEmvj7unIcEPwrg0l3SBNI/edit)
-    *   [Capacity Layer Whitepaper](https://docs.google.com/document/d/1dP5MaY9YWdRonhvGtqBKrcTYbBYBold75vHnHpTiUH4/edit#)
-    *   [Autonomous Layer Whitepaper](https://docs.google.com/document/d/1qEaAqYxL0v9ZnwcMtud61SJUvDcz6DS_wRqPykPh1Y8/edit#heading=h.b30ugijlkj83)
+*   [ThreeFold Grid Whitepaper ](../tf_whitepaper_104/tf_whitepaper_104.md)
+*   [ThreeFold Technology Whitepaper](../technology_overview/technology_overview.md)
+    *   [Capacity Layer Whitepaper](../capacity_layer/capacity_layer.md)
+    *   [Autonomous Layer Whitepaper](../autonomous_layer/autonomous_layer.md)

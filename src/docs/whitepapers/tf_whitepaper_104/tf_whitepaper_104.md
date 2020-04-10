@@ -22,7 +22,7 @@ The Internet is growing at an accelerated rate. To service this demand a few lar
 *   Independent ThreeFold Farmers (Farmers), generate Internet capacity. They do this by connecting IT hardware (servers) to the Internet. As a result TF Tokens (TFT) are generated on the ThreeFold Blockchain which are now usable as a true digital currency.
 *   ThreeFold Tech is a technology company which is developing & commercializing “Self Driving IT” to power future innovation through decentralization. ThreeFold Tech has resolved a number of fundamental challenges in the world of IT by simplifying the required architecture to three fundamental layers:  a capacity layer, an autonomous layer and the distributed applications layer  
 
-*   For the capacity layer grid capacity is produced, purchased, and allocated locally, much like electricity. Service providers are then able to host their services and applications close to the end user, leading to significantly greater performance, lower price points, and better margins. This will eventually lead to liquidity for the ThreeFold Tokens. ThreeFold’s Operating System allows Farmers to deliver Internet/IT capacity to the TF Grid with up to[ 10 times the energy savings](/src/docs/blog/10x-times-power.md) than traditional data centers. 
+*   For the capacity layer grid capacity is produced, purchased, and allocated locally, much like electricity. Service providers are then able to host their services and applications close to the end user, leading to significantly greater performance, lower price points, and better margins. This will eventually lead to liquidity for the ThreeFold Tokens. ThreeFold’s Operating System allows Farmers to deliver Internet/IT capacity to the TF Grid with up to[ 10 times the energy savings](/docs/blog/10x-times-power.md) than traditional data centers. 
 
 *   Already today, the ThreeFold Grid has more capacity online compared to the sum of all capacity of all blockchain capacity players together. 
 *   The ThreeFold Grid is positioned as  a complementary layer to enable blockchain and cloud projects to scale beyond current limitations  to the edge of the network.  
@@ -449,10 +449,10 @@ Feel free to contact us through chat on our website which is available at [https
 
 [^1]:
 
-    <sup> <a href="https://www.linkedin.com/pulse/400-million-new-servers-needed-2020-think-different-mark-thiele/">Thiele, Mark. “400 Million new servers needed by 2020 - Think Different or Lose.” 7 March 2016. </a></sup>
+  <a href="https://www.linkedin.com/pulse/400-million-new-servers-needed-2020-think-different-mark-thiele/">Thiele, Mark. “400 Million new servers needed by 2020 - Think Different or Lose.” 7 March 2016. </a>
 
 [^2]:
-    <sup> <a href="http://www.datacenterknowledge.com/data-center-faqs/apple-data-center-faq">“The Apple Data Center FAQ.” Data Center Knowledge. 22 November 2010. </a></sup>
-    <sup><a href="http://worldstopdatacenters.com/facebook-altoona-ia/">“Facebook - Altoona, Iowa.” World’s Top Data Centers. 2 June 2014.  </a></sup>
-    <sup><a href="http://worldstopdatacenters.com/google-lenoir-north-carolina/">“Google - Lenoir, North Carolina.” World’s Top Data Centers. 2 June 2014. </a></sup>
-    <sup><a href="http://worldstopdatacenters.com/apple-maiden-north-carolina/">“Apple - Maiden, North Carolina.” World’s Top Data Centers. 2 June 2014. </a></sup>
+<a href="http://www.datacenterknowledge.com/data-center-faqs/apple-data-center-faq">“The Apple Data Center FAQ.” Data Center Knowledge. 22 November 2010. </a>
+    <a href="http://worldstopdatacenters.com/facebook-altoona-ia/">“Facebook - Altoona, Iowa.” World’s Top Data Centers. 2 June 2014.  </a>
+    <a href="http://worldstopdatacenters.com/google-lenoir-north-carolina/">“Google - Lenoir, North Carolina.” World’s Top Data Centers. 2 June 2014. </a>
+    <a href="http://worldstopdatacenters.com/apple-maiden-north-carolina/">“Apple - Maiden, North Carolina.” World’s Top Data Centers. 2 June 2014. </a>
