@@ -1,4 +1,4 @@
-![](../../img/HPE.png)
+![](img/HPE.png)
 
 # Hewlett Packard Enterprise
 

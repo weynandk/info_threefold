@@ -1,4 +1,4 @@
-![](../../img/flowgen.jpg)
+![](img/flowgen.jpg)
 
 TF Tech and Flowgen are into this partnership to achieve the following:
 

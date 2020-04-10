@@ -12,8 +12,7 @@ All information stored on the ThreeFold Network is completely decentralized, the
 
 ## What Is 3Bot Connect?
 
-
-Needs 3Bot Connect Copy
+See our [Apps & Wallet: Section](../token/apps_wallets/3bot_app.md)
 
 ### Where to download the 3Bot Connect App.
 

@@ -1,4 +1,4 @@
-i![](../../img/solidaridad.png)
+i![](img/solidaridad.png)
 
 TF Tech and Solidaridad are in partneship to create digital services for 500 millions farmers globally who do not have the financial strenght to participate in the race to collect and use data by food giants. 
 

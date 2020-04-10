@@ -67,7 +67,8 @@
 	- [TLE FAQ](./docs/token/tle/tle-faq.md)
 	- [FAQ](./docs/token/faq/README.md)
 	- [Wallets and Apps](./docs/token/apps_wallets/README.md)
-	- [Technology](./docs/token/technology/README.md)
+      - [3Bot Connect App & Wallet](./docs/token/apps_wallets/3bot_app.md)
+      - [ThreeFold App](./docs/token/apps_wallets/threefold_app.md)
 	- [Tokenomics](./docs/token/tokenomics/README.md)
 
 - [3Bot](./docs/3bot/README.md)
@@ -134,7 +135,7 @@
   - [ThreeFold Love](./docs/ecosystem/threefoldlove.md)
   - [ThreeFold Tech](./docs/ecosystem/threefoldtech.md)
   - [Veda](./docs/ecosystem/veda.md)
-  - [Partners](./docs/partners/README.md)
+- [Partners](./docs/partners/README.md)
     - [Hewlett Packard Enterprise](./docs/partners/hpe.md)
     - [Solidaridad](./docs/partners/solidaridad.md)
     - [Flowgen](./docs/partners/flowgen.md)
