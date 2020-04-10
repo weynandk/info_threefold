@@ -2,6 +2,8 @@
 
 # ThreeFold Whitepapers
 Here is where you find the vision behind a lot of the parts that make ThreeFold.
+Get inside the heads of the people behind the ThreeFold Project and see why certain choice where made.
+
 
 [ThreeFold Whitepaper 1.0.4](./tf_whitepaper_104/tf_whitepaper_104.md)
 
