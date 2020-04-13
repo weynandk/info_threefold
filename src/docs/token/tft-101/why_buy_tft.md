@@ -45,7 +45,7 @@ Low network fees along with high liquidity availability to help your initiative 
 
 A wallet that puts you in control of your funds and runs on your iPhone. We recommend people that are new to digital currencies to read the article about the ThreeFold App on our wiki first:
 
-[Wiki How-To](/token/apps_wallets/3bot_app.md)
+[Wiki How-To](../apps_wallets/3bot_app.md)
 
 <a href="https://apps.apple.com/us/app/3bot-connect/id1459845885" target="_blank">Download 3Bot Connect For Iphone</a>
 
@@ -54,7 +54,7 @@ A wallet that puts you in control of your funds and runs on your iPhone. We reco
 
 A Wallet that puts you in control of your funds and runs on your Android device. We recommend people that are new to digital currencies to read the article about the ThreeFold App on our wiki first:
 
-[Wiki How-To](/docs/token/apps_wallets/3bot_app.md)
+[Wiki How-To](../apps_wallets/3bot_app.md)
 
 <a href="https://play.google.com/store/apps/details?id=org.jimber.threebotlogin&hl=nl" target="_blank">Download 3Bot Connect For Android</a>
 

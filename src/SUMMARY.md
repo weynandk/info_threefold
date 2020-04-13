@@ -9,6 +9,8 @@
 	- [ThreeFold Capacity User](./docs/definitions-concepts/threefold_user.md)
 	- [ThreeFold Cloud Units](./docs/definitions-concepts/threefold_cloud_units.md)
 
+
+
 - [Whitepapers](./docs/whitepapers/README.md)
   - [ThreeFold Whitepaper 1.0.4](./docs/whitepapers/tf_whitepaper_104/tf_whitepaper_104.md)
    - [Technology Overview](./docs/whitepapers/technology_overview/technology_overview.md)
@@ -20,10 +22,11 @@
   - [The Autonomous Layer](./docs/whitepapers/autonomous_layer/autonomous_layer.md)
   - [The Capacity Layer](./docs/whitepapers/capacity_layer/capacity_layer.md)
 
+
+
 - [Grid](./docs/grid/README.md)
 	- [Farming](./docs/grid/tf_farming/introduction.md)
       - [Three steps to become a farmer](./docs/grid/tf_farming/become_farmer_steps.md)
-      - [Farming Simulation Tools](./docs/grid/tf_farming/farming_simulation_tools.md)
       - [How to set up/migrate your farm](./docs/grid/tf_farming/v2_jsx_farmsetup.md)
       - [HPE Farming Hardware](./docs/grid/tf_farming/farming_platforms/hpe.md)
       - [Testnet](./docs/grid/tf_farming/testnet.md)
@@ -59,6 +62,15 @@
       - [Generic](./docs/grid/faq/generic/README.md)
         - [Vienna Cherry Chapter Questions](./docs/grid/faq/generic/vcc_faq.md)
 	- [Concepts](./docs/grid/concepts/grid_concepts.md)
+      - [Farming Rules](./docs/grid/concepts/farming_token_geration_rules.md)
+      - [Cloud Units](./docs/grid/concepts/cloud_units.md)
+      - [Resource Units](./docs/grid/concepts/resource_units.md)
+      - [Commercial Token Value Calculation](./docs/grid/concepts/commercial_token_value_calculation.md)
+      - [TFT Price at Start Farming](./docs/concepts/grid/tfprice_farming.md)
+      - [TF Period](./docs/grid/concepts/farming_period_definition.md)
+      - [Capacity types](./docs/grid/concepts/capacity_types.md)
+
+
 
 - [Token](./docs/token/README.md)
 	- [What are ThreeFold Tokens?](./docs/token/tft-101/what_are_tfts.md)
@@ -71,17 +83,20 @@
       - [ThreeFold App](./docs/token/apps_wallets/threefold_app.md)
 	- [Tokenomics](./docs/token/tokenomics/README.md)
 
-- [3Bot](./docs/3bot/README.md)
 
+
+- [3Bot](./docs/3bot/README.md)
 	- [About 3Bot](./docs/3bot/about/README.md)
 	- [3Bot Features](./docs/3bot/features/README.md)
 	- [3Bot Technology](./docs/3bot/technology/README.md)
-	
-- [Tech](./docs/tech/README.md)
 
-	- [Technology](./docs/tech/technology/README.md)
+
+
+- [Tech](./docs/tech/README.md)
 	- [Company Behind The Tech](./docs/tech/company/README.md)
 	- [Support](./docs/tech/support/README.md)
+
+
 
 - [Videos](./docs/videos/README.md)
   - [Explainer Videos](./docs/videos/explainer_videos/README.md)
@@ -105,12 +120,12 @@
 	  - [October Event: Token Session](./docs/videos/community_calls/tokensession_oct2019.md)
 
 
+
 - [Team](./docs/team/README.md)
 
 
 
 - [Ecosystem](./docs/ecosystem/README.md)
-
   - [3Bot](./docs/ecosystem/3bot.md)
   - [ATW Green](./docs/ecosystem/atwgreen.md)
   - [BetterToken](./docs/ecosystem/bettertoken.md)
@@ -140,8 +155,9 @@
     - [Solidaridad](./docs/partners/solidaridad.md)
     - [Flowgen](./docs/partners/flowgen.md)
 
-- [Blog](./docs/blog/README.md)
 
+
+- [Blog](./docs/blog/README.md)
     - [10x times power savings, really?](./docs/blog/10x-times-power.md)
     - [AirBnB for Internet Capacity](./docs/blog/airbnb-for-internet-capacity.md)
     - [Why an Edge Cloud](./docs/blog/do-with-new-edge-cloud.md)
@@ -171,7 +187,7 @@
   - [Stories Start of All](./docs/collaboration/stories.md)
 	- [Stories pitfalls](./docs/collaboration/story_pitfalls.md)
   - [Goals & Values](./docs/collaboration/values/goals_values.md)
-    - [FreeFlow Nation Manifesto]("https://www.freeflownation.org/manifesto.html")
+    - [FreeFlow Nation Manifesto](./docs/collaboration/values/freeflow_manifesto.md)
     - [Personal On Collaboration](./docs/collaboration/values/kristof_build_a_better_world_values_collaboration.md)
     - [IQ EQ SQ](./docs/collaboration/values/IQ_EQ_SQ.md)
     - [Ethical Design](./docs/collaboration/values/ethical_design_manifesto.md)
@@ -215,6 +231,7 @@
     - [Conscious Internet Tech](./docs/presentations/conscioustech.md)
 
 - [Web Resources](./docs/web_resources/README.md)
+    - [ThreeFold Terms & Condtions](./docs/web_resources/terms_conditions.md)
 
 
 - [Legal](./docs/legal/README.md)
