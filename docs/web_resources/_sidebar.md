@@ -1,5 +1,0 @@
-* [Home](/)
-* [ThreeFold Foundation Website](/web_resources.md)
-* [ThreeFold Tech Website](/web_resources/tech.md)
-* [Foundation Github Repositories](https://github.com/threefoldfoundation?page=1)
-* [ThreeFold Tech Github Repositories](https://github.com/threefoldtech)

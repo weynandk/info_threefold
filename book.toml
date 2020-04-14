@@ -1,0 +1,13 @@
+[book]
+authors = ["peternashaat","despiegk"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Threefold Wiki"
+
+[output.html.fold]
+enable = true
+level = 0
+
+[output.html]
+default-theme = "light"

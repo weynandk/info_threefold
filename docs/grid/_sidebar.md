@@ -1,5 +1,0 @@
-* [Home](/)
-* [Farming](/grid/tf_farming/README.md)
-* [Videos](/grid/external_information/videos.md)
-* [Frequently Asked Questions](/grid/faq/README.md)
-* [Concepts](/grid/concepts/README.md)
