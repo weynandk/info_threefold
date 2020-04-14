@@ -22,6 +22,7 @@ ThreeFold launched a Responsible Internet capacity platform (on March 2018) with
 ThreeFold is focused on democratizing internet compute and storage capacity to enable a responsible internet for all.  Open source software empowers people to create neutral, green and private capacity for people across the globe that’s blockchain driven and 100% decentralized. [(threefold.io)](https://threefold.io/)
  
  
+ 
 Media Contact:
 Sabrina Sadik
 THREEFOLD 
