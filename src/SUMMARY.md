@@ -1,5 +1,5 @@
 # Summary
-- [ThreeFold Wiki Intro](./docs/README.md)
+- [ThreeFold Wiki Intro](./README.md)
 - [Definitions & Concepts](./docs/definitions-concepts/README.md)
 	- [ThreeFold Values](./docs/definitions-concepts/threefold_values.md)
 	- [ThreeFold Network](./docs/definitions-concepts/threefold_network.md)
