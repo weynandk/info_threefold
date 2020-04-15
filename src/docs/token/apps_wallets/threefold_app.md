@@ -4,6 +4,8 @@
 
 # Using the ThreeFold App
 
+**Note: We are phasing out the ThreeFold App. Please install [3Bot Connect](3bot_app.md) if you are a new user. If you need support, please use the chat functionality on https://threefold.io.**
+
 ThreeFold created a ThreeFold App, available for iOS and Android phones. This ThreeFold App includes a ThreeFold Wallet for safely keeping your ThreeFold Tokens offline, and receiving and sending ThreeFold Tokens from/to other offline and online wallets.  
 
 The ThreeFold App allows you to manage multiple ThreeFold Wallets and addresses at the same time.

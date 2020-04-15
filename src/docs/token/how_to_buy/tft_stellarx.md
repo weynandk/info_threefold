@@ -3,8 +3,6 @@
 
 <img src=img/stellarx_logo.png width="450">
 
-*The Current setup of the ThreeFold Cloud Project does not require payments, but this will be the case in the future so we already have included some information on ways to buy TFT*
-
 # StellarX
 
 StellarX is a free peer2peer marketplace available on the Stellar network. It offers trading for a range of assets, using stellar lumens (XLM) as the base currency. 
