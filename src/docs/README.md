@@ -1,4 +1,4 @@
-<img src="wiki-intro.png">
+<img src="./docs/wiki-intro.png">
 
 ## Welcome to the ThreeFold Foundation Wiki!
 
