@@ -27,7 +27,7 @@ For Interstellar all you need to do is set a password. As the wallet will be lin
 
 ## Part 2: Create a wallet and adding funds to your account.
 
-* Choose If you want a Generate a Random or Custom wallet adress (we are going for a random one in this case.
+* Choose If you want a Generate a Random or Custom wallet adress (we are going for a random one in this case).
 
 * **! DANGERZONE !** You are now presented with your Secret Key. Please follow all steps and read the procedures carefully.  Losing your key will most likely result in a loss of your funds. ThreeFold or Interstellar can’t help anyone restore accounts or the funds attached to them in any case!
 
@@ -68,9 +68,8 @@ Now that the account is set up and funded and you have the TFT asset listed in y
 
 <img src=img/interstellar_trade_1.png width="900">
 
-* You confirm the transaction and will get a succes message when it has gone through plus a little bell will also ring.
+* You confirm the transaction and will get a succes message when it has gone through, plus a little bell will also ring.
 
 * You now have TFTs in your wallet
 
 <img src=img/interstellar_account_overview_3.png width="900">
-
