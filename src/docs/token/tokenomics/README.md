@@ -73,8 +73,6 @@ E.g. a farmer asks 100 TFT for a certain amount of capacity + timeframe. The use
 
 As mentioned in the farming section of this wiki entry, the amount of farmed tokens a Farmer receives when putting capacity online is subject to the difficulty level. This difficulty level is there to ensure there won’t be an oversupply of tokens nor capacity. The more ThreeFold Tokens exist, the fewer Tokens are distributed through Farming. The burning mechanism ensures the difficulty level does not stay at a level where it's not profitable to farm. 
 
-![Difficulty level](/token/img/difficulty.png)
-
 # An Inclusive Market	
 
 The market for farming, cultivating and trading is open to all. If one has an internet connection and a power outlet he/she can become a Farmer, cultivate capacity and trade ThreeFold Tokens (TFT). Third party exchanges ensure that TFT can be exchanged between farmers and capacity users. 
