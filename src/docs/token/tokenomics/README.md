@@ -1,16 +1,24 @@
 # TOKENOMICS WIKI
 
-![image alt text](img/tokenomics-flow.png)
+![image alt text](img/tokenomics-flow.jpg)
 
-# Threefold Tokenomics In 6 Easy Steps
+# Threefold Tokenomics In 4 Easy Steps
 
-Step 1. a farmer adds capacity to the grid. earns tokens for farming.
+Step 1a. Farmer adds capacity to the grid
 
-Step 2. farmer trades his TFT for fiat or other digital currencies
+Step 1b. Grid rewards farmer with TFT
 
-Step 3. a user buys TFT on an exchange
+Step 2a. Farmer trades his TFT on an exchange
 
-Step 4. a user reserves capacity with the TFT > TFT’s from the transaction are distributed: farmer earns tokens for cultivation, a part goes to the foundation, a part gets burned.
+Step 2b. Farmer gets other currencies in return.
+
+Step 3a. User sells currencies on an exchange
+
+Step 3b. User gets TFT in return.
+
+Step 4a. Grid provides Capacity to the user
+
+Step 4b. User pays the farmer for capacity with TFT. Part of the transaction goes to the foundation, a part gets burned.
 
 # Earning Tokens
 
@@ -64,8 +72,6 @@ E.g. a farmer asks 100 TFT for a certain amount of capacity + timeframe. The use
 ## Difficulty level
 
 As mentioned in the farming section of this wiki entry, the amount of farmed tokens a Farmer receives when putting capacity online is subject to the difficulty level. This difficulty level is there to ensure there won’t be an oversupply of tokens nor capacity. The more ThreeFold Tokens exist, the fewer Tokens are distributed through Farming. The burning mechanism ensures the difficulty level does not stay at a level where it's not profitable to farm. 
-
-![Difficulty level](/token/img/difficulty.png)
 
 # An Inclusive Market	
 
