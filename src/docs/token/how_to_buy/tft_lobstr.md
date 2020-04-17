@@ -2,9 +2,11 @@
 
 <img src=img/lobstr_wallet_logo.png width="450">
 
-*The Current setup of the ThreeFold Cloud Project does not require payments, but this will be the case in the future so we already have included some information on ways to buy TFT*
+# Buying tokens on Lobstr (Available April 29)
 
-# Setup of TFT mobile wallet on Lobstr
+Lobstr is a wallet that also allows you to store your XLM-based coins and trade on the Stellar DEX (StellarX).
+
+## Setup of TFT mobile wallet on Lobstr
 
 As an example, please find here an example on how to set up TFT in a Stellar wallet. 
 

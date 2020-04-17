@@ -1,6 +1,6 @@
-# Using BTC-Alpha
+# Using BTC-Alpha (Available April 29)
 
-BTC-Alpha is the first online cryptocurrency exchange that supports ThreeFold tokens.
+BTC-Alpha was the first online cryptocurrency exchange to support ThreeFold Tokens (TFT).
 
 They offer the following trading options: 
 - [TFT-BTC](https://btc-alpha.com/exchange/TFT_BTC/)
@@ -170,4 +170,4 @@ Here are the steps:
 
 ![TFT](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/btc-alpha-tft-deposit2.png) 
 
-5. Wait until the transaction is fully processed, this typically takes up to 40 minutes. 
+5. Wait until the transaction is fully processed, this typically takes up to 40 minutes.

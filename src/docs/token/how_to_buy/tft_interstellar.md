@@ -2,7 +2,7 @@
 
 <img src=img/interstellar_logo.png width="450">
 
-# Buying Tokens on Interstellar
+# Buying Tokens on Interstellar (Available April 29)
 
 Interstellar.exchange is a decentralized exchange that allows you to buy TFTs.
 

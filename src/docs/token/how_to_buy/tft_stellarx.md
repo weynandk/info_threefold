@@ -3,13 +3,9 @@
 
 <img src=img/stellarx_logo.png width="450">
 
-# StellarX
+# Buying tokens on StellarX (Available April 29)
 
-StellarX is a free peer2peer marketplace available on the Stellar network. It offers trading for a range of assets, using stellar lumens (XLM) as the base currency. 
-
-# Buy TFT through StellarX
-
-If you would like to start playing with the TF Grid today, you can purchase ThreeFold Tokens (TFT) through StellarX. 
+StellarX is a free peer-to-peer marketplace (decentralized exchange) available on the Stellar Network. It offers trading for a range of assets, using stellar lumens (XLM) as the base currency.
 
 ## How does this work?
 You can buy TFT only through Stellar Lumens (XLM), for now.
@@ -29,4 +25,6 @@ TFT as available on TFchain will be converted into Stellar TFTA, burned on TFCha
 
 2. Next, you will need to trust TFT, which will be issued. Everything is credit on Stellar.
 
-As an example, [here](tft_lobstr.md) you can find how to set up TFT in a Lobstr mobile wallet. 
+As an example, we have included how to get set up on two Stellar wallets:
+- [Lobstr: Desktop & App](tft_lobstr.md)
+- [Interstellar: PC-Based](tft_interstellar.md)
