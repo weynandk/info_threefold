@@ -25,7 +25,7 @@ We make distinction between networkers and advocates. Some people take both role
 
 For more info see:
 
-- [bonus_token_pool](/collaboration/bonus_token_pool.md)
+- [bonus_token_pool](bonus_token_pool.md)
 
 The P2P awareness level is an important factor in this bonus token plan.
 
