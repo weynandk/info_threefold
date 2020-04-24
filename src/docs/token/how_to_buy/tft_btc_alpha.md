@@ -1,4 +1,4 @@
-# Using BTC-Alpha (Available April 29)
+# Using BTC-Alpha (Available Mid-Late May)
 
 BTC-Alpha was the first online cryptocurrency exchange to support ThreeFold Tokens (TFT) and we will be re-listed there on April 29. For now, you can take the steps to register on BTC-Alpha below:
 
