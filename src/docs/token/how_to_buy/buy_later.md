@@ -2,7 +2,7 @@
 - [StellarX](tft_stellarx.md)
 - [Interstellar](tft_interstellar.md)
 - [Lobstr](tft_lobstr.md)
-### Available April 29: BTC Alpha Exchange
+### Available Mid-Late May: BTC Alpha Exchange
 - [From the exchange](tft_btc_alpha.md)
-### Available Mid-May: Liquid Exchange
+### Available Mid-Late May: Liquid Exchange
 - [From the exchange](tft_liquid.md)

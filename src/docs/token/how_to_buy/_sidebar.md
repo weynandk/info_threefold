@@ -4,5 +4,5 @@
     * [Apr 29: StellarX](/token/how_to_buy/tft_stellarx.md)
     * [Apr 29: Interstellar](/token/how_to_buy/tft_interstellar.md)
     * [Apr 29: Lobstr](/token/how_to_buy/tft_lobstr.md)
-    * [Apr 29: BTC Alpha Exchange](/token/how_to_buy/tft_btc_alpha.md)
+    * [Mid-Late May: BTC Alpha](/token/how_to_buy/tft_btc_alpha.md)
     * [Mid-Late May: Liquid](/token/how_to_buy/tft_liquid.md)
