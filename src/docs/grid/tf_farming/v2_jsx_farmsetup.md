@@ -69,8 +69,8 @@ To enter kosmos shell just type `kosmos` in your 3SDK terminal
 First things is to select the network you want to create your farm on. Most probably you want to use `mainnet`.
 
 ```python
-j.clients.threebot.explorer_addr_set('explorer.grid.tf')
-# j.clients.threebot.explorer_addr_set('explorer.testnet.grid.tf')  If you want to use testnet
+j.clients.explorer.default_addr_set('explorer.grid.tf')
+# j.clients.explorer.default_addr_set('explorer.testnet.grid.tf')  If you want to use testnet
 ```
 
 ### 2. Create a TF Farm
