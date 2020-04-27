@@ -3,5 +3,6 @@
     * [Three steps to become a farmer](/grid/tf_farming/become_farmer_steps.md)
     * [Farming Simulation Tools](/grid/tf_farming/farming_simulation_tools.md)
     * [How to set up/migrate your farm](/grid/tf_farming/v2_jsx_farmsetup.md)
+    * [How to configure the TFT wallet of your farm](/grid/configure_wallet.md)
     * [HPE Farming Hardware](/grid/tf_farming/farming_platforms/hpe.md)
     * [Testnet](/grid/tf_farming/testnet.md)
