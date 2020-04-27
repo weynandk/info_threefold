@@ -1,6 +1,6 @@
 # Configure the TFT wallet address of your farm
 
-In order for users to reserve capacity from your farm and pay for it the users needs to know the wallet address where to send the tokens for the reservation.
+In order for users to reserve capacity from your farm and pay for it the users need to know the wallet address where to send the tokens for the reservation.
 
 At the time of writing, 2 currencies are supported, TFT and FreeTFT.
 
