@@ -53,7 +53,7 @@ Examples below
 
 ![](./img/example.png)
 
-![](./img/example2.png)
+![](example2.png)
 
 
 

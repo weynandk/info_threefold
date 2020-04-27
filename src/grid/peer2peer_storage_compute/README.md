@@ -1,6 +1,6 @@
 ## Peer 2 Peer Storage & Compute (TF Grid)
 
-![](./img/header.png)
+![](header.png)
 
 The Threefold technology stack creates compute, storave and networking facilities in a peer to peer manner.
 

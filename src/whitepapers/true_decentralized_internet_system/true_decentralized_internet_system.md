@@ -149,7 +149,7 @@ Probably further advanced compared to any other startup or technology vendor.
 We had to re-invent a blockchain, an operating system, and a self-healing autonomous IT system.
 
 
-![alt_text](./img/blocks.png)
+![alt_text](blocks.png)
 
 
 ![alt_text](./img/fist.png)

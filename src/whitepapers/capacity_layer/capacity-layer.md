@@ -16,7 +16,7 @@ Today, IT capacity is mainly being delivered by means of centralized cloud techn
 
 
 
-![alt_text](./img/many_to_many.png)
+![alt_text](many_to_many.png)
 
 The 3bots are the coordinators which can run 100% autonomously – they are super intelligent digital creatures who know how to protect your data and how to deploy/manage any IT workload on the capacity layer, which is the grid of the 3Nodes.
 

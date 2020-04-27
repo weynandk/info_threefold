@@ -1,4 +1,4 @@
-![image alt text](./img/header.png)
+![image alt text](header.png)
 
 # ThreeFold Technology Whitepaper: Technology Overview
 Author: Kristof de Spiegeleer
@@ -105,7 +105,7 @@ The grid of 3Bots allows any experience to be developed with much more efficienc
 
 # Is ThreeFold Technology 100% autonomous today?
 
-![image alt text](./img/space_colony.png)
+![image alt text](space_colony.png)
 
 Does a 100% autonomous IT system exist today? To our knowledge, the answer is **no**. At ThreeFold, we are not there yet, **but we are very close. We believe we are further advanced** compared to any other startup or technology vendor in this space. To achieve what we have to date, we had to reinvent a blockchain, an operating system, and a self-healing autonomous IT system – none of which are small feats.
 

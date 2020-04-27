@@ -54,7 +54,7 @@ Each entity (human or legal) can define multiple circles. These circles define h
 Our IT system is usable for companies, governments, citizens, schools, and so on. The system has the right balance between resilience and efficiency. A lot of services are already available today. 
 
 
-![alt_text](./img/curve_of_life.png)
+![alt_text](curve_of_life.png)
 
 
 ## Circles define your interest groups
@@ -255,7 +255,7 @@ This system is super scalable because aggregator sites by themselves are limited
 # This leads to endless scalability 
 The above-suggested architecture scales endlessly. Millions of 3Bots = digital avatars can work with millions of nodes. The nodes provide the capacity, the digital avatars are the brain. There is no bottleneck in this architecture.
 
-![alt_text](./img/many_to_many.png)
+![alt_text](many_to_many.png)
 
 
 
