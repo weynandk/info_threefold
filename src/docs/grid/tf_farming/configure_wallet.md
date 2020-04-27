@@ -1,12 +1,12 @@
 # Configure the TFT wallet address of your farm
 
-In order for users to reserve capacity from your farm and pay for it. The users needs to know the wallet address where to send the tokens for the reservation.
+In order for users to reserve capacity from your farm and pay for it the users needs to know the wallet address where to send the tokens for the reservation.
 
 At the time of writing, 2 currencies are supported, TFT and FreeTFT.
 
 ## Configure your farm wallet addresses from the 3SDK GUI
 
-The easiest method to configure the wallet addresses of your farm is to do it from the Farm management page from the [3SDK]([http://wiki.cloud.threefold.io/gettingstarted/sdk_install.html](http://wiki.cloud.threefold.io/gettingstarted/sdk_install.html).
+The easiest method to configure the wallet addresses of your farm is to do it from the Farm management page from the [3SDK](http://wiki.cloud.threefold.io/gettingstarted/sdk_install.html).
 
 1. Click on the little gear in the `Actions` colum of the farm tables
 
@@ -16,10 +16,10 @@ This will open up the configuration page of the farm
 
 ![farm configuration](images/farm_configuration.png)
 
-Click the big green button `Add wallet address` at the bottom of the form. This will create a new wallet address.
+Click the big green button `Add wallet address` at the bottom of the form. This will create a section in which you can add a new wallet address.
 A wallet address is composed of 2 things, the address itself and the asset code. The asset code is used to identify the currency on the stellar blockchain.
 
-Fill in the wallet address with your address and the correct asset. You can add as many addresses as you want. But only one per supported asset you want to accept is required.
+Fill in the wallet address with your address and the correct asset. You can add as many addresses as you want. But only one per supported asset you want to accept for payment is required.
 
 Once you are done, click the save button at the bottom right.
 
