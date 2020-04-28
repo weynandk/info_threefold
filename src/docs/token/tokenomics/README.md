@@ -48,7 +48,7 @@ Anyone can run applications and workloads on top of the ThreeFold Grid. Capacity
 
 In order to promote the growth and development of the ThreeFold Grid, a percentage of all cultivation transactions goes to the ThreeFold Foundation.
 
-This percentage equals 10% at the moment. After 24 months of farming, it will go down to 5%.
+This percentage equals 10% at the moment.
 
 ## Maximum Of Tokens In Circulation
 
