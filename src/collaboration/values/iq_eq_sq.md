@@ -16,12 +16,12 @@ If not then this person will not be very effective and potentially even damage t
 
 # 3 Main Quotients
 
-![https://docs.google.com/presentation/d/1rGDDr5XOeSU40z-RyZ_uAAKJmYvsjWCZWAO8fI_fGX0/edit#slide=id.p](3_quotients_small.jpg)
+![https://docs.google.com/presentation/d/1rGDDr5XOeSU40z-RyZ_uAAKJmYvsjWCZWAO8fI_fGX0/edit#slide=id.p](./img/3_quotients_small.jpg)
 
 
 In our world IQ got way too much importance. While the other 2 are at least as important.
 
-![](iq_effort_small.jpg)
+![](./img/iq_effort_small.jpg)
 
 ## IQ (Intellectual Quotient)
 
@@ -137,7 +137,7 @@ Its very closely linked to SQ !
 
 # Mentally Strong People
 
-![](mentally_strong_people.jpg)
+![](./img/mentally_strong_people.jpg)
 
 # Sources
 

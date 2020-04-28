@@ -1,4 +1,4 @@
-![hpe logo](hpe_logo.jpg)
+![hpe logo](./img/hpe_logo.jpg)
 
 
 # Hewlett Packard Enterprise

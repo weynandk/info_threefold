@@ -1,5 +1,5 @@
 
-![3bot wiki home image](3bot_header.jpg)
+![3bot wiki home image](./img/3bot_header.jpg)
  
 # 3Bot Wiki
 

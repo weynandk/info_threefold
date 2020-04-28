@@ -1,5 +1,5 @@
 # ThreeFold Presentations
 
-![](presentation_header.jpg)
+![](./img/presentation_header.jpg)
 
 

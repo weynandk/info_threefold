@@ -7,7 +7,7 @@
 <a id='introduction'></a>
 ## Introduction
 Developing on the TreeFold grid can be done on multiple levels. The ThreeFold software creates three distinct and functionally separated layers.
-![](three_layers.png)
+![](./img/three_layers.png)
 
 As a developer you have a choice to work with the capacity layer only.  Working with the capacity layers gives developers full control in a similar way that full control is available in other public capacity solutions (clouds).  This layer comes with orchestration tools that are know in the market (eg. Kubernetes) and will run containers (100% backwards docker compatible).
 

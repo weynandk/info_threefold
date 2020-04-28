@@ -1,3 +1,3 @@
 # ThreeFold Legal
 
-![](legal_header.jpg)
+![](./img/legal_header.jpg)

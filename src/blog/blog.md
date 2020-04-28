@@ -1,6 +1,6 @@
 # ThreeFold Blogs
 
-![Blogs](blog_header.jpg)
+![Blogs](./img/blog_header.jpg)
 
 * [Blogs](..md)
     * [10x times power savings, is this possible?](10x_times_power.md)

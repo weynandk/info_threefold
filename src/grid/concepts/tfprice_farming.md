@@ -26,13 +26,13 @@ Consider the following trades for an example period of three month:.
 
 This would read as follows in a graph showing the token pricing vs. the trade volume.
 
-![](trade_graph.png)
+![](./img/trade_graph.png)
 
 In this period a total of 28,300 tokens were traded. Trade 1 traded at the highest price (0.25 USD) and trade 2 (0.12 USD) at the lowest price. In order to cut 10% of the tokens traded at the highest price and 10% of the lowest price we have to organise all tokens traded in a sequence from high to low.
 
 Once we have organised all single tokens trades in a sequence we can quite easily cut 10% of highest traded token and lowest traded tokens.  See the red markers in the graph.  Please note that in this example the 10% of highest price traded tokens fits into a single trade while the 10% of lowest price traded tokens spans 5 trades.  Remember that these are just example trades, it might be the reverse in real life where high price trades represent lower volumes and low price trades higher volumes, but the principles stay the same.
 
-![](tokens_traded_organised.png)
+![](./img/tokens_traded_organised.png)
 
 See table below where the token trades have been ordered from the highest price to the lowest and where we take out both 10 percentiles:
 

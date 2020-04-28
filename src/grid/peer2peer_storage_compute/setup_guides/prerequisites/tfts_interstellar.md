@@ -50,7 +50,7 @@ Asset Issuer: GBOVQKJYHXRR3DX6NOX2RRYFRCUMSADGDESTDNBDS6CDVLGVESRTAC47!
 
 * When you have successfully created a trustline it will say success and the activity will show up in the right-hand column of the account page.
 
-![](trustline_created.png)
+![](./img/trustline_created.png)
 
 ## Part 4: Trading Digital Currencies for TFT
 

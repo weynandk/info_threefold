@@ -1,4 +1,4 @@
-![jimber logo](jimber_logo.jpg)
+![jimber logo](./img/jimber_logo.jpg)
 
 
 # Jimber

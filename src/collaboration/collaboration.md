@@ -1,6 +1,6 @@
 # Collaboration
 
-![](collaboration_header.jpg)
+![](./img/collaboration_header.jpg)
 
 ## Collaboration = Circles
 

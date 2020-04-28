@@ -1,4 +1,4 @@
-![](videos_header.jpg)
+![](./img/videos_header.jpg)
 # ThreeFold Videos
 Here you find a selection of some of our video content.
 We have divided them in 2 sections.

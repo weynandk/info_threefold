@@ -1,5 +1,5 @@
 
-![](token_header.jpg)
+![](./img/token_header.jpg)
 # ThreeFold Token
 
 ## New to ThreeFold?

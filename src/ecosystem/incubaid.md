@@ -1,4 +1,4 @@
-![incubaid logo](incubaid_logo.jpg)
+![incubaid logo](./img/incubaid_logo.jpg)
 
 
 # Incubaid

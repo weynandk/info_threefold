@@ -1,4 +1,4 @@
-![safecity logo](safecity_logo.jpg)
+![safecity logo](./img/safecity_logo.jpg)
 
 
 # Safe City

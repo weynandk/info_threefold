@@ -1,4 +1,4 @@
-![threefoldlove logo](threefoldlove_logo.jpg)
+![threefoldlove logo](./img/threefoldlove_logo.jpg)
 
 
 # ThreeFold Love
