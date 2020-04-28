@@ -1,4 +1,3 @@
-# Summary
 - [ThreeFold Wiki Intro](..md)
 - [Definitions & Concepts](definitions_concepts.md)
 	- [ThreeFold Values](threefold_values.md)

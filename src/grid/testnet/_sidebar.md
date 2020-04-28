@@ -1,0 +1,2 @@
+* [Home](/)
+* [Testnet](testnet.md)
