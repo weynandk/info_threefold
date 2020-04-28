@@ -1,4 +1,4 @@
-![wiki intro](wiki_intro.png ':size=50x50')
+![wiki intro](wiki_intro.png)
 
 This Wiki is a gathering of most of our created content in regards to the ThreeFold Foundation.
 It features the way we work together, our definitions, our tools, presentations and much more for you to read and learn about.
