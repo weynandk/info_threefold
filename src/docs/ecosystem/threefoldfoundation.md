@@ -1,4 +1,4 @@
-![threefold foundation logo](img/threefoldfoundation-logo.jpg)
+![threefold foundation logo](threefoldfoundation_logo.jpg)
 
 # ThreeFold Foundation
 

@@ -1,6 +1,6 @@
 # TOKENOMICS WIKI
 
-![image alt text](img/tokenomics-flow.jpg)
+![image alt text](tokenomics_flow.jpg)
 
 # Threefold Tokenomics In 6 Easy Steps
 
@@ -65,7 +65,7 @@ E.g. a farmer asks 100 TFT for a certain amount of capacity + timeframe. The use
 
 As mentioned in the farming section of this wiki entry, the amount of farmed tokens a Farmer receives when putting capacity online is subject to the difficulty level. This difficulty level is there to ensure there won’t be an oversupply of tokens nor capacity. The more ThreeFold Tokens exist, the fewer Tokens are distributed through Farming. The burning mechanism ensures the difficulty level does not stay at a level where it's not profitable to farm. 
 
-![Difficulty level](/token/img/difficulty.png)
+![Difficulty level](difficulty.png)
 
 # An Inclusive Market	
 
@@ -89,5 +89,5 @@ To evaluate the storage and compute capacity of the ThreeFold Grid, we use very 
 
 * Market price = between 20 USD and 120 USD
 
-More details about CU and SU can be found here [Cloud Units](/grid/concepts/cloud_units.md)
+More details about CU and SU can be found here [Cloud Units](cloud_units.md)
 

@@ -1,4 +1,4 @@
-![mazraa logo](img/mazraa-logo.jpg)
+![mazraa logo](mazraa_logo.jpg)
 
 
 # Mazraa Cooperative

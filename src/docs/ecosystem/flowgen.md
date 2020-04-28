@@ -1,4 +1,4 @@
-![flowgen logo](img/flowgen-logo.jpg)
+![flowgen logo](flowgen_logo.jpg)
 
 
 # FlowGen

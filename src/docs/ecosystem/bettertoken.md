@@ -1,4 +1,4 @@
-![bettertoken logo](img/bettertoken-logo.jpg)
+![bettertoken logo](bettertoken_logo.jpg)
 
 # BetterToken BVBA
 

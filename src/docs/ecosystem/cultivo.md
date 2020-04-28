@@ -1,4 +1,4 @@
-![cultivo logo](img/cultivo-logo.jpg)
+![cultivo logo](cultivo_logo.jpg)
 
 # Cultivo
 

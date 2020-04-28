@@ -6,7 +6,7 @@ They offer the following trading options:
 - [TFT-BTC](https://btc-alpha.com/exchange/TFT_BTC/)
 - [TFT-USD](https://btc-alpha.com/exchange/TFT_USD/)
 
-While BTC-Alpha supports buying ThreeFold Tokens with USD (second option here above), we recommend that you first acquire Bitcoins as indicated in [Buy ThreeFold Tokens from an online exchange](/how_to_buy/buy_from_exchange.md), and then exchange Bitcoins for ThreeFold Tokens (the first option here above).
+While BTC-Alpha supports buying ThreeFold Tokens with USD (second option here above), we recommend that you first acquire Bitcoins as indicated in [Buy ThreeFold Tokens from an online exchange](buy_from_exchange.md), and then exchange Bitcoins for ThreeFold Tokens (the first option here above).
 
 So once you have acquired Bitcoins, go through following steps to buy and sell ThreeFold Tokens using BTC-Alpha:
 - [Registration](#registration)
@@ -18,7 +18,7 @@ So once you have acquired Bitcoins, go through following steps to buy and sell T
 - [Withdraw TFT](#withdraw)
 - [Deposit TFT](#deposit-tft)
 
-> As indicated here below in the section [Withdraw TFT](#withdraw), we highly recommend that you also install the [ThreeFold App](/threefold_app.md) to keep your ThreeFold Tokens offline in your ThreeFold App wallet.
+> As indicated here below in the section [Withdraw TFT](#withdraw), we highly recommend that you also install the [ThreeFold App](threefold_app.md) to keep your ThreeFold Tokens offline in your ThreeFold App wallet.
 
 
 <a id='registration'></a>
@@ -135,7 +135,7 @@ On the main screen you will see several sections:
 
 To withdraw your ThreeFold Tokens from your online TFT wallet on BTC-Alpha go through the following steps:
 
-1. Make sure you have the ThreeFold app installed as documented in [Token Trade using the ThreeFold App](/threefold_app.md) and have the address of your ThreeFold App wallet copied, as documented in the [Receive tokens](/threefold_app.md#receive) section
+1. Make sure you have the ThreeFold app installed as documented in [Token Trade using the ThreeFold App](threefold_app.md) and have the address of your ThreeFold App wallet copied, as documented in the [Receive tokens](threefold_app.md#receive) section
 
 2. From the navigation menu under your profile name, go to the **Finance** section:
 

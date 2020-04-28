@@ -48,22 +48,22 @@
 
 # Images (need copywriting and selecting still)
 
-![image alt text](/token/img/simulation1.jpg)
+![image alt text](simulation1.jpg)
 
-![image alt text](/token/img/simulation2.jpg)
+![image alt text](simulation2.jpg)
 
-![image alt text](/token/img/simulation3.jpg)
+![image alt text](simulation3.jpg)
 
-![image alt text](/token/img/simulation4.jpg)
+![image alt text](simulation4.jpg)
 
-![image alt text](/token/img/simulation5.jpg)
+![image alt text](simulation5.jpg)
 
-![image alt text](/token/img/simulation6.jpg)
+![image alt text](simulation6.jpg)
 
-![image alt text](/token/img/simulation7.jpg)
+![image alt text](simulation7.jpg)
 
-![image alt text](/token/img/simulation8.jpg)
+![image alt text](simulation8.jpg)
 
-![image alt text](/token/img/simulation9.jpg)
+![image alt text](simulation9.jpg)
 
-![image alt text](/token/img/simulation10.jpg)
+![image alt text](simulation10.jpg)

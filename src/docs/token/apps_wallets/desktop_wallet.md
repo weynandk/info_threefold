@@ -6,11 +6,11 @@ Follow the steps below to set up your ThreeFold Wallet, and receive and send you
 
 ## Registration and login
 
-![](img/ThreeFold_dsk_reg_1.png)
+![](./img/threefold_dsk_reg_1.png)
 
 First step - click "New Account"
 
-![](img/ThreeFold_dsk_reg_2.png)
+![](./img/threefold_dsk_reg_2.png)
 
 1) Chain type - type of blockchain that you wanna to use
 2) Network - network of your wallet location
@@ -25,7 +25,7 @@ Here you can see your balances, create additional wallets
 
 ## Send Tokens
 
-![](img/ThreeFold_dsk_send.png)
+![](./img/threefold_dsk_send.png)
 
 1) Destination Adress - reciever wallet adress
 2) Amount - amount of ThreeFold tokens
@@ -36,7 +36,7 @@ Here you can see your balances, create additional wallets
 
 ## Receive Tokens
 
-![](img/ThreeFold_dsk_recieve.png)
+![](./img/threefold_dsk_recieve.png)
 
 1) Wallet - choose your wallet to get transaction
 2) Adress - aress of choosen wallet

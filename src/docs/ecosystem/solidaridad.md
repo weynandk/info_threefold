@@ -1,4 +1,4 @@
-![solidaridad logo](img/solidaridad-logo.jpg)
+![solidaridad logo](solidaridad_logo.jpg)
 
 
 # Solidaridad

@@ -1,4 +1,4 @@
-![kleos logo](img/kleos-logo.jpg)
+![kleos logo](kleos_logo.jpg)
 
 
 # Kleos

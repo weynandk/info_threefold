@@ -1,4 +1,4 @@
-![](img/tokenwiki.png)
+![](tokenwiki.png)
 
 # What are ThreeFold Tokens (TFT)?
 
