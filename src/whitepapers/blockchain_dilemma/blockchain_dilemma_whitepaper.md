@@ -1,13 +1,13 @@
 # The Blockchain Dilemma Problem
 
-# Introduction
+## Introduction
 
 Blockchain technology has the power to change the world of IT. There are  a huge number of new initiatives using blockchain technology around the world all chasing different use cases.   Some care little about the underlying technology but use blockchain-based projects and tokens/coins to get rich quick.
 
 In general there are two types of blockchains: proof of work blockchains and proof of stake blockchains. They differ in the way how they select who has created a truthful block securing a number of transactions (forever, as blockchains provide an immutable record of events). 
 
 
-# Blockchain Basics
+## Blockchain Basics
 
 A blockchain is as the word says a chain of blocks of information. As shown in the graphic below the “blocks” contain information on transactions.  Transactions are the transfer of value of a digital currency (token) from wallet A to wallet B.  The “chain” aspect comes is where a part of the information stored in a block is a link to the previous block (a unique number).  This is a very simple representation of what a blockchain is.
 
@@ -77,7 +77,7 @@ To make sure the one node that has solved the puzzle to match the difficulty lev
 
 The fact that the puzzle-solving includes historic block data and once a node is assigned to create the block and put it on a chain will not be able to use that block state for a period of time makes it very costly to try to tamper with the content of the block (and the next blocks).  
 
-# The Blockchain Dilemma Problem
+## The Blockchain Dilemma Problem
 
 Public and private blockchains have their specific advantages and disadvantages and are very good for specific use cases - but not all.  If we list the specifics of both we end up with a table like this:
 

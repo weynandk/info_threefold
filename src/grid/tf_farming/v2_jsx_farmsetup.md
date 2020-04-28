@@ -1,6 +1,6 @@
 # This document shows how to setup/migrate your ThreeFold Farm and 3Nodes to TF Grid 2.0 (JSX Version)
 
-**Summay**
+**Summary**
 
 - [Install 3SDK](#prerequisite-install-3sdk)
 - [Create a new farm using the 3SDK GUI](#create-your-farm-using-the-3sdk-gui)
