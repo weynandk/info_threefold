@@ -4,21 +4,14 @@
 
 # Threefold Tokenomics In 4 Easy Steps
 
-Step 1a. Farmer adds capacity to the grid
-
-Step 1b. Grid rewards farmer with TFT
-
-Step 2a. Farmer trades his TFT on an exchange
-
-Step 2b. Farmer gets other currencies in return.
-
-Step 3a. User sells currencies on an exchange
-
-Step 3b. User gets TFT in return.
-
-Step 4a. Grid provides Capacity to the user
-
-Step 4b. User pays the farmer for capacity with TFT. Part of the transaction goes to the foundation, a part gets burned.
+- Step 1a. Farmer adds capacity to the grid
+   - Step 1b. Grid rewards farmer with TFT
+- Step 2a. Farmer trades his TFT on an exchange
+   - Step 2b. Farmer gets other currencies in return.
+- Step 3a. User sells currencies on an exchange
+   - Step 3b. User gets TFT in return.
+- Step 4a. Grid provides Capacity to the user
+   - Step 4b. User pays the farmer for capacity with TFT. Part of the transaction goes to the foundation, a part gets burned.
 
 # Earning Tokens
 
@@ -83,7 +76,7 @@ Each ThreeFold Token is tied to underlying capacity. The valuation of the total 
 
 To evaluate the storage and compute capacity of the ThreeFold Grid, we use very low pricing compared to other cloud offerings in the current market.
 
-**Compute Unit (CU): 4 GB memory & 2 virtual CPU **
+**Compute Unit (CU): 4 GB memory & 2 virtual CPU**
 
     *  TF Simulation price = 8 USD
 
