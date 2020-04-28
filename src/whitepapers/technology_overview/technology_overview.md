@@ -46,7 +46,7 @@ For reliability of such infrastructure, the current model of deploying infrastru
 
 A newcomer in the IT space has been the rise of blockchain technology. Blockchain technology is seen as technology that can improve on the delivery of decentralized compute and storage capacity – but can it? Looking at the same aspect of what needs to improve for this exponential growth in data creation and storage, it certainly delivers on certain aspects, but does not cover all of the requirements. Two to mention are that most blockchain technologies: 1. are far from sustainable and 2. certainly not usable by all of us they require a certain amount of "nerdiness" to be able to drive and interact with them.
 
-![image alt text](./img/blockchain_dilemma.png)
+![image alt text](blockchain_dilemma.png)
 
 ## ThreeFold Paradigm Shift: Serverless Circular Architecture
 

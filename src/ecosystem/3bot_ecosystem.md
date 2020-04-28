@@ -1,4 +1,4 @@
-![3bot logo](3bot_logo.jpg)
+![3bot logo](./img/3bot_logo.jpg)
 
 # 3Bot
 
