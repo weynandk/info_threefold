@@ -10,19 +10,19 @@ Step 1b. Grid rewards farmer with TFT
 
 Step 2a. Farmer trades his TFT on an exchange
 
-Step 2b. Farmer gets other currencies in return.
+Step 2b. Farmer gets other currencies in return
 
 Step 3a. User sells currencies on an exchange
 
-Step 3b. User gets TFT in return.
+Step 3b. User gets TFT in return
 
 Step 4a. Grid provides Capacity to the user
 
-Step 4b. User pays the farmer for capacity with TFT. Part of the transaction goes to the foundation, a part gets burned.
+Step 4b. User pays the farmer for capacity with TFT. Part of the transaction goes to the foundation, no part gets burned anymore.
 
 # Earning Tokens
 
-The ThreeFold Token is developed in a way that it incentivizes the growth of the ThreeFold Grid. 
+The ThreeFold Token has developed in a way that it incentivizes the growth of the ThreeFold Grid. 
 
 Each farmer has two streams of TFT income:
 
@@ -63,15 +63,9 @@ This percentage equals 10% at the moment. After 24 months of farming, it will go
 
 ### To maximize the value of the ThreeFold Token (TFT) for all token holders, there is a 2 billion cap on the maximum amount of ThreeFold Token in circulation at all times. To make sure this TFT cap is adhered, the following mechanisms have been introduced:
 
-## Burning
-
-40-45% of the tokens for each Cultivation transaction will be burned. That means only the transactions where capacity users pay farmers for that capacity. Transactions that are made to other wallets, exchanges, etc are not subject to the burning of tokens.
-
-E.g. a farmer asks 100 TFT for a certain amount of capacity + timeframe. The user of this capacity will pay the full 100 TFT. The farmer receives 50% of this amount, as 40-45% is burned off, and 10-5% of the transaction also goes to the ThreeFold Foundation.
-
 ## Difficulty level
 
-As mentioned in the farming section of this wiki entry, the amount of farmed tokens a Farmer receives when putting capacity online is subject to the difficulty level. This difficulty level is there to ensure there won’t be an oversupply of tokens nor capacity. The more ThreeFold Tokens exist, the fewer Tokens are distributed through Farming. The burning mechanism ensures the difficulty level does not stay at a level where it's not profitable to farm. 
+As mentioned in the farming section of this wiki entry, the amount of farmed tokens a Farmer receives when putting capacity online is subject to the difficulty level. This difficulty level is there to ensure there won’t be an oversupply of tokens nor capacity. The more ThreeFold Tokens exist, the fewer Tokens are distributed through Farming. 
 
 # An Inclusive Market	
 
