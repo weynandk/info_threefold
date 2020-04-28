@@ -19,6 +19,9 @@ The ThreeFold Token is developed in a way that it incentivizes the growth of the
 
 Each farmer has two streams of TFT income:
 
+- farming 
+- cultivation
+
 ## Farming
 
 ### PROOF-OF-CAPACITY
@@ -33,26 +36,39 @@ The number of tokens the farmer earns is dependent on multiple factors:
 - Memory Capacity (RAM)
 - Storage Capacity (SSD/HDD)
 
-These factors combine to a Cloud Production Rate (CPR). The higher the CPR, the more tokens are earned.
+These factors combine to a Cloud Production Rate (CPR). 
 
+### Farming Tokens 
 
-### Grid Specs (This is the same for all farmers at every point in time)
+Defining parameters are:
 
+- The higher the CPR, the more tokens are earned.
+- The initial price of the CRP is put on 40 USD
 - Farming Difficulty (the actual difficulty factor determining how fast TFT’s are created through farming)
+
+- #TODO: kristof add more details
 
 ## Cultivation
 
 Anyone can run applications and workloads on top of the ThreeFold Grid. Capacity can be reserved from the Farmer who has made this capacity available on the ThreeFold Grid. This payment for capacity will be made in ThreeFold Tokens. Cultivation incentivizes farmers to create capacity where it is needed most by rewarding them when that capacity is used.
 
+### Farmers can define market price
+
+Farmers can define their own marker price of their capacity.
+They register this on the grid.
+
+There is a distinction between certified and do it yourself capacity.
+
 ### Support Of The Threefold Foundation 
 
 In order to promote the growth and development of the ThreeFold Grid, a percentage of all cultivation transactions goes to the ThreeFold Foundation.
 
-This percentage equals 10% at the moment.
+This percentage equals 10% at the moment and can be lowered after 24 months, but not defined at this point.
+In the simulator this has been kept on 10% to be conservative.
 
 ## Maximum Of Tokens In Circulation
 
-   To maximize the value of the ThreeFold Token (TFT) for all token holders, there is a 2 billion cap on the maximum amount of ThreeFold Token in circulation at all times. 
+To maximize the value of the ThreeFold Token (TFT) for all token holders, there is a 2 billion cap on the maximum amount of ThreeFold Token in circulation at all times. 
    
 To make this happen the difficulty level has been made variable in line with the amount of tokens in the field.
 
@@ -73,13 +89,13 @@ To evaluate the storage and compute capacity of the ThreeFold Grid, we use very 
 
 ### Compute Unit (CU): 4 GB memory & 2 virtual CPU
 
-    *  TF Simulation price = 15 USD
-    *  Market price = between 40 USD and 120 USD
+-  TF Simulation price = 15 USD
+-  Market price = between 40 USD and 120 USD
 
 ### Storage Unit (SU): 1TB of netto usable storage
 
-* TF Simulation price = 10 USD
-* Market price = between 20 USD and 120 USD
+- TF Simulation price = 10 USD
+- Market price = between 20 USD and 120 USD
 
 More details about CU and SU can be found here [Cloud Units](/grid/concepts/cloud_units.md)
 
