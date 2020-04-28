@@ -7,7 +7,7 @@
 
 
 # 3bot.md 
-3 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/3bot/3bot.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/ecosystem/3bot.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/grid/_beta/3bot.md"]
+4 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/3bot/3bot.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/ecosystem/3bot.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/grid/_beta/3bot.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/definitions_concepts/3bot.md"]
 
 
 # ethical_design_manifesto.md 
@@ -42,16 +42,16 @@
 2 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/concepts/grid/tfprice_farming.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/grid/concepts/tfprice_farming.md"]
 
 
-# flowgen.md 
-2 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/ecosystem/flowgen.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/partners/flowgen.md"]
-
-
 # solidaridad.md 
 2 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/ecosystem/solidaridad.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/partners/solidaridad.md"]
 
 
 # hpe.md 
 2 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/ecosystem/hpe.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/grid/tf_farming/farming_platforms/hpe.md"]
+
+
+# flowgen.md 
+2 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/ecosystem/flowgen.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/partners/flowgen.md"]
 
 
 # _beta.md 
@@ -140,16 +140,12 @@
 
 # ..md link 
 ..md is used but doesn't exist in the repo.
-# definitions_concepts.md link 
-definitions_concepts.md is used but doesn't exist in the repo.
 # storage_overhead.md link 
 storage_overhead.md is used but doesn't exist in the repo.
 # capacity_rules.md link 
 capacity_rules.md is used but doesn't exist in the repo.
 # performance.md link 
 performance.md is used but doesn't exist in the repo.
-# sdk_getting_started.md link 
-sdk_getting_started.md is used but doesn't exist in the repo.
 # s3_solution.md link 
 s3_solution.md is used but doesn't exist in the repo.
 # mailto:tibor.szpisjak@hpe.com link 
@@ -282,3 +278,15 @@ btc-alpha-withdraw.png is used but doesn't exist in the repo.
 btc-alpha-tft-deposit.png is used but doesn't exist in the repo.
 # btc-alpha-tft-deposit2.png img 
 btc-alpha-tft-deposit2.png is used but doesn't exist in the repo.
+# ic-benefits-01.png img 
+ic-benefits-01.png is used but doesn't exist in the repo.
+# ic-util-01.png img 
+ic-util-01.png is used but doesn't exist in the repo.
+# ic-util-02.png img 
+ic-util-02.png is used but doesn't exist in the repo.
+# ic-applelogo.png img 
+ic-applelogo.png is used but doesn't exist in the repo.
+# ic-androidlogo.png img 
+ic-androidlogo.png is used but doesn't exist in the repo.
+# ic-chaincore.png img 
+ic-chaincore.png is used but doesn't exist in the repo.

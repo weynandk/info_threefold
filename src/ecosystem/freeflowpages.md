@@ -1,4 +1,4 @@
-![freeflowpages logo](ffp_logo.jpg)
+![freeflowpages logo](./img/ffp_logo.jpg)
 
 # FreeFlowPages
 
