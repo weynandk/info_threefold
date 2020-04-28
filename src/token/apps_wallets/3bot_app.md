@@ -1,7 +1,3 @@
-
-![](3bot.png)
-
-
 # 3Bot Connect App
 
 ## Introduction

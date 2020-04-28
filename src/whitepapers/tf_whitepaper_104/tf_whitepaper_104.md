@@ -1,5 +1,4 @@
-<img src="img/Large-TFN-3.png" width="250">
-
+![alt text](img/large_tfn_3.png)
 
 **The ThreeFold Grid and Token**
 
@@ -284,7 +283,7 @@ The ThreeFold community is promoting this new Internet, and we need a lot of peo
 If your are interested in hosting capacity, or developing decentralized applications and or want to support the growth of ThreeFold Project, then TFT’s are for you.
 
 
-Please visit the ThreeFold website for more info [www.threefold.io](www.threefold.io). 
+Please visit the ThreeFold website for more info [www.threefold.io](https://www.threefold.io). 
 
 You can buy these tokens through digital exchanges or directly from the Farmers on the the ThreeFold Network. 
 

@@ -138,6 +138,7 @@ Wireguard based encrypted overlay network between any containers
 
 
 ![alt_text](./img/overlay_network.png)
+
  The Zero-nets are the overlay networks connecting all the containers. They can exit on multiple areas using the gateways. Here we called them web gateways but many types of access methods can be used (e.g. VPN technology or port forwarding). This allows for achieving full network and systems redundancy.
 
 In the above picture, any datacenter or network gateway can fall away, and the solution will still be available.

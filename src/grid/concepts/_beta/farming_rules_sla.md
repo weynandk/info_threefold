@@ -3,9 +3,9 @@
 [[TOC]]
 
 ## Updated Farmer/Capacity Types & Rules
-
+<!--- 
 ![image alt text](image_0.png)
-
+--->
 ### TF_Grid_Master Presentation
 
 [https://docs.google.com/presentation/d/1sN7nsvOMUHtEQKgilbHjfC364FJZDVKNLl9Fi8UAq3s/edit?zx=aufos5bcyiy4#slide=id.g467cd31a7b_0_13](https://docs.google.com/presentation/d/1sN7nsvOMUHtEQKgilbHjfC364FJZDVKNLl9Fi8UAq3s/edit?zx=aufos5bcyiy4#slide=id.g467cd31a7b_0_13)
@@ -41,8 +41,9 @@ Addressing scheme on the private network for farmers and farming equipment:
 Address http://<4 byte bot id>.<4 byte farmer id>.grid.tf/API/startcontainer
 
 **SLAs:**
-
+<!--- 
 ![image alt text](image_1.png)
+--->
 
 What SLAs are behind the different capacity types?
 
@@ -56,8 +57,9 @@ Certified:	min 99.00%
 
 Managed:	99.999% (sla as vm zos is running on)
 
+<!--- 
 ![image alt text](image_2.png)
-
+--->
 **New Farmer SLA proposal**
 
 <table>

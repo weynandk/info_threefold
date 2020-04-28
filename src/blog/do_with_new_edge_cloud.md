@@ -1,6 +1,6 @@
 # What can I do with the New Edge Cloud
 
-![Logo](img/what-can-i-do.jpg?raw=true "Logo")
+![Logo](img/what_can_i_do.jpg)
 ## Use cases of how the ThreeFold Edge Cloud can be used.
 
 ## Any Docker Service

@@ -1,24 +1,15 @@
 # TOKENOMICS WIKI
 
-![image alt text](./img/tokenomics_flow.jpg)
+![image alt text](./img/tokenomics_flow.png)
 
 # Threefold Tokenomics In 4 Easy Steps
 
-Step 1a. Farmer adds capacity to the grid
+Step 1. Farmers rent capacity to the ThreeFold Grid and get TFTs in return.
 
-Step 1b. Grid rewards farmer with TFT
+Step 2. Farmers exchange their tfts for other crypto or fiat currencies. Users exchange their fiat or crypto currencies for tfts.
 
-Step 2a. Farmer trades his TFT on an exchange
+Step 3. Users reserve capacity with tfts, they pay farmers and part goes to the foundation.
 
-Step 2b. Farmer gets other currencies in return
-
-Step 3a. User sells currencies on an exchange
-
-Step 3b. User gets TFT in return
-
-Step 4a. Grid provides Capacity to the user
-
-Step 4b. User pays the farmer for capacity with TFT. Part of the transaction goes to the foundation, no part gets burned anymore.
 
 # Earning Tokens
 

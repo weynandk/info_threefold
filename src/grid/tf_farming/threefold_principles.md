@@ -1,7 +1,7 @@
 ## ThreeFold Grid Concepts
-
+<!---
 ![](grid.png)
-
+--->
 ThreeFold Foundation is a nonprofit foundation which promotes a new global network of IT capacity. For more details see their website:  https://ThreeFoldtoken.com/. 
 
 ThreeFold Foundation has created a new digital token called ThreeFold Token (“TFT”). These TFTs are managed by the ThreeFold Blockchain (the “TF Chain”). The TF Chain can issue a maximum of 100 Billion TFTs. 

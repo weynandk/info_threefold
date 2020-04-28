@@ -1,6 +1,6 @@
 # Technology for a New Internet
 
-![Logo](img/neutral-internet.jpg?raw=true "Logo")
+![Logo](img/neutral_internet.jpg)
 ## Our technology breaks with the traditional IT model. The Edge internet needs a different approach.
 
 
