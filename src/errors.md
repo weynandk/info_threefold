@@ -14,10 +14,6 @@
 2 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/blog/ethical_design_manifesto.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/collaboration/values/ethical_design_manifesto.md"]
 
 
-# _readme.md 
-5 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/collaboration/agileprinciples/_readme.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/collaboration/freeflow_tools/_readme.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/collaboration/teal/_readme.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/collaboration/tools/_readme.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/grid/roadmap/_readme.md"]
-
-
 # stories.md 
 2 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/collaboration/freeflow_collaboration/stories.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/collaboration/stories.md"]
 
@@ -36,6 +32,14 @@
 
 # example.png 
 2 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/collaboration/img/example.png", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/grid/img/example.png"]
+
+
+# teal.md 
+2 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/collaboration/teal/teal.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/videos/explainer_videos/teal.md"]
+
+
+# _readme.md 
+2 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/collaboration/tools/_readme.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/grid/roadmap/_readme.md"]
 
 
 # tfprice_farming.md 
@@ -140,6 +144,22 @@
 
 # ..md link 
 ..md is used but doesn't exist in the repo.
+# agilerequirements.md link 
+agilerequirements.md is used but doesn't exist in the repo.
+# teamempowerement.md link 
+teamempowerement.md is used but doesn't exist in the repo.
+# changeisnotbad.md link 
+changeisnotbad.md is used but doesn't exist in the repo.
+# userinvolved.md link 
+userinvolved.md is used but doesn't exist in the repo.
+# fastbutnotfurious.md link 
+fastbutnotfurious.md is used but doesn't exist in the repo.
+# howtoeatanelephant.md link 
+howtoeatanelephant.md is used but doesn't exist in the repo.
+# doneisdone.md link 
+doneisdone.md is used but doesn't exist in the repo.
+# efikaextranet.md link 
+efikaextranet.md is used but doesn't exist in the repo.
 # storage_overhead.md link 
 storage_overhead.md is used but doesn't exist in the repo.
 # capacity_rules.md link 
@@ -168,10 +188,6 @@ mailto:info@mazraa.io is used but doesn't exist in the repo.
 tf_with_btc.md is used but doesn't exist in the repo.
 # www.threefold.io link 
 www.threefold.io is used but doesn't exist in the repo.
-# freeflow_tools.md link 
-freeflow_tools.md is used but doesn't exist in the repo.
-# agileprinciples.md link 
-agileprinciples.md is used but doesn't exist in the repo.
 # threefold_token.jpg?raw=true img 
 threefold_token.jpg?raw=true is used but doesn't exist in the repo.
 # myth-big-datacenters-are-efficient.jpg?raw=true img 
