@@ -16,7 +16,7 @@ If you need assistance contact ThreeFold support via the chat on www.threefold.i
 
 ## Prerequisite: Install 3SDK
 
-See the installation instruction to get yourself the 3SDK installed: [http://wiki.cloud.threefold.io/gettingstarted/sdk_install.html](http://wiki.cloud.threefold.io/gettingstarted/sdk_install.html)
+See the installation instruction to get yourself the 3SDK installed: [https://github.com/threefoldtech/jumpscaleX_core/blob/development/docs/3sdk/3sdk_install.md](https://github.com/threefoldtech/jumpscaleX_core/blob/development/docs/3sdk/3sdk_install.md)
 
 ## Create your farm using the 3SDK GUI
 
