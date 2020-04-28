@@ -1,8 +1,8 @@
 ![Liquid Exchange](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/liquid.png)
 
-# Liquid Exchange
+# Buy from Liquid Exchange (Available Mid-Late May)
 
-Liquid is a highly-reputable and highly-secure exchange and we are proud to have them as one of our initial listing partners.
+Liquid is a highly-reputable and highly-secure exchange and we are proud to have them as one of our initial listing partners. The TFT will be listed there in mid-to-late May. For now, you can get registered.
 
 ### How to Register
 1. [Visit Liquid](https://liquid.com)

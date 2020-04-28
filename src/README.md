@@ -1,5 +1,3 @@
-<img src="./wiki-intro.png">
-
 ## Welcome to the ThreeFold Foundation Wiki!
 
 This Wiki is a gathering of most of our created content in regards to the ThreeFold Foundation.

@@ -1,5 +1,5 @@
 
-![](3bot.png)
+![](img/3bot.png)
 
 
 # 3Bot Connect App
@@ -20,7 +20,7 @@ Follow the steps below to set up your 3Bot Connect wallet, and receive and send 
   To use the 3Bot Connect App you simply need to download the 3Bot Connect App available in the Appstore or Google Play Store. Folow the steps and register using your email address.
  ### Save the seed phrase in a safe place. In the future, it may help to restore your wallet in case your devise is lost.
 
-![](3bot_seed_phrase.jpg)
+![](img/3Bot_Seed_Phrase.jpg)
 
 Seed Phrase allows you to access and recover your wallet from any device. 
 We highly recommend write down your seed key on a paper and store it safely offline.
@@ -39,30 +39,50 @@ Finish this steps and choose your new pin, then confirm it and confirm your e-ma
 
 This is the Home Page of your 3Bot Connect App. From here you can open Social - [FreeFlow Pages](https://freeflowpages.com/) - open source social network hosted on ThreeFold decentralizde capacity. 
 
-![](3bot_home_page.jpg)
+![](img/3Bot_Home_Page.jpg)
 
 ## Wallet
 
 In this tab you can check your ThreeFold Tokens wallets and balances. You can copy your wallet address using the green "Copy" buttons for each specific wallet. Using the button in the bottom right side you can send or generate QR code to receive ThreeFold Tokens:
 
-![](./img/3but_wallet_1.jpg)
+![](img/3But_wallet_1.jpg)
+
+### How to get your wallet Address
+#### Step 1
+
+Click Wallet in the main nav bar at the bottom of the screen.
+
+![](img/homescreen_wallet.png)
+
+#### Step 2
+Click the wallet you would like to see the adress from (if you want to copy paste the address you can always use the green button with the white copy icon in the topright part of you wallet block)
+
+![](img/wallet_overview.png)
+
+#### Step 3
+Click the green button with the Info (i) icon in the top right part of your screen
+![](img/wallet_details.png)
+
+#### Step 4
+You can now see your wallet address.
+![](img/wallet_address.png)
 
 ### Generate QR Code to receive ThreeFold Tokens
 
 To recieve your ThreeFold Tokens you can copy your button or you have to fill next fields:
 
-![](./img/3but_wallet_2.jpg)
+![](img/3But_wallet_2.jpg)
 
 1) To - choose wallet that get transaction
 2) Amount - amount of TFT to get
 3) Message - message to transaction
 4) Generate QR - this button generate QR that you have to show
 
-![](./img/3but_wallet_3.jpg)
+![](img/3But_wallet_3.jpg)
 
 ### Send
 
-![](./img/3but_wallet_4.jpg)
+![](img/3But_wallet_4.jpg)
 
 1) From - choose your wallet with TFT to make transaction
 2) To - paste the reciever wallet adress
@@ -74,7 +94,7 @@ To recieve your ThreeFold Tokens you can copy your button or you have to fill ne
   
 In social tab you can join to our FreeFlow network, get actual news from official pages of ThreeFold communities. You can also create your own communities. Home page contains links to the specific ThreeFold communities. 
   
-![](./img/3but_social.jpg)
+![](img/3But_social.jpg)
 
 You can find available circles by pressing "My Spaces" -> and start typing a name or select from the proposed list.
 
