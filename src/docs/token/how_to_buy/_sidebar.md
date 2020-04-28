@@ -1,8 +1,0 @@
-* [Home](/)
-* [Token](/token/README.md)
-    * [Now: Over The Counter](/token/how_to_buy/tft_mazraa.md)
-    * [Apr 29: StellarX](/token/how_to_buy/tft_stellarx.md)
-    * [Apr 29: Interstellar](/token/how_to_buy/tft_interstellar.md)
-    * [Apr 29: Lobstr](/token/how_to_buy/tft_lobstr.md)
-    * [Mid-Late May: BTC Alpha](/token/how_to_buy/tft_btc_alpha.md)
-    * [Mid-Late May: Liquid](/token/how_to_buy/tft_liquid.md)
