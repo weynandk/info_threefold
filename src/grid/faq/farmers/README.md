@@ -1,8 +1,0 @@
-- [What type of farmers exist?](farmer_sizes.md)≈- [What type of farmers exist?](farmer_sizes.md)
-- [How do I compete as a farmer](compete.md)
-- [What about pricing conflicts](pricing_conflicts.md)
-- [How do farmers set capacity pricing?](capacity_pricing.md)
-- [Is there a default pricing for ThreeFold Grid capacity?](default_pricing.md)
-- [What about Return of Investment (RoI)](roi.md)
-- [What happens when hardware components are added to a existing 3Node?](hw_added_to_3node.md)
-- [How to set up your farm with multiple farming locations](how_to_multiple_farming_locations.md)

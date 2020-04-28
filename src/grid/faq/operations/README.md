@@ -1,1 +1,0 @@
-# Grid Operation FAQ
