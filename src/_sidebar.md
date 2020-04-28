@@ -47,7 +47,7 @@
       - [3Bot Connect App & Wallet](3bot_app.md)
       - [ThreeFold App](threefold_app.md)
 	- [Tokenomics](tokenomics.md)
-- [3Bot](3bot.md)
+- [3Bot](3bot_readme.md)
 	- [About 3Bot](about.md)
 	- [3Bot Features](features.md)
 	- [3Bot Technology](technology.md)
