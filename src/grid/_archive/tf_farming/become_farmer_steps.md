@@ -1,8 +1,8 @@
 # Three steps to become a ThreeFold farmer
 
-![](./img/farmers_defined.png)
+![](farmers_defined.png)
 
-![](./img/steps.png)
+![](steps.png)
 
 Below we discuss the three steps:
 
@@ -11,19 +11,19 @@ Next we provide an overview of the cost and returns per chosen engagement model.
 
 
 
-![](./img/step1.png)
+![](step1.png)
 
 
 
 
-![](./img/step2.png)
+![](step2.png)
 
 
 
 
-![](./img/step3.png)
+![](step3.png)
 
 
 
 
-![](./img/cost_and_return.png)
+![](cost_and_return.png)

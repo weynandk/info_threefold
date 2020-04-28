@@ -40,7 +40,7 @@ From the launch onwards any new capacity presented to the TF Grid will be treate
 
 Farmers mint tokens by dedicating hardware to the TF Grid.  Tokens are minted based on the amount of capacity that is presented to the grid.  The formula use to calculate the amount of minted tokens is as follows:
 
-![](./img/tfarming.png)
+![](tfarming.png)
 
 In which the variables are:
 
@@ -89,7 +89,7 @@ The farmer also needs to set the (or accept a TF Grid default ) exchange rate fo
 
 So a farmer can accept the default setting for the exchange rate, or set his own exchange rate.  The actual payment for capacity rental will be done in TFT's.  To calculate the
 
-![](./img/tcultivation.png)
+![](tcultivation.png)
 
  | Variable | Description |
  | -------- | ----------- |

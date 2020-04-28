@@ -77,7 +77,7 @@ We did the best estimates in this phase, this will improve as we get more data.
 
 ## Commercial Capacity Jan 2019
 
-![](./img/token_value_calc.png)
+![](token_value_calc.png)
 
 - This is an example list of x farmers
 - Each of them provide a certain amount of resource units
