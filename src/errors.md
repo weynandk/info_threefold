@@ -1,3 +1,94 @@
+<<<<<<< HEAD
+=======
+# many_to_many.png 
+2 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/3bot/img/many_to_many.png", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/whitepapers/true_decentralized_internet_system/img/many_to_many.png"]
+
+
+# technology.md 
+3 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/3bot/technology/technology.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/tech/technology/technology.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/token/technology/technology.md"]
+
+
+# 3bot.md 
+4 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/3bot/3bot.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/ecosystem/3bot.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/grid/_beta/3bot.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/definitions_concepts/3bot.md"]
+
+
+# ethical_design_manifesto.md 
+2 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/blog/ethical_design_manifesto.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/collaboration/values/ethical_design_manifesto.md"]
+
+
+# _readme.md 
+5 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/collaboration/agileprinciples/_readme.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/collaboration/freeflow_tools/_readme.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/collaboration/teal/_readme.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/collaboration/tools/_readme.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/grid/roadmap/_readme.md"]
+
+
+# stories.md 
+2 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/collaboration/freeflow_collaboration/stories.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/collaboration/stories.md"]
+
+
+# story_pitfalls.md 
+2 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/collaboration/freeflow_collaboration/story_pitfalls.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/collaboration/story_pitfalls.md"]
+
+
+# links.md 
+2 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/collaboration/freeflow_tools/_archive/links.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/collaboration/freeflow_tools/markdown_examples/links.md"]
+
+
+# ethical_design_1.png 
+2 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/collaboration/img/ethical_design_1.png", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/whitepapers/tf_whitepaper_104/img/ethical_design_1.png"]
+
+
+# example.png 
+2 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/collaboration/img/example.png", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/grid/img/example.png"]
+
+
+# tfprice_farming.md 
+2 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/concepts/grid/tfprice_farming.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/grid/concepts/tfprice_farming.md"]
+
+
+# solidaridad.md 
+2 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/ecosystem/solidaridad.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/partners/solidaridad.md"]
+
+
+# hpe.md 
+2 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/ecosystem/hpe.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/grid/tf_farming/farming_platforms/hpe.md"]
+
+
+# flowgen.md 
+2 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/ecosystem/flowgen.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/partners/flowgen.md"]
+
+
+# _beta.md 
+3 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/grid/_beta/_beta.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/grid/concepts/_beta/_beta.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/grid/cooperatives/_beta/_beta.md"]
+
+
+# presentations.md 
+2 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/grid/external_information/presentations.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/presentations/presentations.md"]
+
+
+# videos.md 
+2 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/grid/external_information/videos.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/videos/videos.md"]
+
+
+# pricing_conflicts.md 
+2 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/grid/faq/farmers/pricing_conflicts.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/token/faq/pricing_conflicts.md"]
+
+
+# legal.md 
+3 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/grid/faq/legal/legal.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/grid/legal/legal.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/legal/legal.md"]
+
+
+# faq.md 
+3 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/grid/faq/faq.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/tech/faq/faq.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/token/faq/faq.md"]
+
+
+# definitions.md 
+2 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/grid/legal/definitions.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/legal/definitions.md"]
+
+
+# termsconditions.md 
+2 times. in paths ["/home/xmonader/code/github/threefoldfoundation/info_threefold/src/grid/legal/termsconditions.md", "/home/xmonader/code/github/threefoldfoundation/info_threefold/src/legal/termsconditions.md"]
+
+
+>>>>>>> b7c18d5ddd8d56d1809262b25525430e2935e419
 # jupyter.md 
 2 times. in paths ["/root/code/github/threefoldfoundation/info_threefold/src/grid/peer2peer_storage_compute/tutorials/use_cases/examples/jupyter/jupyter.md", "/root/code/github/threefoldfoundation/info_threefold/src/grid/peer2peer_storage_compute/tutorials/jumpscale_sdk/jupyter.md"]
 
@@ -50,12 +141,24 @@
 2 times. in paths ["/root/code/github/threefoldfoundation/info_threefold/src/collaboration/freeflow_tools/markdown_examples/links.md", "/root/code/github/threefoldfoundation/info_threefold/src/collaboration/freeflow_tools/_archive/links.md"]
 
 
+<<<<<<< HEAD
+=======
+# ..md link 
+..md is used but doesn't exist in the repo.
+>>>>>>> b7c18d5ddd8d56d1809262b25525430e2935e419
 # storage_overhead.md link 
 storage_overhead.md is used but doesn't exist in the repo.
 # capacity_rules.md link 
 capacity_rules.md is used but doesn't exist in the repo.
 # performance.md link 
 performance.md is used but doesn't exist in the repo.
+<<<<<<< HEAD
+=======
+# s3_solution.md link 
+s3_solution.md is used but doesn't exist in the repo.
+# mailto:tibor.szpisjak@hpe.com link 
+mailto:tibor.szpisjak@hpe.com is used but doesn't exist in the repo.
+>>>>>>> b7c18d5ddd8d56d1809262b25525430e2935e419
 # farming_info.md link 
 farming_info.md is used but doesn't exist in the repo.
 # concepts.md link 
@@ -146,6 +249,7 @@ ic-applelogo.png is used but doesn't exist in the repo.
 ic-androidlogo.png is used but doesn't exist in the repo.
 # ic-chaincore.png img 
 ic-chaincore.png is used but doesn't exist in the repo.
+<<<<<<< HEAD
 # wallet-pin-300.jpg img 
 wallet-pin-300.jpg is used but doesn't exist in the repo.
 # wallet-settings.png img 
@@ -210,3 +314,5 @@ threefold_token.jpg?raw=true is used but doesn't exist in the repo.
 ethical-product-design.jpg?raw=true is used but doesn't exist in the repo.
 # neutral-internet.jpg?raw=true img 
 neutral-internet.jpg?raw=true is used but doesn't exist in the repo.
+=======
+>>>>>>> b7c18d5ddd8d56d1809262b25525430e2935e419
