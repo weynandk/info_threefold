@@ -117,7 +117,7 @@ We have created a user-friendly “IT as energy” solution, in which the Intern
 **Respect Ethical Design**
 
 
-![alt_text](ethical_design.png ':size=500')
+![alt_text](ethical_design.png)
 
 <!--- TODO: Review, links to Very Outdated information 
 
@@ -179,7 +179,7 @@ The TF Chain has been built using our [Rivine.io](https://github.com/rivine/rivi
 
 ThreeFold Tokens can be bought from ThreeFold Farmers or by means of Ripple, Ethereum or Bitcoin using the TF and/or Public Exchange. 
 
-![alt_text](./img/flow.png ':size=500')
+![alt_text](./img/flow.png)
 
 
 
@@ -189,7 +189,7 @@ ThreeFold Tokens can be bought from ThreeFold Farmers or by means of Ripple, Eth
 ThreeFold Farmers (“TF Farmer” or “Farmer”) are independent, individuals or entities who invest in IT equipment consisting of storage and compute servers (“Farming Pools”), thus becoming ThreeFold Nodes (“TF Nodes” or “Nodes”), that are connected to the TF Grid and are registered on the TF Chain. 
 
 
-![alt_text](./img/farming.png ':size=500')
+![alt_text](./img/farming.png)
 
 
 Each TF Node runs the ThreeFold software, which is the TF operating system = Zero OS, and TF Chain software. 
@@ -355,7 +355,7 @@ This technology consists of three major building blocks:
 
 
 <!---TODO: needs new image! --->
-![alt_text](./img/farming_business_model.png ':size=500')
+![alt_text](./img/farming_business_model.png)
 
 
 See  [http://flow.threefold.io](http://flow.threefold.io)  for lots of more info an also more technical information.

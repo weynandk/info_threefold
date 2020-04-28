@@ -45,6 +45,7 @@
 	- [FAQ](token_faq.md)
 	- [Wallets and Apps](apps_wallets.md)
       - [3Bot Connect App & Wallet](3bot_app.md)
+      - [TF Desktop Wallet](desktop_wallet.md)
       - [ThreeFold App](threefold_app.md)
 	- [Tokenomics](tokenomics.md)
 - [3Bot](3bot_readme.md)
