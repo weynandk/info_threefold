@@ -65,7 +65,8 @@ The result is a dramatic improvement in security, efficiency, and cost. There is
 
 ![image alt text](./img/tf_layers.png)
 
-## Capacity Layer
+<!-- tabs:start -->
+## **Capacity Layer**
 
 **Delivers the required capacity for your IT solution.**
 
@@ -79,9 +80,8 @@ Zero-OS nodes are installed wherever capacity is required (e.g. at a base statio
 
 This layer has no self-driving or self-healing capabilities – it is a layer of smart, efficient, and secure algorithms created with as little code as possible. The fewer lines of code the more security.
 
-## 
 
-## Autonomous Layer
+## **Autonomous Layer**
 
 **Self-Driving and Self-Healing IT technology allows 100% decentralization.**
 
@@ -93,7 +93,7 @@ This layer has no self-driving or self-healing capabilities – it is a layer of
 
 TF Tech’s solution allows for self-driving and self-healing workloads. This is possible because of an innovative decentralization technique. Each user or organization (e.g. company or department of the company) gets a digital avatar which we call a 3Bot. Example: each user in the 5G network will have his or her own 3Bot in complete safety and data privacy. The 3Bots are all registered on a modern type of phone book implemented using blockchain technology. This phone book allows all 3Bots to talk to each other (find each other) while securing communication (verify incoming traffic on authenticity and correctness). All these 3Bots run autonomously in the network created around them and in the base stations. There are no people involved to run this network and keep it operational. This is a very different way of thinking – it leads to much more security, efficiency, and higher performance. More specifically, this will lead to huge network savings and makes building large scale datacenters obsolete. The 3Bots know how to deploy IT and network capacity as required by the user or the company (self-driving) and they can also auto repair issues (self-healing). As an example, this technology can be used to implement any network service as required by a 5G operator.
 
-## Experiences Layer: from appcentric to experience centric.
+## **Experiences Layer**
 
 **Autonomous Decentralized Experience Layer.**
 
@@ -102,6 +102,9 @@ TF Tech’s solution allows for self-driving and self-healing workloads. This is
 **The result is 100% decentralized and any experience developer need 10x less time to develop.**
 
 The grid of 3Bots allows any experience to be developed with much more efficiency. With only two numbers, all information in the world can be addressed. The security is higher – for blockchain workloads, up to 50 times more network and storage efficiency can be achieved. The 3Bot API allows any chosen web technology (JavaScript frameworks) to very easily connect to the 3Bot for all backend services. This enables very easy creation of experiences (apps) for the 5G operator and end-users. This experience layer is delivered in the form of an SDK (System Development Kit) and has a lot of components pre-made like decentralized authentication, identity management, identity verification, video and audio conferencing, object storage, browser security (secure audited browser in browser technology), email services, and more.
+
+
+<!-- tabs:end -->
 
 # Is ThreeFold Technology 100% autonomous today?
 
@@ -127,10 +130,12 @@ Through a blockchain you define the workloads you want and it becomes reality.  
 The Autonomous layer is next and available for early adopters.
 
 # Technical Components
-
 ![image alt text](./img/components.png)
 
-## Zero-OS as the operating system for all workloads
+<!-- tabs:start -->
+
+
+## **Zero-OS**
 
 Zero-OS is a minimal operating system serving one single purpose: to make the hardware available to the autonomous layer. Zero-OS is a stateless operating system and is not installed on a storage device in the server. At boot time, the needed binaries and config files are made available over a secure network connection. The zero-footprint locally on the server simplifies administration work needed for these servers, enabling these servers to live anywhere.
 
@@ -138,7 +143,7 @@ In Zero-OS, the number of active components and therefore the complexity of the 
 
 Read more about the Zero-OS in [our capacity white paper](capacity_layer.md)
 
-## 3Bot = Your Digital Self
+## **3Bot = Your Digital Self**
 
 3Bot is the intelligent virtual alter ego which manages everything in our digital life, or the digital life of our company. The 3Bot makes it possible to run workloads in a fully autonomous manner.
 
@@ -164,14 +169,15 @@ Your Virtual IT System Administrator
 
 Read more about the 3Bot in [our autonomous white paper](autonomous_layer.md).
 
-## Jumpscale X: The automation platform which makes the 3Bot possible
+## **Jumpscale X**
 
-Jumpscale is an automation framework written in Python. It has been developed for more than a decade and originates from an automation product which was acquired by SUN Microsystems from Q-Layer, which was one of our previous companies. Our newest release is version 10, called JSX.
+**Jumpscale X**: The automation platform which makes the 3Bot possible
+Jumpscale is an automation framework written in Python . It has been developed for more than a decade and originates from an automation product which was acquired by SUN Microsystems from Q-Layer, which was one of our previous companies. Our newest release is version 10, called JSX.
 
 Jumpscale is the foundation for the autonomous layer. To get to autonomous operations, IT experts have to model IT architectures. These models have to describe all the components involved in creating the architecture (e.g. a container running a webserver, a container running a database server, and then all the required network paths between these two containers and the rest of the world). Once this description is complete and tested, it can be given to the autonomous layer which launches, monitors, and operates the architecture. Hence, autonomous IT.
 
-## BCDB = A Beyond Blockchain Database
-
+## **BCDB**
+**BCDB** = A Beyond Blockchain Database
 This is a highly-capable database (scalable, secure, etc.) incorporating all the features of modern blockchain technology.
 
 The blockchain database (BCDB) is a super-efficient database that uses blockchain technology to securely store and retrieve data. Blockchain principles like "always append" and “store data in an immutable manner” are key aspects of this database technology.
@@ -184,8 +190,8 @@ The BCDB is used in the 3Bot which means every user has his or her own Blockchai
 
 This technology component alone is significant enough to grow a big startup business on its own. Read more about the BCDB in [our autonomous white paper](autonomous_layer.md).
 
-## Rivine as blockchain for digital currencies
-
+## **Rivine**
+**Rivine** as blockchain for digital currencies
 We believe the current way that blockchains are created does not make them very suitable for data storage. That is why we have created the BCDB. We believe though that this type of technology is ideal as a store of value – in other words, serve as a digital ledger for digital currencies.
 
 We have built a new type of blockchain which is more efficient than most other blockchains. It does not require mining and is a blockchain specifically designed to be very efficient at storing value.
@@ -194,7 +200,7 @@ Any user of our solution can deploy his or her blockchain in a matter of minutes
 
 Read more about Rivine and the blockchain dilemma in [our autonomous white paper](autonomous_layer.md).
 
-## Zero-Store
+## **Zero-Store**
 
 The Zero-Store technology contains all the logic to store data in a reliable and effective manner over multiple devices in multiple geo-locations. Embedded in the software are basic storage primitives to process data before sending it to distributed devices, which are aimed at increasing the performance of searching, finding data, and securing data.
 
@@ -210,7 +216,7 @@ All of these primitives are configurable and you can decide how data will be pro
 
 Read more about our storage system in [our autonomous white paper](autonomous_layer.md).
 
-## Zero-DB
+## **Zero-DB**
 
 A highly-optimized storage technology which uses physical storage media like SSD or HDD. The technology has dedicated management processes per physical storage device, ensuring optimized usage parameters to maximize performance. 
 
@@ -232,7 +238,7 @@ Zero-DB technology is characterized by the following aspects:
 
 * Master/Slave replication
 
-## CORE-0 and CORE-X
+## **CORE-0 and CORE-X**
 
 **Core-0**
 
@@ -241,6 +247,7 @@ We call Core-0 the combination of all the low level components of Zero-OS. Each 
 **Core-X**
 
 Is the process manager for an individual container. Because of the secure nature of the 3Nodes, a direct connection from a user to a node is not possible, but Core-X allow users to connect to their own containers and manage the processes inside. It has a web interface as well as a REST interface. So, the containers can be managed both manually and programatically.
+<!-- tabs:end -->
 
 # Integrated Technology
 
