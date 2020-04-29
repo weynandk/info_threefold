@@ -24,4 +24,4 @@ Please note there is a mobile application called “liquid” which might be eas
 
 ### Now you are ready to buy tokens on Liquid!
 
-Once your registered, follow updated on our [Telegram Channel](https://t.me/threefoldnetwork) or in the [ThreeFold Forum](https://forum.threefold.io) to join the TLE & let’s get this party started!
+Once your registered, follow updated on our [Telegram Channel](https://t.me/threefoldnetwork) or in the [ThreeFold Forum](https://forum.threefold.io)
