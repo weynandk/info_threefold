@@ -1,15 +1,10 @@
-# How to buy the ThreeFold Token (TFT)
+* [Home](/)
 
-![](./img/token_internet.png)
+![](./img/token_values.png)
 
-### Available Now
-- [Direct from TF Farmer Mazraa With Credit Card](tft_mazraa.md)
-- [Direct from TF Farmer Mazraa With BitCoin](tft_with_btc.md)
-- [Interstellar](tft_interstellar.md)
-- [Lobstr](tft_lobstr.md)
-- [StellarX](tft_stellarx.md)
-
-### Available Mid-Late May: BTC Alpha Exchange
-- [From the exchange](tft_btc_alpha.md)
-### Available Mid-Late May: Liquid Exchange
-- [From the exchange](tft_liquid.md)
+- [Now: Over The Counter](tft_mazraa.md)
+- [Apr 29: StellarX](tft_stellarx.md)
+- [Apr 29: Interstellar](tft_interstellar.md)
+- [Apr 29: Lobstr](tft_lobstr.md)
+- [Mid-Late May: BTC Alpha](tft_btc_alpha.md)
+- [Mid-Late May: Liquid](tft_liquid.md)
