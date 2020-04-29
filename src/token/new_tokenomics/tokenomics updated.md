@@ -5,7 +5,7 @@
 
 A ThreeFold Token (TFT) is only created when compute and storage hardware is added to the ThreeFold Grid. We call this mechanism Proof of Capacity (PoC).
 
-The indivuduals or businesses contributing to the ThreeFold Grid by adding hardware nodes are the farmers of the compute and storage capacity and are rewarded in TFT.
+The indivuduals or businesses contributing to the ThreeFold Grid by adding hardware nodes are the farmers of the compute and storage capacity who are rewarded in TFT.
 
 The only way to rent the compute and storage capacity on the ThreeFold Grid is through TFT.
 
