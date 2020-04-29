@@ -1,0 +1,3 @@
+* [Home](/)
+* [Legal](legal.md)
+

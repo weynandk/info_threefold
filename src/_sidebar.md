@@ -127,3 +127,7 @@
 - [Presentation](conscioustech.md)
 - [Team](tf_team.md)
 - [Some Partners](partners.md)
+
+
+- [sdk](http://sdk.threefold.io/)
+
