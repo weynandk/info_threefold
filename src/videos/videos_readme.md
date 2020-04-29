@@ -16,6 +16,7 @@ Here you find a selection of cool & stylized animations guided by voice overs to
 * [Solving Blockchain's Dilemma](dilemma.md)
 * [ThreeFold Wallet Dos and Don'ts](wallet.md)
 * [ThreeFold Grid: Edge. The New Internet](edge.md)    
+* [Grid video](grid_video.md)
 
 **Community Calls & Updates**
 In this section we have listen some of our more current community calls and event session videos.
