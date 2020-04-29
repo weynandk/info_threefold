@@ -1,4 +1,3 @@
-- [Home](readme.md)
 - [Whitepapers](whitepapers.md)
   - [ThreeFold Whitepaper 1.0.4](tf_whitepaper_104.md)
   - [Technology Overview](technology_overview.md)
