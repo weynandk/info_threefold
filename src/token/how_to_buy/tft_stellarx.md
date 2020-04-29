@@ -1,29 +1,52 @@
-<!--- TODO: See if we can use includes soon, Original content is on SDK wiki --->
+# Buying TFT on Stellar X
 
+![image alt text](img/stellar_x_image_0.png)
 
-<img src=img/stellarx_logo.png width="450">
+## Step 1: Sign-up
 
-# Buying tokens on StellarX (Available April 29)
+Fill out your email address and tick the box to accept the terms of service and click continue to set your password
 
-StellarX is a free peer-to-peer marketplace (decentralized exchange) available on the Stellar Network. It offers trading for a range of assets, using stellar lumens (XLM) as the base currency.
+![image alt text](img/stellar_x_image_1.png)
 
-## How does this work?
-You can buy TFT only through Stellar Lumens (XLM), for now.
+![image alt text](img/stellar_x_image_2.png)
 
-- We have set up a trading bot on StellarX which sells TFT against XLM.
-- The price defined at the start is expressed in XLM but represents a value of 0.15 USD during the first month of the TLE. 
-- This will allow people to buy real TFT on Stellar with their own wallets.
-- On StellarX, people can buy TFT using different cryptoassets. The exchange mechanism allows to find a match with TFT, even if the trading pair is different than TFT/XLM. To do that, it combines trades between different pairs, up to 6 levels. 
-- Stellar TFT are provided by the Threefold Foundation, who can be recognized by the mentioned issuer code. 
+## Step 2: Confirm Email Address
 
-## Can I start trading with my TFChain TFTs ? 
-TFT as available on TFchain will be converted into Stellar TFTA, burned on TFChain with the conversion to the equivalent amount of TFTAs on Stellar. These TFTAs can then be converted 1:1 into Stellar TFT, but only progressively and under price conditions, to allow a smooth transition and avoid heavy price fluctuations. The conversion mechanism between TFTA and TFT is available as from June 2020 until end of 2020 in the 3Bot Connect app.
+![image alt text](img/stellar_x_image_3.png)
 
-## How do I get started?
-1. First, you'll need to get yourself one of the Stellar-compatible wallets listed [here](https://www.stellar.org/lumens/wallets).
+## Step 3: Saving the seedkeys to your wallet
 
-As an example, we have included how to get set up on two Stellar wallets:
-- [Lobstr: Desktop & App](tft_lobstr.md)
-- [Interstellar: PC-Based](tft_interstellar.md)
+**!! IMPORTANT !!** Stellar X and ThreeFold will never be able to recover these for you. This is the only way which you can use to ever recover your wallet if needed. KEEP THIS IN A SAFE PLACE, AND NEVER SHARE THIS WITH ANYBODY. 
 
-2. Next, you will need to trust TFT, which will be issued. Everything is credit on Stellar.
+Stellar X and ThreeFold cannot be held responsible for any loss funds by misplacing this seed key.
+
+To verify you have saved your seedkey Stellar X will ask you to re-enter your phrases.
+
+![image alt text](img/stellar_x_image_4.png)
+
+![image alt text](img/stellar_x_image_5.png)
+
+## Step 4: Fund your account with Lumens (XLM)
+
+Fund your account by sending XLM to the address shown or use the QR-code to do so.
+
+![image alt text](img/stellar_x_image_6.png)
+
+## Step 5: Find the TFT asset and start trading
+
+Type TFT into the searchbar at the top
+
+![image alt text](img/stellar_x_image_7.png)
+
+Create your order
+
+![image alt text](img/stellar_x_image_8.png)
+
+Wait for it to complete
+
+![image alt text](img/stellar_x_image_9.png)
+
+TFT now shows up in your wallet section (click wallet in top menu)
+
+![image alt text](img/stellar_x_image_10.png)
+
