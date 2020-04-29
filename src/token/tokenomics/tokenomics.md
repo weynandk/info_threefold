@@ -6,9 +6,11 @@
 
 Step 1. Farmers rent capacity to the ThreeFold Grid and get TFTs in return.
 
-Step 2. Farmers exchange their tfts for other crypto or fiat currencies. Users exchange their fiat or crypto currencies for tfts.
+Step 2. Farmers exchange their TFTs for other crypto or fiat currencies. Users exchange their fiat or crypto currencies for TFTs.
 
-Step 3. Users reserve capacity with tfts, they pay farmers and part goes to the foundation.
+Step 3. Users reserve capacity with TFTs, they pay farmers and part goes to the foundation.
+
+Step 4. Grid provides the reserved capacity to the user and the user can deploy the workload.		 
 
 
 # Earning Tokens
