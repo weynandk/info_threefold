@@ -7,7 +7,7 @@ A ThreeFold Token (TFT) is only created when compute and storage hardware is add
 
 The indivuduals or businesses contributing to the ThreeFold Grid by adding hardware nodes are the farmers of the compute and storage capacity and are rewarded in TFT.
 
-The only way to rent the compute and storage capacity on the ThreeFold Grid is through TFT.
+The only way to rent the compute and storage capacity on the ThreeFold Grid is through TFT. A potential capacity user pays TFT to the farmer and part of those TFT go to the ThreeFold Foundation for ThreeFold Grid development.
 
 ### Setting the Scene
 
