@@ -127,5 +127,5 @@
 	- [ThreeFold Capacity User](threefold_user.md)
 	- [ThreeFold Cloud Units](threefold_cloud_units.md)
 - [Presentation](conscioustech.md)
-- [Team](team.md)
+- [Team](tf_team.md)
 - [Some Partners](partners.md)
