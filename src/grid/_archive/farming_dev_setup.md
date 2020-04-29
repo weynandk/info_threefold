@@ -63,7 +63,7 @@ The result of your registration will be a JSON Web Token (JWT), which is your **
 
 On https://bootstrap.grid.tf click the **Assistant** button:
 
-![](./img/assistant.png)
+![](assistant.png)
 
 In **step 1** of the Zero-OS **Boot Generator Assistant** page select Zero-OS branch `Development`:
 

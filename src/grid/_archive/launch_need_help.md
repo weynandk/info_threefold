@@ -51,7 +51,7 @@ please put as text in this directory in this repo.
 
 Examples below
 
-![](./img/example_.png)
+![](example_.png)
 
 ![](example2.png)
 

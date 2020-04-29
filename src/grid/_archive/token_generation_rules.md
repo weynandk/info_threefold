@@ -1,6 +1,6 @@
 ## Token Generation Rules
 
-![](./img/farmer.png)
+![](farmer.png)
 
 A Farmer earns tokens in 2 ways:
 

@@ -1,4 +1,4 @@
-![image alt text](img/header_techoverview.png)
+![image alt text](./img/header_techoverview.png)
 
 # ThreeFold Technology Whitepaper: Technology Overview
 Author: Kristof de Spiegeleer
@@ -59,7 +59,7 @@ The solution: every person or organization becomes the center of their digital l
 
 The result is a dramatic improvement in security, efficiency, and cost. There is virtually no limit of scale to this approach. To allow the 3Bots to exist, a self-driving, self-healing IT system had to be created.
 
-![image alt text](img/circular_architecture_2.png)
+![image alt text](./img/circular_architecture_2.png)
 
 # The ThreeFold Layers
 

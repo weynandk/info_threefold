@@ -1,5 +1,5 @@
 # Open Source Technology
-![Logo](img/open_source_technology.jpg)
+![Logo](./img/open_source_technology.jpg)
 ## An overview of our technology components
 
 ### Open Source Components Overview

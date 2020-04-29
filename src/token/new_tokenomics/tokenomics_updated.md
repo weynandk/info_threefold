@@ -15,9 +15,9 @@ The ThreeFold Foundation set in alignment with the ThreeFold community the total
 
 Those 4 billion TFT allow farmers to ad 2 million hardware nodes to the ThreeFold Grid.
 
-![](img/2bnodes.png)
+![](./img/2bnodes.png)
 
-![](img/tftfarmed4b.png)
+![](./img/tftfarmed4b.png)
 
 
 ### ThreeFold's Market Potential
@@ -38,11 +38,11 @@ With the 2 million hardware nodes the ThreeFold farmer community plans to deploy
 
 Using a TFT price of 3 USD for this simulation the martket cap of the ThreeFold Grid would go up to almost 13 billion USD. That type market can brings the ThreeFold Nework into the to 20 most valued blockchain companies. ([Coingecko](https://www.coingecko.com/en))
 
-![](img/marketcap4b.png)
+![](./img/marketcap4b.png)
 
 At a for a hosting business realistic 30 times revenue valuation the ThreeFold Grid would generate 50 billion + in valuation. 
 
-![](img/valuationb4.png)
+![](./img/valuationb4.png)
 
 
 If you want to see more details on the simulation model and play around yourself click [here](https://sdk3.threefold.io/#/simulator_install)

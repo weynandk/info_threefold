@@ -1,4 +1,4 @@
-![alt text](img/large_tfn_3.png)
+![alt text](./img/large_tfn_3.png)
 
 **The ThreeFold Grid and Token**
 

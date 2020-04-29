@@ -1,7 +1,9 @@
 ## Token Overview
 
-### Overview Token Today
+- Max amount of tokens = 4 billion.
+- Today 800m Tokens have been farmed (mined)
 
+### Overview Tokens 28 April 2000
 
 | Type  |      Amount    | 
 |----------|:-------------:|
@@ -11,14 +13,14 @@
 |TFT Bootstrap Stellar |   5,000,000  | 
 | TOTAL AMOUNT OF TOKENS | 803,635,311 |
 
-![](img/tftoverview1.png)
+![](./img/tftoverview1.png)
+
+Appart from the 5m tokens, above tokens are not on Stellar network yet and cannot be exchanged.
 
 
+### Overview Tokens Total at May 4 2000
 
-
-### Overview Token at Launch
-
-![](img/tftlaunch.png)
+![](./img/tftlaunch.png)
 
 
 | Type | Amount| Blockchain |
@@ -28,14 +30,15 @@
 | TFT Foundation Locked | 110,000,000 | Rivine |
 |T FT Stellar: funding |30,000,000|TFT Liquid on Stellar: foundation funding|
 
+Only the 30m tokens will be on available on Stellar.
 
 
-### Overview Token On Stellar May
 
+### Overview Token On Stellar May 15 (date to be confirmed)
 
-![](img/tftmay.png)
+![](./img/tftmay.png)
 
-![](img/tftprojects.png)
+![](./img/tftprojects.png)
 
 
 

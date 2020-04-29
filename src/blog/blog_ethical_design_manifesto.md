@@ -1,5 +1,5 @@
 # Ethical Design Manifesto
-![Logo](img/ethical_product_design.jpg)
+![Logo](./img/ethical_product_design.jpg)
 ## How to create products in an ethical, human friendly way.
 
 ## Respect Human Rights
