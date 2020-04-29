@@ -5,6 +5,7 @@
 # Buying Tokens on Interstellar (Available April 29)
 
 Interstellar.exchange is a decentralized exchange that allows you to buy TFTs.
+**Keep in mind a decentralized exchange has no options to buy in with FIAT, you will always have to transfer digital currencies to your DEX wallet address to start trading.**
 
 ## Part 1: Create an account on interstellar.exchange
 
