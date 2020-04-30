@@ -48,10 +48,10 @@ For additional information, please refer to our official channels:
 
 [YouTube channel](https://youtube.com/c/ThreeFoldFoundation)
 
-[Facebook](https://facebook.com/ThreeFoldNetwork)
+[Facebook](https://facebook.com/ThreeFold.io)
 
 [LinkedIn](https://linkedin.com/company/threefold-foundation/)
 
-[Twitter](https://twitter.com/threefoldntwrk) 
+[Twitter](https://twitter.com/threefold_io) 
 
-[Announcement Telegram Group](https://t.me/threefoldnetwork)
+[Announcement Telegram Group](https://t.me/threefoldnews)

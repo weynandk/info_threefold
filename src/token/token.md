@@ -28,8 +28,7 @@ For additional information, please refer to our official channels:
 
 - YouTube channel: [youtube.com/c/ThreeFoldFoundation](https://www.youtube.com/c/ThreeFoldFoundation)
 
-
-- Facebook: [facebook.com/ThreeFoldNetwork](https://www.facebook.com/ThreeFoldNetwork)
+- Facebook: [facebook.com/ThreeFoldNetwork](https://www.facebook.com/ThreeFold.io)
 
 - LinkedIn: [linkedin.com/company/threefold-foundation/](https://www.linkedin.com/company/threefold-foundation/)
 

@@ -129,5 +129,5 @@
 - [Some Partners](partners.md)
 
 
-- [sdk](http://sdk.threefold.io/)
+- [SDK](http://sdk.threefold.io/)
 
