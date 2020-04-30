@@ -1,4 +1,4 @@
-# Buying TFT on Stellar X
+# Buying TFT on [StellarX](https://www.stellarx.com/)
 
 ![image alt text](./img/stellar_x_image_0.png)
 
@@ -16,11 +16,11 @@ Fill out your email address and tick the box to accept the terms of service and 
 
 ## Step 3: Saving the seedkeys to your wallet
 
-**!! IMPORTANT !!** Stellar X and ThreeFold will never be able to recover these for you. This is the only way which you can use to ever recover your wallet if needed. KEEP THIS IN A SAFE PLACE, AND NEVER SHARE THIS WITH ANYBODY. 
+**!! IMPORTANT !!** StellarX and ThreeFold will never be able to recover these for you. This is the only way which you can use to ever recover your wallet if needed. KEEP THIS IN A SAFE PLACE, AND NEVER SHARE THIS WITH ANYBODY. 
 
-Stellar X and ThreeFold cannot be held responsible for any loss funds by misplacing this seed key.
+StellarX and ThreeFold cannot be held responsible for any lost funds by misplacing this seed key.
 
-To verify you have saved your seedkey Stellar X will ask you to re-enter your phrases.
+To verify you have saved your seedkey StellarX will ask you to re-enter your phrases.
 
 ![image alt text](./img/stellar_x_image_4.png)
 

@@ -1,8 +1,7 @@
 <!--- TODO: See if we can use includes soon, Original content is on SDK wiki --->
-
 <img src=img/interstellar_logo.png width="450">
 
-# Buying Tokens on Interstellar (Available April 29)
+# Buying Tokens on [Interstellar](https://interstellar.exchange)
 
 Interstellar.exchange is a decentralized exchange that allows you to buy TFTs.
 **Keep in mind a decentralized exchange has no options to buy in with FIAT, you will always have to transfer digital currencies to your DEX wallet address to start trading.**
@@ -17,8 +16,9 @@ Interstellar.exchange is a decentralized exchange that allows you to buy TFTs.
 
 * Click through the 6 USPs of interstellar.exchange
 
-* Click Enter Account
-For Interstellar all you need to do is set a password. As the wallet will be linked to your device instead of an email address.
+* Click Enter Account.
+
+For Interstellar, all you need to do is set a password, as the wallet will be linked to your device instead of an email address.
 
 <img src=img/interstellar_enter_account.png width="900">
 
@@ -28,11 +28,11 @@ For Interstellar all you need to do is set a password. As the wallet will be lin
 
 ## Part 2: Create a wallet and adding funds to your account.
 
-* Choose If you want a Generate a Random or Custom wallet adress (we are going for a random one in this case).
+* Choose If you want a generate a random or custom wallet adress (we are going for a random one in this case).
 
 * **! DANGERZONE !** You are now presented with your Secret Key. Please follow all steps and read the procedures carefully.  Losing your key will most likely result in a loss of your funds. ThreeFold or Interstellar can’t help anyone restore accounts or the funds attached to them in any case!
 
-* You’re account is now created and you will have to send funds (digital currencies that run on the Stellar Blocklchain only  only) to one of the wallets attached to your account.
+* Your account is now created and you will have to send funds (digital currencies that run on the Stellar Blockchain only  only) to one of the wallets attached to your account.
 
 * We have funded our wallet with $408 or 10.000 XLMs for this manual as you can see these are now shown in the account overview.
 
@@ -69,7 +69,7 @@ Now that the account is set up and funded and you have the TFT asset listed in y
 
 <img src=img/interstellar_trade_1.png width="900">
 
-* You confirm the transaction and will get a succes message when it has gone through, plus a little bell will also ring.
+* You confirm the transaction and will get a success message when it has gone through, plus a little bell will also ring.
 
 * You now have TFTs in your wallet
 
