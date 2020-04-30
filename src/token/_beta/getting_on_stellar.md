@@ -51,9 +51,9 @@ You can also exchange TFTs with other tokens in a decentralized way, using Stell
 
 More info can be found [here](tft_stellarx.md).
 
-## Pay capacity
+## Pay for capacity
 
-Capacity on the Threefold Network can only be bought using tokens. These tokens are registered on the Stellar network. 
+Capacity on the Threefold Grid can only be bought using tokens. These tokens are registered on the Stellar network. 
 
 Two tokens can be used : 
 - TFT is the usual currency to be used for capacity reservation. 
@@ -61,7 +61,7 @@ Two tokens can be used :
 
 ## How to get FreeTFTs
 
-Every 3bot gives right to 1000 FreeTFTs, available to pay capacity on the Threefold network. 
+Every 3bot gives right to 1000 FreeTFTs, available to pay capacity on the Threefold Grid. 
 
 To claim your 1000 FreeTFT, go to the website and claim your tokens.
 
@@ -71,5 +71,5 @@ https://testnet.threefold.io/threefoldfoundation/stellar_faucet --->
 
 <b/> Remark: </b> 
 - only 1000 FreeTFTs are available per 3Bot. Moreover, also the number of 3Bots per user / phone number is limited.
-- FreeTFTs are only available to explore the Threefold Network, and have no long-term value. 
+- FreeTFTs are only available to explore the Threefold Grid, and have no long-term value. 
 - Getting Free TFT is currently only available on testnet, the website for production is coming soon. 

@@ -29,7 +29,7 @@ Over the last several years, ThreeFold has been developing decentralized datacen
 
 ### How to become a ThreeFold Farmer
 
-The process of becoming a TF Farmer is very straightforward. Anyone can join the TF Grid by downloading the ThreeFold Zero-OS operating system onto nodes and connecting them to the ThreeFold network. By doing so you will be an operator of a "micro datacenter" and earn TF Tokens. Anyone can become a TF Farmer, no matter the level of experience. Which means you can become an ‘AirBnB’ TF Farmer of the new, neutral internet which belongs to us all of us.
+The process of becoming a TF Farmer is very straightforward. Anyone can join the TF Grid by downloading the ThreeFold Zero-OS operating system onto nodes and connecting them to the ThreeFold Grid. By doing so you will be an operator of a "micro datacenter" and earn TF Tokens. Anyone can become a TF Farmer, no matter the level of experience. Which means you can become an ‘AirBnB’ TF Farmer of the new, neutral internet which belongs to us all of us.
 
 Internet Capacity produced by a node is registered on the TF Directory. The TF Directory is a public directory of global purchasers of Internet Capacity. There is no need to build a marketing plan/department or to promote your available capacity.
 

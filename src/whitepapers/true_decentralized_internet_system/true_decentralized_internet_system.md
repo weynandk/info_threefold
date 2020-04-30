@@ -438,7 +438,7 @@ One of our keys to success are our partnerships and we are very grateful that th
 
 *   FreeFlow Nation Website: [https://www.freeflownation.org](https://www.freeflownation.org)
 *   FreeFlow Nation Manifesto: [http://freeflowmanifesto.threefold.me](http://freeflowmanifesto.threefold.me)
-*   ThreeFold Network Website: [https://threefold.io/](https://threefold.io/)
+*   ThreeFold Website: [https://threefold.io/](https://threefold.io/)
 *   [ThreeFold Grid Whitepaper ](tf_whitepaper_104.md)
 *   [ThreeFold Technology Whitepaper](technology_overview.md)
     *   [Capacity Layer Whitepaper](capacity_layer.md)

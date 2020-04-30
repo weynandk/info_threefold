@@ -117,7 +117,7 @@
 	- [User Involvement](user_involvement.md)
 - [Definitions & Concepts](definitions_concepts.md)
 	- [ThreeFold Values](threefold_values.md)
-	- [ThreeFold Network](threefold_network.md)
+	- [ThreeFold](definition_threefold.md)
 	- [Autonomous Layer](autonomous_layer.md)
 	- [Capacity Layer](capacity_layer.md)
 	- [Experience Layer](experience_layer.md)

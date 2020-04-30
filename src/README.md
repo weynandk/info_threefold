@@ -1,4 +1,4 @@
-# ThreeFold Wiki
+# THREEFOLD WIKI
 
 ![](./img/intro_home.png)
 
@@ -13,7 +13,7 @@ In 2016, the United Nations officially declared Internet access to be a human ri
 
 Yet as of today, about 48% of humanity remains unconnected to the Internet, creating huge inequalities in the access to information and knowledge. It is important that the right steps are taken to improve the relationship between governments and citizens and to uphold all human rights.
  
-To make the new internet accessible and equal to all, ThreeFold Network built an infrastructure that is affordable to all and collectively owned by the network peers. To ensure a fair and equal distribution of the internet to everyone, fully sponsored capacity will be deployed in remote regions of our world. 
+To make the new internet accessible and equal to all, ThreeFold built an infrastructure that is affordable to all and collectively owned by the network peers. To ensure a fair and equal distribution of the internet to everyone, fully sponsored capacity will be deployed in remote regions of our world. 
 
 ## AUTONOMY | FOR EVERYONE
 
@@ -21,17 +21,17 @@ The Internet evolved to become the world's largest database of information and k
 
 The current approach of many governments and countries is to cut the Internet into pieces by limiting its accessibility and enforcing regulations. We need an internet that protects our digital freedom and fair access to global information for everyone, everywhere.
  
-ThreeFold Network’s internet is a peer-to-peer internet - owned by the users. All the technology of this new internet is open-source and the whole experience is built around the fundamentals of a peer-to-peer network. On this new internet, everyone owns their data and experiences - digital freedom.
+ThreeFold's internet is a peer-to-peer internet - owned by the users. All the technology of this new internet is open-source and the whole experience is built around the fundamentals of a peer-to-peer network. On this new internet, everyone owns their data and experiences - digital freedom.
 
-## A GREEN INTERNET | FOR our PLANET
+## A GREEN INTERNET | FOR OUR PLANET
 
 The current internet consumes about 10% of global energy production. With the imminent boom of emerging technologies such as Blockchain, Internet of Things, Virtual Reality, Artificial Intelligence and 5G, the Internet’s energy consumption is expected to increase exponentially. 
 
 The current industry solutions focuses on increasing the use of renewable energies to power data centers. However this is not a viable solution as data centers consume enormous amounts of energy. Therefore, a new solution that can drastically reduce the global internet’s energy consumption is needed. 
   
-The ThreeFold Network is the first true peer-to-peer Internet. It uses pioneering technologies that remove the need for centralized and power-hungry data centers, consumes 90% less energy, and uses 90% less international fiber network capacity. 
+ThreeFold brings the world the first true peer-to-peer Internet. It uses pioneering technologies that remove the need for centralized and power-hungry data centers, consumes 90% less energy, and uses 90% less international fiber network capacity. 
 
-## New To ThreeFold?
+## NEW TO THREEFOLD?
 
 Check out this video on how it all started and what we have accomplished already. 
 
@@ -40,7 +40,7 @@ Check out this video on how it all started and what we have accomplished already
 If you have any questions please join the discussions about ThreeFold on our [Forum](https://forum.threefold.io/).
 ThreeFold also has created a decentralized social media platform called [FreeFlowPages](https://www.freeflowpages.com) you are invited to create your profile there and follow our and other groups.
 
-## More online resources
+## MORE ONLINE RESOURCES
 
 For additional information, please refer to our official channels:
 

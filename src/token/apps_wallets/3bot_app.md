@@ -95,7 +95,7 @@ In social tab you can join to our FreeFlow network, get actual news from officia
 You can find available circles by pressing "My Spaces" -> and start typing a name or select from the proposed list.
 
 ## Support
-Here you can receive support on any questions related to the ThreeFold Network.
+Here you can receive support on any questions related to ThreeFold.
 
 ## Settings
 You can check your Secret Phrase here, change your pin code or remove your account in Advanced Settings tab.
