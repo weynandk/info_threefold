@@ -34,6 +34,8 @@
     - [Lobstr Wallet](tft_lobstr.md)
     - [StellarX](tft_stellarx.md)
 - [Videos](videos_readme.md)
+  - Launch Videos
+    - [ThreeFold Grid 2.0 Launch](threefold_grid_2.0.md)
   - [Explainer Videos](explainer_videos.md)
 	  - [The ThreeFold Story](tf_thestory.md)
 	  - [ThreeFold Farming Demystified](farming.md)
