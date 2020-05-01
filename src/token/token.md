@@ -1,9 +1,7 @@
 
-# ThreeFold Token
+![](img/token_internet.png)
 
-![](token_internet.png)
-
-## Main information
+## Information
 
 - [What](token_what.md)
 - [Why](token_why.md)
@@ -20,6 +18,8 @@
       - [BTC-Alpha](tft_btc_alpha.md)
       - [Liquid.com](tft_liquid.md)
 - [Tokenomics](tokenomics.md)
+
+![](img/token_fundementals.png)
 
 ## New to ThreeFold?
 
