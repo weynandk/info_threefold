@@ -7,4 +7,5 @@ A **VZW** has no shareholders only members.
 
 The VZW is based in a super old building in the middle of the town, it dates back from 1731.
 
-The **VZW** is hope to the [wisdom council](wisdom_council.md)
+The **VZW** is home to the [wisdom council](wisdom_council.md)
+
