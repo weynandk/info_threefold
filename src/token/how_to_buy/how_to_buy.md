@@ -1,23 +1,32 @@
 # How to buy the ThreeFold Token (TFT)
-
 ![](./img/token_internet.png)
 
-### Available Now
+> **IMPORTANT:**
+> TFT's are not an investment instrument <BR>
+> TFT's are the digital currency of the new internet. <BR>
+> With TFT's you can buy IT capacity or other internet services on the biggest peer2peer cloud in the world called ThreeFold Grid.
 
-- [Direct from TF Farmer Mazraa With Credit Card](tft_mazraa.md)
-- [Direct from TF Farmer Mazraa With BitCoin](tft_with_btc.md)
-- Stellar ecosystem
-    - [Interstellar](tft_interstellar.md)
-    - [StellarX](tft_stellarx.md)
-    - [Interstellar](tft_interstellar.md)
-    - [Lobstr (wallet)](tft_lobstr.md)
+### Stellar Ecosystem
 
- > **IMPORTANT:**
- > TFT's are not an investment instrument <BR>
- > TFT's are the digital currency of the new internet. <BR>
- > With TFT's you can buy IT capacity or other internet services on the biggest peer2peer cloud in the world called ThreeFold Grid.
+- [Interstellar](tft_interstellar.md)
+- [StellarX](tft_stellarx.md)
+- [Lobstr (wallet)](tft_lobstr.md)
 
-### Available Mid-Late May: Liquid & BTC Alpha Exchange
+There are many credit card options to buy XLM (the stellar native currency needed before you can buy a TFT, many take rather big fees).
 
+### Available From ThreeFold Farmers
+
+- [TF Farmer Mazraa With Credit Card](tft_mazraa.md)
+- [TF Farmer Mazraa With BitCoin](tft_with_btc.md)
+- [BetterToken](bettertoken.md)
+
+> You can buy TFT on any exchange, when you use TFT to buy capacity from a Farmer,
+> in  most jurisdictions VAT needs to be paid for e.g. in Europe normally 20-22%
+
+
+### Liquid & BTC Alpha Exchange
+
+- [liquid](tft_liquid.md)    
 - [btc alpha](tft_btc_alpha.md)
-- [tft liquid](tft_liquid.md)    
+
+> Available Mid-Late May
