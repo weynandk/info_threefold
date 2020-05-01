@@ -2,7 +2,7 @@
 # IT Systems Without People Involved Are the Future
 
 
-# Introduction
+## Introduction
 
 ## The "cost" of complexity in traditional IT
 
