@@ -1,15 +1,20 @@
 # 3Bot Connect App
 
+![alt](img/3bot_connect_4screens.jpg)
 ## Introduction
 
-3Bot is a revolutionary digital avatar that will execute your digital needs. It is an unprecedented leap in digital privacy and comes with all the functionalities you need to interact and exchange on the new Internet. With 3Bot, everything changes.
+3Bot Connect is a app that is more than just a wallet. It is:
+- A wallet to hold digital currencies
+- 100% private two factor authenticator
+- Mobile gateway to Freeflow pages
+- Mobile access to TF support chat
 
-Follow the steps below to set up your 3Bot Connect wallet, and receive and send your first ThreeFold Tokens:
+## Download
 
+3bot connect is avaible both iOS devices and Android devices.
 
-  ## Download
-  
-- see [wallet_3bot_connect](wallet_3bot_connect.md)
+[Download 3bot Connect for iOS](https://apps.apple.com/us/app/3bot-login/id1459845885)
+[Download 3bot Connect for Android](https://play.google.com/store/apps/details?id=org.jimber.threebotlogin&hl=en_US)
 
 ## Registration and login
   
