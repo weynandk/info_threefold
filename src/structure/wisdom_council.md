@@ -1,2 +1,0 @@
-# ThreeFold Wisdom Council
-

@@ -21,14 +21,9 @@ You are invited to contribute to this wiki by directly editing the sources files
 For additional information, please refer to our official channels: 
 
 - Website: [threefold.io](https://threefold.io) 
-
 - FreeFlowPages: [ThreeFold Foundation Space](https://freeflowpages.com/s/threefoldfoundation/)
-
 - FreeFlowPages: [ThreeFold Tokens Space](https://freeflowpages.com/s/tf-tokens/)
-
 - YouTube channel: [youtube.com/c/ThreeFoldFoundation](https://www.youtube.com/c/ThreeFoldFoundation)
-
 - Facebook: [facebook.com/ThreeFoldNetwork](https://www.facebook.com/ThreeFold.io)
-
 - LinkedIn: [linkedin.com/company/threefold-foundation/](https://www.linkedin.com/company/threefold-foundation/)
 

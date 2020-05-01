@@ -8,9 +8,9 @@
 | Type  |      Amount    | 
 |----------|:-------------:|
 | TFT Rivine |  590,635,311 |
-|TFT Foundation |    98,000,000   |
+| TFT Foundation |    98,000,000   |
 | TFT Foundation Locked | 10,000,000 | 
-|TFT Bootstrap Stellar |   5,000,000  | 
+| TFT Bootstrap Stellar |   5,000,000  | 
 | TOTAL AMOUNT OF TOKENS | 803,635,311 |
 
 ![](./img/tftoverview1.png)
