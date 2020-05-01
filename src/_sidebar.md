@@ -9,7 +9,6 @@
   - [The Capacity Layer](capacity_layer_image.md)
 - [Grid](grid.md)
   - [Why](grid_why.md)
-  - [What](grid_what.md)
   - [Farming](introduction.md)
       - [3Node Vendors](3node_vendors.md)
       - [DIY Farmer](become_a_diy_farmer.md)
@@ -31,11 +30,10 @@
     - [3bot connect](wallet_3bot_connect.md)
     - [Lobstr Wallet](tft_lobstr.md)
     - [StellarX](tft_stellarx.md)
+- [Launch Announcement]
+  - [29/04/2019 Grid 2.0 Launch](threefold_grid_2.0.md)
 - [Videos](videos_readme.md)
-  - Launch Videos
-    - [ThreeFold Grid 2.0 Launch](threefold_grid_2.0.md)
   - [Explainer Videos](explainer_videos.md)
-	  - [ThreeFold Token, Token for the New Internet](tft_intro.md)
 	  - [ThreeFold Technology Overview](tech.md)
 	  - [ThreeFold Token - How It Works](tft_howitworks.md)
 	  - [ThreeFold Technology Overview](tf_tech.md)
