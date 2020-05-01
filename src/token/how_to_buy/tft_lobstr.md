@@ -1,5 +1,10 @@
 # Buy TFT With A Lobstr Wallet
 
+Simple & Secure Stellar Wallet
+LOBSTR is a great way to get started with Stellar.
+Simple, smooth and secure, it has all what it takes to manage your Lumens wisely.
+Besides managing you Lumens Lobstr also allows buying tokens with a Credit Card.
+
 ## Step1 Create & Confm Your Account
 
 Download the Lobstr app from the [Appstore](https://apps.apple.com/us/app/lobstr-stellar-wallet/id1404357892) or [Google Play](https://play.google.com/store/apps/details?id=com.lobstr.client&hl=nl)

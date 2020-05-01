@@ -21,7 +21,7 @@ European Farming Cooperative for the foundation
 
 ## May 2020
 
-ThreeFold FZC becomes 100% daughter of our [not for profit ThreeFold VZW](threefold_vzw.md) in Belgium. This means BettertToken is 100% part of ThreeFold Foundation.
+BetterToken becomes 100% daughter of our [not for profit ThreeFold VZW](threefold_vzw.md) in Belgium. This means BettertToken is 100% part of ThreeFold Foundation.
 
 
 Somewhere in 2020, planning to rebrand the company to ThreeFold Europe.
