@@ -1,6 +1,6 @@
 ## ThreeFold Values
 
-ThreeFold has three main values or pillars :
+ThreeFold is driven by three main values or pillars :
 
 **Equality** | The Internet should be inclusive to all of humanity. We are building an Internet that is owned by many, can be deployed everywhere, and is accessible to all. Everyone should enjoy a fair return for their provided value. There is no reason for middlemen in a peer-to-peer economy.
 
