@@ -30,7 +30,7 @@
     - [3bot connect](wallet_3bot_connect.md)
     - [Lobstr Wallet](tft_lobstr.md)
     - [StellarX](tft_stellarx.md)
-- Launch Announcement
+- [Launch Announcement.md](launch_announcements.md)
     - [29/04/2019 Grid 2.0 Launch](threefold_grid_2.0.md)
 - [Videos](videos_readme.md)
   - [Explainer Videos](explainer_videos.md)
