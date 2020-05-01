@@ -2,7 +2,7 @@
 
 ![](title_slide_truly_decentralized.png)
 
-# Why buy ThreeFold Tokens (TFT)?
+# Why does ThreeFold need its own currency?
 
 
 ThreeFold Token (TFT) is not your average decentralized digital currency. TFT's are supported by a tangible underlying economy of autonomous and decentralized Internet infrastructure and services called the ThreeFold Grid (compute, storage, applications). The TFT is woven into the fabric of powering and securing the entire network and is driven by an autonomous network layer for a secure, globally scalable, low cost, peer to peer, and inclusive internet. 
