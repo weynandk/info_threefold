@@ -1,9 +1,9 @@
-## Token Overview
+# Token Distribution
 
 - Max amount of tokens = 4 billion.
 - Today 800m Tokens have been farmed (mined)
 
-### Overview Tokens 28 April 2000
+## Overview Tokens 28 April 2000
 
 | Type  |      Amount    | 
 |----------|:-------------:|
@@ -18,7 +18,7 @@
 Appart from the 5m tokens, above tokens are not on Stellar network yet and cannot be exchanged.
 
 
-### Overview Tokens Total at May 4 2000
+## Overview Tokens Total at May 4 2000
 
 ![](tftlaunch.png)
 
@@ -34,7 +34,7 @@ Only the 30m tokens will be on available on Stellar.
 
 
 
-### Overview Token On Stellar May 15 (date to be confirmed)
+## Overview Token On Stellar May 15 (date to be confirmed)
 
 ![](tftmay.png)
 

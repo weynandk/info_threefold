@@ -29,6 +29,7 @@
   - [Value](token_grid_valuation.md)
   - [Liquidity](token_liquidity.md)
   - [How To Buy](how_to_buy.md)
+  - [Token Distribution](token_overview.md)
   - [Tokenomics](tokenomics.md)
 - [Wallets](tf_wallets.md)
     - [3bot connect](wallet_3bot_connect.md)
