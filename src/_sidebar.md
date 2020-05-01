@@ -9,6 +9,7 @@
   - [The Capacity Layer](capacity_layer_image.md)
 - [Grid](grid.md)
   - [Grid Why](grid_why.md)
+  - [Grid What](grid_what.md)
   - [Farming](introduction.md)
       - [How to set up/migrate your farm](v2_jsx_farmsetup.md)
       - [HPE Farming Hardware](hpe.md)
