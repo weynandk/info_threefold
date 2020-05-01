@@ -30,6 +30,18 @@ The rules of farming see [farming rules v1](farming_rules_v1.md) have been appli
 
 Most of the servers are in Dubai and in Ghent Belgium.
 
-### what happened with these original tokens
+### what happened with the genesis pool tokens
+
+- most of them went to the original investors of the company who created a lot of the technology, one of the original investors was Kristof, most of these tokens are locked up and are not tradeable. This was a deal made mid 2018 and provided the ThreeFold foundation with technology and a global engineering team.
+- the other part went to ThreeFold Foundation, most of these tokens are locked up.
+
+Since part of the tokens have been used to
+
+- fund the day to day operation of the ThreeFold FVC.
+- fund some development projects for our opensource technology
+- fund the market launch for the current grid v2 launch
+- public exchange fees
+- operational costs of keeping the genesis pool operational (engineers, datacenter, bandwidth, ...)
+- reward for the ThreeFold larger community and contributors.
 
 
