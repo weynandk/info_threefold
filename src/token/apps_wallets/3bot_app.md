@@ -8,10 +8,10 @@ Follow the steps below to set up your 3Bot Connect wallet, and receive and send 
 
 
   ## Download
-  Download 3Bot from [3Bot.org website](https://3bot.org/3bot.html)
   
+- see [wallet_3bot_connect](wallet_3bot_connect.md)
 
-  ## Registration and login
+## Registration and login
   
   To use the 3Bot Connect App you simply need to download the 3Bot Connect App available in the Appstore or Google Play Store. Folow the steps and register using your email address.
  ### Save the seed phrase in a safe place. In the future, it may help to restore your wallet in case your devise is lost.

@@ -35,7 +35,7 @@ ThreeFold brings the world the first true peer-to-peer Internet. It uses pioneer
 
 Check out this video on how it all started and what we have accomplished already. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AAV4yYZ_P3k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="750" height="421" src="https://www.youtube.com/embed/AAV4yYZ_P3k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you have any questions please join the discussions about ThreeFold on our [Forum](https://forum.threefold.io/).
 ThreeFold also has created a decentralized social media platform called [FreeFlowPages](https://www.freeflowpages.com) you are invited to create your profile there and follow our and other groups.

@@ -1,12 +1,14 @@
 
 # ThreeFold Token
 
-![](ing/token_internet.png)
+![](token_internet.png)
 
 ## Main information
 
-- [What](what_are_tfts.md)
-- [Why](why_buy_tft.md)
+- [What](token_what.md)
+- [Why](token_why.md)
+- [Value](token_grid_valuation.md)
+- [Liquidity](token_liquidity.md)
 - [How To Buy](how_to_buy.md)
    - [Available Now](buy_now.md)
       - [With Credit Card](tft_mazraa.md)
@@ -24,10 +26,9 @@
 Below video is a little outdated but still usable, a new one will be created
 
 
-
 Watch the video on the [ThreeFold YouTube Channel](https://www.youtube.com/channel/UCKMNPuhs-8tHYfGd92krC8w)
 
 <div style="overflow:hidden;">
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/4exjbFvnGkk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="750" height="421" src="https://www.youtube.com/embed/4exjbFvnGkk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 

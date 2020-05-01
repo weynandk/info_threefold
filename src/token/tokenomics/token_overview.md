@@ -13,14 +13,14 @@
 | TFT Bootstrap Stellar |   5,000,000  | 
 | TOTAL AMOUNT OF TOKENS | 803,635,311 |
 
-![](./img/tftoverview1.png)
+![](tftoverview1.png)
 
 Appart from the 5m tokens, above tokens are not on Stellar network yet and cannot be exchanged.
 
 
 ### Overview Tokens Total at May 4 2000
 
-![](./img/tftlaunch.png)
+![](tftlaunch.png)
 
 
 | Type | Amount| Blockchain |
@@ -36,9 +36,9 @@ Only the 30m tokens will be on available on Stellar.
 
 ### Overview Token On Stellar May 15 (date to be confirmed)
 
-![](./img/tftmay.png)
+![](tftmay.png)
 
-![](./img/tftprojects.png)
+![](tftprojects.png)
 
 
 

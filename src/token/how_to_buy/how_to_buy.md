@@ -1,8 +1,23 @@
-* [Home](/)
-* [Token](token.md)
-    * [Now: Over The Counter](tft_mazraa.md)
-    * [Apr 29: StellarX](tft_stellarx.md)
-    * [Apr 29: Interstellar](tft_interstellar.md)
-    * [Apr 29: Lobstr](tft_lobstr.md)
-    * [Mid-Late May: BTC Alpha](tft_btc_alpha.md)
-    * [Mid-Late May: Liquid](tft_liquid.md)
+# How to buy the ThreeFold Token (TFT)
+
+![](./img/token_internet.png)
+
+### Available Now
+
+- [Direct from TF Farmer Mazraa With Credit Card](tft_mazraa.md)
+- [Direct from TF Farmer Mazraa With BitCoin](tft_with_btc.md)
+- Stellar ecosystem
+    - [Interstellar](tft_interstellar.md)
+    - [StellarX](tft_stellarx.md)
+    - [Interstellar](tft_interstellar.md)
+    - [Lobstr (wallet)](tft_lobstr.md)
+
+ > **IMPORTANT:**
+ > TFT's are not an investment instrument <BR>
+ > TFT's are the digital currency of the new internet. <BR>
+ > With TFT's you can buy IT capacity or other internet services on the biggest peer2peer cloud in the world called ThreeFold Grid.
+
+### Available Mid-Late May: Liquid & BTC Alpha Exchange
+
+- [btc alpha](tft_btc_alpha.md)
+- [tft liquid](tft_liquid.md)    

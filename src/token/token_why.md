@@ -35,36 +35,3 @@ High transaction volumes including a capacity to support microtransactions witho
 Low network fees along with high liquidity availability to help your initiative thrive, min fee 0.01 USD (1 cent).
 
 
-# How to purchase and store ThreeFold Tokens
-
-## Step 1. Download a ThreeFold Wallet
-
-### Before you do anything you will need to have a TFT wallet to send and receive TFTs.
-
-## iOS wallet ![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/ic-applelogo.png)
-
-A wallet that puts you in control of your funds and runs on your iPhone. We recommend people that are new to digital currencies to read the article about the ThreeFold App on our wiki first:
-
-[Wiki How-To](3bot_app.md)
-
-<a href="https://apps.apple.com/us/app/3bot-connect/id1459845885" target="_blank">Download 3Bot Connect For Iphone</a>
-
-
-## Android wallet ![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/ic-androidlogo.png)
-
-A Wallet that puts you in control of your funds and runs on your Android device. We recommend people that are new to digital currencies to read the article about the ThreeFold App on our wiki first:
-
-[Wiki How-To](3bot_app.md)
-
-<a href="https://play.google.com/store/apps/details?id=org.jimber.threebotlogin&hl=nl" target="_blank">Download 3Bot Connect For Android</a>
-
-## TFChain Core ![](https://raw.githubusercontent.com/threefoldfoundation/info_tokens/master/docs/img/ic-chaincore.png)
-
-This method is only recommended for technically skilled users. Core Client for ThreeFold Blockchain that can be run on Windows, OSX, Linux in a pre-configured Docker container.
-
-<a href="https://github.com/threefoldfoundation/tfchain" target="_blank">Download</a>
-
-## Step 2. Get ThreeFold Tokens
-
-Take a look at purchase options and guidance 
-[How to buy ThreeFold tokens](/docs/token/how_to_buy/index.html)
