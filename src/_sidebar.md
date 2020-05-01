@@ -7,6 +7,7 @@
   - [Edge Cloud not Grid Cloud?](edge_cloud_not_grid_cloud.md)
   - [The Autonomous Layer](autonomous_layer_whitepapers.md)
   - [The Capacity Layer](capacity_layer_image.md)
+  - [TF Whitepaper 1.0.4](tf_whitepaper_104.md)
 - [Grid](grid.md)
   - [Why](grid_why.md)
   - [Farming](introduction.md)

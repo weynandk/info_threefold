@@ -4,12 +4,9 @@
 
 **WHITEPAPER**
 
-**v 1.0.4 (Sept 2019)**
+**v 1.0.4 (This version is outdated. 1.0.5. is in the making)**
 
 # Abstract
-
-
-
 
 
 
