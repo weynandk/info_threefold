@@ -19,9 +19,8 @@
 ## Registration and login
   
   To use the 3Bot Connect App you simply need to download the 3Bot Connect App available in the Appstore or Google Play Store. Folow the steps and register using your email address.
+ 
  ### Save the seed phrase in a safe place. In the future, it may help to restore your wallet in case your devise is lost.
-
-![](3bot_seed_phrase.jpg)
 
 Seed Phrase allows you to access and recover your wallet from any device. 
 We highly recommend write down your seed key on a paper and store it safely offline.
