@@ -7,7 +7,7 @@ This Wiki is a gathering of most of our created content in regards to the ThreeF
 It features the way we work together, our definitions, our tools, presentations and much more for you to read and learn about.
 
 
-## INTERNET ACCESS | A HUMAN RIGHT
+## Internet Access | A Human Right
 
 In 2016, the United Nations officially declared Internet access to be a human right. The right to internet access aims to protect people’s freedom of expression and opinion, as well as other fundamentals such as access to knowledge and information. 
 
@@ -15,7 +15,7 @@ Yet as of today, about 48% of humanity remains unconnected to the Internet, crea
  
 To make the new internet accessible and equal to all, ThreeFold built an infrastructure that is affordable to all and collectively owned by the network peers. To ensure a fair and equal distribution of the internet to everyone, fully sponsored capacity will be deployed in remote regions of our world. 
 
-## AUTONOMY | FOR EVERYONE
+## Autonomy | For Everyone
 
 The Internet evolved to become the world's largest database of information and knowledge, opening up exponential growth on personal, organizational and economic levels. Yet it is owned by large international companies that exploits users data. 
 
@@ -23,7 +23,7 @@ The current approach of many governments and countries is to cut the Internet in
  
 ThreeFold's internet is a peer-to-peer internet - owned by the users. All the technology of this new internet is open-source and the whole experience is built around the fundamentals of a peer-to-peer network. On this new internet, everyone owns their data and experiences - digital freedom.
 
-## A GREEN INTERNET | FOR OUR PLANET
+## A Green Internet | For Our Planet
 
 The current internet consumes about 10% of global energy production. With the imminent boom of emerging technologies such as Blockchain, Internet of Things, Virtual Reality, Artificial Intelligence and 5G, the Internet’s energy consumption is expected to increase exponentially. 
 
@@ -31,7 +31,7 @@ The current industry solutions focuses on increasing the use of renewable energi
   
 ThreeFold brings the world the first true peer-to-peer Internet. It uses pioneering technologies that remove the need for centralized and power-hungry data centers, consumes 90% less energy, and uses 90% less international fiber network capacity. 
 
-## NEW TO THREEFOLD?
+## New To ThreeFold?
 
 Check out this video on how it all started and what we have accomplished already. 
 
@@ -40,7 +40,7 @@ Check out this video on how it all started and what we have accomplished already
 If you have any questions please join the discussions about ThreeFold on our [Forum](https://forum.threefold.io/).
 ThreeFold also has created a decentralized social media platform called [FreeFlowPages](https://www.freeflowpages.com) you are invited to create your profile there and follow our and other groups.
 
-## MORE ONLINE RESOURCES
+## More Online Resources
 
 For additional information, please refer to our official channels:
 

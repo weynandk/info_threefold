@@ -1,6 +1,6 @@
 # Buy TFT With A Lobstr Wallet
 
-## Step1 Create & Confrim Your Account
+## Step1 Create & Confm Your Account
 
 Download the Lobstr app from the [Appstore](https://apps.apple.com/us/app/lobstr-stellar-wallet/id1404357892) or [Google Play](https://play.google.com/store/apps/details?id=com.lobstr.client&hl=nl)
 And Create your account in the app and confirm your email address.![image alt text](./img/lobstr_create_account.jpg)

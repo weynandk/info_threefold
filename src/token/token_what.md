@@ -10,7 +10,7 @@ The ThreeFold Token represents a unit of reservation of autonomous Internet capa
 
 We are truly the token of the new internet.
 
-![](img/token_working.png)
+![](token_working.png)
 
 
 # ThreeFold Token 101

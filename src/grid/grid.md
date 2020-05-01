@@ -1,4 +1,4 @@
-![](./img/grid_header.jpg)
+![](./img/grid_header.png)
 
 # ThreeFold Grid (TF Grid)
 

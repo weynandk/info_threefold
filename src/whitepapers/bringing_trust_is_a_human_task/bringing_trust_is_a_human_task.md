@@ -1,9 +1,8 @@
 # Bringing trust is a human task, not a blockchain one
 
-
 ## Blockchain is just a tool (but a pretty powerful one)
 
-# A little history on blockchain technology 
+### A little history on blockchain technology 
 
  
 
