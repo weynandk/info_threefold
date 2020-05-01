@@ -16,7 +16,7 @@
       - [How to set up/migrate your farm](v2_jsx_farmsetup.md)
       - [HPE Farming Hardware](hpe.md)
       - [Configure the TFT wallet address of your farm](configure_wallet.md)
-  - [Concepts](grid_concepts.md)
+  - [Grid Concepts](grid_concepts.md)
       - [Cloud Units](cloud_units.md)
       - [Resource Units](resource_units.md)
       - [TF Period](farming_period_definition.md)
