@@ -1,4 +1,4 @@
-## There are 4 different wallet options for the TFT:
+## There are 3 different wallet options for the TFT:
 
 ### 1. [3Bot Connect App](3bot_app.md)
 

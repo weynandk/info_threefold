@@ -123,6 +123,5 @@
 - [Team](tf_team.md)
 - [Partners](partners.md)
 - [Promotion Material](promotion.md)
-
 - [SDK](http://sdk.threefold.io/)
 
