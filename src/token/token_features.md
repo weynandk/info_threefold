@@ -22,4 +22,4 @@ By buying, holding, and utilizing TFTs, you are actively supporting the expansio
 
 ![](limitedsupply.png)
 ### Limited Supply
-While the ThreeFold Grid can expand, a maximum of 2 Billion TFTs can be in circulation. This limit ensures stability of value and incentivization for all stakeholders.
+While the ThreeFold Grid can expand, a maximum of 4 Billion TFTs can be in circulation. This limit ensures stability of value and incentivization for all stakeholders.
