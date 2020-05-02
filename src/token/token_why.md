@@ -15,3 +15,6 @@ The vast [ecosystem](info_threefold\src\partners.md) that we are creating would 
 You can learn more about the history of TFT here. (Needs link to genesis pool)
 
 
+
+
+Important not: TFT’s are not an investment instrument.
