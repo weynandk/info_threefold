@@ -1,96 +1,61 @@
-# Open Source Technology
+# Open Source Technology sets the foundation for a better future
 ![Logo](./img/open_source_technology.jpg)
-## An overview of our technology components
+##### Open source technolgy ensures the knowledge enters the public domain and protects information sharing and further innovation possibilities.
 
-### Open Source Components Overview
+### ThreeFold open source components overview
 
-The following components are used to build our grid and deliver unequivalent benefits in power optimization, performance & scale.
+The following components are used to build the ThreeFold Grid and deliver unequivalent benefits in power optimization, performance & scalability.
 
 - [Jumpscale  = Automation Framework](https://github.com/threefoldtech/jumpscaleX_threebot)
 - [Distributed OS = Zero-OS](https://github.com/zero-os)
-- [Neutral identity management](https://github.com/itsyouonline)
-- [More Scalable Blockchain](https://github.com/rivine)
+- [Neutral Identity Management](https://github.com/itsyouonline)
+- [Solving the Blockchain Dilemma](https://github.com/rivine)
 
 ### Open Source Architecture Components
 
-#### Zero-OS
-
-True Distributed OS
-Managed By Our Zero-OS Controller
-
-It is a very different type of OS
-
-- No more local filesystems
-- No more a volume driver
-- No more local packages, software installations..
-- No terminal (like ssh, ...)
-
-Zero OS Components
-
+**Zero-OS**: A truly distributed OS managed by ThreeFold's Zero-OS controller. It is a very different type of OS that removes the need for local filesystems, volume drivers, local packages, software installations and terminals (like ssh, ...). The Zero OS Components consists of:
 - Zero-OS core (replacement of systemd, kernel boots this first process)
 - Zero-OS filesystem (virtual filesystem for Zero-OS, OS files are not installed on local storage)
 - Zero-OS vDisk (virtual Disks running 0-OS FS)
 - Zero-OS cockpit (AYS - self-healing, jumpscale portal, restAPI, Telegram interface)
 - Zero-OS CLI - command line tools
 
-see https://github.com/zero-os
+To dive deeper into Zero-OS open-source - click [here](https://github.com/zero-os)
 
 
-#### Zero Storage (part of Zero-OS)
-
-- Easy to use
-- 1 IT person can manage 100 Petabyte
-- Dense & Environmentally friendly
+**Zero Storage** (part of Zero-OS): An easy to use and ultra reliable storage system. It is dense and environmentally friendly. It can make use of conventional disks for storage and manage multi data centers with a single namespace. It is not based on replication and makes backup obsolete. Even in the unlikely case of a node going down, datsa remains available. Quite a revolution for self-healing IT systems. 
+- One IT expert can now manage 100 PB of data.
 - 5PB in 1 rack for archive
-- Using conventional disks for storage
 - Super scale out 50+ PB
-- Multi datacenter with single namespace
-- Not based on replication
-- Can lose datacenters, data remains available
 - Ultra high performance 100-250.000 IOPS per node (depends on HW)
-- Ultra reliable
-- Replication & backup obsolete
-- Space efficient 2-3x better than alternatives (NAS & Archive)
-- Self-healing
+- Makes storage space efficient - 2-3x better than alternatives (NAS & Archive)
 
- see https://github.com/zero-os
+To dive deeper into Zero Storage open-source - click [here](https://github.com/zero-os)
 
-#### Cockpit (= Jumpscale / At Your Service)
-
-- Enables anyone to design and deploy virtual datacenters in minutes
-- Open source, free of charge software
+**Cockpit** (Also known as Jumpscale / At Your Service): Was created to enable anyone to design and deploy virtual datacenters in minutes. It is a free of charge software and runs on any Zero-OS to eliminate layers of complexity. Making use of autonomated technology, you are always assisted.
 - Comprehensive: human readable, easy to learn format
 - No more complicated technical oriented configuration files
 - No networking, virtualization or storage expertise required
 - Concentrate on business process automation, not IT
-- Runs on any Zero-OS, eliminating layers of complexity
 - With ready-to-deploy blueprints available off-the-shelf
 - Blueprint marketplaces
 - Manage full IT lifecycles leveraging container technology
 - Grow, add, distribute, and destroy capacity when needed
 - No downtime: Change and upgrades are immediate
-- Design Intelligence: Robots and algorithms assist you
 
-#### TF Chain (Rivine based blockchain)
+To dive deeper into Jumpscale open-source - click [here](https://github.com/threefoldtech/jumpscaleX_core)
 
-- Proof Of Stake Blockchain = Sustainable
+**ThreeFold Chain (Rivine)**: The sustainable proof of stake blockchain created by ThreeFold that combined with other components tackles the blockchain dilemma.
 - Smart contracts
 - Low transaction fees
-- Supports atomic swap
+- Supports atomic swaps
 - Used to reserve capacity on the TF Grid
 
-see https://github.com/threefoldfoundation/tfchain
+To dive deeper into ThreeFold Chain open-source - click [here](https://github.com/threefoldfoundation/tfchain)
 
-#### ItsYou.Online
+**ItsYou.Online**: To enable a neutral identity management system that is safe from hacking or compromising (e.g. Blockchain proof-of-work). It features the following characteristics.
+- Real Peer-to-Peer distribution
+- Blockchain protected
 
-Need a neutral identity management system?
-No hacking or compromising: e.g. Blockchain proof-of-work
+To dive deeper into ItsYou.Online - click [here](https://github.com/itsyouonline)
 
-features:
-
-
-- Peer-to-Peer Distributed
-- Blockchain Protected
-
-
-https://github.com/itsyouonline
