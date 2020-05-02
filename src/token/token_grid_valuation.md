@@ -37,6 +37,8 @@ The current growth rates only reflect the increasing demand through IoT, AI, aut
 ## The potential of the ThreeFold Grid
 The ThreeFold Grid is designed to be peer to peer, close to the user and does not need a high-end datacenter to live in. (Learn more about the ThreeFold Grid  [here](\grid\grid.md))
 This means with our technology we can bring internet capacity - compute and storage - to the 3 billion people who have no access to it so far on our planet.
+Developers that deploy their applications and workloads on the ThreeFold Grid enjoy are variety of benefits like [Smart Contract for IT](capacity_layer.md), which enables blockchain-like transparency and transparency. Their users are empowered to own 100% of their data through [3bot](info_threefold\src\3bot),  another defining part of ThreeFolds technology.
+These technological advantages are unique selling points that will lead to faster adoption of the ThreeFold Grid.
 
 Considering the described global existing market, a 10% share of the current public cloud market of 500 billion USD by 2025 is realistic. 
 This would translate to a demand 50 billion USD to utilize the capacity of the ThreeFold Grid. Our simulations show that this capacity requires about 75 million [3nodes](grid\types_of_capacity.md) to be deployed on the ThreeFold Grid globally. 
