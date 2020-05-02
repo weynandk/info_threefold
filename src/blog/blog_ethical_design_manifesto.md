@@ -1,34 +1,34 @@
-# Ethical Design Manifesto
+# Human and Planet First Manifesto
 ![Logo](./img/ethical_product_design.jpg)
-## How to create products in an ethical, human friendly way.
+##### Creating solutions that respect humanity and the planet
 
-## Respect Human Rights
+### Respect Human Rights
 
-- Sustainable = green (our world needs some help)
-- Available for all: which also means affordable, not owned by a big company with as purpose greed
-- Decentralized: make sure technology is available everywhere
-- Open & Interoperable: allow technology to work together in an open way
-- Accessible: easy to access, fast enough, everywhere in the world
-- Secure & Private: your privacy is a right
+- **Sustainability**: It is important for a very simple reason: we cannot maintain our quality of life as human beings, the diversity of life on our planet, or Earth's ecosystems unless we embrace and protect it's balance.
+- **Equality**: Everyone should have a right to learn, dream, partake and succeed. Equal access also means affordable, not owned by big greedy companies.
+- **Decentralization**: To better distribute power, value and opportunities - we need more decentralization. Technologies and solutions should be available everywhere to improve equality and sustainability. 
+- **Opennes & Interoperability**: allows technologies to work together in an open way, without limitation, and therefore expands the possibilities for innovation and sharing.
+- **Accessibility**: Whatever the location or situation, poeple should benefit from easy and fast access information and solutions.
+- **Security & Privacy**: Protect people from being put in situations of danger or exploitation. People should be empowered to be indendent and they should be the sole owners of their experiences.
 
-##  Respect Human Effort
+###  Respect Human Effort
 
-- Make sure technology is reliable and lasts longer (no need to replace in 5 years)
-- Avoid Complexity (KIS - keep it simple): no unnecessary complexity
-- LESS = MORE (do less to achieve more)
-- Let people/companies work together in a 100% transparent way
+- **Reliability**: To make sure technologies are reliable and last longer.
+- **Simplicity**: We need to keep things simple: no unnecessary complexity - less is more.
+- **Transparancy**: Let people and companies work together in a 100% transparent way.
+- **Collaboration**: It's all about the greater picture. We are stronger together and have to help each other in reaching our common visions.
 
-## Respect Human Experience
+### Respect Human Experience
 
-- Products should be ergonomic & easy to use
-- Design should be global and inclusive: don’t favour certain user groups!
-- Products should look good, but form follow function
-- TRANSPARENCY: sales, pricing, processes…
+- **Ergonomy**: Products and solutions should empower productivity, safety and comfort, while reducing human error.
+- **Inclusiveness**: Design should always be global and inclusive. We are all equal.
+- **Design**: Products should be visually appealing and should achieve it's purpose.
+- **Transparancy**: Organisational records and strategies should be accessible to everyone. 
 
 
 ![EthicalDesign@https://docs.grid.tf/dividi/values/raw/branch/master/images/ethical_design_small.png](./img/ethicaldesign.png)
 
-Design your organizations so that your core values are respect for human rights, respect for human effort, and respect for human experience.
+Organizations should always respect human rights, human effort and human experience. To enable a sustainable and prosperous civilization and world we need a strong value system.
 
 Credits:
-original ideas, graphics & text come from https://ind.ie/ethical-design/ (we’ve added our own twist to it)
+Ideas, texts and images were inspired from https://ind.ie/ethical-design/. We added our own twist to it.
