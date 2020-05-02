@@ -1,14 +1,27 @@
 
+# Limited Supply of TFT
+While the ThreeFold Grid can expand infinitely as long there is economic demand for capacity, a maximum of 4 Billion TFTs can even be in circulation. This limit ensures stability of value and incentivization for all stakeholders.
+
+## How limited supply is ensured
+
+### The incentivization of Farmers
+Let us first understand that [Farmers](src\grid\tf_farming\introduction.md) are incentivized by receiving TFT in two ways. 
+1. When providing new capacity in the form of hardware for the ThreeFold Grid. We call that process [farming](src\grid\tf_farming\introduction.md).
+
+2. Once their provided capacity is actually utilized and rented by developers and users, farmers are remunerated by them through TFT.
+
+### Difficulty level
+
+The amount of TFT that Farmers receive for farming depends on the amount of TFT that are already in circulation. The more TFT already exist, the lower the rewards. This follows the principle of diminishing returns. We call the this limitation in farming rewards **Difficulty Level**.
+When the amount of existing TFT nears 4 billion, the amount of TFT received for farmers will be neglegible. Once the maximum of 4 billion TFT has been reached, there won´t be any rewards for farming anymore.
+![](./img/tftfarmed4b.png)
 
 
-![](limitedsupply.png)
-### Limited Supply
-While the ThreeFold Grid can expand, a maximum of 2 Billion TFTs can be in circulation. This limit ensures stability of value and incentivization for all stakeholders.
+Our [simulations](https://sdk3.threefold.io/#/simulator_install) show that there is still possibility to add about 2 millions of  3nodes to the ThreeFold Grid while earning farming rewards in TFT.
+![](./img/2bnodes.png)
+After this point in time, farmers will solely earn TFT by cultivation. Considering the features and the effectiveness of the architecture of the ThreeFold Grid, our simulations show that it will still be profitable after this point.
 
-# Maximum Of Tokens In Circulation
 
-### To maximize the value of the ThreeFold Token (TFT) for all token holders, there is a 2 billion cap on the maximum amount of ThreeFold Token in circulation at all times. To make sure this TFT cap is adhered, the following mechanisms have been introduced:
+## Why is a limited supply beneficial for everyone?
 
-## Difficulty level
-
-As mentioned in the farming section of this wiki entry, the amount of farmed tokens a Farmer receives when putting capacity online is subject to the difficulty level. This difficulty level is there to ensure there won’t be an oversupply of tokens nor capacity. The more ThreeFold Tokens exist, the fewer Tokens are distributed through Farming. 
+Like every item, service or currency, TFT derives a part of its value from scarcity. Thus the scarcity adds value to TFT, which lets all TFT holders benefit. They are ensured that their asset can´t be reduced in value by inflation.

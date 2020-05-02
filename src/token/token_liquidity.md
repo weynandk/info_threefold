@@ -1,5 +1,7 @@
-# liquidity
+# The Liquidity of TFT
+- currently included in valuation
 
+backup:
 - TODO: describe what our strategy is around liquidity
 
 
