@@ -1,4 +1,4 @@
-# Introducing our Edge Cloud
+# Introducing ThreeFold Cloud
 
 ![Logo](./img/what_can_i_do.jpg)
 

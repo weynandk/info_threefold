@@ -1,4 +1,4 @@
-# The need for a new, green digital currency
+# The need for a sustainable digital currency
 
 ![Logo](img/the_need_for_new.jpg?raw=true "Logo")
 ##### The world needs a new stable & green digital currency, which is usable globally.
