@@ -1,12 +1,12 @@
 # Valuation of the ThreeFold Token
 
-The value of the ThreeFold Token is based on the economic value of the ThreeFold Grid which consists of capacity for storage and compute. This capacity is meeting one of the fastest growing markets globally. The combined valuation of all TFT in circulation can be expressed by the demand of this market for the capacity of the ThreeFold Grid, leading to a sound and transparent method of evaluation. This is unlike most other cryptocurrencies who are deriving their market price on purely speculative value. 
+The value of the ThreeFold Token is based on the economic value of the ThreeFold Grid which consists of capacity for storage and compute. This capacity is meeting one of the fastest-growing markets globally. The combined valuation of all TFT in circulation can be expressed by the demand of this market for the capacity of the ThreeFold Grid, leading to a sound and transparent method of evaluation. This is unlike most other cryptocurrencies who are deriving their market price on purely speculative value. 
 
 
 ## The Market
 ### The global cloud market is growing at an exponential rate
 
-Various reports from reputable ressources show that the global cloud market is almost doubling its revenues between 2018 and 2023. Currently (2020) it is valued at USD 249.8Bn.
+Various reports from reputable resources show that the global cloud market is almost doubling its revenues between 2018 and 2023. Currently (2020) it is valued at USD 249.8Bn.
 [Gartner](https://www.gartner.com/en/newsroom/press-releases/2019-04-02-gartner-forecasts-worldwide-public-cloud-revenue-to-g
 )
 [Markets and Markets](https://www.marketsandmarkets.com/Market-Reports/cloud-computing-market-234.html)
@@ -15,7 +15,7 @@ Various reports from reputable ressources show that the global cloud market is a
 
 ### Large parts of the world still lack access to local capacity
 
-Despite the fast growing global cloud market, the distribution of data centers is still mostly concentrated on the western world and certain parts of Asia.
+Despite the fast-growing global cloud market, the distribution of data centers is still mostly concentrated on the western world and certain parts of Asia.
 This source lists the data centers of the current market leader in cloud capacity as an example: 
 https://wikileaks.org/amazon-atlas/map/
 
@@ -41,7 +41,7 @@ This means with our technology we can bring internet capacity - compute and stor
 Considering the described global existing market, a 10% share of the current public cloud market of 500 billion USD by 2025 is realistic. 
 This would translate to a demand 50 billion USD to utilize the capacity of the ThreeFold Grid. Our simulations show that this capacity requires about 75 million [3nodes](grid\types_of_capacity.md) to be deployed on the ThreeFold Grid globally. 
 
-As a very conservative approach however, our following calculations are based on achieving only a 1% market share. This still leads to an expected demand of 5 billion USD worth of capacity and thus about 7,5 million [3nodes](grid\types_of_capacity.md).
+As a very conservative approach, however, our following calculations are based on achieving only a 1% market share. This still leads to an expected demand of 5 billion USD worth of capacity and thus about 7,5 million [3nodes](grid\types_of_capacity.md).
 
 ## The evaluation of all ThreeFold Tokens
 
@@ -50,18 +50,18 @@ The amount of TFT however, is limited to a maximum of [4 billion TFT](token\toke
 
 ![](./img/token_issuance_economy1.png)
 
-In the aforementioned case, a global demand of 5 billion USD would meet a limited supply of TFT that can never exceed 4 billion. This means that each TFT has an underlying value of 1,25 USD in capacity. This price can be seen as a fair value in this scenario. 
+In the aforementioned case, global demand of 5 billion USD would meet a limited supply of TFT that can never exceed 4 billion. This means that each TFT has an underlying value of 1,25 USD in capacity. This price can be seen as a fair value in this scenario. 
 
 
 ### Sustainable growth vs hype
-Market dynamics can lead to a higher valuation. Some TFT holders might not want to trade their tokens away because they expect further increase in value. This results in a lower liquid amount of TFT meeting 5 billion USD in demand. Expectations are proven when the price increases and the valuation can enter a hype cycle that feeds into itself, leading to an economic bubble.
+Market dynamics can lead to a higher valuation. Some TFT holders might not want to trade their tokens away because they expect a further increase in value. This results in a lower liquid amount of TFT meeting 5 billion USD in demand. Expectations are proven when the price increases and the valuation can enter a hype cycle that feeds into itself, leading to an economic bubble.
 While this can lead to big speculative gains for some, these are always the losses of others. ThreeFold does not support speculative bubbles and the worsening in global inequality that can occur as a consequence. Therefore we wont participate in marketing activites that artificially inflate the price of TFT.
 We believe in a fair evaluation of TFT from the economic demand for the capacity of the ThreeFold Grid instead.
 
 
 ### Full transparency
 Feel free to explore the simulation tool that we built to come to our current tokenomics of TFT [here](https://sdk3.threefold.io/#/simulator_install).
-If you have questions regarding the valuation of TFT, we are happy provide answers in our [forum](https://forum.threefold.io/c/threefold-token/22).
+If you have questions regarding the valuation of TFT, we are happy to provide answers in our [forum](https://forum.threefold.io/c/threefold-token/22).
 
 
 
