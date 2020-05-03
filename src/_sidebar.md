@@ -34,7 +34,6 @@
     - [Interstellar](tft_interstellar.md)
     - [Lobstr](tft_lobstr.md)
 - [Wallets](tf_wallets.md)
-    - [3bot connect](wallet_3bot_connect.md)
     - [3bot Connect App](3bot_app.md)
     - [Lobstr Wallet](tft_lobstr.md)
     - [StellarX](tft_stellarx.md)
