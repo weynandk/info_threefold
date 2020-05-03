@@ -15,15 +15,17 @@ class TFTFarmingCalculator:
         """
         ThreeFold has created a certification program which Farmers can opt in for.
         Certified farmers will have to buy their hardware from a certified hardware vendor.
-        ThreeFold makes sure that that hardware is optimal from energy perspective and that the security features
+        ThreeFold makes sure that that hardware is optimal from energy perspective 
+            and that the security features
             are optimally implemented (silicon route of trust, secure bios & boot, ...)
         ThreeFold will also make sure that network is good enough to the internet,
-        If certified farmers will be in breach with their farming contract, they loose there certification
-            and become a default farmer.
+        If certified farmers will be in breach with their farming contract, they loose 
+            their certification and become a default farmer.
 
-        The foundation will give free certification to boxes which benefit the distribution of nodes in the grid
-        e.g. right now in Africa almost no capacity, whoever put boxes which are well distributed and they are bought
-            from a certified partner will not have to pay for the certification a monthly or setup fee for a certain period.
+        The foundation will give free certification to boxes which benefit the distribution 
+        of nodes in the grid e.g. right now in Africa almost no capacity, whoever put boxes which are 
+            well distributed and they are bought from a certified partner will not have to pay for the 
+            certification a monthly or setup fee for a certain period.
 
         """
         return self.threefold_explorer.is_certified(self.node_id)
@@ -33,7 +35,8 @@ class TFTFarmingCalculator:
         """
         south america & africa are emerging location, today the explorer returns 10
         ThreeFold uses best possible technical means to define the location of the node
-        depending of the location ad network capability map as maintained by the foundation a number is returned
+        depending of the location ad network capability map as maintained by the foundation 
+        a number is returned
         @return between 1 and 20, today check is very easy, when emerging country return 10, otherwise 1
         """
         return self.threefold_explorer.network_capability_zone_get(self.node_id)
@@ -86,7 +89,8 @@ class TFTFarmingCalculator:
         else:
             uptime = self.threefold_explorer.uptime_achieved(self.node_id)
             if uptime < 99:
-                #corresponds to 7.2h, so if non certified capacity node was out for more than 7.2h then no TFT farmed
+                #corresponds to 7.2h, so if non certified capacity node was out for more 
+                #than 7.2h then no TFT farmed
                 return 0
         return 1
 
