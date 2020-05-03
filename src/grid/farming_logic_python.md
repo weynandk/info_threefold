@@ -16,14 +16,14 @@ class TFTFarmingCalculator:
         ThreeFold has created a certification program which Farmers can opt in for.
         Certified farmers will have to buy their hardware from a certified hardware vendor.
         ThreeFold makes sure that that hardware is optimal from energy perspective
-            and that the security features
-            are optimally implemented (silicon route of trust, secure bios & boot, ...)
+            and that the security features are optimally implemented 
+            e.g. silicon route of trust, secure bios & boot, ...
         ThreeFold will also make sure that network is good enough to the internet,
 
         If certified farmers will be in breach with their farming contract, they loose
             their certification and become a default farmer.
             ThreeFold with the help of the ThreeFold Explorer nodes checks on quality achieved in
-            relation to the certification contract.
+            relation to the certification contract. 
 
         The foundation will give free certification to boxes which benefit the distribution
         of nodes in the grid e.g. right now in Africa almost no capacity, whoever put boxes which are
@@ -31,7 +31,7 @@ class TFTFarmingCalculator:
             certification a monthly or setup fee for a certain period.
             The boxes will still be certified though and the network uptime & capacity measured, its
             not a free pass to get more TFT.
-            
+
         """
         return self.threefold_explorer.is_certified(self.node_id)
 
