@@ -7,4 +7,4 @@ Download 3Bot Connect - your wallet and decentralized authentication system for 
 - [App Store](https://apps.apple.com/us/app/3bot-connect/id1459845885)
 - [Google Play](https://play.google.com/store/apps/details?id=org.jimber.threebotlogin&hl=en_US)
 
-More about 3Bot in the [Autonomous Layer](autonomous_layer.md) definition.
+More about 3Bot on the [Autonomous Layer](https://threefold.io/autonomous.html) section of our website.

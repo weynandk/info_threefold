@@ -1,6 +1,5 @@
 
 ```python
-from Jumpscale import j
 
 class TokenCreator:
 

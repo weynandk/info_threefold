@@ -3,12 +3,8 @@
 
 # Jimber
 
-Enterprise security solution provider. Using our grid for enterprise security gateway solutions.
+Jimber is an Enterprise Security Solution provider. Using the ThreeFold Grid for enterprise security gateway solutions, it aims to empower applications and solutions that are fully secure for both consumers and businesses.
 
-Some of the projects that Jimber is involved in:
+Jimber is currently involved in 3Bot technology development as well as some experiences (autonomated and decentralized applications) that will live on the ThreeFold Grid, and accessble by 3Bot. 
 
-3Bot 
-3Bot Connect App
-Decentralized Videoconferencing
-
-[Jimber.org](https://jimber.org)
+You can learn more about Jimber on their [website]](https://jimber.org).

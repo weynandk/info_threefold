@@ -2,16 +2,14 @@
 
 # 3Bot
 
-This project is one of the major use cases on the TF Grid.
+The 3Bot project is one of the major use cases on the ThreeFold Grid.
 
-3Bot is a revolutionary digital avatar that is designed to execute all of your digital needs. A definitive leap to true digital privacy, where only you can access your data, and no one else – not even us.
+3Bot is a revolutionary digital twin that is designed to execute all of your digital needs. It enables true digital privacy - only you can access your data, and no one else – not even the structures behind it.
 
-With 3Bot, free yourself from an app-centric system and enter a more secure, neutral, and decentralised digital world designed with you in the center. There will soon be no need for many applications on your device anymore.
+The objective of 3Bot as a technology is to enable a switch from an app-centric system to a more secure, neutral, and decentralised digital world designed with people at the center.
 
-3Bots manage and enable both the ThreeFold and FreeFlow Ecosystems. 
+To function properly and remain active on the ThreeFold Grid each 3Bot requires ThreeFold Grid capacity and thus ThreeFold Tokens. 
 
-To function properly and remain active on the TF Grid each 3Bot requires ThreeFold Grid capacity and thus ThreeFold Tokens. 
-[Fees](https://github.com/threefoldfoundation/tfchain/blob/master/doc/3bot.md#fees)
+3Bot's website and wiki is currently under development and should become available to the public in May 2020. 
 
-[3Bot Website](http://3bot.org)
-[3Bot FreeFlowPages](https://freeflowpages.com/s/3bot/)
+Stay tuned - this project may change your life for the better!
