@@ -3,8 +3,8 @@
 
 ## Information
 
-- [What](token_what.md)
 - [Why](token_why.md)
+- [What](token_what.md)
 - [Value](token_grid_valuation.md)
 - [Liquidity](token_liquidity.md)
 - [How To Buy](how_to_buy.md)

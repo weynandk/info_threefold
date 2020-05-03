@@ -52,35 +52,6 @@ In order to promote the growth and development of the ThreeFold Grid, a percenta
 
 This percentage equals 10% at the moment. After 24 months of farming, it will go down to 5%.
 
-# Maximum Of Tokens In Circulation
 
-### To maximize the value of the ThreeFold Token (TFT) for all token holders, there is a 2 billion cap on the maximum amount of ThreeFold Token in circulation at all times. To make sure this TFT cap is adhered, the following mechanisms have been introduced:
 
-## Difficulty level
-
-As mentioned in the farming section of this wiki entry, the amount of farmed tokens a Farmer receives when putting capacity online is subject to the difficulty level. This difficulty level is there to ensure there won’t be an oversupply of tokens nor capacity. The more ThreeFold Tokens exist, the fewer Tokens are distributed through Farming. 
-
-# An Inclusive Market	
-
-The market for farming, cultivating and trading is open to all. If one has an internet connection and a power outlet he/she can become a Farmer, cultivate capacity and trade ThreeFold Tokens (TFT). Third party exchanges ensure that TFT can be exchanged between farmers and capacity users. 
-
-# The Valuation Of The Grid
-
-Each ThreeFold Token is tied to underlying capacity. The valuation of the total capacity of the ThreeFold Grid, gives an indication of the value of all ThreeFold Tokens in circulation. 
-
-To evaluate the storage and compute capacity of the ThreeFold Grid, we use very low pricing compared to other cloud offerings in the current market.
-
-**Compute Unit (CU): 4 GB memory & 2 virtual CPU **
-
-    *  TF Simulation price = 8 USD
-
-    *  Market price = between 40 USD and 120 USD
-
-**Storage Unit (SU): 1TB of netto usable storage**
-
-* TF Simulation price = 5 USD
-
-* Market price = between 20 USD and 120 USD
-
-More details about CU and SU can be found here [Cloud Units](cloud_units.md)
 

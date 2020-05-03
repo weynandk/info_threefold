@@ -46,12 +46,14 @@ For additional information, please refer to our official channels:
 
 [Website](https://www.threefold.io)
 
-[YouTube channel](https://youtube.com/c/ThreeFoldFoundation)
-
 [Facebook](https://facebook.com/ThreeFold.io)
 
 [LinkedIn](https://linkedin.com/company/threefold-foundation/)
 
-[Twitter](https://twitter.com/threefold_io) 
+[Twitter](https://twitter.com/threefold_io)
+
+[Medium](https://medium.com/threefold)
 
 [Announcement Telegram Group](https://t.me/threefoldnews)
+
+[YouTube channel](https://youtube.com/c/ThreeFoldFoundation)

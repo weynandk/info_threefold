@@ -23,3 +23,4 @@ Please note that the ThreeFold Foundations sole purposes lie in the expansion of
 
 
 
+Important not: TFT’s are not an investment instrument.
