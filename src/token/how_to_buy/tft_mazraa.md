@@ -1,6 +1,6 @@
 ![alt](./img/mazraa_logo.jpg)
 
-# Buy TFT: Over the Counter at Mazraa 
+# Buy TFT From a Farmer: Mazraa 
 
 Mazraa has made it possible to buy TFT fast and easy with your credit card through a partnership with Trainscoin.
 Follow the 6 steps listed below to buy TFT over the counter.
