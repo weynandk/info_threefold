@@ -1,4 +1,4 @@
-## Project: FounTF Grid Userinterface
+## Project: TF Grid Userinterface
 
 ### Purpose
 

@@ -1,4 +1,4 @@
-## Project: Foundation
+## Project: Grid Enhancements
 
 ### Purpose
 
