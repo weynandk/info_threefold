@@ -41,11 +41,11 @@ class TFTFarmingCalculator:
     @property
     def network_capability_zone(self):
         """
-        south america & africa are emerging location, today the explorer returns 10
+        south america & africa are emerging location, today the explorer returns 1
         ThreeFold uses best possible technical means to define the location of the node
         depending of the location ad network capability map as maintained by the foundation 
         a number is returned
-        @return between 1 and 20, today check is very easy, when emerging country return 10, otherwise 1
+        @return between 1 and 20, today check is very easy, when emerging country return 1, otherwise 10
         """
         return self.threefold_explorer.network_capability_zone_get(self.node_id)
 
@@ -108,18 +108,14 @@ class TFTFarmingCalculator:
         the difficulty factor makes sure that there can never be more than 4 billion tokens
         """
 
-        if month == 0:
-            nr_of_tft_ever_farmed = 800000000 #starting point
-        else:
-            nr_of_tft_ever_farmed = int(self.simulation.tft_total(month - 1)) #look at previous month
-
+        nr_of_tft_ever_farmed = self.threefold_explorer.nr_tft_total_get()
         p = nr_of_tft_ever_farmed / 4000000000
-        if p > 0.999999:
-            perc = 1000000
+        if p > 0.999:
+            return 0
         else:
-            perc = 1 / (1 - p)
+            diff_level = 1 - p
 
-        return perc
+        return diff_level
 
     def farming_cpr_tft(self,month):
         """
@@ -144,7 +140,7 @@ class TFTFarmingCalculator:
 
         #cpr is like a hashrate for a bitcoin miner
         #in our case it represents the capability for a node to produce cloud units (our IT capacity)
-        tft_farmed = self.node_config.cpr * self.farming_cpr_tft(month) / self.difficulty_level_get(month)
+        tft_farmed = self.node_config.cpr * self.farming_cpr_tft(month) * self.difficulty_level_get(month)
 
         return tft_farmed * self.uptime_check() * self.utilization_check() * self.bandwith_check()
 
