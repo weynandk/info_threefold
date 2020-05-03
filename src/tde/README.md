@@ -1,16 +1,21 @@
-## Project: Foundation
+## Foundation Projects
 
-### Purpose
+### Introduction
+The ThreeFold Foundation is ready for the next step: launch a new TFT on a new payment network called Stellar. Stellar is a very reliable platform used by more and more projects. We organize a Token Distribution Event on Stellar to benefit projects which have as only purpose to provide value to the ThreeFold movement and do good for our planet. Upto 70m TFT are offered for sale on Stellar and later on at least 2 public exchanges. 
 
+We migrate our existing TFT (ThreeFold tokens on our own blockchain called Rivine) to Stellar, these TFT's will be called TFTA on Stellar. This TFTA has the same rights as your current TFT on Rivine:
+- you can transfer it to anyone
+- you can use it to buy or sell capacity on the TFGrid
 
+By moving the TFTA to Stellar we get a lot of  additional benefits
+- your TFTA is tradeable on Stellar decentralized exchange
+- your TFTA will automatically convert to the new TFT at end of this year and you can sell your TFTA as TFT by means of the ThreeFold market making bot starting July.
 
-### Goal
+So we at ThreeFold are very excited about this move.
 
+### Project Funding
 
-
-### Funding
-
-Launching TFT onto Stellar May 15	
+As stated in the introduction we will offer project specific tokens (branded TFT's) per project to fund a portfolio of projects working with the ThreeFold foundation and using TF Grid resources.  These projects are 
 
 | Project Name | Sponsor TFT's | Description |
 |:-------------|---------------:|:------------|
