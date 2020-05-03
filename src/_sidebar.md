@@ -11,7 +11,7 @@
 - [Grid](grid_why.md)
   - [What is the TF Grid](grid_what.md)
   - [What is a Farmer](what_is_a_farmer.md)
-  - [Farming Program](farming_progam.md)
+  - [Farmer Program](farmer_progam.md)
   - [Become a Farmer](become_a_farmer.md)
   - [Simulate](farming_simulate.md)
   - [Grid Concepts](grid_concepts.md)

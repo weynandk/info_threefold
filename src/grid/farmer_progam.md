@@ -1,4 +1,4 @@
-# Farming Program
+# Farmer Program
 ![](img/farmingprogram.png)
 
 ThreeFold created a simple Farmer Program for farmers to choose their type from.  Here are the main compoments in a high level overview:
@@ -16,7 +16,7 @@ TF Tech Support|Yes|No|
 
 
 
-Farmers can opt in for Certification. Once certified the 3Nodes will mint more ThreeFold monthly than a DIY farmers 3Node. ThreeFold will with the help of the [ThreeFold Explorer](www.explorer.grid.tf) ckeck 3Nodes on quality achieved in relation to the certification contract. If the checks are not good enough the certification process will mark in the blockchain database (BCDB) which is used by the ThreeFold Explorer that the 3Node is no longer certified.
+Farmers can opt in for Certification. Once certified the 3Nodes will mint more ThreeFold monthly than a DIY farmers 3Node. ThreeFold will with the help of the [ThreeFold Explorer](https://www.explorer.grid.tf) ckeck 3Nodes on quality achieved in relation to the certification contract. If the checks are not good enough the certification process will mark in the blockchain database (BCDB) which is used by the ThreeFold Explorer that the 3Node is no longer certified.
 
 The following criteria are checked:
 
