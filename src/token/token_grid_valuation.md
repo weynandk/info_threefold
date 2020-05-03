@@ -20,7 +20,7 @@ This source lists the data centers of the current market leader in cloud capacit
 https://wikileaks.org/amazon-atlas/map/
 
 Other market contenders data center locations are following this logic:
-[Oracle](https://blogs.oracle.com/cloud-infrastructure/oracle-launches-four-new-cloud-regions-across-four-continents?source=:ex:nc:::RC_WWMK180119P00044:NewDataCenters&SC=:ex:nc:::RC_WWMK180119P00044:NewDataCenters&pcode=WWMK180119P00044)
+[Oracle](https://blogs.oracle.com/cloud-infrastructure/oracle-launches-four-new-cloud-regions-across-four-continents)
 [cloudwirx](https://www.cloudwirx.com/datacenters)
 [Microsoft](https://yellowduckguy.wordpress.com/2018/03/15/microsoft-worldwide-data-center-locations/)
 
