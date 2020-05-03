@@ -41,11 +41,11 @@ class TFTFarmingCalculator:
     @property
     def network_capability_zone(self):
         """
-        south america & africa are emerging location, today the explorer returns 10
+        south america & africa are emerging location, today the explorer returns 1
         ThreeFold uses best possible technical means to define the location of the node
         depending of the location ad network capability map as maintained by the foundation 
         a number is returned
-        @return between 1 and 20, today check is very easy, when emerging country return 10, otherwise 1
+        @return between 1 and 20, today check is very easy, when emerging country return 1, otherwise 10
         """
         return self.threefold_explorer.network_capability_zone_get(self.node_id)
 
