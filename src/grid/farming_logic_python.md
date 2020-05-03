@@ -24,6 +24,9 @@ class TFTFarmingCalculator:
             their certification and become a default farmer.
             ThreeFold with the help of the ThreeFold Explorer nodes checks on quality achieved in
             relation to the certification contract. 
+            If checks not good enough the the certification process will mark in the blockchain
+            database as used by the explorer that node is no longer certified, which means
+            this check will return False.
 
         The foundation will give free certification to boxes which benefit the distribution
         of nodes in the grid e.g. right now in Africa almost no capacity, whoever put boxes which are
