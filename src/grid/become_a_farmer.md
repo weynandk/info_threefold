@@ -3,12 +3,12 @@
 ![](img/becomefarmer.png)
 
 
-To become a farmer a few decision have to be made:
+To become a farmer a few decisions need to be made:
 
 - do you want to host the hardware yourself?
 - do you want your hardware to be hosted?
 - do you not even want to own hardware but still farm ThreeFold Tokens?
-- do I want to become a certified or a DIY farmer?
+- do you want to become a certified or a DIY farmer?
 
 
 Once you have made up your mind you have the following choices:
