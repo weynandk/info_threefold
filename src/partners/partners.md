@@ -1,21 +1,11 @@
-# Partners (OUTDATED NEEDS URGENT UPDATE)
+# ThreeFold Ecosystem
 
 ![](./img/partners_intro.png)
 
-see http://threefold.io/public/#/community
+ThreeFold's vision is to empower a global sustainable and conscious peer-to-peer Internet that is available everywhere and owned by everyone – across geographical and cultural borders, empowering people to be autonomous, and providing equal chances to learn, partake and succeed.
 
-- [Hewlett Packard Enterprise](hpe_eco.md)
-    - [HPE-TF Press](memorandum_of_understanding.md)          
-- [Kleos](kleos.md)
-- [Green Edge Cloud](greenedgecloud.md)
-- [FlowGen](flowgen.md)
-- [Jimber](jimber.md)
-- [Safe City](safecity.md)
-- [Solidaridad](solidaridad.md)
-- [Mazraa](mazraa.md)
-- [Solidaridad](solidaridad_partners.md)
-- [Flowgen](flowgen_partners.md)
-- [BetterToken](bettertoken.md)
-- [Codescalers](codescalers.md)
-- [Incubaid](incubaid.md)
-- [Cultivo](cultivo.md)
+This is a collective story. The ecosystem section showcases the current ThreeFold Ecosystem that collaborates towards this vision. In this ecosystem, we develop together human and planet first solutions to set the foundation for a better future.
+
+We are currently growing our ecosystem. Let's connect!
+
+You can create a post on [ThreeFold Forums](https://forum.threefold.io) and mention your ideas. We look forward to seeing your beautiful ideas.

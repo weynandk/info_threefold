@@ -6,4 +6,4 @@ FreeFlow Nation is a complementary digital nation which flows freely across phys
 
 FreeFlow Nation aims to empower billions of people with sustainable access to complementary education, internet, and currencies (banking) for less than $1 per month. ThreeFold is part of the FreeFlow Nation.
 
-You can visit the [FreeFlowNation Website](https://freeflownation.org) for more information.
+You can visit the FreeFlow Nation's [website](https://freeflownation.org) for more information.
