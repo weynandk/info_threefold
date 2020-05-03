@@ -36,7 +36,7 @@ Once we have organised all single tokens trades in a sequence we can quite easil
 
 See table below where the token trades have been ordered from the highest price to the lowest and where we take out both 10 percentiles:
 
-![](sorted_trade_examples.png)
+![](./img/sorted_trade_examples.png)
 
 So for the coming 3 months period the token price for new farming equipment will be set at the weighted average token price of 0.2066 USD.
 

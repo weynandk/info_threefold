@@ -14,11 +14,11 @@ Let us first understand that [Farmers](src\grid\tf_farming\introduction.md) are 
 
 The amount of TFT that Farmers receive for farming depends on the amount of TFT that are already in circulation. The more TFT already exist, the lower the rewards. This follows the principle of diminishing returns. We call the this limitation in farming rewards **Difficulty Level**.
 When the amount of existing TFT nears 4 billion, the amount of TFT received for farmers will be neglegible. Once the maximum of 4 billion TFT has been reached, there won´t be any rewards for farming anymore.
-![](./img/tftfarmed4b.png)
+![](tftfarmed4b.png)
 
 
 Our [simulations](https://sdk3.threefold.io/#/simulator_install) show that there is still possibility to add about 2 millions of  3nodes to the ThreeFold Grid while earning farming rewards in TFT.
-![](./img/2bnodes.png)
+![](2bnodes.png)
 After this point in time, farmers will solely earn TFT by cultivation. Considering the features and the effectiveness of the architecture of the ThreeFold Grid, our simulations show that it will still be profitable after this point.
 
 

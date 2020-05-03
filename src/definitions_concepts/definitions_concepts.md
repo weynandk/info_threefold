@@ -1,4 +1,4 @@
-![](./img/definitions_header.jpg)
+![](definitions_header.jpg)
 
 # ThreeFold Definitions & Concepts
 

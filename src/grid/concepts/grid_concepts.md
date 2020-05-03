@@ -12,4 +12,4 @@
 - [TF Period](farming_period_definition.md)
 
 
-![](cloud_features.png)
+![](./img/cloud_features.png)
