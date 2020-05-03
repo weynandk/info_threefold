@@ -1,7 +1,7 @@
 * [Home](/)
 * [Token](token.md)
     * **Now**
-    * [Over The Counter](tft_mazraa.md)
+    * [From TF Farmer](tft_mazraa.md)
     * [StellarX](tft_stellarx.md)
     * [Interstellar](tft_interstellar.md)
     * [Lobstr](tft_lobstr.md)
