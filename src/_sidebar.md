@@ -142,7 +142,7 @@
     - [ThreeFold Chapters](threefoldchapters.md)
   - [ThreeFold Tech](threefoldtech.md)
   - [Freeflow Nation](freeflownation.md)
-  - [Incubaid](incubdaid.md)
+  - [Incubaid](incubaid.md)
   - [3Bot](3bot_ecosystem.md)
   - [HPE](hpe_eco.md)
   - [Solidaridad](solidaridad.md)
