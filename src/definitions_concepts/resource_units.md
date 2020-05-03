@@ -10,5 +10,5 @@
 
 See [Definitions](definitions_concepts.md) for more explanation.
 
-These are raw capacities as measured by our TF Software.
+These are raw capacities as measured by our ThreeFold Software.
 
