@@ -1,6 +1,6 @@
 
 
-![](title_slide_truly_decentralized.png)
+![](./img/title_slide_truly_decentralized.png)
 
 # Why does ThreeFold need its own currency?
 

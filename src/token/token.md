@@ -1,5 +1,5 @@
 
-![](img/token_internet.png)
+![](./img/token_internet.png)
 
 ## Information
 
@@ -19,7 +19,7 @@
       - [Liquid.com](tft_liquid.md)
 - [Tokenomics](tokenomics.md)
 
-![](img/token_fundementals.png)
+![](./img/token_fundementals.png)
 
 ## New to ThreeFold?
 

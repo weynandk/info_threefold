@@ -1,4 +1,4 @@
-![](tokenwiki.png)
+![](./img/tokenwiki.png)
 
 # What are ThreeFold Tokens (TFT)?
 
@@ -19,7 +19,7 @@ Developers can rent capacity from the ThreeFold Grid only in exchange for TFT an
 The following infographic illustrates the circular economy of the ThreeFold Token. 
 Please note that the ThreeFold Foundations sole purposes lie in the expansion of the ThreeFold Grid and its ecosystem as well as developing the value of TFT. To fund these activites, a part of each transaction that pays TFTs for cultivation is going to the ThreeFold Foundation.
 
-![](Circular_TFT.png)
+![](./img/circular_tft.png)
 
 
 

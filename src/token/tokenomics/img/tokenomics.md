@@ -1,6 +1,6 @@
 # TOKENOMICS WIKI
 
-![image alt text](./img/tokenomics_flow.png)
+![image alt text](tokenomics_flow.png)
 
 # Threefold Tokenomics In 4 Easy Steps
 
