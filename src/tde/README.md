@@ -37,7 +37,7 @@ As stated in the introduction we will offer project specific tokens (branded TFT
 
 In percentages:
 
-![](img/token_project_distribution_percentage.png)
+![](./img/token_project_distribution_percentage.png)
 
 
 ### Team
