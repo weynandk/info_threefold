@@ -10,4 +10,4 @@ The 3SDK Wiki is here to help you with:
  
  And more
 
- Visit [sdk.threefold.io](https://sdk.threefold.io) to find out more!
+ **Visit [sdk.threefold.io](https://sdk.threefold.io) to find out more!**
