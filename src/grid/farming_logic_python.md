@@ -26,6 +26,8 @@ class TFTFarmingCalculator:
         of nodes in the grid e.g. right now in Africa almost no capacity, whoever put boxes which are 
             well distributed and they are bought from a certified partner will not have to pay for the 
             certification a monthly or setup fee for a certain period.
+            The boxes will still be certified though and the network uptime & capacity measured, its
+            not a free pass to get more TFT.
 
         """
         return self.threefold_explorer.is_certified(self.node_id)
