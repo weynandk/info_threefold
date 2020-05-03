@@ -148,5 +148,5 @@
   - [How You Can Help!](how_to_help.md)
   - [Shareable Content](threefold_content.md)
   - [ThreeFold Wallpapers](threefold_wallpapers.md)
-- [SDK](http://sdk.threefold.io/)
+- [SDK](sdk_intro.md)
 
