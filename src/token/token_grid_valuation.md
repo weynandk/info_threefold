@@ -66,4 +66,4 @@ Feel free to explore the simulation tool that we built to come to our current to
 If you have questions regarding the valuation of TFT, we are happy to provide answers in our [forum](https://forum.threefold.io/c/threefold-token/22).
 
 
-Important not: TFT’s are not an investment instrument.
+***Important note: TFT’s are not an investment instrument.***

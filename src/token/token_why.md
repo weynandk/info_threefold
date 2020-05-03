@@ -17,4 +17,4 @@ You can learn more about the history of TFT here. (Needs link to genesis pool)
 
 
 
-Important not: TFT’s are not an investment instrument.
+***Important note: TFT’s are not an investment instrument.***
