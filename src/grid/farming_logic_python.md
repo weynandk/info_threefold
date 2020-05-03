@@ -108,18 +108,14 @@ class TFTFarmingCalculator:
         the difficulty factor makes sure that there can never be more than 4 billion tokens
         """
 
-        if month == 0:
-            nr_of_tft_ever_farmed = 800000000 #starting point
-        else:
-            nr_of_tft_ever_farmed = int(self.simulation.tft_total(month - 1)) #look at previous month
-
+        nr_of_tft_ever_farmed = self.threefold_explorer.nr_tft_total_get()
         p = nr_of_tft_ever_farmed / 4000000000
-        if p > 0.999999:
-            perc = 1000000
+        if p > 0.999:
+            return 0
         else:
-            perc = 1 / (1 - p)
+            diff_level = 1 - p
 
-        return perc
+        return diff_level
 
     def farming_cpr_tft(self,month):
         """
@@ -144,7 +140,7 @@ class TFTFarmingCalculator:
 
         #cpr is like a hashrate for a bitcoin miner
         #in our case it represents the capability for a node to produce cloud units (our IT capacity)
-        tft_farmed = self.node_config.cpr * self.farming_cpr_tft(month) / self.difficulty_level_get(month)
+        tft_farmed = self.node_config.cpr * self.farming_cpr_tft(month) * self.difficulty_level_get(month)
 
         return tft_farmed * self.uptime_check() * self.utilization_check() * self.bandwith_check()
 
