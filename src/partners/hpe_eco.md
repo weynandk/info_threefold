@@ -1,44 +1,13 @@
 ![hpe logo](./img/hpe_logo.jpg)
 
 
-# Hewlett Packard Enterprise
+# Hewlett Packard Enterprise (HPE)
 
-HPE and TF cooperate in a non-exclusive partnership, that supports common business goals and it’s based on promoting responsible technology that creates a meaningful IMPACT on humanity and our planet.
+HPE is in the Acceleration Business. They help customers use technology to slash the time it takes to turn ideas into value. They transform industries, markets and lives. Some of their customers run traditional IT environments. Most are transitioning to a secure, cloud-enabled, mobile-friendly infrastructure. HPE makes IT environments more efficient, productive and secure, enabling fast, flexible responses to a rapidly changing competitive landscape. 
 
-1. HPE and TF jointly promote ThreeFoldSolutions which involves the integration of TF technology within the HPE offerings. Also, TF is added as an HPE Cloud partner to the Cloud28+ Network.  
-2. Expansion of HPEs revenue opportunity due to TF farming equipment sales, assuming at least an estimated 80% market share in the TF Grid. HPE to provide clients with the option to connect idle computing capacity in their data centers to the TF Grid. This provides an additional source of income through Digital Currency (farming of capacity and reselling capacity to external Clients).  
-3. HPE to provide HPE specific Computing and Storage Capacity to new clients, who are interested in farming of digital currency (TF Tokens). This Capacity can be based on refurbished or new Hardware. 
-4. HPE and TF intend to integrate the TF Grid offering into HPEs Multi-Cloud Portal management software called “OneSphere”. This means that clients can choose capacity from various Cloud providers. 
-5. TF will raise awareness of their offerings by cooperating with a truly global technology company (HPE) and will expand their customer base by the deployment of HPE client capacity to the TF Grid​.
+HPE and ThreeFold cooperate in promoting responsible technology that creates a meaningful impact on humanity and our planet. HPE will provide high-quality hardware to the ThreeFold Grid Farmers and ThreeFold will empower better technologies that can be used by HPE ecosystem.
 
-- Providing certified farming hardware
-- Farming in Poland and Switzerland
-- Promote ThreeFold farming through [Cloud 28+](https://cloud28plus.com/EMEA/catalogue/ThreeFold-Farming) initiative
-- Grow the grid, many projects, many projects being worked on & further developed.
-
-Website:  https://hpe.com
-
-# Hewlett Packard Enterprise
-
-TF Tech and HP Enterprise are partnering to create a strategic plan to help Enterprise around the world to create and deliver private blockchain and compute and st
-
-## HPE Overview
-
-HPE is in the Acceleration Business
-We help customers use technology to slash the time it takes to turn ideas into value. In turn, they transform industries, markets and lives.
-
-Some of our customers run traditional IT environments. Most are transitioning to a secure, cloud-enabled, mobile-friendly infrastructure. Many rely on a combinatio
-.
-
-### Technology That Fuels Transformation
-We make IT environments more efficient, productive and secure, enabling fast, flexible responses to a rapidly changing competitive landscape. We enable organisatio
-
-### Solutions You Need to Succeed
-We deliver high-quality, high-value products, consulting and support services in a single package. That’s one of our principal differentiators. We have industry-le
-Innovating for Today and Tomorrow
-Hewlett Packard has been in the innovation business for more than 75 years. Our vast intellectual property portfolio and global research and development capabiliti
-We are working to establish Hewlett Packard Enterprise as the main hardware choice for farmers. In addition HPE wants to offer services for their customers and par
-
+LEarn more about HPE on their [website](https://hpe.com).
 
 
 

@@ -3,17 +3,8 @@
 
 # Mazraa Cooperative
 
-An independent Farming Cooperative based in Dubai UAE.
+Mazraa is an independent Farming Cooperative based in Dubai UAE. IT runs a hosting farm of +120 servers. They are amongst the first farmers on the ThreeFold Grid and farm tokens on a monthly basis.
 
-Activities:
-- Runs a hosting farm in Dubai, +120 servers
-    - They are the first farmer on the TF Grid and farm tokens on a monthly basis.
-- Home to a group of consultants who support the growth of the TF Foundation & TF Grid.
-    - TF Tech hires some of these consultants.
-- Delivers promotional services for the TF Foundation in order to support mainstream exposure and adoption
-    - Services currently rendered as complementary 
-- Will running the ThreeFold Token TLE
+Mazraa is home to a group of consultants who support the growth of the ThreeFold Foundation and ThreeFold Grid. They deliver promotional services for the ThreeFold Foundation in order to support mainstream exposure and adoption. Mazraa also assists ThreeFold in the commercialization fo the ThreeFold Token.
 
-[Mazraa.io](https://www.mazraa.io)
-
-[Mazraa on FreeFlowPages](https://freeflowpages.com/s/mazraa/)
+You can learn more about Mazraa on their [website]](https://www.mazraa.io)
