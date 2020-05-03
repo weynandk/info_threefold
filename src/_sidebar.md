@@ -9,7 +9,7 @@
   - [The Capacity Layer](capacity_layer_image.md)
   - [TF Whitepaper 1.0.4](tf_whitepaper_104.md)
 - [Grid](grid_why.md)
-  - [What](grid_what.md)
+  - [What is the TF Grid](grid_what.md)
   - [What is a Farmer](what_is_a_farmer.md)
   - [Farming Program](farming_progam.md)
     - [Farming & Cultivation](farming_and_cultivation.md)
