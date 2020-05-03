@@ -41,7 +41,7 @@ As stated in the introduction, we will offer project branded TFTs to fund a port
 
 In percentages:
 
-![](img/token_project_distribution_percentage.png)
+![](./img/token_project_distribution_percentage.png)
 
 ### How Does It Work
 
