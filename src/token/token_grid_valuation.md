@@ -7,10 +7,10 @@ The value of the ThreeFold Token is based on the economic value of the ThreeFold
 ### The global cloud market is growing at an exponential rate
 
 Various reports from reputable resources show that the global cloud market is almost doubling its revenues between 2018 and 2023. Currently (2020) it is valued at USD 249.8Bn.
-[Gartner](https://www.gartner.com/en/newsroom/press-releases/2019-04-02-gartner-forecasts-worldwide-public-cloud-revenue-to-g
+- [Gartner](https://www.gartner.com/en/newsroom/press-releases/2019-04-02-gartner-forecasts-worldwide-public-cloud-revenue-to-g
 )
-[Markets and Markets](https://www.marketsandmarkets.com/Market-Reports/cloud-computing-market-234.html)
-[idc](https://www.idc.com/getdoc.jsp?containerId=prUS45340719
+- [Markets and Markets](https://www.marketsandmarkets.com/Market-Reports/cloud-computing-market-234.html)
+- [IDC](https://www.idc.com/getdoc.jsp?containerId=prUS45340719
 )
 
 ### Large parts of the world still lack access to local capacity
@@ -20,9 +20,9 @@ This source lists the data centers of the current market leader in cloud capacit
 https://wikileaks.org/amazon-atlas/map/
 
 Other market contenders data center locations are following this logic:
-[Oracle](https://blogs.oracle.com/cloud-infrastructure/oracle-launches-four-new-cloud-regions-across-four-continents?source=:ex:nc:::RC_WWMK180119P00044:NewDataCenters&SC=:ex:nc:::RC_WWMK180119P00044:NewDataCenters&pcode=WWMK180119P00044)
-[cloudwirx](https://www.cloudwirx.com/datacenters)
-[Microsoft](https://yellowduckguy.wordpress.com/2018/03/15/microsoft-worldwide-data-center-locations/)
+- [Oracle](https://blogs.oracle.com/cloud-infrastructure/oracle-launches-four-new-cloud-regions-across-four-continents)
+- [cloudwirx](https://www.cloudwirx.com/datacenters)
+- [Microsoft](https://yellowduckguy.wordpress.com/2018/03/15/microsoft-worldwide-data-center-locations/)
 
 This inequality of distribution can be explained by the high requirements in infrastructure, electricity and security to operate large scale data centers that often require an investment of USD 1bn+ for setup.
 
@@ -66,4 +66,4 @@ Feel free to explore the simulation tool that we built to come to our current to
 If you have questions regarding the valuation of TFT, we are happy to provide answers in our [forum](https://forum.threefold.io/c/threefold-token/22).
 
 
-Important not: TFT’s are not an investment instrument.
+***Important note: TFT’s are not an investment instrument.***

@@ -1,8 +1,10 @@
 * [Home](/)
 * [Token](token.md)
-    * [Now: Over The Counter](tft_mazraa.md)
-    * [Apr 29: StellarX](tft_stellarx.md)
-    * [Apr 29: Interstellar](tft_interstellar.md)
-    * [Apr 29: Lobstr](tft_lobstr.md)
+    * **Now**
+    * [Over The Counter](tft_mazraa.md)
+    * [StellarX](tft_stellarx.md)
+    * [Interstellar](tft_interstellar.md)
+    * [Lobstr](tft_lobstr.md)
+    * **Later**
     * [Mid-Late May: BTC Alpha](tft_btc_alpha.md)
     * [Mid-Late May: Liquid](tft_liquid.md)

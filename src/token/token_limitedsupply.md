@@ -26,4 +26,4 @@ After this point in time, farmers will solely earn TFT by cultivation. Consideri
 
 Like every item, service or currency, TFT derives a part of its value from scarcity. Thus the scarcity adds value to TFT, which lets all TFT holders benefit. They are ensured that their asset can´t be reduced in value by inflation.
 
-Important not: TFT’s are not an investment instrument.
+***Important note: TFT’s are not an investment instrument.***

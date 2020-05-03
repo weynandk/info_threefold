@@ -41,4 +41,4 @@ Only the 30m tokens will be on available on Stellar.
 
 ![](tftprojects.png)
 
-Important not: TFT’s are not an investment instrument.
+***Important note: TFT’s are not an investment instrument.***
