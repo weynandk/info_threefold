@@ -18,7 +18,7 @@
   - [Become a Farmer](become_a_farmer.md)
     - [Buy At Cooperative](farming_buy_at_coop.md)
     - [Bring Your Own Hardware](farming_bring_your_own.md)
-          - [HPE Farming Hardware](hpe.md)
+      - [HPE Farming Hardware](hpe.md)
     - [Simulate](farming_simulate.md)
   - [Farming](introduction.md)
       - [Get 3bot Connect](get_3bot_connect.md)
