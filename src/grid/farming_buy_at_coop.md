@@ -1,1 +1,0 @@
-# farming_buy_at_coop.md
