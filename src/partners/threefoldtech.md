@@ -1,7 +1,7 @@
 ![threefoldtech logo](./img/threefoldtech_logo.jpg)
 
 
-# ThreeFold Tech NV
+### ThreeFold Tech NV
 
 ThreeFold Tech is a technology software company in Belgium. It is the company that developed the open-source technolgy used by the ThreeFold Foundation.
 

@@ -1,7 +1,7 @@
 ![mazraa logo](mazraa_logo.jpg)
 
 
-# Mazraa Cooperative
+### Mazraa Cooperative
 
 Mazraa is an independent Farming Cooperative based in Dubai UAE. IT runs a hosting farm of +120 servers. They are amongst the first farmers on the ThreeFold Grid and farm tokens on a monthly basis.
 

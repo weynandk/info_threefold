@@ -147,7 +147,6 @@
 - [Team](tf_team.md)
 - [Ecosystem](partners.md)
   - [ThreeFold Foundation](threefoldfoundation.md)
-    - [ThreeFold Chapters](threefoldchapters.md)
   - [ThreeFold Tech](threefoldtech.md)
   - [Freeflow Nation](freeflownation.md)
   - [Incubaid](incubaid.md)
