@@ -1,1 +1,0 @@
-# create_bootable_image.md
