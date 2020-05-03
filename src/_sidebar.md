@@ -20,7 +20,7 @@
     - [Bring Your Own Hardware](farming_bring_your_own.md)
       - [HPE Farming Hardware](hpe.md)
     - [Simulate](farming_simulate.md)
-  - [Farming](introduction.md)
+  - [Farm Setup & Management](introduction.md)
       - [Get 3bot Connect](get_3bot_connect.md)
       - [Install SDK](install_sdk.md)
       - [Configure TFT Wallet](configure_wallet.md)
