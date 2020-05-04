@@ -45,4 +45,21 @@ In percentages:
 
 ### How Does It Work
 
-- TODO
+For each project TFT tokens will be branded to represent the project.  The project tokens are exchangable to TFT tokens and have the same value.  A the TDE (Token Distribution Event) investors and sponsors can select which project they like most and purchase the project branded tokens.
+
+| Project Name | Sponsor TFT Amount | Token Name |
+|:-------------|---------------:|:------------|
+| [TF Foundation](./foundation/README.md)	| 30,000,000		| TFTFD |
+| [3bot (digital twin)](./3botdigitaltwin/README.md)	| 10,000,000		| TFT3B |
+|[TF Grid enhancements](./gridenhancements/README.md)	| 10,000,000		| TFTGE |
+| [Crystal Language](./crystallang/README.md)	| 5,000,000		| TFTCL  |
+| [TFT P2P Education](./education/README.md)	| 3,000,000		| TFTPE |
+| [3bot Files](./3botfiles/README.md)	| 3,000,000		| TFT3F |
+| [TF Grid Solutions](./gridsolutions/README.md)	| 2,500,000		| TFTGS |
+| [3bot Connect](./3botconnect/README.md) 	| 2,000,000		| TFT3C |
+|[3bot marketing / prod mgmt](./3botmarketing/README.md)	| 2,000,000		| TFT3M |
+| [3bot Browser](./3botbrowser/README.md)	 | 2,000,000		| TFT3B |
+| [Social media / Collaboration](./socialmedia/README.md) | 2,000,000		| TFTSM |
+| [TF Grid User Interface](./griduserinterface/README.md)	| 1,000,000		| TFTUI |
+| [Virtual Reality Museum](./vrmuseum/README.md)	| 500,000		| TFTVR |
+| [TFT TimeBank](./timebank/README.md)	| 333,333		| TFTTB |
