@@ -76,6 +76,7 @@
     - [The need for a sustainable digital currency](the_need_for_a_new_digital_currency.md)
     - [An escape from the Great Hack](escape_the_great_hack.md)
     - [You are unique](you_are_unique.md)
+- [ThreeFold Foundation](threefold_foundation.md)
 - [Collaboration](collaboration.md)
   - [Freeflow Collaboration](how_to_contribute.md)
       - [Be A FreeFlow Citizen](freeflow_citizen.md)
