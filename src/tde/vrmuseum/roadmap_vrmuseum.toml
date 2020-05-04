@@ -1,0 +1,9 @@
+[[step]]
+color = "red"
+details = "some details"
+data = '2017-08-01'
+
+[[step]]
+color = "gray"
+details = "some details"
+data = '2017-09-01'

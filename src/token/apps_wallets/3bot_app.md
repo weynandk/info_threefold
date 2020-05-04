@@ -1,26 +1,26 @@
-
-![](3bot.png)
-
-
 # 3Bot Connect App
 
+![alt](./img/3bot_connect_4screens.jpg)
 ## Introduction
 
-3Bot is a revolutionary digital avatar that will execute your digital needs. It is an unprecedented leap in digital privacy and comes with all the functionalities you need to interact and exchange on the new Internet. With 3Bot, everything changes.
+3Bot Connect is a app that is more than just a wallet. It is:
+- A wallet to hold digital currencies
+- 100% private two factor authenticator
+- Mobile gateway to Freeflow pages
+- Mobile access to TF support chat
 
-Follow the steps below to set up your 3Bot Connect wallet, and receive and send your first ThreeFold Tokens:
+## Download
 
+3bot connect is avaible both iOS devices and Android devices.
 
-  ## Download
-  Download 3Bot from [3Bot.org website](https://3bot.org/3bot.html)
-  
+[Download 3bot Connect for iOS](https://apps.apple.com/us/app/3bot-login/id1459845885)
+[Download 3bot Connect for Android](https://play.google.com/store/apps/details?id=org.jimber.threebotlogin&hl=en_US)
 
-  ## Registration and login
+## Registration and login
   
   To use the 3Bot Connect App you simply need to download the 3Bot Connect App available in the Appstore or Google Play Store. Folow the steps and register using your email address.
+ 
  ### Save the seed phrase in a safe place. In the future, it may help to restore your wallet in case your devise is lost.
-
-![](3bot_seed_phrase.jpg)
 
 Seed Phrase allows you to access and recover your wallet from any device. 
 We highly recommend write down your seed key on a paper and store it safely offline.
@@ -37,15 +37,12 @@ Finish this steps and choose your new pin, then confirm it and confirm your e-ma
 
 ## Home Page
 
-This is the Home Page of your 3Bot Connect App. From here you can open Social - [FreeFlow Pages](https://freeflowpages.com/) - open source social network hosted on ThreeFold decentralizde capacity. 
+This is the Home Page of your 3Bot Connect App. From here you there are shortcuts to open Social - [FreeFlow Pages](https://freeflowpages.com/).
 
-![](3bot_home_page.jpg)
 
 ## Wallet
 
 In this tab you can check your ThreeFold Tokens wallets and balances. You can copy your wallet address using the green "Copy" buttons for each specific wallet. Using the button in the bottom right side you can send or generate QR code to receive ThreeFold Tokens:
-
-![](./img/3but_wallet_1.jpg)
 
 ### How to get your wallet Address
 #### Step 1
@@ -71,18 +68,13 @@ You can now see your wallet address.
 
 To recieve your ThreeFold Tokens you can copy your button or you have to fill next fields:
 
-![](./img/3but_wallet_2.jpg)
-
 1) To - choose wallet that get transaction
 2) Amount - amount of TFT to get
 3) Message - message to transaction
 4) Generate QR - this button generate QR that you have to show
 
-![](./img/3but_wallet_3.jpg)
 
 ### Send
-
-![](./img/3but_wallet_4.jpg)
 
 1) From - choose your wallet with TFT to make transaction
 2) To - paste the reciever wallet adress
@@ -93,13 +85,11 @@ To recieve your ThreeFold Tokens you can copy your button or you have to fill ne
 ## Social
   
 In social tab you can join to our FreeFlow network, get actual news from official pages of ThreeFold communities. You can also create your own communities. Home page contains links to the specific ThreeFold communities. 
-  
-![](./img/3but_social.jpg)
 
 You can find available circles by pressing "My Spaces" -> and start typing a name or select from the proposed list.
 
 ## Support
-Here you can receive support on any questions related to the ThreeFold Network.
+Here you can receive support on any questions related to ThreeFold.
 
 ## Settings
 You can check your Secret Phrase here, change your pin code or remove your account in Advanced Settings tab.

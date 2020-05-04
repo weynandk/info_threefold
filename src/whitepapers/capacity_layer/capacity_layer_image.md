@@ -49,8 +49,8 @@ Core-0 is our main process manager which will deploy and manage our primitive wo
 
 The primitive workloads which are delivered by the Zero-OS:
 
-
-##  Compute = Containers-Based 
+<!-- tabs:start -->
+##  **Compute = Containers-Based**
 
 ![alt_text](./img/hw_os_virtualization.png)
 
@@ -68,16 +68,14 @@ Containerization is the current wave for deploying compute applications. It is m
 In our Zero-OS, we have eliminated lots of layers and as such we can be much more efficient and we are not dependent on third-party software vendors. Our operating system is not managed by humans. It is an autonomous system which gives you the ability to run any container workload in all safety while achieving more performance and efficiency. Our container technology is compatible with docker, yet still has quite a lot of great benefits.
 
 
-##  Storage = Zero-DB
+##  **Storage = Zero-DB**
 
 
 <table border="0">
   <tr>
    <td>
-    
-![alt_text](./img/zero_db.png)
 
-   </td>
+![alt_text](./img/zero_db.png ':size=250x400')   </td>
    <td>
     Backend Storage Engine
 <ul>
@@ -100,7 +98,7 @@ In our Zero-OS, we have eliminated lots of layers and as such we can be much mor
 0-db is a super fast and efficient key-value store redis-protocol (mostly) compatible, which makes data persistent inside an always append datafile, with namespaces support.
 
 
-## Network = Zero-GW and Zero-Net
+## **Network = Zero-GW and Zero-Net**
 
 
 <table border="0">
@@ -138,10 +136,12 @@ Wireguard based encrypted overlay network between any containers
 
 
 ![alt_text](./img/overlay_network.png)
+
  The Zero-nets are the overlay networks connecting all the containers. They can exit on multiple areas using the gateways. Here we called them web gateways but many types of access methods can be used (e.g. VPN technology or port forwarding). This allows for achieving full network and systems redundancy.
 
 In the above picture, any datacenter or network gateway can fall away, and the solution will still be available.
 
+<!-- tabs:end -->
 
 # Self-Driving “IT” by means of an “IT” smart contract
 
@@ -219,10 +219,18 @@ JumpscaleX is a cloud automation platform designed for scalability and fast deve
 
 The main components of the jumpscale automation suite are:
 
-*   **Clients:** User-friendly clients to connect to a multitude of systems (e.g. SSH, GitHub, FTP).
-*   **SAL:** System Abstraction Layer – it is a DSL (domain-specific language) for talking to a system. This allows the developer to use a user-friendly human-looking language when developing the life cycle management actors in Kosmos. This is the main bulk of jumpscale.
-*   **Kosmos Actors**: Executing the intelligence required to get to full self-healing & self-driving. \
-Each actor is responsible for managing one or more services and it is the only location where configuration information resides. Think about them as virtual employees being responsible for a certain part of the universe which needs to be automated.
+<!-- tabs:start -->
+
+### **SAL**
+**SAL** System Abstraction Layer – it is a DSL (domain-specific language) for talking to a system. This allows the developer to use a user-friendly human-looking language when developing the life cycle management actors in Kosmos. This is the main bulk of jumpscale.
+
+
+### **Clients**
+**Clients** are user-friendly clients interface help to connect to a multitude of systems (e.g. SSH, GitHub, FTP, Taiga, .. etc). 
+*
+
+### **Kosmos Actors**
+**Kosmos Actors** Executing the intelligence required to get to full self-healing & self-driving.  Each actor is responsible for managing one or more services and it is the only location where configuration information resides. Think about them as virtual employees being responsible for a certain part of the universe which needs to be automated.
 *   **Kosmos Shell: **Shell to interact with the actors.
 *   **Config Manager:** A secure way to manage configuration instances. Anything saved to the file system is NaCl encrypted and only decrypted on the fly when accessed.
 *   **Executors**: Jumpscale comes with its own executors that abstract working locally or remotely. Including: 
@@ -230,25 +238,31 @@ Each actor is responsible for managing one or more services and it is the only l
     *   Local Executor (for local execution)
     *   Docker Executor (for executing on dockers)
     *   Z-Container Executor (happens over SSH & CoreX)
-*   **Startup Managers**: Manage running processes in corex, tmux, etc.
-*   **Builders:** A set of tools to perform the common tasks required when creating container images. We call these images a “Flist” for file list. 
-*   Lots of **tools** to automate your daily life as an expert IT person.
-*   **Schema & Data management** layers
 
-**Configmanager**
+### **Startup Managers**
+**Startup Managers**: Manage running processes in corex, tmux, etc.
+
+### **tools**
+**Tools** are there to automate your daily life as an expert IT person.
+
+### **Schema & Data management**
+ **Schema & Data management** layers the data strong typing, safety for your data models and all the tooling for data manipulation.
+
+### **Configmanager**
 
 The config manager in JSX provides an immediately-available security layer for configurations. It manages sensitive data, only decrypting during runtime when needed. It also has a recovery system built-in – built to facilitate creating, retrieving, deleting, importing, and exporting configurations.  \
 
 
 
-**Kosmos**
+### **Kosmos**
 
 Kosmos is a new way to interface with all of JSX’s tools, SALs, clients, servers and builders. It gives full control over both the functionality and the instances created seamlessly, making building a deployment world and walking around all its components very simple. 
 
 
-**Builders**
+### **Builders**
 
 A big part of deployments is managing built solutions or components, which JSX makes very simple. Using JSX builders, a developer can build, install, and sandbox their solution in no time. They can then create flists, which are lightweight metadata descriptions to be mounted in the filesystem.
+<!-- tabs:end -->
 
 
 # Use Cases
@@ -325,10 +339,9 @@ Min configuration for 2U = 10cm height
 ![alt_text](./img/efficient.png)
 
 
-Hardware improved 10,000 times
+!> **Important** Hardware improved 10,000 times
 But, user features and performance improvement improved &lt; 10 times
-
-Why?
+.. Why?
 
 
 

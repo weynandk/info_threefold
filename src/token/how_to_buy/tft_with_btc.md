@@ -1,4 +1,4 @@
-<img src="img/mazraa-logo.jpg">
+![alt](./img/mazraa_logo.jpg)
 
 # Buy TFT: With Bitcoin From Mazraa
 

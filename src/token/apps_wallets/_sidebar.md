@@ -1,6 +1,0 @@
-* [Home](/)
-* [Token](token.md)
-    * [3Bot App](3bot_app.md)
-    * [Desktop Wallet](desktop_wallet.md)
-    * [Jumpscale Developer Wallet](https://github.com/threefoldfoundation/tfchain)
-    * [ThreeFold App](threefold_app.md)

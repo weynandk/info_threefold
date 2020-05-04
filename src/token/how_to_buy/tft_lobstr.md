@@ -1,46 +1,38 @@
-<!--- TODO: See if we can use includes soon, Original content is on SDK wiki --->
+# Buy TFT With A Lobstr Wallet
 
-<img src=img/lobstr_wallet_logo.png width="450">
+Simple & Secure Stellar Wallet
+LOBSTR is a great way to get started with Stellar.
+Simple, smooth and secure, it has all what it takes to manage your Lumens wisely.
+Besides managing you Lumens Lobstr also allows buying tokens with a Credit Card.
 
-# Buying tokens on Lobstr (Available April 29)
+## Step1 Create & Confm Your Account
 
-Lobstr is a wallet that also allows you to store your XLM-based coins and trade on the Stellar DEX (StellarX).
+Download the Lobstr app from the [Appstore](https://apps.apple.com/us/app/lobstr-stellar-wallet/id1404357892) or [Google Play](https://play.google.com/store/apps/details?id=com.lobstr.client&hl=nl)
+And Create your account in the app and confirm your email address.![image alt text](./img/lobstr_create_account.jpg)
 
-## Setup of TFT mobile wallet on Lobstr
+## Step 2 Creating a new wallet & Funding It
 
-As an example, please find here an example on how to set up TFT in a Stellar wallet. 
 
-## Download Lobstr wallet on your smartphone
+Lobstr will provide all its users with a 30 day loan of 1.5 XLM to activate the account. When you want to start using the Lobstr wallet you will need to fund it and pay back that loan. You can fund with a credit card or send digital currencies to the addresses of your lobstr wallet.
 
-This Stellar wallet is available on both Android and iOS. 
-As setup of any account requires XLM, you get a temporary loan of 1.5 XLM, which needs to be refunded once you have funded your wallet with cryptoassets. 
+![image alt text](./img/lobstr_fund_wallet.jpg)
 
-## Buy cryptocurrencies 
+## Step 3: Activate your wallet
 
-In the app, there is a way to buy cryptocurrencies of any kind, using a credit card. 
+To activate your wallet & start trading you will first need to refund Lobstr the 1.5 XLM loan you received.
 
-## Configure your TFT account
+![image alt text](./img/lobstr_activate_wallet.jpg)
 
-You can create a TFT account doing the following steps : 
+## Step 4: Add TFT asset(s)
 
-- Go to Assets
-![lobstr4](./img/lobstr4.jpeg)
+To start trading or buying TFT assets you will have to add them to your wallet.
 
-- Select 'More assets'
-![lobstr3](./img/lobstr3.jpeg)
+You can do this by clicking "Assets" in the left menu. From there you can search for TFT and it will show all TFT assets (TFT, FreeTFT, TFTA)
 
-- Select 'Add custom'
-![lobstr2](./img/lobstr2.jpeg)
+![image alt text](./img/lobstr_add_assets.jpg)
 
-- Find TFT and FreeTFT by filling in the domain name threefold.io
-![lobstr1](./img/lobstr_assets_selection.jpg)
+## Step 5: Start Trading
 
-- Push the 'Add' button
+You can now start exchanging your digital currencies for TFTs through the Trade section in the menu. You can choose to fullfill sell orders, or create your own buy order. Once the buy order or trade has been fulfilled your TFT will show up in your wallet.
 
-## Buy TFTs
-
-- Select Trade in the main menu
-- Find the order book and buy TFT (in this case with XLM)
-- When done, the result can be found in the history, and the amount of tokens is added to the balance of the account
-
-![lobstr_order_book](./img/lobstr_orderbook.jpg)
+![image alt text](./img/lobstr_trade_tft.jpg)

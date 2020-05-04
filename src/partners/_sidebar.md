@@ -1,5 +1,0 @@
-* [Home](/)
-* [Partners](partners.md)
-  * [Hewlett Packard Enterprise](hpe.md)
-  * [Solidaridad](solidaridad.md)
-  * [Flowgen](flowgen.md)

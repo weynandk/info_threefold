@@ -95,7 +95,7 @@ gantt
     Launch of one of biggest public digital archives in Europe [50 PB] on TF Grid [production]         :19-06, 20-01
 ```
 )
-
+<!---
 ![](images/grid.png)
 See [here](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/development/docs/strategy/images/grid.png) for more detail.
-
+--->

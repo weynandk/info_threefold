@@ -2,11 +2,6 @@
 
 # Supplemental Terms & Conditions
 
-## Information
-
-See the following link for used Definitions & ThreeFold Grid Concepts: <a href="https://docs.grid.tf/threefold/info/src/branch/master/legal/definitions.md" target="_blank">definitions</a> and <a href="https://docs.grid.tf/threefold/info/src/branch/master/concepts/threefold_principles.md" target="_blank">concepts</a>
-
-
 ## Disclaimer
 
 The Company makes no warranty whatsoever, neither in its own name nor in the name of the ThreeFold Foundation, with respect to the TFTs, including any: (i) warranty of merchantability; (ii) warranty of fitness for a particular purpose; (iii) warranty of title; or (iv) warranty against infringement of intellectual property rights of a third party; whether arising by law, course of dealing, course of performance, usage of trade, or otherwise. except as expressly set forth herein, purchaser acknowledges that it has not relied upon any representation or warranty made by The Company, or any other person on the company's behalf. 

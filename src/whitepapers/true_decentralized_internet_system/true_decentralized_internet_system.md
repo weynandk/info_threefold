@@ -1,4 +1,4 @@
-# THE WORLD NEEDS TRUE DECENTRALIZATION 
+# The World Needs True Decentralization
  
 ![alt_text](./img/theworld.png)
 
@@ -166,9 +166,6 @@ There are 3 layers of our technology (see below), the capacity layer is availabl
 Since then we have been working on new technology which is making our “digital self” 3Bot service possible. This technology is not ready for prime time yet. We are close to launching an upgrade in our TF Grid where the usage of 3Bot technology will be introduced. 
 
 ThreeFold Tech is the technology company who developed this technology. ThreeFold Tech is working with chosen technology partners to roll out commercial products. To learn more about the technology which empowers our 3Bot see our technology whitepaper (links at end of document).
-
-
-## 
 
 
 ## The ThreeFold grid is operational since March 2019 
@@ -438,7 +435,7 @@ One of our keys to success are our partnerships and we are very grateful that th
 
 *   FreeFlow Nation Website: [https://www.freeflownation.org](https://www.freeflownation.org)
 *   FreeFlow Nation Manifesto: [http://freeflowmanifesto.threefold.me](http://freeflowmanifesto.threefold.me)
-*   ThreeFold Network Website: [https://threefold.io/](https://threefold.io/)
+*   ThreeFold Website: [https://threefold.io/](https://threefold.io/)
 *   [ThreeFold Grid Whitepaper ](tf_whitepaper_104.md)
 *   [ThreeFold Technology Whitepaper](technology_overview.md)
     *   [Capacity Layer Whitepaper](capacity_layer.md)

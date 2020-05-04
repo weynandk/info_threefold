@@ -1,9 +1,8 @@
 # Bringing trust is a human task, not a blockchain one
 
-
 ## Blockchain is just a tool (but a pretty powerful one)
 
-# A little history on blockchain technology 
+### A little history on blockchain technology 
 
  
 
@@ -38,8 +37,6 @@ Now that we have invented a technology that potentially can build different thin
 
 
 # Blockchain myths 
-
-Source: this <span style="text-decoration:underline;"><span style="text-decoration:underline;">article</span>
 
 In order to investigate what potential right use cases exist for blockchain technologies let spend some time on some of the blockchain myths that have been created in recent years.  As with any new technology blockchains have been named as a miracle technology that that overcome many (if not any) of the challenges and difficulties that exist in modern day digital technology. Let’s name and investigate a few.
 

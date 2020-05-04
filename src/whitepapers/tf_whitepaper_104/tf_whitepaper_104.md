@@ -1,16 +1,12 @@
-<img src="img/Large-TFN-3.png" width="250">
-
+![alt text](./img/large_tfn_3.png)
 
 **The ThreeFold Grid and Token**
 
 **WHITEPAPER**
 
-**v 1.0.4 (Sept 2019)**
+**v 1.0.4 (This version is outdated. 1.0.5. is in the making)**
 
 # Abstract
-
-
-
 
 
 
@@ -18,7 +14,7 @@ The Internet is growing at an accelerated rate. To service this demand a few lar
 
 
 
-*   To build this grid, the ThreeFold community has developed the ThreeFold Token (TFT), a decentralized digital currency used to buy autonomous and decentralized Internet services (compute, storage, and application) on the ThreeFold Network. A TFT represents a unit of reservation of autonomous Internet capacity on the ThreeFold Network. The TFT is supported by the fastest growing commodity in the world, the Internet.
+*   To build this grid, the ThreeFold community has developed the ThreeFold Token (TFT), a decentralized digital currency used to buy autonomous and decentralized Internet services (compute, storage, and application) on the ThreeFold Grid. A TFT represents a unit of reservation of autonomous Internet capacity on the ThreeFold Grid. The TFT is supported by the fastest growing commodity in the world, the Internet.
 *   Independent ThreeFold Farmers (Farmers), generate Internet capacity. They do this by connecting IT hardware (servers) to the Internet. As a result TF Tokens (TFT) are generated on the ThreeFold Blockchain which are now usable as a true digital currency.
 *   ThreeFold Tech is a technology company which is developing & commercializing “Self Driving IT” to power future innovation through decentralization. ThreeFold Tech has resolved a number of fundamental challenges in the world of IT by simplifying the required architecture to three fundamental layers:  a capacity layer, an autonomous layer and the distributed applications layer  
 
@@ -118,7 +114,7 @@ We have created a user-friendly “IT as energy” solution, in which the Intern
 **Respect Ethical Design**
 
 
-![alt_text](ethical_design.png)
+<img src="img/ethical_design_01.png" width="450">
 
 <!--- TODO: Review, links to Very Outdated information 
 
@@ -131,7 +127,7 @@ We expect the Foundation and its product to reflect these values. Thus, we have 
 ![alt_text](./img/principles.png)
 
 
-To build this Grid, ThreeFold contributors have developed the ThreeFold Token (TFT), a decentralized digital currency with a commercial utility use. TFTs are generated only when Internet capacity is added to the Grid, which means that TFTs are directly generated  by Internet capacity being added to  the ThreeFold network. The Grid is managed by the ThreeFold blockchain (TF Chain), which can issue a maximum of 100 billion TFTs. 
+To build this Grid, ThreeFold contributors have developed the ThreeFold Token (TFT), a decentralized digital currency with a commercial utility use. TFTs are generated only when Internet capacity is added to the Grid, which means that TFTs are directly generated  by Internet capacity being added to  the ThreeFold Grid. The ThreeFold Grid is managed by the ThreeFold blockchain (TF Chain), which can issue a maximum of 100 billion TFTs. 
 
 The only way how new Tokens can be created is as a result of independent “farmers” connecting servers (storage and compute) to the existing Internet. No Tokens have been issued, printed or created any other way. There are no founder tokens, or bonus tokens… 
 
@@ -171,7 +167,9 @@ More details can be found on the [ThreeFold Website](http://www.threefold.io).
 
 **Neutral**: The ThreeFold Foundation is building a neutral and digitally responsible world by connecting humanity to a decentralized, distributed, neutral, and green Internet owned by all of us. The ThreeFold Foundation does not have any shareholders and is not owned or controlled by any other corporation. The ThreeFold Foundation is only a promotion organization. All technology used by ThreeFold is open source. All users and ThreeFold Nodes are registered on a blockchain-based identity management platform enhancing security and privacy.  ​
 
-<!--- TODO: 1 utility driven, 2 mentions OCA and partnership is not formalized --->
+<!--- 
+TODO: 1 utility driven, 2 mentions OCA and partnership is not formalized 
+--->
 **Utility-Driven**: The TFT is designed to have specific commercial utility as the currency for buying and selling IT Capacity on the TF Grid. Our aim is to make the TFT a real digital currency which can be used on on global scale for use cases even beyond selling and buying capacity. We believe people will appreciate the TFT because of its stability and security.. There are already big use cases being rolled out e.g. in Belgium we are enabling a first network of 8000 merchants, see [OurCityApps.com](https://ourcityapps.com/). 
 
 **Green**: The ThreeFold Chain’s Operating System (Zero OS) runs on a decentralized and distributed network of dedicated hyper-efficient Zero Node (Node) infrastructure, which enables extreme scalability to be delivered with an extremely low carbon footprint.
@@ -180,7 +178,7 @@ The TF Chain has been built using our [Rivine.io](https://github.com/rivine/rivi
 
 ThreeFold Tokens can be bought from ThreeFold Farmers or by means of Ripple, Ethereum or Bitcoin using the TF and/or Public Exchange. 
 
-![alt_text](./img/flow.png)
+<img src="img/flow.png" width="700">
 
 
 
@@ -240,7 +238,7 @@ When selling capacity, Farmers will earn the following amount of Tokens in a giv
 
 **_T = Token price at time of capacity reservation_**
 s   
-![alt_text](chart.png)
+![alt_text](./img/chart_1.png)
 
 
 This mechanism guarantees that Tokens are always generated by active Internet capacity. 
@@ -284,11 +282,11 @@ The ThreeFold community is promoting this new Internet, and we need a lot of peo
 If your are interested in hosting capacity, or developing decentralized applications and or want to support the growth of ThreeFold Project, then TFT’s are for you.
 
 
-Please visit the ThreeFold website for more info [www.threefold.io](www.threefold.io). 
+Please visit the ThreeFold website for more info [www.threefold.io](https://www.threefold.io). 
 
-You can buy these tokens through digital exchanges or directly from the Farmers on the the ThreeFold Network. 
+You can buy these tokens through digital exchanges or directly from the Farmers on the ThreeFold Grid. 
 
-ThreeFold Token (TFT) is a decentralized digital currency used to buy autonomous and decentralized Internet services (compute, storage, and application) on the ThreeFold Network.
+ThreeFold Token (TFT) is a decentralized digital currency used to buy autonomous and decentralized Internet services (compute, storage, and application) on the ThreeFold Grid.
 
 
 **ThreeFold Tech Investors**
@@ -356,7 +354,7 @@ This technology consists of three major building blocks:
 
 
 <!---TODO: needs new image! --->
-![alt_text](./img/farming_business_model.png)
+<img src="img/farming_business_model.png" width="600">
 
 
 See  [http://flow.threefold.io](http://flow.threefold.io)  for lots of more info an also more technical information.

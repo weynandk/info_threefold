@@ -15,12 +15,12 @@ This makes close collaboration particularly important to clarify requirements ju
 
 
 
-- [AgileRequirements](agilerequirements.md)
+- [AgileRequirements](agile_requirements.md)
 - [Pareto](pareto.md)
-- [TeamEmpowerement](teamempowerement.md)
-- [ChangeIsNotBad](changeisnotbad.md)
-- [UserInvolved](userinvolved.md)
-- [FastButNotFurious](fastbutnotfurious.md)
-- [HowToEatAnElephant](howtoeatanelephant.md)
-- [DoneIsDone](doneisdone.md)
+- [TeamEmpowerement](team_empowerement.md)
+- [ChangeIsNotBad](change_is_not_bad.md)
+- [UserInvolved](user_involvement.md)
+- [FastButNotFurious](fast_but_not_furious.md)
+- [HowToEatAnElephant](how_to_eat_an_elephant.md)
+- [DoneIsDone](done_is_done.md)
 

@@ -1,35 +1,34 @@
 
-![](./img/token_header.jpg)
-# ThreeFold Token
+![](./img/token_internet.png)
+
+## Information
+
+- [Why](token_why.md)
+- [What](token_what.md)
+- [Value](token_grid_valuation.md)
+- [Liquidity](token_liquidity.md)
+- [How To Buy](how_to_buy.md)
+   - [Available Now](buy_now.md)
+      - [With Credit Card](tft_mazraa.md)
+      - [With Bitcoin](tft_with_btc.md)
+      - [With Lobstr App/Wallet](cc_buytft_lobstr_wallet.md)
+      - [Interstellar](tft_interstellar.md)
+      - [StellarX](cc_buytft_stellarx.md)
+   - [Soon](buy_later.md)
+      - [BTC-Alpha](tft_btc_alpha.md)
+      - [Liquid.com](tft_liquid.md)
+- [Tokenomics](tokenomics.md)
+
+![](./img/token_fundementals.png)
 
 ## New to ThreeFold?
+
+Below video is a little outdated but still usable, a new one will be created
+
 
 Watch the video on the [ThreeFold YouTube Channel](https://www.youtube.com/channel/UCKMNPuhs-8tHYfGd92krC8w)
 
 <div style="overflow:hidden;">
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/4exjbFvnGkk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="750" height="421" src="https://www.youtube.com/embed/4exjbFvnGkk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-## Where to go next?
-
-This wiki, the **ThreeFold Tokens Wiki** brings together all information about the ThreeFold Token, abbreviated TFT.
-
-You are invited to contribute to this wiki by directly editing the sources files or by creating an issue with feedback or a change request on the [info_tokens GitHub repository](https://github.com/threefoldfoundation/info_threefold).
-
-## More online resources
-
-For additional information, please refer to our official channels: 
-
-- Website: [threefold.io](https://threefold.io) 
-
-- FreeFlowPages: [ThreeFold Foundation Space](https://freeflowpages.com/s/threefoldfoundation/)
-
-- FreeFlowPages: [ThreeFold Tokens Space](https://freeflowpages.com/s/tf-tokens/)
-
-- YouTube channel: [youtube.com/c/ThreeFoldFoundation](https://www.youtube.com/c/ThreeFoldFoundation)
-
-
-- Facebook: [facebook.com/ThreeFoldNetwork](https://www.facebook.com/ThreeFoldNetwork)
-
-- LinkedIn: [linkedin.com/company/threefold-foundation/](https://www.linkedin.com/company/threefold-foundation/)
 
