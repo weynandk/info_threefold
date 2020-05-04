@@ -170,5 +170,5 @@
       - [Building a Newer Digital World for Humanity](humanity.md)
       - [ThreeFold Grid: Edge. The New Internet](edge.md)
       - [ThreeFold Wallpapers](threefold_wallpapers.md)
-- [3sSDK](sdk_intro.md)
+- [3SDK](sdk_intro.md)
 
