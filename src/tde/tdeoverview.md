@@ -23,20 +23,20 @@ As stated in the introduction, we will offer project branded TFTs to fund a port
 
 | Project Name | Sponsor TFT Amount | Description |
 |:-------------|---------------:|:------------|
-| [TF Foundation](./foundation/README.md)	| 30,000,000		| Foundation funding (marketing, operations team, grid roll out, roadshows, ...) |
-| [3bot (digital twin)](./3botdigitaltwin/README.md)	| 10,000,000		| 80% of our digital life implemented on top of the 3bot |
-|[TF Grid enhancements](./gridenhancements/README.md)	| 10,000,000		| Further improvements to the grid as sponsored by the TF Foundation |
-| [Crystal Language](./crystallang/README.md)	| 5,000,000		| Core language used to implement the 3bot and future SDK for ThreeFold |
-| [TFT Education](./education/README.md)	| 3,000,000		| World's first true peer-to-peer education system on top of TF Grid |
-| [3bot Files](./3botfiles/README.md)	| 3,000,000		| Our personal cloud on the TF Grid |
-| [TF Grid Solutions](./gridsolutions/README.md)	| 2,500,000		| Open source solutions ported to the grid |
-| [3bot Connect](./3botconnect/README.md) 	| 2,000,000		| Peer-to-peer video conferencing |
-|[3bot marketing / prod mgmt](./3botmarketing/README.md)	| 2,000,000		| Bring the 3bot alive as a digital twin |
-| [3bot Browser](./3botbrowser/README.md)	 | 2,000,000		| Personal browser running close to our 3bot |
-| [Social media / Collaboration](./socialmedia/README.md) | 2,000,000		| Combination of social media / productivity & collaboration tools |
-| [TF Grid User Interface](./griduserinterface/README.md)	| 1,000,000		| Easy-to-use interface to provision IT workloads on the grid |
-| [Virtual Reality Museum](./vrmuseum/README.md)	| 500,000		| Virtual reality museum online of 500.000 artworks as part of TF Grid |
-| [TFT TimeBank](./timebank/README.md)	| 333,333		| World first global time token, on top of TF Grid, +200k users today |
+| [TF Foundation](foundation_readme.md)	| 30,000,000		| Foundation funding (marketing, operations team, grid roll out, roadshows, ...) |
+| [3bot (digital twin)](3botdigitaltwin_readme.md)	| 10,000,000		| 80% of our digital life implemented on top of the 3bot |
+|[TF Grid enhancements](gridenhancements_readme.md)	| 10,000,000		| Further improvements to the grid as sponsored by the TF Foundation |
+| [Crystal Language](crystallang_readme.md)	| 5,000,000		| Core language used to implement the 3bot and future SDK for ThreeFold |
+| [TFT Education](education_readme.md)	| 3,000,000		| World's first true peer-to-peer education system on top of TF Grid |
+| [3bot Files](3botfiles_readme.md)	| 3,000,000		| Our personal cloud on the TF Grid |
+| [TF Grid Solutions](gridsolutions_readme.md)	| 2,500,000		| Open source solutions ported to the grid |
+| [3bot Connect](3botconnect_readme.md) 	| 2,000,000		| Peer-to-peer video conferencing |
+|[3bot marketing / prod mgmt](3botmarketing_readme.md)	| 2,000,000		| Bring the 3bot alive as a digital twin |
+| [3bot Browser](3botbrowser_readme.md)	 | 2,000,000		| Personal browser running close to our 3bot |
+| [Social media / Collaboration](socialmedia_readme.md) | 2,000,000		| Combination of social media / productivity & collaboration tools |
+| [TF Grid User Interface](griduserinterface_readme.md)	| 1,000,000		| Easy-to-use interface to provision IT workloads on the grid |
+| [Virtual Reality Museum](vrmuseum_readme.md)	| 500,000		| Virtual reality museum online of 500.000 artworks as part of TF Grid |
+| [TFT TimeBank](timebank_readme.md)	| 333,333		| World first global time token, on top of TF Grid, +200k users today |
 
 
 In percentages:
@@ -49,17 +49,17 @@ For each project TFT tokens will be branded to represent the project.  The proje
 
 | Project Name | Sponsor TFT Amount | Token Name |
 |:-------------|---------------:|:------------|
-| [TF Foundation](./foundation/README.md)	| 30,000,000		| TFTFD |
-| [3bot (digital twin)](./3botdigitaltwin/README.md)	| 10,000,000		| TFT3B |
-|[TF Grid enhancements](./gridenhancements/README.md)	| 10,000,000		| TFTGE |
-| [Crystal Language](./crystallang/README.md)	| 5,000,000		| TFTCL  |
-| [TFT P2P Education](./education/README.md)	| 3,000,000		| TFTPE |
-| [3bot Files](./3botfiles/README.md)	| 3,000,000		| TFT3F |
-| [TF Grid Solutions](./gridsolutions/README.md)	| 2,500,000		| TFTGS |
-| [3bot Connect](./3botconnect/README.md) 	| 2,000,000		| TFT3C |
-|[3bot marketing / prod mgmt](./3botmarketing/README.md)	| 2,000,000		| TFT3M |
-| [3bot Browser](./3botbrowser/README.md)	 | 2,000,000		| TFT3B |
-| [Social media / Collaboration](./socialmedia/README.md) | 2,000,000		| TFTSM |
-| [TF Grid User Interface](./griduserinterface/README.md)	| 1,000,000		| TFTUI |
-| [Virtual Reality Museum](./vrmuseum/README.md)	| 500,000		| TFTVR |
-| [TFT TimeBank](./timebank/README.md)	| 333,333		| TFTTB |
+| [TF Foundation](foundation_readme.md)	| 30,000,000		| TFTFD |
+| [3bot (digital twin)](3botdigitaltwin_readme.md)	| 10,000,000		| TFT3B |
+|[TF Grid enhancements](gridenhancements_readme.md)	| 10,000,000		| TFTGE |
+| [Crystal Language](crystallang_readme.md)	| 5,000,000		| TFTCL  |
+| [TFT P2P Education](education_readme.md)	| 3,000,000		| TFTPE |
+| [3bot Files](3botfiles_readme.md)	| 3,000,000		| TFT3F |
+| [TF Grid Solutions](gridsolutions_readme.md)	| 2,500,000		| TFTGS |
+| [3bot Connect](3botconnect_readme.md) 	| 2,000,000		| TFT3C |
+|[3bot marketing / prod mgmt](3botmarketing_readme.md)	| 2,000,000		| TFT3M |
+| [3bot Browser](3botbrowser_readme.md)	 | 2,000,000		| TFT3B |
+| [Social media / Collaboration](socialmedia_readme.md) | 2,000,000		| TFTSM |
+| [TF Grid User Interface](griduserinterface_readme.md)	| 1,000,000		| TFTUI |
+| [Virtual Reality Museum](vrmuseum_readme.md)	| 500,000		| TFTVR |
+| [TFT TimeBank](timebank_readme.md)	| 333,333		| TFTTB |
