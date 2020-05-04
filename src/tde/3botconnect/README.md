@@ -5,7 +5,7 @@ Provide an indepedent and peer-to-peer video conferencing
 
 
 ### Goal
-Create an independent and private 2FA authentication mechanism
+Create an independent and private peer-to-peer video conferencing solution.  Using peer-to-peer technology avoids creating large bottlenecks in the center of the solution which can lead to loss of quality of video and audio signal.  On the privacy front it make sure that nobody can extra information about what is being communicated.  A private video conferencing solution.
 
 ### Funding
 See Roadmap
@@ -20,4 +20,4 @@ Roadmap and investment plan for the 3Bot connect app.
 
 | Name         | Date   | Description | Recommendations | Funding |
 |:-------------|--------|-------------|-----------------|---------:|
-| V1.0 |  2020/05 | Ability to have a 3bot based 2FA mechanism that allows you to independently and private authenticate without being tracked by internet giants.. |  |2,000'000 TFT |
+| V1.0 |  2020/05 | Peer-to-peer secure, private and efficient video conferencing |  |2,000'000 TFT |
