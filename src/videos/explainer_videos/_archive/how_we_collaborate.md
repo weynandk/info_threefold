@@ -1,3 +1,0 @@
-# Agile Collaboration Teal Principles
-
-<iframe width="750" height="421" src="https://www.youtube.com/embed/RMVzunXTbQc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

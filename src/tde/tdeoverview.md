@@ -21,7 +21,7 @@ So we at ThreeFold are very excited about this move!
 
 As stated in the introduction, we will offer project branded TFTs to fund a portfolio of projects working with the ThreeFold foundation and using TF Grid resources. By buying tokens, you directly support these projects and therefore the growth of the ThreeFold Grid and its experiences. These projects are:
 
-| Project Name | Sponsor TFT Amount | Description |
+| Project Name | Allocated Grant | Description |
 |:-------------|---------------:|:------------|
 | [TF Foundation](foundation_readme.md)	| 30,000,000		| Foundation funding (marketing, operations team, grid roll out, roadshows, ...) |
 | [3bot (digital twin)](3botdigitaltwin_readme.md)	| 10,000,000		| 80% of our digital life implemented on top of the 3bot |
@@ -47,19 +47,19 @@ In percentages:
 
 For each project TFT tokens will be branded to represent the project.  The project tokens are exchangable to TFT tokens and have the same value.  A the TDE (Token Distribution Event) investors and sponsors can select which project they like most and purchase the project branded tokens.
 
-| Project Name | Sponsor TFT Amount | Token Name |
+| Project Name | Allocated Grant | Token Name |
 |:-------------|---------------:|:------------|
-| [TF Foundation](foundation_readme.md)	| 30,000,000		| TFTFD |
-| [3bot (digital twin)](3botdigitaltwin_readme.md)	| 10,000,000		| TFT3B |
-|[TF Grid enhancements](gridenhancements_readme.md)	| 10,000,000		| TFTGE |
-| [Crystal Language](crystallang_readme.md)	| 5,000,000		| TFTCL  |
-| [TFT P2P Education](education_readme.md)	| 3,000,000		| TFTPE |
-| [3bot Files](3botfiles_readme.md)	| 3,000,000		| TFT3F |
-| [TF Grid Solutions](gridsolutions_readme.md)	| 2,500,000		| TFTGS |
-| [3bot Connect](3botconnect_readme.md) 	| 2,000,000		| TFT3C |
-|[3bot marketing / prod mgmt](3botmarketing_readme.md)	| 2,000,000		| TFT3M |
-| [3bot Browser](3botbrowser_readme.md)	 | 2,000,000		| TFT3B |
-| [Social media / Collaboration](socialmedia_readme.md) | 2,000,000		| TFTSM |
-| [TF Grid User Interface](griduserinterface_readme.md)	| 1,000,000		| TFTUI |
-| [Virtual Reality Museum](vrmuseum_readme.md)	| 500,000		| TFTVR |
-| [TFT TimeBank](timebank_readme.md)	| 333,333		| TFTTB |
+| [TF Foundation](foundation_readme.md)	| 30,000,000		| TFT_FD |
+| [3bot (digital twin)](3botdigitaltwin_readme.md)	| 10,000,000		| TFT_3B |
+|[TF Grid enhancements](gridenhancements_readme.md)	| 10,000,000		| TFT_GE |
+| [Crystal Language](crystallang_readme.md)	| 5,000,000		| TFT_CL  |
+| [TFT P2P Education](education_readme.md)	| 3,000,000		| TFT_PE |
+| [3bot Files](3botfiles_readme.md)	| 3,000,000		| TFT_3F |
+| [TF Grid Solutions](gridsolutions_readme.md)	| 2,500,000		| TFT_GS |
+| [3bot Connect](3botconnect_readme.md) 	| 2,000,000		| TFT_3C |
+|[3bot marketing / prod mgmt](3botmarketing_readme.md)	| 2,000,000		| TFT_3M |
+| [3bot Browser](3botbrowser_readme.md)	 | 2,000,000		| TFT_3B |
+| [Social media / Collaboration](socialmedia_readme.md) | 2,000,000		| TFT_SM |
+| [TF Grid User Interface](griduserinterface_readme.md)	| 1,000,000		| TFT_UI |
+| [Virtual Reality Museum](vrmuseum_readme.md)	| 500,000		| TFT_VR |
+| [TFT TimeBank](timebank_readme.md)	| 333,333		| TFT_TB |
