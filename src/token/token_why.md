@@ -4,8 +4,7 @@
 
 # Why does ThreeFold need its own currency?
 
-
-Every economical system can benefit from a trusted currency. For the largest parts of our everyday life, we are used to an exchange of goods and services against fiat money - meaning a centralized currency issued by a central bank. 
+For the largest parts of our everyday life, we use fiat money to exchange goods and services - a centralized currency issued by a central bank. 
 
 ###  So why don't we follow this convenient and familiar path for ThreeFold?
 
