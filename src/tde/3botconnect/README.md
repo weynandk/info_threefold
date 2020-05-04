@@ -1,7 +1,9 @@
 ## Project: 3Bot Connect
 
 ### Purpose
-Provide an indepedent and peer-to-peer video conferencing 
+Provide private and indepedent and peer-to-peer video conferencing. Other conference solutions use centralised infrastructure and software to connect people.  The central infrastructure needs enormous connectivity and hardware to connect large numbers of people.  The 3bot connect solution creates peer-2-peer connections 
+
+![](../img/3botconnect.png)
 
 
 ### Goal

@@ -1,9 +1,9 @@
 ## Project: 3Bot Browser
 
 ### Purpose
-3Bot browser is a browser that runf close to you digital avatar online.  It presents you with the ability to have a browser on the TF Grid running anywhere you want and securely stream back the browser contant to you local browser.  
+3Bot browser is a browser that runs close to you digital avatar online.  It presents you with the ability to have a browser on the TF Grid running anywhere you want and securely stream back the browser content to you local browser.  
 
-It provides you with privacy and independene that people cannet track your whereabouts based on the locality of your browser.
+It provides you with privacy and independene where people and companies cannot track your whereabouts based on the location of your browser.
 
 ![](./img/3botbrowser.png)
 
