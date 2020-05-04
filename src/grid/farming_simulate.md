@@ -1,7 +1,7 @@
 ![alt](sdk_intro.png)
 
-To simulate your farming cases you will need access to the 3SDK. (for now, cloudbased version coming soon!)
-All documentation around this topic can be found on the 3SDK wiki in the simulate section.
+# Farming Simulator 
+To simulate your farming cases you will need access to the 3SDK (a cloud based version is coming soon!) All documentation around this topic can be found on the 3SDK wiki in the simulate section.
 
 Visit the [3SDK Wiki: Simulate](https://sdk.threefold.io/#/simulator)
 

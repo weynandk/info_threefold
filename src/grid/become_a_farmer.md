@@ -1,9 +1,7 @@
-# Become A Farmer
-
 ![](img/becomefarmer.png)
 
-
-To become a farmer a few decisions need to be made:
+# Become A Farmer
+Become a farmer and contribute to building the foundation of a better internet for humanity and the planet. By becoming a farmer, a few decisions need to be made:
 
 - do you want to host the hardware yourself?
 - do you want your hardware to be hosted?
