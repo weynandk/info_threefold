@@ -145,7 +145,7 @@
   - [Mazraa](mazraa.md)
   - [Green Edge](greenedgecloud.md)
   - [Jimber](jimber.md)
-- [Promotion Materials](promotion.md)
+- [Promotional Materials](promotion.md)
   - [How You Can Help!](how_to_help.md)
   - [Shareable Content](threefold_content.md)
     - [Video Content](explainer_videos.md)
