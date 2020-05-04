@@ -115,8 +115,8 @@
 	- [Team Empowerment](team_empowerment.md)
 	- [User Involvement](user_involvement.md)
 - [Definitions & Concepts](definitions_concepts.md)
-	- [ThreeFold Values](threefold_values.md)
-	- [ThreeFold](definition_threefold.md)
+  - [ThreeFold Values](threefold_values.md)
+  - [ThreeFold](definition_threefold.md)
   - [Capacity Layer](capacity_layer.md)
   - [Autonomous Layer](autonomous_layer.md)
   - [Experience Layer](experience_layer.md)
@@ -148,5 +148,5 @@
   - [How You Can Help!](how_to_help.md)
   - [Shareable Content](threefold_content.md)
   - [ThreeFold Wallpapers](threefold_wallpapers.md)
-- [3SDK](sdk_intro.md)
+- [SDK](sdk_intro.md)
 
