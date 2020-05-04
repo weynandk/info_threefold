@@ -14,7 +14,7 @@ Various reports from reputable resources show that the global cloud market is al
 )
 
 ### Large parts of the world still lack access to local capacity
-![](./img/token_cloudstructure.jpg)
+![](./img/cloudstructure.JPG)
 Despite the fast-growing global cloud market, the distribution of data centers is still mostly concentrated on the western world and certain parts of Asia.
 This source lists the data centers of the current market leader in cloud capacity as an example: 
 https://wikileaks.org/amazon-atlas/map/
