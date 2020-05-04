@@ -52,7 +52,8 @@ The amount of TFT however, is limited to a maximum of [4 billion TFT](token\toke
 
 ![](./img/token_issuance_economy1.png)
 
-In the aforementioned case, global demand of 5 billion USD would meet a limited supply of TFT that can never exceed 4 billion. This means that each TFT has an underlying value of 1,25 USD in capacity. This price can be seen as a fair value in this scenario. 
+In the aforementioned case, global demand of 5 billion USD would meet a limited supply of TFT that can never exceed 4 billion. This would mean that each TFT would have an underlying value of 1,25 USD in capacity. 
+Disclaimer: Please note that we can´t and won´t make price predictions on TFT evaluation and that all calculations made here are purely hypothetical.
 
 
 ### Sustainable growth vs hype
