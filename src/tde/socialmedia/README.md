@@ -1,25 +1,25 @@
-## Project: Social Media
+# Project: Social Media
 
-### Purpose
+## Purpose
+Most social media platform are owned and operated by single companies. This     
+![](./img/freeflowpages.png)
 
-
-
-### Goal
-
-
-
-### Funding
+## Goal
 
 
 
-### Team
+## Funding
 
 
 
-
-### Roadmap
+## Team
 
 
 
 
-### Other
+## Roadmap
+
+
+
+
+## Other
