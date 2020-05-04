@@ -19,7 +19,7 @@ See Roadmap
 
 ### Team
 
-[The Jimber Team](https://www.jimber.org/securityBroker.html)
+[The ThreeFold Tech team](https://www.threefold.tech)
 
 ### Roadmap
 
