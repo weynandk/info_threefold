@@ -42,9 +42,10 @@ The amount of TFT in circulation in the market is however limited to a maximum o
 
 ![](./img/token_issuance_economy1.png)
 
-Cosndiering that a global demand of 5 billion USD would meet a limited supply of TFT that can never exceed 4 billion. This would mean that each TFT would have an underlying value of 1,25 USD in capacity (assuming ceteris paribus)
+Considering that global demand of 50 billion USD would meet a limited supply of TFT that can never exceed 4 billion. This would mean that each TFT would have an underlying value of 12,5 USD in capacity. 
+Disclaimer: Please note that we can´t and won´t make price predictions on TFT evaluation and that all calculations made here are purely hypothetical.
 
-***Disclaimer: Please note that we can´t and won´t make price predictions on TFT evaluation and that all calculations made here are purely hypothetically.***
+In the case that ThreeFold would only achieve a 1% market share, this still would lead to an expected demand of 5 billion USD worth of capacity, about 7,5 million [3nodes] and 1,25 USD in underlying value of copacity for each TFT. 
 
 
 ### Sustainable growth vs Hype
