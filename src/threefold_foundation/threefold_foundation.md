@@ -9,8 +9,8 @@ A short summary of what is documented throughout this part of the wiki:
 
 In the earlier days of the ThreeFold Foundation there where 2 multiple teams collaboration, but the core teams where located in Dubai and Belgium.
 
-In Dubai we had: [ThreeFold FZC](threefold_fzc.md)
-In Belgium we have: [ThreeFold VZW](threefold_vzw.md) part of the VZW is the [Wisdom Council](wisdom_council.md).
+- In Dubai we had: [ThreeFold FZC](threefold_fzc.md)
+- In Belgium we have: [ThreeFold VZW](threefold_vzw.md) part of the VZW is the [Wisdom Council](wisdom_council.md).
 
 All technology used by the VZW was created by 3 Companies: GreenIT Globe, ThreeFold FZC & [ThreeFold Tech](tftech.md). The last two still actively participate in creation of tech components used by the ThreeFold Foundation today.. 
 
