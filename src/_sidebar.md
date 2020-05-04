@@ -30,7 +30,7 @@
     - [Interstellar](tft_interstellar.md)
     - [Lobstr](tft_lobstr.md)
   - [Tokenomics](token_creation.md)
-- [Token Distribution Event](tde-readme.md)
+- [Token Distribution Event](tde-overview.md)
   - [3bot Browser](3botbotbrowser-readme.md)
   - [3bot Connect](3botconnect-readme.md)
   - [3bot](3botdigitaltwin-readme.md)
