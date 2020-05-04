@@ -14,7 +14,7 @@ Various reports from reputable resources show that the global cloud market is al
 )
 
 ### Large parts of the world still lack access to local capacity
-
+![](./img/cloudstructure.JPG)
 Despite the fast-growing global cloud market, the distribution of data centers is still mostly concentrated on the western world and certain parts of Asia.
 This source lists the data centers of the current market leader in cloud capacity as an example: 
 https://wikileaks.org/amazon-atlas/map/
@@ -43,7 +43,6 @@ These technological advantages are unique selling points that will lead to faste
 Considering the described global existing market, a 10% share of the current public cloud market of 500 billion USD by 2025 is realistic. 
 This would translate to a demand 50 billion USD to utilize the capacity of the ThreeFold Grid. Our simulations show that this capacity requires about 75 million [3nodes](grid\types_of_capacity.md) to be deployed on the ThreeFold Grid globally. 
 
-As a very conservative approach, however, our following calculations are based on achieving only a 1% market share. This still leads to an expected demand of 5 billion USD worth of capacity and thus about 7,5 million [3nodes](grid\types_of_capacity.md).
 
 ## The evaluation of all ThreeFold Tokens
 
@@ -52,9 +51,10 @@ The amount of TFT however, is limited to a maximum of [4 billion TFT](token\toke
 
 ![](./img/token_issuance_economy1.png)
 
-In the aforementioned case, global demand of 5 billion USD would meet a limited supply of TFT that can never exceed 4 billion. This would mean that each TFT would have an underlying value of 1,25 USD in capacity. 
+In the aforementioned case, global demand of 50 billion USD would meet a limited supply of TFT that can never exceed 4 billion. This would mean that each TFT would have an underlying value of 12,5 USD in capacity. 
 Disclaimer: Please note that we can´t and won´t make price predictions on TFT evaluation and that all calculations made here are purely hypothetical.
 
+In the case that ThreeFold would only achieve a 1% market share, this still would lead to an expected demand of 5 billion USD worth of capacity, about 7,5 million [3nodes] and 1,25 USD in underlying value of copacity for each TFT. 
 
 ### Sustainable growth vs hype
 Market dynamics can lead to a higher valuation. Some TFT holders might not want to trade their tokens away because they expect a further increase in value. This results in a lower liquid amount of TFT meeting 5 billion USD in demand. Expectations are proven when the price increases and the valuation can enter a hype cycle that feeds into itself, leading to an economic bubble.
