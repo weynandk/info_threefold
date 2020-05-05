@@ -37,7 +37,7 @@ For a conservative approach, our following calculations are based on achieving o
 
 The TF Grid can be expanded indefinitely and independent farmers are incentivized to contribute to this expansion according market demand.
 
-The amount of TFT in circulation in the market is however limited to a maximum of [4 billion TFT](token\token_limitedsupply.md).
+The amount of TFT in circulation in the market is however limited to a maximum of [4 billion TFT](token_limitedsupply.md).
 
 ![](./img/token_issuance_economy1.png)
 

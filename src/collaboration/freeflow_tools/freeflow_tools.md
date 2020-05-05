@@ -7,7 +7,6 @@
 
 <!-- TODO: file no longer exists - remove? [Our main tool: the Efika Extranet](efikaextranet) -->
 - [markdown](markdown.md)
-- [kanban](kanban.md)
 - [links of info](links.md)
 
 

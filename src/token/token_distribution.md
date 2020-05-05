@@ -1,7 +1,7 @@
 # A snapshot of TFT distribution (May 2020)
 
-- [Max amount of TFT](src\token\token_limitedsupply.md) = 4 billion.
-- Today ~800m Tokens have been [farmed](src\grid\tf_farming\introduction.md)
+- [Max amount of TFT](token_limitedsupply.md) = 4 billion.
+- Today ~800m Tokens have been [farmed](introduction.md)
 
 ## Overview Tokens 28 April 2020
 
