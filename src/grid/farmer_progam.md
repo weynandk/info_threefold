@@ -1,4 +1,4 @@
-![](img/certified-capacity.png)
+![](./img/certified_capacity.png)
 
 # Farmer Program
 ThreeFold created a simple Farmer Program for farmers to choose their type from.  Here are the main compoments in a high level overview:

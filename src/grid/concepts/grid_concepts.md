@@ -1,6 +1,6 @@
  # Grid Concepts
 
-![](./img/grid_header.png)
+![](grid_header.png)
 
 ## cloud & resource units
 

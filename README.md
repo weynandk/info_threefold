@@ -1,6 +1,6 @@
 # info_threefold
 
-Welcome to the ThreeFold Ecosystem Wiki.
+Welcome to the ThreeFold Wiki.
 Here is where you'll find all info on anything related to:
 
 - ThreeFold
@@ -16,15 +16,12 @@ If you need any support please visit [our website](https://www.threefold.io) and
 
 Now go explore our wiki's.
 
-### how to install mdbook
+### to run locally
 
-OSX:
+- get tfweb from: https://github.com/threebotserver/publishingtools/blob/development/README.md
+- download this repo, run: ```run.sh``` which is in root of this repo
 
-```bash
-brew install mdbook
-```
-
-### get the documents (content)
+### get the documents (content) using git
 
 ```bash
 mkdir -p ~/code/github/threefoldfoundation
@@ -34,22 +31,14 @@ cd ~/code/github/threefoldfoundation
 git clone git@github.com:threefoldfoundation/info_threefold.git -b development
 ```
 
-### use mdbook locally
+### run the server
 
 ```bash
 cd ~/code/github/threefoldfoundation/info_threefold
 #will open local browser
-mdbook serve -n 0.0.0.0 -o
+run.sh
 ```
 
 ### Editing the wikis
 
 - all md files are under src/docs directory, please make sure you get all your changes there.
-- to make link in md file to open in new tab use this 
-
-#### tips and trics
-
-```
-<a href="http://example.com/" target="_blank">Hello, world!</a>
-```
-

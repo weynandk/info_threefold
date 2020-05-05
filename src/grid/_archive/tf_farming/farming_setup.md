@@ -44,11 +44,11 @@ And finally, specify the name of the new ItsYou.online organization and click **
 
 Go to the ThreeFold Grid Capacity web site: https://capacity.threefoldtoken.com
 
-![](./img/capacity.png)
+![](capacity.png)
 
 In the top right corner click **Register Farm**:
 
-![](./img/capacity2.png)
+![](capacity2.png)
 
 Here you specify:
 - **Farm Name**: this can be anything, the name will be displayed next to your node in the listing of the capacity
@@ -65,31 +65,31 @@ The result of your registration will be a JSON Web Token (JWT), which is your fa
 
 On https://bootstrap.grid.tf click the **Assistant** button:
 
-![](./img/assistant2.png)
+![](assistant2.png)
 
 In **step 1** of the Zero-OS **Boot Generator Assistant** page select Zero-OS branch `master`:
 
-![](./img/branch_select_master.png)
+![](branch_select_master.png)
 
 Next, in **step 2**, specify the ID of the public ZeroTier network that connects all ThreeFold nodes in one shared network, the is ID `c7c8172af1f387a6`:
 
-![](./img/zerotier_network_id.png)
+![](zerotier_network_id.png)
 
 In **step 3**, pass your ItsYou.online organization name (optional)and your `farmer ID` as a kernel parameter:
 
 **NOTE: Please select 'Enable support flag' if you want ThreeFold to help you with any issue that might come up**
 
-![](./img/howtosetupfarmstep3.png)
+![](howtosetupfarmstep3.png)
 
 In **step 4** you find the download URLs for the bootable image in various formats, use the **EFI** format:
 
-![](./img/choose_efi.png)
+![](choose_efi.png)
 
 Or just copy the download URL into your browser:
 
 https:// bootstrap. grid.tf /uefi/development/c7c8172af1f387a6/organization="yvesfarm" support farmer_id=your-farmer-id-here
 
-![](./img/open_download.png)
+![](open_download.png)
 
 
 <a id='format'></a>
@@ -102,17 +102,17 @@ In what follows screenshots from Mac OS X are used, but the principles are the s
 
 Search for **Disk Utility** in Launchpad and open it:
 
-![](./img/disk_utility.png)
+![](disk_utility.png)
 
 Select your USB drive and click **Erase**.
 
 In the dialog that pops up  optionally enter a new name for the USB drive, and then select **MS-DOS(FAT)** from the Format dropdown menu:
 
-![](./img/disk_utility2.png)
+![](disk_utility2.png)
 
 Click **Erase** which will format your USB disk and report about the result:
 
-![](./img/disk_utility3.png)
+![](disk_utility3.png)
 
 
 The above can also be achieved from the command line:
@@ -129,41 +129,41 @@ diskutil eraseDisk FAT32 "ZOS" /dev/diskX
 
 Open **Finder** and select your formated USB drive from **Devices**:
 
-![](./img/finder.png)
+![](finder.png)
 
 Create a root folder **EFI**:
 
-![](./img/finder2.png)
+![](finder2.png)
 
-![](./img/finder3.png)
+![](finder3.png)
 
 In the new root folder create a subdirectory **BOOT**:
 
-![](./img/finder4.png)
+![](finder4.png)
 
-![](./img/finder5.png)
+![](finder5.png)
 
 Locate your downloaded EFI image, here under the downloads:
 
-![](./img/finder6.png)
+![](finder6.png)
 
 Rename `ipxe-v1.4.1.efi` to `BOOTX64.EFI`:
 
-![](./img/finder7.png)
+![](finder7.png)
 
-![](./img/finder8.png)
+![](finder8.png)
 
 Copy this file to the previously created folder `/EFI/BOOT` on your USB device:
 
-![](./img/finder9.png)
+![](finder9.png)
 
-![](./img/finder10.png)
+![](finder10.png)
 
-![](./img/finder11.png)
+![](finder11.png)
 
 And finally, eject your USB drive:
 
-![](./img/finder12.png)
+![](finder12.png)
 
 Or all the above from the command line:
 ```bash
@@ -178,8 +178,8 @@ diskutil umount /Volumes/ZOS
 
 Boot your node with the USB drive and check the status of your farm on https://capacity.threefoldtoken.com:
 
-![](./img/farm.png)
+![](farm.png)
 
 Under **Resource Units** you can click the **details** button which will bring up the details of the selected node:
 
-![](./img/farm_details.png)
+![](farm_details.png)

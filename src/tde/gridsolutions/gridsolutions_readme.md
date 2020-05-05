@@ -4,7 +4,7 @@
 There are a lot of open source solutions available on the current public internet. Some of them are well known, have been around for a long time, and are used in  crucial internet services and infrastructure. The Foundation wants to sponsor activities for new and upcoming solutions to become native applications (or components) on the TF Grid.  
 
 Open source projects that are earmarked for that are:
-- Crystal Language (seperate sponsoring initiative). See [here](../crystallang/README.md)
+- Crystal Language (seperate sponsoring initiative). See [here](crystallang.md)
 - Various blockchain protocols. The Foundation is in contact with two dozens of internet blockchain protocols and offer them a safe haven to operate their blockchain nodes outside the traditional cloud providers datacenter. TODO: add links and names
 - Some projects that we are currently investigating are presented here in this [Medium](https://medium.com/@likid_geimfari/the-list-of-interesting-open-source-projects-2daaa2153f7c) article.
 

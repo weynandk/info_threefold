@@ -1,4 +1,4 @@
-![threefold grid header](grid_header.png)
+![threefold grid header](./img/grid_header.png)
 
 # The Need For A New Internet Grid
 
