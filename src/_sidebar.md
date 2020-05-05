@@ -152,5 +152,5 @@
   - [Shareable Content](threefold_content.md)
   - [Video Content](explainer_videos.md)
   - [ThreeFold Wallpapers](threefold_wallpapers.md)
-- [3SDK](sdk_intro.md)
+- [Grid Manual](sdk_intro.md)
 
