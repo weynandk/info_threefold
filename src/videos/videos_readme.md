@@ -13,7 +13,6 @@ Here you find a selection of cool & stylized animations guided by voice overs to
 * [ThreeFold Token - How It Works](tft_howitworks.md)
 * [ThreeFold Technology Overview](tf_tech.md)
 * [Building a Newer Digital World for Humanity](humanity.md)
-* [Solving Blockchain's Dilemma](dilemma.md)
 * [ThreeFold Wallet Dos and Don'ts](wallet.md)
 * [ThreeFold Grid: Edge. The New Internet](edge.md)    
 * [Grid video](grid_video.md)
