@@ -13,9 +13,6 @@
 
 !!!include:token_overview_tde
 
-<br/>
-
-
 ## TFTA vs TFT
 
 There are 2 generations of tokens on the Stellar network.
