@@ -1,5 +1,0 @@
-* [Home](/)
-* [Technology](technology.md)
-* [Whitepapers](whitepapers.md)
-* [Company Behind The Tech](company.md)
-* [Support](support.md)
