@@ -120,7 +120,6 @@
   - [Experience Layer](experience_layer.md)
   - [ThreeFold Ambassador](threefold_ambassador.md)
   - [ThreeFold Capacity](threefold_capacity.md)
-  - [ThreeFold Chain](threefold_chain.md)
   - [ThreeFold Farmer](threefold_farmer.md)
   - [ThreeFold Node](threefold_node.md)
   - [ThreeFold OS](threefold_operating_system.md)
