@@ -146,7 +146,7 @@
   - [Mazraa](mazraa.md)
   - [Green Edge](greenedgecloud.md)
   - [Jimber](jimber.md)
-- [Promotional Materials](promotion.md)
+- [Promotion](promotion.md)
   - [How You Can Help!](how_to_help.md)
   - [Marketing Q2 2020](marketingplan_Q2_202.md)
   - [Shareable Content](threefold_content.md)
