@@ -1,13 +1,15 @@
 # THREEFOLD WIKI
 
-![](./img/intro_home.png)
+![](./img/freedoom.png)
 
 
-This Wiki is a gathering of most of our created content in regards to the ThreeFold Foundation.
-It features the way we work together, our definitions, our tools, presentations and much more for you to read and learn about.
+This Wiki is a gathering of most of our created content in regards to the ThreeFold Foundation. It features why we do what we do, what we do, the way we work together, our definitions, our tools, presentations and much more for you to read and learn about. 
 
+Let's start with what shapes what we do - our why. 
 
-## Internet Access | A Human Right
+## Why we do what we do
+
+### Internet access is a human right
 
 In 2016, the United Nations officially declared Internet access to be a human right. The right to internet access aims to protect people’s freedom of expression and opinion, as well as other fundamentals such as access to knowledge and information. 
 
@@ -15,7 +17,7 @@ Yet as of today, about 48% of humanity remains unconnected to the Internet, crea
  
 To make the new internet accessible and equal to all, ThreeFold built an infrastructure that is affordable to all and collectively owned by the network peers. To ensure a fair and equal distribution of the internet to everyone, fully sponsored capacity will be deployed in remote regions of our world. 
 
-## Autonomy | For Everyone
+### Everyone should be autonomous
 
 The Internet evolved to become the world's largest database of information and knowledge, opening up exponential growth on personal, organizational and economic levels. Yet it is owned by large international companies that exploits users data. 
 
@@ -23,7 +25,7 @@ The current approach of many governments and countries is to cut the Internet in
  
 ThreeFold's internet is a peer-to-peer internet - owned by the users. All the technology of this new internet is open-source and the whole experience is built around the fundamentals of a peer-to-peer network. On this new internet, everyone owns their data and experiences - digital freedom.
 
-## A Green Internet | For Our Planet
+### Our Planet needs a sustainable internet 
 
 The current internet consumes about 10% of global energy production. With the imminent boom of emerging technologies such as Blockchain, Internet of Things, Virtual Reality, Artificial Intelligence and 5G, the Internet’s energy consumption is expected to increase exponentially. 
 

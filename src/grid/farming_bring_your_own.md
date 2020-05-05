@@ -1,1 +1,0 @@
-# farming_bring_your_own.md

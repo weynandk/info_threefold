@@ -1,7 +1,7 @@
 ![jimber logo](./img/jimber_logo.jpg)
 
 
-# Jimber
+### Jimber
 
 Jimber is an Enterprise Security Solution provider. Using the ThreeFold Grid for enterprise security gateway solutions, it aims to empower applications and solutions that are fully secure for both consumers and businesses.
 

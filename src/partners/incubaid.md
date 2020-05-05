@@ -1,7 +1,7 @@
 ![incubaid logo](./img/incubaid_logo.jpg)
 
 
-# Incubaid
+### Incubaid
  
 Incubaid is an incubator focused primarily on helping to change our planet for the better by developing technologies that supports decentralization.
 

@@ -1,1 +1,0 @@
-# Becoming A DIY Farmer
