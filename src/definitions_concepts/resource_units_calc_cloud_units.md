@@ -4,7 +4,7 @@ transformation between resource units & cloudunits, basically how does the softw
 1 SU is 1 TB of HD capacity, or 100 GB of SSD capacity with a buffer of 20%
 
 ```python
-su = (hru / 1000 + sru / 100) / 1.2
+su = (hru / 1000 + sru / 100 / 2) / 1.2
 ```
 
 
