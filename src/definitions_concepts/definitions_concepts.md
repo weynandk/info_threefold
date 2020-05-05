@@ -1,6 +1,6 @@
-![](definitions_header.jpg)
-
 # ThreeFold Definitions & Concepts
+
+![](./img/definitions_header.jpg)
 
 This section covers some key definitions related to ThreeFold and the ThreeFold ecosystem.
 
