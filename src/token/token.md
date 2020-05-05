@@ -7,7 +7,7 @@
 - [What](token_what.md)
 - [Value](token_grid_valuation.md)
 - [Liquidity](token_liquidity.md)
-- [How To Buy](how_to_buy.md)
+- [How To Buy](how_to_buy_and_sell.md)
    - [With Credit Card](tft_mazraa.md)
    - [With Bitcoin](tft_with_btc.md)
    - [With Lobstr App/Wallet](cc_buytft_lobstr_wallet.md)
