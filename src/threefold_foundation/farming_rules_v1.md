@@ -19,4 +19,13 @@
 |USD 0.12|8|MIN(CRU*2, MRU/4*(1-5%))|HRU/1093 + SRU/92|USD 15.00|USD 10.00|
 
 
+#### Glossary:
+CRU = 1 logical core of a CPU
+
+MRU = 1 GB of memory
+
+SRU = 1 GB SDD storage
+
+HRU = 1 GB of HDD storage
+
 
