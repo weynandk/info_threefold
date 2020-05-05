@@ -25,7 +25,7 @@ See [here](http://threefold.io/public/#/team).
 Roadmap and investment plan for the ThreeFold Grid.
 
 | Name         | Date   | Description | Funding |
-|:-------------|--------|-------------|-----------------|---------:|
+|:-------------|--------|-----------------|---------:|
 | GRID PROMOTION PHASE I |  2020/08 | The aim is to grow the grid to 30-40 countries and to promote ThreeFold developer audiences in the blockchain and cloud space with a minumum of 15 blockchain projects utilizing the grid as well as 15 cloud based intitatives by August 2020 | 1,500,000 TFT |
 | GRID PROMOTION PHASE II | 2020/12|  The aim is to grow the grid to 60-80 countries and to promote ThreeFold developer audiences in the blockchain and cloud space with a minumum of 30 blockchain projects utilizing the grid as well as 30 cloud based intitatives by Dec 2020 | 1,500,000 TFT | 
 

@@ -19,5 +19,5 @@ The world has 3 trillion idle hours per year and Beliive is using TIME as the co
 Roadmap and investment plan for Beliive
 
 | Name         | Date   | Description | Funding |
-|:-------------|--------|-------------|-----------------|---------:|
+|:-------------|--------|-----------------|---------:|
 | API INTEGRATION |  2020/08 | API integration of users ID and balance of time credits | 500,000 TFT |

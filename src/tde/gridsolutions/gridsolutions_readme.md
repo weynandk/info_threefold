@@ -17,7 +17,7 @@ Sponsor these projects to have some funds to create bounties of other incentives
 ### Funding
 
 | Name         | Date   | Description | Funding |
-|:-------------|--------|-------------|-----------------|---------:|
+|:-------------|--------|-----------------|---------:|
 | Grid Solutions |  2020/08 | Identify or reach out to opensource projects that benefit from some fincial help, some capacity on the grid to develop, test and deployu their solutions | 2,500,000 TFT |
 
 

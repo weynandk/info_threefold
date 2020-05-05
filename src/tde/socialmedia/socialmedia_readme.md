@@ -24,5 +24,5 @@ See roadmap
 Roadmap and investment plan for the 3Bot connect app.
 
 | Name         | Date   | Description | Funding |
-|:-------------|--------|-------------|-----------------|---------:|
+|:-------------|--------|-------------|---------:|
 | V1.0 |  2020/09 | Peer2Peer social media platform by people for people | 2,000,000 TFT |
