@@ -4,7 +4,7 @@
 
 The ThreeFold Token is the currency of the new Internet. It is a decentralized digital currency that represents  a unit of reservation of capacity (compute, storage) on the largest peer-to-peer network on earth. This new Internet is built by independent farmers, who dedicate hardware to provide the necessary storage and compute. 
 
-You can learn more about farming [here](introduction.md). 
+You can learn more about farming [here](what_is_a_farmer.md). 
 
 ### Where do TFTs come from?
 When farmers connect hardware to the [ThreeFold Grid](grid_what.md), they get rewarded with TFT for providing rented capacity. Note that TFTs are created only when new capacity is made available on the TF Grid - therefore when farmers connect more hardware. No tokens are created out of thin air. No centralized issuers. 
