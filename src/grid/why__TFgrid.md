@@ -1,4 +1,4 @@
-![](img/header-01.png)
+![](./img/header_01.png)
 
 # Why the world needs the ThreeFold Grid?
 

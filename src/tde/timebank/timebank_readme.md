@@ -1,5 +1,7 @@
 ## Project: Beliive (TimeBank)
 
+![](https://www.consciousinternet.org/threefold/info/projects/beliive/beliive.jpg)
+
 Beliive is a community where people can exchange experiences and services using time as the only currency. With 200,000 members to-date, Beliive is the world's largest time bank. Our vision is to be a movement that rethinks and rebuilds the value of money, the value of time, and the way we collaborate with each other. When the money economy is failing at giving us a way to exchange our value independently of the circumstances, Beliive decided to create a complementary economy based on an abundant resource available to everyone equally – time.
 
 ## Impact
@@ -19,5 +21,5 @@ The world has 3 trillion idle hours per year and Beliive is using TIME as the co
 Roadmap and investment plan for Beliive
 
 | Name         | Date   | Description | Funding |
-|:-------------|--------|-------------|-----------------|---------:|
+|:-------------|--------|-----------------|---------:|
 | API INTEGRATION |  2020/08 | API integration of users ID and balance of time credits | 500,000 TFT |

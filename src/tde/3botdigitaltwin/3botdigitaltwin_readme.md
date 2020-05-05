@@ -1,5 +1,8 @@
 ## Project: 3Bot
 
+![](https://www.consciousinternet.org/threefold/info/projects/3bot/3bot.jpg
+)
+
 3bot's vision is to shape a conscious digital world together. A fair world where all individuals, across regions, have equal chances to learn, partake, and succeed. A world where freedom and liberalism are at the center. A world where we live sustainably and where we think circularly. The priority is to ensure the best environment possible for us and all living species of this plant. Creating circular economies that use resources consciously, and where that which has true value becomes the center. Future economies will be digital and promote sustainability.
 
 ### Impact

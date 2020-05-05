@@ -267,9 +267,7 @@ No Customers - ...No Cookies!!
 
 Cultivation Tokens:
 
-SLA not met, % of TFTs will paid back (see aws example below)
-
-![image alt text](image_3.png)
+SLA not met, % of TFTs will paid back.
 
 When is automatic TFT generation live?
 

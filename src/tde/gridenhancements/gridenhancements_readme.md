@@ -1,5 +1,7 @@
 ## Project: Grid Enhancements
 
+![](cap2layer.png)
+
 ### Purpose
 The TF Grid v2.0 is being rolled out and we see a lot of features that we would love to roll out and bring to market.  One of the very obvious one is that we see that the original vision to roll out [Zero OS](https://github.com/threefoldtech/zos) was to use the new (inter)networking standard IPv6.  During the migration of the grid from version 1.0 to 2.0 we learned that IPv6 is not readily available everywhere and this is a limiting factor in terms on how and where the TF Grid can grom.
 
@@ -9,7 +11,7 @@ To do this we need to have a group of engineers can can deliver on this ever cha
 
 The feature request are open for anyone to add and input to.  The feature request list for grid enhancements is managed in GitHub:
 
-![](./img/github-feature-requests.png)
+![](./img/github_feature_requests.png)
 
 Please go [here](https://github.com/threefoldtech/home/issues?q=is%3Aissue+is%3Aopen+type%3Afeature) to see that list in action.
 

@@ -1,4 +1,4 @@
-![](img/diy-farming.png)
+![](./img/diy_farming.png)
 
 # Farming Program
 

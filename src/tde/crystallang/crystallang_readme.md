@@ -1,6 +1,6 @@
 ## Project: Crystal Language
 
-![](./img/crystal_logo-stacked_version.svg)
+![](./img/crystal_logo_stacked_version.svg)
 
 What started as an experiment from Manas labs in June 2011 has grown far more than expected: it was dubbed the most promising programming language of 2018 by BlockVue’s CTO, and forecasted with a bright future by TechBeacon, among others. The Crystal community has contributors from all over the world, having built over 3,500 public libraries, and gathering more than 13,000 stargazers. Several companies have built part of their tech stack using Crystal, achieving large performance improvements, while retaining maintainability.
 

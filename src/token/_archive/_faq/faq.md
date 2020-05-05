@@ -1,5 +1,0 @@
-* [Home](/)
-* [Token](token.md)
-* [Frequently Asked Questions](faq.md)
-    * [Capacity Dependency](capacity_dependency.md)
-    * [Government Regulation](government_regulation.md)

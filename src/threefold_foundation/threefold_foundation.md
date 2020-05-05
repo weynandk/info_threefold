@@ -1,4 +1,4 @@
-![alt](img/foundation_header_image.png)
+![alt](./img/foundation_header_image.png)
 
 # ThreeFold Foundation
 

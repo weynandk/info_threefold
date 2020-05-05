@@ -6,5 +6,4 @@ If you're reading this, thank you (thank you, thank you) for your interest in su
 - [Shareable Content](threefold_content.md)
 - [ThreeFold Wallpapers](threefold_wallpapers.md)
 
-- #TODO: point to some really good presentations
-- #TODO: point to the best video presentations
+In the future, we will be adding some presentations / slides.

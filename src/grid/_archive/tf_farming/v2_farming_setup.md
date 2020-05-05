@@ -33,7 +33,7 @@ To install a new app on your 3bot: TODO
 
 Once installed,click the big green cross on the top left corner:
 
-![create farm button](./img/new_farm.png)
+![create farm button](new_farm.png)
 
 Here you specify:
 
@@ -43,13 +43,13 @@ Here you specify:
 - **email address**: This email will be used if we need to contact you about your farm. The email will stay private.
 - **Location**: optionally you can select the location of your farm on the map. If you don't, the location wil be deducted using geoip from your nodes.
 
-![farm creation form](./img/create_form.png)
+![farm creation form](create_form.png)
 
 Your farm is now created. You should see a new line in the "My farms" table.
 
 Write down the ID of you farm in the left side of the table. You will need it for the next step.
 
-![new farm](./img/new_farm.png)
+![new farm](new_farm.png)
 
 ## Download the 0-OS bootable image
 
