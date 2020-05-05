@@ -27,5 +27,5 @@ See roadmap
 Roadmap and investment plan for the 3Bot connect app.
 
 | Name         | Date   | Description | Funding |
-|:-------------|--------|-------------|-----------------|---------:|
+|:-------------|--------|-----------------|---------:|
 | V1.0 |  2020/05 | Exporer and 3sdk interface for grid management interactive | 1,000,000 TFT |

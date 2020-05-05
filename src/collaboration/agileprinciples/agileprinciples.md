@@ -17,7 +17,7 @@ This makes close collaboration particularly important to clarify requirements ju
 
 - [AgileRequirements](agile_requirements.md)
 - [Pareto](pareto.md)
-- [TeamEmpowerement](team_empowerement.md)
+- [TeamEmpowerement](team_empowerment.md)
 - [ChangeIsNotBad](change_is_not_bad.md)
 - [UserInvolved](user_involvement.md)
 - [FastButNotFurious](fast_but_not_furious.md)
