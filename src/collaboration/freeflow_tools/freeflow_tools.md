@@ -9,7 +9,7 @@
 - [markdown](markdown.md)
 - [kanban](kanban.md)
 - [links of info](links.md)
-- [telegram](telegram.md)
+
 
 ## markdown
 
