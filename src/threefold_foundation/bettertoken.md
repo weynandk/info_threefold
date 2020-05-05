@@ -26,7 +26,7 @@ BetterToken becomes 100% daughter of our [not for profit ThreeFold VZW](threefol
 
 Somewhere in 2020, planning to rebrand the company to ThreeFold Europe.
 
-Bettertoken continues to be cooperative farming entity for europe.
+Bettertoken continues to be farming cooperative for europe.
 
 
 
