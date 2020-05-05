@@ -13,6 +13,7 @@ We have a few places where you can find regular / updated content:
 - [Medium](https://medium.com/threefold)
 - [Announcement Telegram Group](https://t.me/threefoldnews)
 - [YouTube](https://youtube.com/c/ThreeFoldFoundation)
+- [Forum](https://forum.threefold.io)
 
 Please follow along and feel free to share with your networks when you are inspired to do so. Remember it's always best to add some information when you share the post rather than just hitting "share now." If you don't know what we're talking about, reach out to spreadtheword@threefold.io and we'll walk you through it.
 
@@ -32,4 +33,4 @@ Feel particularly passionate about what we are doing? We'd love for you to creat
 
 ## Seeking Out New Communities
 
-There are many groups on Facebook and LinkedIn, for example, that would and should be interested in what we are building. All it takes is a bit of digging to find them. Once you do, introduce yourself and share a bit about ThreeFold.
+There are many groups on Facebook and LinkedIn, for example, that would and should be interested in what we are building. All it takes is a bit of digging to find them. Once you do, introduce yourself and share a bit about ThreeFold. Please avoid "spamming" as much as possible (just blasting about ThreeFold without any context, or posting across many groups at the same time).
