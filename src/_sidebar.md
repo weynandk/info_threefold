@@ -24,7 +24,7 @@
   - [Features](token_features.md)
   - [Valuation](token_grid_valuation.md)
   - [Limited Supply](token_limitedsupply.md)
-  - [How To Buy](how_to_buy.md)
+  - [How To Buy and Sell](how_to_buy.md)
     - [Farmers](tft_mazraa.md)
     - [StellarX](tft_stellarx.md)
     - [Interstellar](tft_interstellar.md)
