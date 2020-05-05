@@ -15,6 +15,6 @@ Our peer-to-peer platform will be run on the ThreeFold Grid and will utilize ele
 Every child deserves an education. Inspire change. Take action. Join us making the planet a better place by fighting polarization and giving every single one on earth a quality education.
 
 | Name         | Date   | Description | Funding |
-|:-------------|--------|-------------|-----------------|---------:|
+|:-------------|--------|-------------|---------:|
 | PLATFORM LAUNCH WITH FOCUS ON REFUGEES |  2020/07 | Development platform which allows students and teachers to connect globally. 300,000 Refugees will receive free education. | 1,000,000 TFT |
-| PLATFORM EXTENSION WITH FOCUS ON CLIMATE CHANGE | 2021/10|  Extend Platform which connects students globally allowing them to explore, discuss, create and share solutions about climate change, and take actions. We will work with governments to bring substantial change in 10 countries | 1,500,000 TFT
+| PLATFORM EXTENSION WITH FOCUS ON CLIMATE CHANGE | 2021/10|  Extend Platform which connects students globally allowing them to explore, discuss, create and share solutions about climate change, and take actions. We will work with governments to bring substantial change in 10 countries | 1,500,000 TFT |
