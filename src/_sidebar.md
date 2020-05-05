@@ -37,7 +37,7 @@
     - [Lobstr Wallet](tft_lobstr.md)
     - [StellarX](tft_stellarx.md)
 - [Launch Announcement](launch_announcements.md)
-  - [Grid 2.0 Launch 29/04](threefold_grid_2.0.md)
+  - [Grid 2.0 Launch 29/04](threefold_grid_2_0.md)
 - [Community Calls & Events](community_calls.md)
   - [3bot Presentation 2020](video_3bot_presentation.md)
   - [ThreeFold Community Call March 2020](march_2020.md)

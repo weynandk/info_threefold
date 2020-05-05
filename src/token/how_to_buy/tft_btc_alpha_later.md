@@ -6,7 +6,7 @@ They offer the following trading options:
 - [TFT-BTC](https://btc-alpha.com/exchange/TFT_BTC/)
 - [TFT-USD](https://btc-alpha.com/exchange/TFT_USD/)
 
-While BTC-Alpha supports buying ThreeFold Tokens with USD (second option here above), we recommend that you first acquire Bitcoins as indicated in [Buy ThreeFold Tokens from an online exchange](buy_from_exchange.md), and then exchange Bitcoins for ThreeFold Tokens (the first option here above).
+While BTC-Alpha supports buying ThreeFold Tokens with USD (second option here above), we recommend that you first acquire Bitcoins as indicated in Buy ThreeFold Tokens from an online exchange, and then exchange Bitcoins for ThreeFold Tokens (the first option here above).
 
 So once you have acquired Bitcoins, go through following steps to buy and sell ThreeFold Tokens using BTC-Alpha:
 - [Registration](#registration)
