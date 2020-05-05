@@ -1,5 +1,8 @@
 ## Project: 3Bot Connect
 
+![](https://www.consciousinternet.org/threefold/info/projects/3bot/3bot.jpg
+)
+
 ### Purpose
 Provide private, independent, and peer-to-peer video conferencing. Other conference solutions use centralized infrastructure and software to connect people. This central infrastructure needs enormous connectivity and hardware to connect large numbers of people. The 3bot Connect solution creates peer-to-peer connections.
 

@@ -1,5 +1,8 @@
 # Project: Social Media
 
+![alt](https://images.unsplash.com/photo-1523240795612-9a054b0db644?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80)
+
+
 ## Purpose
 Most social media platform are owned and operated by single companies. This allows them to trakc and trace the users for their behavior and usage and collect data about what their platform is used for.  There have been several news reports and movies created on the topic that this can lead to inflencing people behavior.
 ![](./img/socialmedia_diff.png)
