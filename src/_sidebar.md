@@ -29,6 +29,7 @@
     - [StellarX](tft_stellarx.md)
     - [Interstellar](tft_interstellar.md)
     - [Lobstr](tft_lobstr.md)
+  - [Token Overview](token_overview.md)
   - [Tokenomics](token_creation.md)
 - [Token Distribution Event](tdeoverview.md)
 - [Wallets](tf_wallets.md)
