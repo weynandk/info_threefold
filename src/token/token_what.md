@@ -2,7 +2,7 @@
 
 # What are ThreeFold Tokens (TFT)?
 
-The ThreeFold Token is the currency of the new Internet. It is a decentralized digital currency that represents  a unit of reservation of capacity (compute, storage) on the largest peer-to-peer network on earth. This new Internet is built by independent farmers, who dedicate hardware to provide the necessary storage and compute. 
+The ThreeFold Token is the currency of the new Internet. It is a decentralized digital currency that represents  a unit of reservation of capacity (compute, storage) on the largest peer-to-peer network of capacity on earth. This new Internet is built by independent farmers, who dedicate hardware to provide the necessary storage and compute. 
 
 You can learn more about farming [here](what_is_a_farmer.md). 
 
