@@ -1,5 +1,5 @@
 
-![](\img\tftexplo.png)
+![](token\how_to_buy\img\tftexplo.png)
 # Its easy to buy and sell TFT
 
 At the moment (05/2020), ThreeFold tokens are publicly traded on Stellars decentralized exchanges StellarX, Interstellar and Lobstr. Follow the links below for easy instructions on how to buy and sell.
@@ -15,5 +15,5 @@ Stay tuned about the upcoming announcements on TFT being available on Liquid and
     * [Lobstr](tft_lobstr.md)
 
 **Later**
-    * [Mid-Late May: BTC Alpha](tft_btc_alpha.md)
-    * [Mid-Late May: Liquid](tft_liquid.md)
+    * [BTC Alpha](tft_btc_alpha.md)
+    * [Liquid](tft_liquid.md)
