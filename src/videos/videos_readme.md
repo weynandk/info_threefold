@@ -7,7 +7,7 @@ We have divided them in 2 sections.
 
 Here you find a selection of cool & stylized animations guided by voice overs to help you understand certain parts of our awesome project.
 
-* [ThreeFold Farming Demystified](farming.md)
+
 * [ThreeFold Token, Token for the New Internet](tft_intro.md)
 * [ThreeFold Technology Overview](tech.md)
 * [ThreeFold Token - How It Works](tft_howitworks.md)
