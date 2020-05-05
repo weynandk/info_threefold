@@ -19,15 +19,13 @@ The ThreeFold Token has developed in a way that it incentivizes the growth of th
 
 Each farmer has two streams of TFT income:
 
-# Farming
+## Farming
 
-**PROOF-OF-CAPACITY**
+**1. Proof-of-Capacity**
 
 When a person puts capacity on the ThreeFold Grid, this process is called Farming. To incentivize farming, the farmer will be remunerated a certain amount of tokens for doing so. 
 
-The number of tokens the farmer earns is dependent on multiple factors:
-
-** Server/Node Specs of the Farmers Hardware**
+The number of tokens the farmer earns is depending on the server/Node specs of the Farmers hardware:
 
 * Compute Capacity (CPU)
 
@@ -37,7 +35,7 @@ The number of tokens the farmer earns is dependent on multiple factors:
 
 These factors combine to a Cloud Production Rate (CPR). The higher the CPR, the more tokens are earned.
 
-**Grid Specs (This is the same for all farmers at every point in time)**
+**2. Grid Specs (This is the same for all farmers at every point in time)**
 
 * Farming Difficulty (the actual difficulty factor determining how fast TFT’s are created through farming)
 
