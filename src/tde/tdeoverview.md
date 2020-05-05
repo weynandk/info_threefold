@@ -1,5 +1,7 @@
 ## Token Distribution Event For TF Grid Use Cases
 
+_Note: If you're interested in participating in the Token Distribution Event, please visit the Token section of this wiki, and in particular "How to Buy."_
+
 ### Introduction
 The ThreeFold Foundation has launched a new ThreeFold Token (TFT) on a new payment network called Stellar. Stellar is a very reliable platform used by more and more projects.
 
