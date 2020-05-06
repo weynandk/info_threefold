@@ -2,7 +2,7 @@
 
 |   |  |  |
 | --- | --- | --- |
-|  **TF Cap** | 2 Billion |  |
+|  **TF Cap** | 4 Billion |  |
 |  **Investment** |  |  |
 |  Hardware cost |  | $19,125 |
 |  Setup cost 3rd party (hard ware supplier/hoster) |  | $574 |
