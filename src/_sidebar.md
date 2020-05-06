@@ -148,7 +148,7 @@
   - [Jimber](jimber.md)
 - [Promotion](promotion.md)
   - [How You Can Help!](how_to_help.md)
-  - [Marketing Q2 2020](marketingplan_Q2_202.md)
+  - [Marketing Q2 2020](marketingplan_Q2_2020.md)
   - [Shareable Content](threefold_content.md)
   - [Video Content](explainer_videos.md)
   - [ThreeFold Wallpapers](threefold_wallpapers.md)
