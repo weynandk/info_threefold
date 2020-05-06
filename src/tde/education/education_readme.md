@@ -28,8 +28,18 @@ Every child deserves an education. Inspire change. Take action. Join us making t
 
 ### Roadmap
 
+priorities will have to be defined but the more funding has been found the more we can do.
+
 | Name         | Date   | Description | Remark |
 |:-------------|--------|-------------|-----------------|
-| V0.9.0 |  2020/05 | all basic functionality in. | DONE |
-| V0.9.1 |  2020/05 | ipv4 to ipv6 gateway | DONE |
-| V1.0 |  2020/06 | add session recording |  
+| tbd |  tbd |  | 3bot to support offline learning resources (1TB of data) |
+| tbd |  tbd |  | office for students and schools |
+| tbd |  tbd |  | file manager for students and schools |
+| tbd |  tbd |  | support for raspberry pi (cheaper desktops) |
+| tbd |  tbd |  | video streaming solution with local offline caching|
+| tbd |  tbd |  | video conferencing as required for education purposes |
+| tbd |  tbd |  | crystal books: knowledge base which everyone can extend |
+| tbd |  tbd |  | students become teachers, the best way how to learn |
+| tbd |  tbd |  | enable time exchange (using the time token) |
+| tbd |  2021 Q1 |  | virtual reality education |
+
