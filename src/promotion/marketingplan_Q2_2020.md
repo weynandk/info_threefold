@@ -19,6 +19,7 @@ The communication that we branded the current threefold.io website is backed by 
 
 ### 1.2 Blogs & News websites
 - We are talking to bloggers and journalists about publications on four related channels.
+
 ### 1.3 PR
 - We are supported by experienced experts with networks with journalists.
 That led to five promising angles with well-known media websites that would possibly publish an article about ThreeFold or its use-cases in the next weeks.
@@ -38,6 +39,7 @@ The technological possibilities of the ThreeFold Grid lead to many promising par
 ### 2.2 Social Media Channels
 - We are keeping our audience updated, are expanding our networks and with that, the number of shares for our content.
 - We are doing regular community Zoom calls
+
 ### 2.3 Influencers	
 - We are talking to two major influencers on Youtube
 One of them is already confirmed and will be announced soon
