@@ -9,7 +9,6 @@ While 3bot may seem like a technological solution, its roots and goals are stron
 
 3bot's vision is to shape a conscious digital world where all individuals, across regions, have equal chances to learn, partake, and succeed, in the best environment possible. A digital world where freedom and liberalism are at the center, and where we live sustainably and think circularly. The priority is to ensure the best environment possible for humanity to interact and all living species of this plant. The circular economies will be created to use resources consciously and to have true value at the center. Future economies will be digital and promote sustainability.
 
-
 ### Status
 
 A first website has been created at [https://3bot.org/](https://3bot.org/) to showcase the idea, an updated version is being created as we speak, the new website will launch 20 May.

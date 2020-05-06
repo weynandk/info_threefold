@@ -1,4 +1,4 @@
-## Project: Crystal Language
+# Project: Crystal Language
 
 A language for humans and computers.
 

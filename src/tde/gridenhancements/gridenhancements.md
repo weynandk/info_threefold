@@ -1,4 +1,4 @@
-## Project: Grid Enhancements
+# Project: Grid Enhancements
 
 ![](cap2layer.png)
 

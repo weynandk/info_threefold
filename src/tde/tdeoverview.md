@@ -1,6 +1,6 @@
 ![](./img/tf_tde_intro.png)
 
-## Token Distribution Event For ThreeFold Grid Use Cases
+# Token Distribution Event For ThreeFold Grid Use Cases
 
 > _Note: If you're interested in participating in the Token Distribution Event, please visit the Token section of this wiki, and in particular "How to Buy."_
 
@@ -23,8 +23,6 @@ By buying tokens, you directly support these projects and therefore the growth o
 Its very easy to [buy these TFTs](how_to_buy_and_sell.md) and as such become part of the larger ThreeFold experience. 
 
 ![](./img/projects_overview_pie2.png)
-
-
 
 ### How Does It Work
 
