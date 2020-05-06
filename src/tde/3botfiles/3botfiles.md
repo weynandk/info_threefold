@@ -21,24 +21,19 @@ The vision is to create an independent and private file storage facility to safe
 - We are now fundraising to make the next generations.
 - The 3bot files is a huge project and has many technical challenges but we already got very far. 
 
-### Demo
-
-- If you want to see more about 3Bot, we invite you to check the [3botdemo](3botdemo.md)
-- If you need any more information you can contact us over chat on the Threefold website.
-
 ### 3Bot Files experience will be on 3bot
 See [3bot main page](3botproj).
 
 ### Team
 
-- [The Jimber Team](https://www.jimber.org/securityBroker.html) + various opensource developers.
+- [The Jimber Team](https://www.jimber.org/securityBroker.html) + various open-source developers.
 - lead developer: Hamdy
 
 ### Funding
 
-- Required funding to finish roadmap as described below: 3,000,000 TFT
+- Required funding to finish road map as described below: 3,000,000 TFT
 
-### Roadmap
+### Road map
 
 | Name         | Date   | Description | Remark |
 |:-------------|--------|-------------|-----------------|
@@ -50,3 +45,7 @@ See [3bot main page](3botproj).
 | V1.2 |  2020/Q8 | integration with 3bot office |  |
 | V1.3 |  tbd | integration with the TF ZeroStor |  |
 
+### Demo
+
+- If you want to see more about 3Bot, we invite you to check the [3bot demo](3botdemo.md)
+- If you need any more information you can contact us over chat on the Threefold website.

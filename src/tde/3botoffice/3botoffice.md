@@ -13,19 +13,6 @@ To enable this we integrated with [onlyoffice](https://www.onlyoffice.com/) for 
 - We have a full blown first version active and ready to be launched.
 - We are now fundraising to make the next generations.
 
-### Demo
-
-- If you want to see more about 3Bot, we invite you to check the [3botdemo](3botdemo.md)
-- If you need any more information you can contact us over chat on the Threefold website.
-
-### screenshots
-
-![](./img/docs.png)
-
-![](./img/spreadsheet.png)
-
-![](./img/slides.png)
-
 ### 3Bot Office experience will be on 3bot
 
 See [3bot main page](3botproj).
@@ -37,9 +24,9 @@ See [3bot main page](3botproj).
 
 ### Funding
 
-- Required funding to finish roadmap as described below: 5,000,000 TFT
+- Required funding to finish road map as described below: 5,000,000 TFT
 
-### Roadmap
+### Road map
 
 | Name         | Date   | Description | Remark |
 |:-------------|--------|-------------|-----------------|
@@ -50,3 +37,15 @@ See [3bot main page](3botproj).
 | V0.9.1 |  2020/07 | integrated with 3bot files | |
 | V1 |  2020/Q4 | production ready release which can be used by millions of people| |
 
+### Demo
+
+- If you want to see more about 3Bot, we invite you to check the [3bot demo](3botdemo.md)
+- If you need any more information you can contact us over chat on the Threefold website.
+
+### screenshots
+
+![](./img/docs.png)
+
+![](./img/spreadsheet.png)
+
+![](./img/slides.png)

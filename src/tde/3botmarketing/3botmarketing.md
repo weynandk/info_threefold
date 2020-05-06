@@ -26,4 +26,4 @@ See 3Bot projects: [3Bot Files](3botfiles), [3Bot Browser](3botbrowser), [3Bot O
 
 ### Funding
 
-- Required funding to finish roadmap as described below: 2,000,000 TFT
+- Required funding of 2,000,000 TFT to create proper Marketing road map and a plan of action. 

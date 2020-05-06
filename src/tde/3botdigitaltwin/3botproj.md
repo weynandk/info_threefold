@@ -21,11 +21,6 @@ The objective is to:
 
 Learn more about this project on [conscious internet 3bot](https://www.consciousinternet.org/index.html#/projects/3bot).
 
-### Demo
-
-- If you want to see more about 3Bot, we invite you to check the [3bot demo](3botdemo.md).
-- If you need any more information you can contact us over chat on the Threefold website.
-
 ### 3Bot lives on the ThreeFold Grid
 
 3bot is built by Threefold Tech and lives on the Threefold Grid, serving as the gateway of the new digital world, the new internet and peer-to-peer experiences. By using 3bot SDK, 3bot users could create their own experiences, functionalities and features within the Threefold Grid’s peer-to-peer ecosystem. 3Bot represents a bridge between the ThreeFold Grid and the full power of autonomous technology to deploy decentralized applications.
@@ -39,7 +34,7 @@ There are multiple teams identified to work on the 3bot development, the main on
 
 - Required funding to finish road map as described below: 10,000,000 TFT
 
-### Roadmap
+### Road map
 
 | Name         | Date   | Description | Remark |
 |:-------------|--------|-------------|-----------------|
@@ -47,3 +42,8 @@ There are multiple teams identified to work on the 3bot development, the main on
 | V1.1 |  2020/06 | all first experiences integrated in app | ALMOST DONE |
 | V1.2 |  2020/07 | Crystal Code is fully integrated on all experiences | | 
 | V1.3 |  2020/07 | Crystal Universe is ready| |
+
+### Demo
+
+- If you want to see more about 3Bot, we invite you to check the [3bot demo](3botdemo.md).
+- If you need any more information you can contact us over chat on the Threefold website.
