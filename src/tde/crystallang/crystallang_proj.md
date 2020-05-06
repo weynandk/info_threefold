@@ -40,9 +40,9 @@ The roadmap is still changing but see suggestions below, we are in conversations
 |:-------------|--------|-------------|-----------------|
 | tbd |  2020/07 | extended core library for features as required in 3bot. |  |
 | tbd |  2020/07 | language server to have more developer productivity. |  |
-| tbd |  2020/07 | incremental compiler, means much faster. |  |
-| tbd |  2020/07 | browser based code editor & executor to allow better integration for education purposes. |  |
-| tbd |  2020/07 | compile to web assembly. |  |
+| tbd |  2020/09 | incremental compiler, means much faster. |  |
+| tbd |  tbd | browser based code editor & executor to allow better integration for education purposes. |  |
+| tbd |  tbd | compile to web assembly. |  |
 
 ### More info 
 

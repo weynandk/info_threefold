@@ -13,7 +13,7 @@
 | [3bot Browser](3botbrowser.md)	 | 2,000,000		| TFT_3B |
 | [Social media / Collaboration](socialmedia_readme.md) | 2,000,000		| TFT_SM |
 | [TF Grid User Interface](griduserinterface.md)	| 1,000,000		| TFT_UI |
-| [Virtual Reality Museum](vrmuseum_readme.md)	| 500,000		| TFT_VR |
+| [Virtual Reality Museum](vrmuseum.md)	| 500,000		| TFT_VR |
 | [TimeBank](timebank_readme.md)	| 333,333		| TFT_TB |
 
 <!-- !!!include:tdeoverview_detail_branded -->

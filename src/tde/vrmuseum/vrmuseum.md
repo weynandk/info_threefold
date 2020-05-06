@@ -16,11 +16,21 @@ The Artheon is supported by the ThreeFold Foundation and is hosted on ThreeFold 
  
 Artheon VR Museum is growing into a crowdsourced global art database empowering smaller museums, private collections, galleries and individuals with tools to publish and display artwork and provide courses, tours, lectures, events, around art culture and history.
 
+### Team
+
+- Artheon
+
+### Funding
+
+- Required funding to finish roadmap as described below: 500,000 TFT
+
 ## Roadmap
 
-Roadmap and investment plan for the Artheon Virtual VR museum
-
-| Name         | Date   | Description | Recommendations | Funding |
-|:-------------|--------|-------------|-----------------|---------:|
-| V2.0 SOCIAL |  2020/09 | Crowdsourcing tools - upload, display and manage art data; Collaborative - up to 16 users in one location; Social collections - build communities of art lovers; Similarity search - visual, theme, style, details | Recommendations - advanced, personalized; Learning games - history of art. |500,000 TFT |
-| V3.0 AI | 2020/12|  Marketplace - earn for being active, create and sell your educational materials; Tours - unlimited participants; Events and Guides - lectures, masterclasses, guided tours and art performances; Visual Data Stories - dashboards, graphs, history and parallels between artists and cultures based on data; Proactive | get something new and interesting every time; Learning Courses - art and performance. | 1,000,000 TFT |
+| Version         | Date   | Description | Remark |
+|:-------------|--------|-------------|-----------------|
+| tbd |  2020/Q4 | 3bot integration | |
+| tbd |  2020/Q4 | tfgrid integration | |
+| tbd |  2020/Q4 | Crowdsourcing tools - upload, display and manage art data; Collaborative - up to 16 users in one| |
+| tbd |  2020/Q4 | Recommendations - advanced, personalized; Learning games - history of art | |
+| tbd |  tbd | Marketplace - earn for being active, create and sell your educational materials; Tours - unlimited | |
+| tbd |  tbd | participants; Events and Guides - lectures, masterclasses, guided tours and art performances; Visual Data Stories - dashboards, graphs, history and parallels between artists and cultures based on data; Proactive | |
