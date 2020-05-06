@@ -2,13 +2,13 @@
 | Project Name | Allocated Grant | Token Name |
 |:-------------|---------------:|:------------|
 | [TF Foundation](foundation_readme.md)	| 30,000,000		| TFT_FD |
-| [3bot (Digital Twin)](3botdigitaltwin_readme.md)	| 10,000,000		| TFT_3B |
+| [3bot (Digital Twin)](3botproj.md)	| 10,000,000		| TFT_3B |
 |[TF Grid Enhancements](gridenhancements_readme.md)	| 10,000,000		| TFT_GE |
 | [Crystal Language](crystallang_readme.md)	| 5,000,000		| TFT_CL  |
 | [P2P Education](education_readme.md)	| 3,000,000		| TFT_PE |
-| [3bot Files](3botfiles_readme.md)	| 3,000,000		| TFT_3F |
+| [3bot Files](3botfiles.md)	| 3,000,000		| TFT_3F |
 | [TF Grid Solutions](gridsolutions_readme.md)	| 2,500,000		| TFT_GS |
-| [3bot Connect](3botconnect.md) 	| 2,000,000		| TFT_3C |
+| [freeflow connect](3botconnect.md) 	| 2,000,000		| TFT_3C |
 |[3bot Marketing / Prod mgmt](3botmarketing_readme.md)	| 2,000,000		| TFT_3M |
 | [3bot Browser](3botbrowser_readme.md)	 | 2,000,000		| TFT_3B |
 | [Social media / Collaboration](socialmedia_readme.md) | 2,000,000		| TFT_SM |

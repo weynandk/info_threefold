@@ -22,7 +22,7 @@ An example [software implementation is being used](https://freeflowpages.com/das
 
 ### Roadmap
 
-Roadmap and investment plan for the 3Bot connect app.
+Roadmap and investment plan for the freeflow connect app.
 
 | Name         | Date   | Description | Funding Requirement |
 |:-------------|--------|-------------|---------:|
