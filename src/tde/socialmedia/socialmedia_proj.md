@@ -17,10 +17,6 @@ ThreeFold believes in social media but only if approached in a different way.  W
 - User experience must be improved to be able to match current social media standards in regards to user experience. 
 - If you need any more information you can contact us over chat on the Threefold website.
 
-### Architecture Overview
-
-![](./img/socialmedia_diff.png)
-
 ### Social Media experience will be on 3bot
 
 See [3bot main page](3botproj).
@@ -30,14 +26,12 @@ See [3bot main page](3botproj).
 - The funding raised for this project will be used to fund open-source developers to create the required software for this purpose.
 - There are multiple teams identified how this might happen, the Foundation will oversee the further creation of this project.
 
-
-### Roadmap
-
-Roadmap and investment plan for the freeflow connect app.
+### Road map
 
 | Name         | Date   | Description | Funding Requirement |
 |:-------------|--------|-------------|---------:|
 | V1.0 |  2020/12 | Peer2Peer social media platform by people for people | 2,000,000 TFT |
 
+### Architecture Overview
 
-
+![](./img/socialmedia_diff.png)
