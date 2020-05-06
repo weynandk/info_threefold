@@ -1,10 +1,8 @@
 # ThreeFold Definitions & Concepts
 
-![](./img/definitions_header.jpg)
+![](./img/definitionsv2.png)
 
 This section covers some key definitions related to ThreeFold and the ThreeFold ecosystem.
-
-By using the sidebar as navigation, you can see all the terms and concepts we have defined.
 
 If you would like to see another definition added, please email us at info@threefold.io.
 
@@ -21,4 +19,4 @@ If you would like to see another definition added, please email us at info@three
 - [ThreeFold OS](threefold_operating_system.md)
 - [ThreeFold Tech](threefold_tech.md)
 - [ThreeFold Token](threefold_token.md)
-- [3Bot](3bot.md)
+- [3Bot](3bot_def.md)

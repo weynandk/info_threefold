@@ -22,7 +22,9 @@ By buying tokens, you directly support these projects and therefore the growth o
 
 Its very easy to [buy these TFTs](how_to_buy_and_sell.md) and as such become part of the larger ThreeFold experience. 
 
-![](./img/projects_overview_pie.png)
+![](./img/projects_overview_pie2.png)
+
+
 
 ### How Does It Work
 
@@ -46,8 +48,9 @@ There will be a maximum of 70m TFT tradable during that period.
 | [TF Foundation](foundation_readme.md)	| 30,000,000		| Foundation funding (marketing, operations team, grid roll out, roadshows, ...) |
 | [3bot (Digital Twin)](3botproj.md)	| 10,000,000		| 80% of our digital life implemented on top of the 3bot |
 | [TF Grid enhancements](gridenhancements.md)	| 10,000,000		| Further improvements to the grid as sponsored by the TF Foundation |
+| [3bot Office](3botoffice.md)	 | 5,000,000		| 100% compatible office suite running on top of your 3bot |
 | [Crystal Language](crystallang_proj.md)	| 4,000,000		| Core language used to implement the 3bot and future SDK for ThreeFold |
-| [P2P Education](education_readme.md)	| 3,000,000		| World's first true peer-to-peer education system on top of TF Grid |
+| [P2P Education](planed.md)	| 3,000,000		| World's first true peer-to-peer education system on top of TF Grid |
 | [3bot Browser](3botbrowser.md)	 | 3,000,000		| Personal browser running close to our 3bot |
 | [3bot Files](3botfiles.md)	| 3,000,000		| Our personal cloud on the TF Grid |
 | [TF Grid Solutions](gridsolutions.md)	| 2,500,000		| Open source solutions ported to the grid |
@@ -56,4 +59,4 @@ There will be a maximum of 70m TFT tradable during that period.
 | [Social media / Collaboration](socialmedia_readme.md) | 2,000,000		| Combination of social media / productivity & collaboration tools |
 | [TF Grid User Interface](griduserinterface.md)	| 1,000,000		| Easy-to-use interface to provision IT workloads on the grid |
 | [Virtual Reality Museum](vrmuseum.md)	| 500,000		| Virtual reality museum online of 500.000 artworks as part of TF Grid |
-| [TimeBank](timebank_readme.md)	| 333,333		| World first global time token, on top of TF Grid, +200k users today |
+| [TimeBank](timebank.md)	| 333,333		| World first global time token, on top of TF Grid, +200k users today |
