@@ -1,6 +1,8 @@
 
 # Information For TF Advisory Board May 2020
 
+![](./img/tf_tde_intro.png)
+
 This info will not be replayed on the board, idea is to allow you to read more of what is going on.
 
 ## TFGrid launched

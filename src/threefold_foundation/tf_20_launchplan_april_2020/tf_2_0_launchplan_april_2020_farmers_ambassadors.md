@@ -1,5 +1,7 @@
 
-# TF Launch
+# TF Launch May 2020 Information
+
+![](./img/tf_tde_intro.png)
 
 ## TFGrid launched
 
