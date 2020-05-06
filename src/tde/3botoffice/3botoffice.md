@@ -1,38 +1,39 @@
-## Project: 3Bot Office
+# Project: 3Bot Office
 
 ![](3botdemo_slides.png)
 
 ### Purpose
 
-Deliver an online office environment which is 100% private to you.
-100% integrated with your 3bot.
+The purpose of 3Bot Office is to deliver an online office environment that is 100% integrated with your 3bot only 100% private to you. Millions of people are looking for a neutral office solution which is; neutral and allows you to own all your data, faster, simple to use, cost-effective, compatible to work everywhere, has advanced features like real time collaboration.
 
-Millions of people are looking for a neutral office solution which
+To enable this we integrated with [onlyoffice](https://www.onlyoffice.com/) for this, which is in our opinion the best made office solution that gets close the above cited criteria. Only Office is open-source (which we use today) but we also want to make a license deal with them to cater for support and allow even enterprises to use this on a larger scale. 
 
-- is neutral and allows you to own all your data
-- is faster
-- is easy to use
-- more cost effective
-- works everywhere
-- has advanced features like 
-    - real time collaboration
-
-We integrate with [onlyoffice](https://www.onlyoffice.com/) for this, which is in our opinion the best made office solution.
-Onlyoffice is opensource (which we use today) but we also want to make a license deal with them to cater for support and allow even enterprises to use this on a larger scale.
-
-### Status today
+### Status
 
 - We have a full blown first version active and ready to be launched.
 - We are now fundraising to make the next generations.
 
-### Is an experience running on top of the 3bot core.
+### Demo
+
+- If you want to see more about 3Bot, we invite you to check the [3botdemo](3botdemo.md)
+- If you need any more information you can contact us over chat on the Threefold website.
+
+### screenshots
+
+![](./img/docs.png)
+
+![](./img/spreadsheet.png)
+
+![](./img/slides.png)
+
+### 3Bot Office experience will be on 3bot
 
 See [3bot main page](3botproj).
 
 ### Team
 
-- [The Jimber Team](https://www.jimber.org/securityBroker.html) + various opensource developers.
-- lead developer: Hamdy
+- [The Jimber Team](https://www.jimber.org/securityBroker.html) and various open-source developers.
+- Lead developer: Hamdy
 
 ### Funding
 
@@ -49,14 +50,3 @@ See [3bot main page](3botproj).
 | V0.9.1 |  2020/07 | integrated with 3bot files | |
 | V1 |  2020/Q4 | production ready release which can be used by millions of people| |
 
-### Demo
-
-- see [3botdemo](3botdemo.md)
-
-### screenshots
-
-![](./img/docs.png)
-
-![](./img/spreadsheet.png)
-
-![](./img/slides.png)

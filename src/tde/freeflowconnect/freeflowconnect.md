@@ -1,20 +1,19 @@
-## Project: freeflow connect
+# Project: FreeFlow Connect
 
 ![](./img/3bot_connect.png)
 
 ### Purpose
 
-Provide private, independent, and peer-to-peer video conferencing. Other conference solutions use centralized infrastructure and software to connect people. This central infrastructure needs enormous connectivity and hardware to connect large numbers of people. The freeflow connect solution creates peer-to-peer connections.
+Provide private, independent, and peer-to-peer video conferencing. Other conference solutions use centralized infrastructure and software to connect people. This central infrastructure needs enormous connectivity and hardware to connect large numbers of people. FreeFlow Connect creates peer-to-peer connections.
 
-We believe that a video conferencing solution like freeflow connect has a lot of potential on top of the ThreeFold Grid. 
+We believe that a video conferencing solution like FreeFlow connect has a lot of potential on top of the ThreeFold Grid, mostly considering latest news about privacy issues on biggest solutions. Millions of people are looking for a neutral Video Conferencing solution which is:
 
-Millions of people are looking for a neutral Video Conferencing solution which
-
-- is neutral
-- is faster
-- is easy to use
+- neutral and allows you to own all your data
+- faster
+- offers high-quality imaging
+- simple and easy to use
 - more cost effective
-- works everywhere
+- works everywhere 
 
 ### Status today
 
@@ -22,7 +21,18 @@ Millions of people are looking for a neutral Video Conferencing solution which
 - We are now fundraising to make the next generations.
 - The freeflow connect is a huge project and has many technical challenges but we already got very far. [Jimber Team](https://www.jimber.org/securityBroker.html) is the driving force behind this project.
 
-### Is an experience running on top of the 3bot core.
+
+### Demo
+
+- If you want to see more about 3Bot, we invite you to check the https://freeflowconnect.threefold.me/
+- This is a demo that does not have all current features implemented, this demo dates from April 2020.
+- If you need any more information you can contact us over chat on the Threefold website.
+
+### Architecture
+
+![](3botconnect.png)
+
+### FreeFlow Connect experience will be on 3bot
 
 See [3bot main page](3botproj).
 
@@ -48,13 +58,3 @@ Create an independent and private peer-to-peer video conferencing solution. Usin
 | V1.1 |  2020/07 | better integration with 3bot |  
 | V1.2 |  2020/09 | crystal wall/room/books integration, so much more than just video conferencing | 
 | V2.0 |  2021/Q1 | use P2P overlay network working anywhere anytime |
-
-### Demo
-
-- See https://freeflowconnect.threefold.me/
-- If you need any contact us over chat on the threefold website
-- This is a demo does not have all current features implemented, this demo dates from April 2020.
-
-### Architecture
-
-![](3botconnect.png)
