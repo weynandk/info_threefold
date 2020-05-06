@@ -38,7 +38,7 @@ If you don't yet know how to view your wallet address in the 3Bot Connect app pl
 
 ![alt text](./img/transcoin_amounts.png)
 
-**Step 6: Choose Preffered Way Of Payment**
+**Step 6: Choose Prefered Way Of Payment**
 Choose which way you would like to pay for your order:
 MasterCard or Visa.
 
