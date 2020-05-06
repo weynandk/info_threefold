@@ -27,6 +27,9 @@ Millions of people are looking for a neutral file management solution which
 - We are now fundraising to make the next generations.
 - The 3bot files is a huge project and has many technical challenges but we already got very far. 
 
+### Is an experience running on top of the 3bot core.
+
+See [3bot main page](3botproj).
 
 ### Team
 
