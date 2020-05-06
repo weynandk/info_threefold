@@ -45,7 +45,7 @@ There will be a maximum of 70m TFT tradable during that period.
 
 | Project Name | TFT Available | Description |
 |:-------------|---------------:|:------------|
-| [TF Foundation](foundation_readme.md)	| 30,000,000		| Foundation funding (marketing, operations team, grid roll out, roadshows, ...) |
+| [TF Foundation](foundation_readme.md)	| 25,000,000		| Foundation funding (marketing, operations team, grid roll out, roadshows, ...) |
 | [3bot (Digital Twin)](3botproj.md)	| 10,000,000		| 80% of our digital life implemented on top of the 3bot |
 | [TF Grid enhancements](gridenhancements.md)	| 10,000,000		| Further improvements to the grid as sponsored by the TF Foundation |
 | [3bot Office](3botoffice.md)	 | 5,000,000		| 100% compatible office suite running on top of your 3bot |
