@@ -24,15 +24,7 @@ Please note that all tokens in the ThreeFold Grid are the result of farming. Als
 
 The rules of farming see [farming rules v1](farming_rules_v1.md) have been applied on the genesis pool. The value at that time 2017+ was almost 7m USD for the farmed capacity in the genesis pool. Ever since this value has increased substantially.
 
-## The Genesis Pool Dubai
-
-[photos genesis pool](structure/images_threefold_genisispool_dubai.html ':include :type=iframe width=100% height=550px frameBorder="0" scrolling="no" align="center"')
-
-## The Genesis Pool Lochristi (Ghent)
-
-[photos genesis pool](structure/images_threefold_genisispool_lochristi.html ':include :type=iframe width=100% height=550px frameBorder="0" scrolling="no" align="center"')
-
-Most of the servers are in Dubai and in Ghent Belgium.
+!!!include:genesis_pools.md
 
 ### What happened with the Genesis Pool Token
 
