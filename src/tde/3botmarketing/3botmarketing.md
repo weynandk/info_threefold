@@ -1,8 +1,6 @@
-## Project: 3Bot Marketing
+# Project: 3Bot Marketing
 
 ![](https://www.consciousinternet.org/threefold/info/projects/3bot/3bot.jpg)
-
-3bot's vision is to shape a conscious digital world together. A fair world where all individuals, across regions, have equal chances to learn, partake, and succeed. A world where freedom and liberalism are at the center. A world where we live sustainably and where we think circularly.
 
 ### Purpose
 
@@ -10,8 +8,15 @@ After Public Release v.1, 3bot will focus on bringing early adopters, developers
 
 ### Status today
 
-- 3bot technology is already nearly built out and several experiences are nearly ready to be delivered
-- See 3Bot project along with 3Bot Files, 3Bot Browser, 3Bot Office, and FreeFlow Connect
+3bot technology is almost ready and several experiences are ready to be delivered. The marketing team behind is working on the branding and strategies to build awareness properly around 3Bot.
+
+- If you need any more information you can contact us over chat on the Threefold website.
+
+### 3Bot Marketing will build awareness around 3Bot
+
+See [3bot main page](3botproj).
+
+See 3Bot projects: [3Bot Files](3botfiles), [3Bot Browser](3botbrowser), [3Bot Office](3botoffice.md), [Social Media](socialmedia_proj.md) and [FreeFlow Connect](freeflowconnect.md)
 
 ### Team
 
