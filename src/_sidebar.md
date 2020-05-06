@@ -52,6 +52,7 @@
   - [TF Whitepaper 1.0.4](tf_whitepaper_104.md)
 - [Launch Announcement](launch_announcements.md)
   - [Grid 2.0 Launch 29/04](threefold_grid_2_0.md)
+  - [Conscious Internet Alliance 05/05](conscious_internet_alliance.md)
 - [Community Calls & Events](community_calls.md)
   - [3bot Presentation 2020](video_3bot_presentation.md)
   - [ThreeFold Community Call March 2020](march_2020.md)
