@@ -3,7 +3,7 @@
 ## FYI: Farmer Tokenomics Info
 
 * [More Farmer Tokenomics Info](tokenomics.md)
-* Also see the [simulator section](tfgrid-simulator.md) in our SDK manual. This simulator allows you to play with the tokenomics changes yourself.
+* Also see the [simulator section](tfgrid_simulator.md) in our SDK manual. This simulator allows you to play with the tokenomics changes yourself.
 
 ## How do we migrate from TFT Rivine to TFT Stellar
 

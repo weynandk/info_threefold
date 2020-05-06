@@ -6,7 +6,7 @@
 
 **Reach Out Activities**
 
-see [marketingplan_Q2_2020](marketingplan_Q2_2020.md)
+see [marketingplan_Q2_2020](marketingplan_q2_2020.md)
 
 
 # TF Update at Launch Time
