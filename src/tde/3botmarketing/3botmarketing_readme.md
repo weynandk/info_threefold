@@ -6,12 +6,12 @@
 
 ### Purpose
 
-Generate more visibility for 3bot to ensure we 
+After Public Release v.1, 3bot will focus on bringing early adopters, developers and ecosystem partners into the 3bot ecosystem, with strong marketing campaigns and compelling media to rapidly grow the community and platform.
 
 ### Status today
 
-- 3bot technology is already built out and several experiences are nearly ready to be delivered
-- See 3Bot project along with 3Bot Files, 3Bot Browser, and FreeFlow Connect
+- 3bot technology is already nearly built out and several experiences are nearly ready to be delivered
+- See 3Bot project along with 3Bot Files, 3Bot Browser, 3Bot Office, and FreeFlow Connect
 
 ### Team
 
@@ -22,5 +22,3 @@ Generate more visibility for 3bot to ensure we
 ### Funding
 
 - Required funding to finish roadmap as described below: 2,000,000 TFT
-
-### Roadmap
