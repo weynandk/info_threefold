@@ -6,6 +6,7 @@ We believe that a video conferencing solution like FreeFlow connect has a lot of
 
 ### Purpose
 
+Provide private, independent, and peer-to-peer video conferencing. Other conference solutions use centralized infrastructure and software to connect people. Millions of people are looking for a neutral Video Conferencing solution which is:
 - neutral and allows you to own all your data
 - faster
 - offers high-quality imaging
