@@ -16,10 +16,18 @@ Beliive and ThreeFold recognize the power of equality to include and connect peo
 
 The world has 3 trillion idle hours per year and Beliive is using TIME as the common currency to promote reciprocal exchanges and financial inclusion.
 
+### Team
+
+- https://manas.tech/ 
+
+### Funding
+
+- Required funding to finish roadmap as described below: 333,000 TFT
+
 ## Roadmap
 
-Roadmap and investment plan for Beliive
-
-| Name         | Date   | Description | Funding |
-|:-------------|--------|-----------------|---------:|
-| API INTEGRATION |  2020/08 | API integration of users ID and balance of time credits | 500,000 TFT |
+| Version         | Date   | Description | Remark |
+|:-------------|--------|-------------|-----------------|
+| tbd |  2020/09 | API integration of users ID| |
+| tbd |  2020/09 | 3bot integration | |
+| tbd |  2020/09 | wallet integration | |

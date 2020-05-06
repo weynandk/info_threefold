@@ -53,6 +53,6 @@ There will be a maximum of 70m TFT tradable during that period.
 
 | [Social media / Collaboration](socialmedia_readme.md) | 2,000,000		| Combination of social media / productivity & collaboration tools |
 | [TF Grid User Interface](griduserinterface.md)	| 1,000,000		| Easy-to-use interface to provision IT workloads on the grid |
-| [Virtual Reality Museum](vrmuseum_readme.md)	| 500,000		| Virtual reality museum online of 500.000 artworks as part of TF Grid |
+| [Virtual Reality Museum](vrmuseum.md)	| 500,000		| Virtual reality museum online of 500.000 artworks as part of TF Grid |
 | [TimeBank](timebank_readme.md)	| 333,333		| World first global time token, on top of TF Grid, +200k users today |
 
