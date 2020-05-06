@@ -46,7 +46,8 @@ One of them is already confirmed and will be announced soon
 ### 2.4 Top Exchange Partner
 - We are launching on a big crypto exchange that will assist us by reaching out to their community with announcements in exceptional ways.
 - An exchange that had listed TFT before agreed to also assist us with marketing.
-- We are exploring a trading contest that increases liquidity of TFT-
+- We are exploring a trading contest that increases liquidity of TFT.
+
 ### 2.5 PR
 - We are supported by experienced experts with networks with journalists.
  This lead to three promising angles with crypto websites that would possibly publish an article about ThreeFold or its use-cases in the next weeks.
