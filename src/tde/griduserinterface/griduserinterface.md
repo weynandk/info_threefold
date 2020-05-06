@@ -1,4 +1,4 @@
-## Project: TF Grid User Interface
+# Project: TF Grid User Interface
 
 ![](./img/simplicity.png)
 

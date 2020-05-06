@@ -8,7 +8,7 @@ Every child deserves an education. For years we have been working to bring posit
 
 We want to raise a bar of education by having experts to teach the students and by initiating teacher training with help of technology. For years we have been working to bring positive and needed change to the education system and a peer-to-peer education system is another step forward. It opens up the possibilities for learning and positive solutions for our world.
 
-## Status Today
+### Status Today
 
 We at TAG have built a community of thousands of teachers globally which allows us to connect to children and teachers in refugee camps. Our platform allows to train teachers in refugee camps (67% of which haven't completed secondary education) and have interactions between refugee students and students globally changing their mindset and fighting polarization.
 

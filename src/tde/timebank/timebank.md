@@ -20,7 +20,7 @@ With 200,000 members to-date, Beliive is the world’s largest time bank. Beliiv
 
 - Funding to finish roadmap as described below: 333,333 TFT
 
-## Roadmap
+### Roadmap
 
 | Version         | Date   | Description | Remark |
 |:-------------|--------|-------------|-----------------|

@@ -1,4 +1,4 @@
-## Project: Grid Enhancements
+# Project: Grid Enhancements
 
 ![](cap2layer.png)
 
@@ -14,7 +14,7 @@ To do this we need to have a group of engineers can can deliver on this ever cha
 
 The feature request are open for anyone to add and input to. The feature request list for grid enhancements is managed in GitHub:
 
-![](github_feature_requests.png)
+![](./img/github_feature_requests.png)
 
 Please go [here](https://github.com/threefoldtech/home/issues?q=is%3Aopen+is%3Aissue+label%3Atype_feature) to see that list in action.
 

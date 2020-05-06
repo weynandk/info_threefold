@@ -28,10 +28,14 @@ By moving the TFT v1 to Stellar we get some additional benefits, the TFTA is tra
 
 The TFTA will automatically convert to the new TFT at end of this year and you can sell your TFTA as TFT by means of the [ThreeFold market making bot](threefold_marketmaker_bot.md) starting July.
 
+All TFTA are being transferred to Stellar on a 1-1 basis, no tokens created nor deleted, there can be some small time differences to make it practically possible e.g. 5m TFT was first created on Stellar to bootstrap which will not transfer from TFT Rivine.
+
 ## TFT
 
 The TFT is our generation 2 token which launches natively on Stellar and is available for trading starting May 2020.
 Only 73m TFT are available at launching price of USD 0.15.
+
+Each 2nd generation TFT is a converted TFTA. The first batch as used in the [token distribution event](tdeoverview.md) was converted first. In other words TFT is nothing more or less than a TFTA with a certain time difference. Technical info about migration can be found [here](tft_tfta_migration_process_technical.md).
 
 ## Overview Tokens May 2020
 

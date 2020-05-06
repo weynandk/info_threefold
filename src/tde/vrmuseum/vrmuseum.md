@@ -20,7 +20,7 @@ Artheon VR Museum to day has a database of 400,000+ artworks from across the glo
 
 - Funding to finish roadmap as described below: 500,000 TFT
 
-## Roadmap
+### Roadmap
 
 | Version         | Date   | Description | Remark |
 |:-------------|--------|-------------|-----------------|

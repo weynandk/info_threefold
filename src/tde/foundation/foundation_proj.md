@@ -1,4 +1,4 @@
-## Project: ThreeFold Foundation (Grid)
+# Project: ThreeFold Foundation (Grid)
 
 ![](foundation_globe.jpg)
 
