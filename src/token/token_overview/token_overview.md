@@ -9,7 +9,7 @@
 
 !!!include:token_overview_may
 
-```(*)``` TFT v1 token holders = ```TFTA`` holders can sell tokens through a [threefold marketmaker bot](threefold_marketmaker_bot.md) starting July 2020.
+`TFT v1 token holders = TFTA holders` can sell tokens through a [threefold marketmaker bot](threefold_marketmaker_bot.md) starting July 2020.
 
 ## Overview Tokens Distribution Event
 

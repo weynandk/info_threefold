@@ -1,5 +1,7 @@
 ## Project: 3Bot Browser
 
+![](https://www.consciousinternet.org/threefold/info/projects/3bot/3bot.jpg
+)
 ### Purpose
 3Bot browser is a browser that runs close to you digital avatar online. It presents you with the ability to have a browser on the TF Grid running anywhere you want and to securely stream the content back to you local browser.  
 

@@ -239,7 +239,7 @@ Some examples:
 
 ![alt_text](./img/yoga_dude.png)
 
-![alt_text](./img/all_about_you.png)
+![alt_text](allaboutyou.png)
 
 
 For the last couple of years blockchain was the synonym for decentralization. We believe this is not True, most blockchains are not decentralized at all. They are distributed systems but not decentralized.

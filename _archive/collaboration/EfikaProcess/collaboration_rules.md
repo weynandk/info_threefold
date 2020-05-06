@@ -58,8 +58,6 @@ see [efika_tools](../../efika_tools.md)
     - put the link to this group/channel on readme.md
     - only use it to announce changes, ask colaboration, news to do with project
 
-[see telegram doc](../Tools/telegram.md)
-
 - use milestones to organize work
     - milestone is put on a repo in e.g. gogs/github
     - its a date with well specified deliverables

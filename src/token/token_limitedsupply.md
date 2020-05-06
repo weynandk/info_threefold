@@ -6,8 +6,8 @@ While the ThreeFold Grid can expand infinitely as long as there is demand for ca
 Like every item, service or currency, TFT derives a part of its value from scarcity. Thus the scarcity adds value to TFT, which lets all TFT holders benefit. They are ensured that their asset can´t be reduced in value by inflation.
 
 ### Farmer Incentivization
-Let us first understand that [Farmers](src\grid\tf_farming\introduction.md) are incentivized by receiving TFT in two ways. 
-1. When [farming](src\grid\tf_farming\introduction.md), by adding new capacity to the ThreeFold Grid through connected hardware
+Let us first understand that [Farmers](farmer_progam.md) are incentivized by receiving TFT in two ways. 
+1. When [farming](farmer_progam.md), by adding new capacity to the ThreeFold Grid through connected hardware
 2. Developers and users pay farmers in TFT to rent their capacity
 
 ### Difficulty level

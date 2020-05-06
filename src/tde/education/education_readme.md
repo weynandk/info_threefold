@@ -1,4 +1,6 @@
-# Project: TAG2TAG
+# Project: PlanED (By TAG)
+
+![alt](https://www.consciousinternet.org/threefold/info/projects/planed/planed.jpeg)
 
  Every child deserves an education. We at [TAG](https://takeactionglobal.org) have built a community of thousands of teachers globally which allows us to connect to children and teachers in refugee camps. Our platform allows us to train teachers in these camps (67% of which haven't completed secondary education) and create interactions between refugee students and other students globally, changing their mindset and fighting polarization.
 

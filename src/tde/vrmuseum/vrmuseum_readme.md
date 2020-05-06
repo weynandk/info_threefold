@@ -1,5 +1,7 @@
 # Artheon VR Museum
 
+![](https://www.consciousinternet.org/threefold/info/projects/artheon/artheon.jpg)
+
 *The Artheon VR Museum* is and always will be a free educational platform offering immersive, next level interaction with objects of cultural heritage. Our vision is to provide one stop full spectrum art education platform to access, learn and share knowledge in art and culture from across the globe.
 
 ## Impact

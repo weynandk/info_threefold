@@ -12,10 +12,7 @@ So to break these two major obstacles ThreeFold tech has developed technology th
 
 ### What is a smart contract for IT?
 
-A smart contract for IT (SCIT) is a very different approach to create a general purpose IT architecture. The aim of the architecture of to break through the financial and operational barriers of creating inclusive and sustainable capacity generation.  
-
-The architecture is explained by the diagram below. For various parts of the architecture unique technology has been created and integrated.
-![](images/smart_contract_for_it.png)
+!!!include:smart_contract_for_it.md
 
 #### Smart contracting (1+2).
 

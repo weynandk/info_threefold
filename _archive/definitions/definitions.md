@@ -16,7 +16,6 @@
 [ThreeFold Operating System](../definitions/threefold_operating_system.md)
 [ThreeFold Node](../definitions/threefold_node.md)
 [ThreeFold User](../definitions/threefold_user.md)
-[ThreeFold Cloud Units](../definitions/threefold_cloud_units.md)
 [ThreeFold Wallet](../definitions/threefold_wallet.md)
 
 

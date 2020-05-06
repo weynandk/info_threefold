@@ -5,7 +5,7 @@
 - A little over 2 years ago (March 2018) our first-generation blockchain for the Threefold Token saw the daylight. 
     - The TFT v1 was launched on a blockchain called Rivine.
 - A little over a year ago (Q2 2019) we launched our generation 1 of our TF Grid. 
-- April 2020 we [launched our TFGrid v2.0](threefold_grid_2.0) which is now public and usable by the world.
+- April 2020 we [launched our TFGrid v2.0](threefold_grid_2_0.md) which is now public and usable by the world.
     - We have a new website, a new wiki (https://wiki.threefold.io)
     - a manual on how to use the TF Grid 2.0 (see https://sdk.threefold.io).
 
