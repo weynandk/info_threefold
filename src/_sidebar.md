@@ -31,6 +31,7 @@
   - [PLanEd](planed.md)
   - [freeflow connect](freeflowconnect.md)
   - [grid solutions](gridsolutions.md)
+  - [grid v2.x](gridenhancements.md)
   - [fancy userinterface](griduserinterface.md)
   - [timebank](timebank.md)
   - [vrmuseum](vrmuseum.md)  
