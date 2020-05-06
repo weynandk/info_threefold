@@ -8,6 +8,6 @@ There are two types of ThreeFold Farmers
 - Certified Farmer: Buys certified hardware and signs a contract with ThreeFold Tech for support.
 - Do It Yourself (DIY) Farmer: Uses any hardware and in case of support uses online material only.
 
-![](./img/circular_tft.png)
+![](circular_tft.png)
 
 Note that the ThreeFold Foundation's sole purposes is to ensure the expansion of the ThreeFold Grid and its ecosystem according to it's vision and values. To fund these activites, a part of each transaction that pays TFTs for cultivation is going to the ThreeFold Foundation to finance the ThreeFold Grid's expansion and to fund projects that are believed to bring a positive human or planet impact.

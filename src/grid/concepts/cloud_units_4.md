@@ -2,7 +2,7 @@
 
 In this table you find all you need to know to how we calculate cloud units on the ThreeFold Grid.
 
-![](img/cloud_unitsv4.png)
+![](./img/cloud_unitsv4.png)
 
 
 ### Some Examples of CU and SU in Detail
