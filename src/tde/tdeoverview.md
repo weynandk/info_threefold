@@ -45,7 +45,7 @@ There will be a maximum of 70m TFT tradable during that period.
 
 | Project Name | TFT Available | Description |
 |:-------------|---------------:|:------------|
-| [TF Foundation](foundation_readme.md)	| 25,000,000		| Foundation funding (marketing, operations team, grid roll out, roadshows, ...) |
+| [TF Foundation](foundation_proj.md)	| 25,000,000		| Foundation funding (marketing, operations team, grid roll out, roadshows, ...) |
 | [3bot (Digital Twin)](3botproj.md)	| 10,000,000		| 80% of our digital life implemented on top of the 3bot |
 | [TF Grid enhancements](gridenhancements.md)	| 10,000,000		| Further improvements to the grid as sponsored by the TF Foundation |
 | [3bot Office](3botoffice.md)	 | 5,000,000		| 100% compatible office suite running on top of your 3bot |
@@ -56,7 +56,7 @@ There will be a maximum of 70m TFT tradable during that period.
 | [TF Grid Solutions](gridsolutions.md)	| 2,500,000		| Open source solutions ported to the grid |
 | [FreeFlow connect](freeflowconnect.md) 	| 2,000,000		| Peer-to-peer video conferencing |
 | [3bot Marketing / Prod mgmt](3botmarketing.md)	| 2,000,000		| Bring the 3bot alive as a digital twin |
-| [Social media / Collaboration](socialmedia_readme.md) | 2,000,000		| Combination of social media / productivity & collaboration tools |
+| [Social Media / Collaboration](socialmedia_proj.md) | 2,000,000		| Combination of social media / productivity & collaboration tools |
 | [TF Grid User Interface](griduserinterface.md)	| 1,000,000		| Easy-to-use interface to provision IT workloads on the grid |
 | [Virtual Reality Museum](vrmuseum.md)	| 500,000		| Virtual reality museum online of 500.000 artworks as part of TF Grid |
 | [TimeBank](timebank.md)	| 333,333		| World first global time token, on top of TF Grid, +200k users today |
