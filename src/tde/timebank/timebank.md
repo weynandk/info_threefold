@@ -1,33 +1,27 @@
-## Project: Beliive (TimeBank)
+# Project: Beliive (TimeBank)
 
 ![](https://www.consciousinternet.org/threefold/info/projects/beliive/beliive.jpg)
 
-Beliive is a community where people can exchange experiences and services using time as the only currency. With 200,000 members to-date, Beliive is the world's largest time bank. Our vision is to be a movement that rethinks and rebuilds the value of money, the value of time, and the way we collaborate with each other. When the money economy is failing at giving us a way to exchange our value independently of the circumstances, Beliive decided to create a complementary economy based on an abundant resource available to everyone equally – time.
+Beliive is a community where people can exchange experiences and services using time as the only currency. When the money economy is failing at giving us a way to exchange our value independently of the circumstances, Beliive decided to create a complimentary economy based on an abundant resource available to everyone equally – time.
 
-## Impact
+### Purpose
 
-We aim towards a global impact providing platform where low-income and unemployed people can exchannge their time (hours) of volunteering for knowledge and skills. Beliive already has an open API and a web widget that can integrate their time banking technology with different platforms and systems. Soon their time credits will use blockchain technology.
+Our vision is to be a movement that rethinks and rebuilds the value of money, the value of time, and the way we collaborate with each other. We aim to provide a platform where low-income and unemployed people can exchange their time (hours) of volunteering for knowledge and skills.
 
-## Powered by ThreeFold
+### Status Today
 
-Beliive and ThreeFold recognize the power of equality to include and connect people to their unlimited abundance. We are peer-to-peer systems that are here to support the awakening of humanity to its own potential. Beliive is going to connect users' wallets and identities with ThreeFold. Using their time exchange balance and reputation, users can transfer time credits and use their reviews as an additional way to showcase their skills and experiences.
-
-## Join saving our planet!
-
-The world has 3 trillion idle hours per year and Beliive is using TIME as the common currency to promote reciprocal exchanges and financial inclusion.
+With 200,000 members to-date, Beliive is the world’s largest time bank. Beliive already has an open API and a web widget that can integrate our time banking technology with different platforms and systems. Soon our time credits will use blockchain technology.
 
 ### Team
 
-- https://manas.tech/ 
+- Lorrana Scarpioni
 
 ### Funding
 
-- Required funding to finish roadmap as described below: 333,000 TFT
+- Funding to finish roadmap as described below: 333,333 TFT
 
 ## Roadmap
 
 | Version         | Date   | Description | Remark |
 |:-------------|--------|-------------|-----------------|
-| tbd |  2020/09 | API integration of users ID| |
-| tbd |  2020/09 | 3bot integration | |
-| tbd |  2020/09 | wallet integration | |
+| API Integration |  2020/09 | Integration on TF Grid, 3Bot and wallet. API integration of users ID and balance of time credits. | |

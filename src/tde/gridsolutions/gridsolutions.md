@@ -9,15 +9,14 @@ These are beautiful projects we want to get them to work on our grid in a seamle
 
 ### Requirements
 
-- [ ] wizard driven install
-- [ ] wizard driven repair & maintenance (check health, repair a situation)
-- [ ] 100% privacy, single tenant, the deployed solution is yours
-- [ ] automatic payment for the resources used on TFGrid
-- [ ] easy configuraton done, make it all simple
-- [ ] integration with the webgateway, means you can quickly be up and running
-- [ ] private networks, connect multiple of these solutions together
-- [ ] monitoring integration, feed monitoring info to your chosen monitoring server (garafana/prometeus)
-
+- Wizard driven install
+- Wizard driven repair & maintenance (check health, repair a situation)
+- 100% privacy, single tenant, the deployed solution is yours
+- Automatic payment for the resources used on TFGrid
+- Easy configuration done, make it all simple
+- Integration with the web gateway, means you can quickly be up and running
+- Private networks, connect multiple of these solutions together
+- Monitoring integration, feed monitoring info to your chosen monitoring server (garafana/prometheus)
 
 ### Funding
 
@@ -47,7 +46,7 @@ These are beautiful projects we want to get them to work on our grid in a seamle
 
 Feature requests are welcome.
 
-### projects
+### Projects
 
 #### wordpress
 
@@ -79,7 +78,6 @@ Powerfull crm/erp/project management system.
 
 ![](./img/synchting.png)
 
-
 #### ghost
 
 ![](./img/ghost.png)
@@ -96,6 +94,6 @@ Powerfull crm/erp/project management system.
 
 ![](https://www.viafirma.com/blog-xnoccio/wp-content/uploads/sites/3/2017/12/MongoDB.jpeg)
 
-#### grafana & prometeus
+#### Grafana & Prometheus
 
 ![](https://miro.medium.com/max/3694/1*KimwgjULRZzONpjGFH1sTA.png)
