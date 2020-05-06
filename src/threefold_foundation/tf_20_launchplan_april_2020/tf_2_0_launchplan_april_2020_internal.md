@@ -5,7 +5,7 @@
 
 - see [threefold_grid_2_0](threefold_grid_2_0.md)
 
-!!!include:TF_update_at_launchtime
+!!!include:tf_update_at_launchtime
 
 ## overview of our token launch v2.0
 
@@ -41,6 +41,6 @@ TF Foundation is talking with quite some TFT potential investors who were waitin
 
 !!!include:threefold_foundation
 
-!!!include:TF_values_are_not_marketing
+!!!include:tf_values_are_not_marketing
 
 !!!include:tf_recent_info_may_2020
