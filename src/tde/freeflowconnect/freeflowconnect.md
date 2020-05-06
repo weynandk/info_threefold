@@ -12,7 +12,7 @@ Provide private, independent, and peer-to-peer video conferencing. Other confere
 - offers high-quality imaging
 - simple and easy to use
 - more cost effective
-- works everywhere 
+- able to work everywhere 
 
 ### Status today
 

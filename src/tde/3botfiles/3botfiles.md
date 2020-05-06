@@ -11,7 +11,7 @@ The vision is to create an independent and private file storage facility to safe
 - faster
 - simple and easy to use
 - more cost effective
-- works everywhere 
+- able to work everywhere 
 - equipped of advanced features like video/audio streaming
 - able to seamlessly integrate with other website and documents.
 

@@ -11,7 +11,7 @@ The purpose of 3Bot Office is to deliver an online office environment that is 10
 - allows you to own all your data
 - faster, simple to use
 - cost-effective
-- compatible to work everywhere
+- able to work everywhere
 - has advanced features like real time collaboration
 
 ### Status
