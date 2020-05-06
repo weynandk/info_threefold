@@ -42,13 +42,13 @@ There will be a maximum of 70m TFT tradable during that period.
 |:-------------|---------------:|:------------|
 | [TF Foundation](foundation_readme.md)	| 30,000,000		| Foundation funding (marketing, operations team, grid roll out, roadshows, ...) |
 | [3bot (Digital Twin)](3botproj.md)	| 10,000,000		| 80% of our digital life implemented on top of the 3bot |
-|[TF Grid enhancements](gridenhancements_readme.md)	| 10,000,000		| Further improvements to the grid as sponsored by the TF Foundation |
+| [TF Grid enhancements](gridenhancements_readme.md)	| 10,000,000		| Further improvements to the grid as sponsored by the TF Foundation |
 | [Crystal Language](crystallang_readme.md)	| 5,000,000		| Core language used to implement the 3bot and future SDK for ThreeFold |
 | [P2P Education](education_readme.md)	| 3,000,000		| World's first true peer-to-peer education system on top of TF Grid |
 | [3bot Files](3botfiles.md)	| 3,000,000		| Our personal cloud on the TF Grid |
 | [TF Grid Solutions](gridsolutions_readme.md)	| 2,500,000		| Open source solutions ported to the grid |
-| [freeflow connect](3botconnect.md) 	| 2,000,000		| Peer-to-peer video conferencing |
-|[3bot Marketing / Prod mgmt](3botmarketing_readme.md)	| 2,000,000		| Bring the 3bot alive as a digital twin |
+| [freeflow connect](freeflowconnect.md) 	| 2,000,000		| Peer-to-peer video conferencing |
+| [3bot Marketing / Prod mgmt](3botmarketing_readme.md)	| 2,000,000		| Bring the 3bot alive as a digital twin |
 | [3bot Browser](3botbrowser_readme.md)	 | 2,000,000		| Personal browser running close to our 3bot |
 | [Social media / Collaboration](socialmedia_readme.md) | 2,000,000		| Combination of social media / productivity & collaboration tools |
 | [TF Grid User Interface](griduserinterface_readme.md)	| 1,000,000		| Easy-to-use interface to provision IT workloads on the grid |
