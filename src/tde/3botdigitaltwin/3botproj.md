@@ -36,3 +36,8 @@ There are multiple teams identified to work on the 3bot, one is [The Jimber Team
 
 ![](./img/3bot_website.png)
 
+
+### Demo
+
+- see [3botdemo](3botdemo.md)
+

@@ -13,9 +13,9 @@
 
 ## Overview Tokens Distribution Event
 
-!!!include:token_overview_tde
+We are organizing a Token Distribution Event on Stellar and 2 public digital currency exchanges, to benefit projects (listed below) which have as purposes to provide value to the ThreeFold movement and to do good for our planet. 
 
-> Important note: TFT’s are not an investment instrument.
+!!!include:token_overview_tde
 
 ## TFTA vs TFT
 
