@@ -6,6 +6,8 @@ Most social media platform are owned and operated by centralized companies. This
 
 ThreeFold believes in social media but only if approached in a different way.  While centralized platform like Facebook, Instagram and Linkedin store user data on their behalf and therefore gain access to that data - why not build a platform that enables users to store their data and allow them to decide with whom to share their data with. In the end the same results, a social platform where people interact and exchange experiences but where people remain ultimately in control over what happens to their data.
 
+### Purpose
+
 - To create a true private and independent social media platform by people for people.
 - We will not just copy Facebook, a design has been made which is more intuitive and new way how to interact with our social network.
 - This application will be a combination of multiple ideas: Linkedin, Facebook, Slack, ... and would be very exciting for all of us.

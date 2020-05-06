@@ -2,11 +2,9 @@
 
 ![](./img/3bot_connect.png)
 
+We believe that a video conferencing solution like FreeFlow connect has a lot of potential on top of the ThreeFold Grid, mostly considering latest news about privacy issues on biggest solutions. This central infrastructure needs enormous connectivity and hardware to connect large numbers of people. FreeFlow Connect creates peer-to-peer connections.
+
 ### Purpose
-
-Provide private, independent, and peer-to-peer video conferencing. Other conference solutions use centralized infrastructure and software to connect people. This central infrastructure needs enormous connectivity and hardware to connect large numbers of people. FreeFlow Connect creates peer-to-peer connections.
-
-We believe that a video conferencing solution like FreeFlow connect has a lot of potential on top of the ThreeFold Grid, mostly considering latest news about privacy issues on biggest solutions. Millions of people are looking for a neutral Video Conferencing solution which is:
 
 - neutral and allows you to own all your data
 - faster

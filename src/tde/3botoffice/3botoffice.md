@@ -2,11 +2,17 @@
 
 ![](3botdemo_slides.png)
 
+To enable 3Bot Office, we integrated with [onlyoffice](https://www.onlyoffice.com/) for this, which is in our opinion the best made office solution that gets close the above cited criteria. Only Office is open-source (which we use today) but we also want to make a license deal with them to cater for support and allow even enterprises to use this on a larger scale. 
+
 ### Purpose
 
-The purpose of 3Bot Office is to deliver an online office environment that is 100% integrated with your 3bot only 100% private to you. Millions of people are looking for a neutral office solution which is; neutral and allows you to own all your data, faster, simple to use, cost-effective, compatible to work everywhere, has advanced features like real time collaboration.
-
-To enable this we integrated with [onlyoffice](https://www.onlyoffice.com/) for this, which is in our opinion the best made office solution that gets close the above cited criteria. Only Office is open-source (which we use today) but we also want to make a license deal with them to cater for support and allow even enterprises to use this on a larger scale. 
+The purpose of 3Bot Office is to deliver an online office environment that is 100% integrated with your 3bot only 100% private to you. Millions of people are looking for a neutral office solution which is:
+- neutral 
+- allows you to own all your data
+- faster, simple to use
+- cost-effective
+- compatible to work everywhere
+- has advanced features like real time collaboration
 
 ### Status
 

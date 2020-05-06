@@ -3,13 +3,13 @@
 ![](https://www.consciousinternet.org/threefold/info/projects/3bot/3bot.jpg
 )
 
+3bot's vision is to shape a conscious digital world where all individuals, across regions, have equal chances to learn, partake, and succeed, in the best environment possible. A digital world where freedom and liberalism are at the center, and where we live sustainably and think circularly. The priority is to ensure the best environment possible for humanity to interact and all living species of this plant. The circular economies will be created to use resources consciously and to have true value at the center. Future economies will be digital and promote sustainability.
+
 ### Purpose
 
 While 3bot may seem like a technological solution, its roots and goals are strongly humanitarian. Every person who signs up for 3bot makes a significant impact. The P2P infrastructure is up to 10x more efficient and sustainable and ensures data privacy and security is preserved. The internet cost is less than half a dollar a month per user, greatly increasing access to under-served communities. Additionally, the 3bot ecosystem is creating a number of P2P experiences (new approach to applications) and solutions such as videoconferencing, file storage and social networking that will impact both the effectiveness and security of online interactions.
 
-3bot's vision is to shape a conscious digital world where all individuals, across regions, have equal chances to learn, partake, and succeed, in the best environment possible. A digital world where freedom and liberalism are at the center, and where we live sustainably and think circularly. The priority is to ensure the best environment possible for humanity to interact and all living species of this plant. The circular economies will be created to use resources consciously and to have true value at the center. Future economies will be digital and promote sustainability.
-
-### Status
+### Status today
 
 A first website has been created at [https://3bot.org/](https://3bot.org/) to showcase the idea, an updated version is being created as we speak, the new website will launch 20 May.
 
@@ -46,3 +46,7 @@ There are multiple teams identified to work on the 3bot development, the main on
 
 - If you want to see more about 3Bot, we invite you to check the [3bot demo](3botdemo.md).
 - If you need any more information you can contact us over chat on the Threefold website.
+
+### First Website
+
+![](./img/3bot_website.png)
