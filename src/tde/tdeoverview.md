@@ -55,7 +55,7 @@ There will be a maximum of 70m TFT tradable during that period.
 | [3bot Files](3botfiles.md)	| 3,000,000		| Our personal cloud on the TF Grid |
 | [TF Grid Solutions](gridsolutions.md)	| 2,500,000		| Open source solutions ported to the grid |
 | [FreeFlow connect](freeflowconnect.md) 	| 2,000,000		| Peer-to-peer video conferencing |
-| [3bot Marketing / Prod mgmt](3botmarketing_readme.md)	| 2,000,000		| Bring the 3bot alive as a digital twin |
+| [3bot Marketing / Prod mgmt](3botmarketing.md)	| 2,000,000		| Bring the 3bot alive as a digital twin |
 | [Social media / Collaboration](socialmedia_readme.md) | 2,000,000		| Combination of social media / productivity & collaboration tools |
 | [TF Grid User Interface](griduserinterface.md)	| 1,000,000		| Easy-to-use interface to provision IT workloads on the grid |
 | [Virtual Reality Museum](vrmuseum.md)	| 500,000		| Virtual reality museum online of 500.000 artworks as part of TF Grid |

@@ -9,7 +9,7 @@
 | [3bot Files](3botfiles.md)	| 3,000,000		| TFT_3F |
 | [TF Grid Solutions](gridsolutions.md)	| 2,500,000		| TFT_GS |
 | [freeflow connect](3botconnect.md) 	| 2,000,000		| TFT_3C |
-|[3bot Marketing / Prod mgmt](3botmarketing_readme.md)	| 2,000,000		| TFT_3M |
+|[3bot Marketing / Prod mgmt](3botmarketing.md)	| 2,000,000		| TFT_3M |
 | [3bot Browser](3botbrowser.md)	 | 2,000,000		| TFT_3B |
 | [Social media / Collaboration](socialmedia_readme.md) | 2,000,000		| TFT_SM |
 | [TF Grid User Interface](griduserinterface.md)	| 1,000,000		| TFT_UI |
