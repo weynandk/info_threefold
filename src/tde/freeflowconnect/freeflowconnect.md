@@ -19,18 +19,7 @@ We believe that a video conferencing solution like FreeFlow connect has a lot of
 
 - We have a full blown first version active and ready to be launched.
 - We are now fundraising to make the next generations.
-- The freeflow connect is a huge project and has many technical challenges but we already got very far. [Jimber Team](https://www.jimber.org/securityBroker.html) is the driving force behind this project.
-
-
-### Demo
-
-- If you want to see more about 3Bot, we invite you to check the https://freeflowconnect.threefold.me/
-- This is a demo that does not have all current features implemented, this demo dates from April 2020.
-- If you need any more information you can contact us over chat on the Threefold website.
-
-### Architecture
-
-![](3botconnect.png)
+- The FreeFlow connect is a huge project and has many technical challenges but we already got very far. [Jimber Team](https://www.jimber.org/securityBroker.html) is the driving force behind this project.
 
 ### FreeFlow Connect experience will be on 3bot
 
@@ -46,9 +35,9 @@ Create an independent and private peer-to-peer video conferencing solution. Usin
 
 ### Funding
 
-- Required funding to finish roadmap as described below: 2,000,000 TFT
+- Required funding to finish road map as described below: 2,000,000 TFT
 
-### Roadmap
+### Road map
 
 | Name         | Date   | Description | Remark |
 |:-------------|--------|-------------|-----------------|
@@ -58,3 +47,13 @@ Create an independent and private peer-to-peer video conferencing solution. Usin
 | V1.1 |  2020/07 | better integration with 3bot |  
 | V1.2 |  2020/09 | crystal wall/room/books integration, so much more than just video conferencing | 
 | V2.0 |  2021/Q1 | use P2P overlay network working anywhere anytime |
+
+### Demo
+
+- If you want to see more about 3Bot, we invite you to check the https://freeflowconnect.threefold.me/
+- This is a demo that does not have all current features implemented, this demo dates from April 2020.
+- If you need any more information you can contact us over chat on the Threefold website.
+
+### Architecture
+
+![](3botconnect.png)
