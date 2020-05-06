@@ -1,12 +1,12 @@
 
 ![](./img/token_internet.png)
 
-## Information
+# Overview
 
-- [Why](token_why.md)
-- [What](token_what.md)
-- [Value](token_grid_valuation.md)
-- [Liquidity](token_liquidity.md)
+- [Why](token_why.md) -  Learn about why ThreeFold needs its own currency.
+- [What](token_what.md) - The role of TFT in our ecosystem.
+- [Value](token_grid_valuation.md) - About our market and its potential.
+- [Liquidity](token_liquidity.md) - 
 - [How To Buy](how_to_buy_and_sell.md)
    - [With Credit Card](tft_mazraa.md)
    - [With Bitcoin](tft_with_btc.md)

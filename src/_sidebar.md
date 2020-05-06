@@ -12,6 +12,7 @@
   - [Why a token?](token_why.md)
   - [What is TFT?](token_what.md)
   - [Features](token_features.md)
+  - [Liquidity](token_liquidity.md)
   - [Valuation](token_grid_valuation.md)
   - [Limited Supply](token_limitedsupply.md)
   - [How To Buy and Sell](how_to_buy_and_sell.md)

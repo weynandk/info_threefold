@@ -31,7 +31,6 @@ The TF Grid is a peer-to-peer Internet grid, that provides more efficient soluti
 
 Considering the current global market growth, let's say the TF Grid achieves a 10% share of the current public cloud market. This would equal 500 billion USD by 2025 and translate to a 50 billion USD demand to utilize the capacity of the TF Grid through TFT as the medium of exchange for capacity. Our simulations shows that this capacity requires about 75 million [3nodes](farmer_progam.md) to be deployed on the TF Grid globally. 
 
-For a conservative approach, our following calculations are based on achieving only a 1% market share. This still leads to an expected demand of 5 billion USD worth of capacity and thus about 7,5 million [3Nodes](farmer_progam.md).
 
 ## The evaluation of all TFTs
 
@@ -45,7 +44,7 @@ Considering that global demand of 50 billion USD would meet a limited supply of 
 
 Disclaimer: Please note that we can´t and won´t make price predictions on TFT evaluation and that all calculations made here are purely hypothetical.
 
-In the case that ThreeFold would only achieve a 1% market share, this still would lead to an expected demand of 5 billion USD worth of capacity, about 7,5 million [3nodes] and 1,25 USD in underlying value of copacity for each TFT. 
+In the case that ThreeFold would only achieve a 1% market share, this still would lead to an expected demand of 5 billion USD worth of capacity, about 7,5 million [3nodes] and 1,25 USD in underlying value of capacity for each TFT. 
 
 
 ### Sustainable growth vs Hype
