@@ -1,6 +1,6 @@
 ## Project: ThreeFold Foundation (Grid)
 
-![](../img/foundation_globe.jpg)
+![](foundation_globe.jpg)
 
 ThreeFold's main focus is the TF Grid - an infrastructure empowering a new and democratized digital economy based on our values of equality of access, data sovereignty, and environmental sustainability. Today we are live with more than 40,000,000 GB of capacity and 15,000 CPU cores across 20+ countries. We aim to enable +1 billion people with access to the fundamental internet infrastructure and their full digital lives (education, banking and internet access) for less then 1$ per person per month by 2030.
 

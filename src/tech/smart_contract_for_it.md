@@ -1,7 +1,7 @@
 # Self-Driving “IT” by means of an “IT” smart contract
 
 
-![alt_text](./img/smart_contract.png)
+![alt_text](smart_contract.png)
 
 Autonomous self-driving IT is possible when we adhere to a few principles from the start:
 
@@ -16,7 +16,7 @@ A system that enforces these two principles if the TF Technology stack.  It work
 
 
 
-![alt_text](./img/smart_contract_2.png)
+![alt_text](smart_contract_2.png)
 
 **STEP 1: IT Experts create smart contracts:**
 

@@ -3,7 +3,7 @@
 ## ThreeFold Wiki pages and websites
 Here you find an overview of our most important web resources besides our wikis.
 
-![lgo](./img/large_tfn_3.png)
+![lgo](large_tfn_3.png)
 
 ## ThreeFold Foundation Website
 

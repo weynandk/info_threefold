@@ -1,4 +1,4 @@
-![](./img/tech_header.jpg)
+![](tech_header.jpg)
 # Technology
 ## Here you will find all you need to know about the technology and the company behind the creation of the technology
 

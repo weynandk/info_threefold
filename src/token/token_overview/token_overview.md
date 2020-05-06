@@ -3,6 +3,8 @@
 - Max amount of tokens = 4 billion.
 - Today 800m Tokens have been farmed (mined) from which **only 73 million are tradable.**
 
+> Important note: TFT’s are not an investment instrument.
+
 ## Overview Tokens May 2020
 
 !!!include:token_overview_may
@@ -12,6 +14,8 @@
 ## Overview Tokens Distribution Event
 
 !!!include:token_overview_tde
+
+> Important note: TFT’s are not an investment instrument.
 
 ## TFTA vs TFT
 

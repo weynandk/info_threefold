@@ -1,6 +1,6 @@
 # The Three Fold Farmer
 
-![](./img/farmer.png)
+![](farmer.png)
 
 The ThreeFold Grid's Capacity Layer is formed by ThreeFold farmers - individuals or businesses who connect server or storage hardware called 3 Nodes to the ThreeFold Grid. These 3Nodes generate compute and storage capacity and mint ThreeFold Token for the farmer as a reward. Once the farmer's capacity on the ThreeFold Grid gets reserved by a capacity user he gets ThreeFold Token. This is called capacity cultivation income.
 

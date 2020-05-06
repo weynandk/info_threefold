@@ -17,7 +17,7 @@ See roadmap below
 
 ### Team
 
-[The Jimber Team](https://www.jimber.org/securityBroker.html)
+[The Jimber Team](https://www.jimber.org/contact.html)
 
 ### Roadmap
 
