@@ -10,7 +10,7 @@ After Public Release v.1, 3bot will focus on bringing early adopters, developers
 
 3bot technology is almost ready and several experiences are ready to be delivered. The marketing team behind is working on the branding and strategies to build awareness properly around 3Bot.
 
-- If you need any more information you can contact us over chat on the Threefold website.
+- If you need any more information you can contact us over chat on the Threefold [website](threefold.io).
 
 ### 3Bot Marketing will build awareness around 3Bot
 
